@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 23,
-  "translucency": true,
+  "baseFontSize": 24,
+  "translucency": false,
   "cssTheme": "Clair de Lune"
 }
