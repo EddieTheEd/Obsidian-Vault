@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Class 24.md",
+                "file": "002_Zettelkasten/Electron Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Class 24.md",
+                "file": "002_Zettelkasten/Electron Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,12 +295,12 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "3fbe7754164c2175",
+  "active": "05ec4650016065a8",
   "lastOpenFiles": [
+    "002_Zettelkasten/Electron Configuration.md",
     "002_Zettelkasten/Class 24.md",
     "002_Zettelkasten/Class 15.md",
     "002_Zettelkasten/Class 9.md",
-    "002_Zettelkasten/Electron Configuration.md",
     "002_Zettelkasten/Chemistry Test 2 Objectives.md",
     "002_Zettelkasten/Class 14.md",
     "002_Zettelkasten/Class 13.md",
