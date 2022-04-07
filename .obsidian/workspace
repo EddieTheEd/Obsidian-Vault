@@ -264,6 +264,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "314d062e002ab917",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "002_Zettelkasten/Class 24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
