@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "3cd08a5f892d6503",
+    "type": "split",
+    "children": [
+      {
+        "id": "1def4b7382f0f5fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 24.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "63d0db3b7c762133",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Chemistry Yr 11.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1a6e839617002a97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Chemistry Test 2 Objectives.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "05ec4650016065a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Electron Configuration.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3fbe7754164c2175",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 24.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "98ecce5b2ed08226",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 15.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "45aa3255b2fbbbfc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 14.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d9edf16bf2fa544f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3510b5645c3a2eea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 12.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cf6934a4d2c3ffc0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 11.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "baf0fbdb9fb1da0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 10.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "eb09ae6e07e47f7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "144e2048d09c8322",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/English Podcast Draft 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "836a4323ec16153f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/English Podcast Draft 2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48d87fe75f740cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d48b995aa0c4bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09c0abe4395a1a33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c582dbd0b4d8c457",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#chemclass",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b7da6206a99b99e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 127
+  },
+  "right": {
+    "id": "ea8decc1ffb8d3db",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cac248ef4d63719",
+        "type": "tabs",
+        "dimension": 44.64285714285714,
+        "children": [
+          {
+            "id": "5bdd98534654bb48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a8953d819704e8f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f88f9f753a5de229",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "194ffe1b31dc1032",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d1aff972a8830c8",
+        "type": "tabs",
+        "dimension": 55.35714285714286,
+        "children": [
+          {
+            "id": "a1dfe86ffa1822bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002_Zettelkasten/Class 24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 180.48313903808594
+  },
+  "active": "3fbe7754164c2175",
+  "lastOpenFiles": [
+    "002_Zettelkasten/Class 24.md",
+    "002_Zettelkasten/Class 15.md",
+    "002_Zettelkasten/Class 9.md",
+    "002_Zettelkasten/Electron Configuration.md",
+    "002_Zettelkasten/Chemistry Test 2 Objectives.md",
+    "002_Zettelkasten/Class 14.md",
+    "002_Zettelkasten/Class 13.md",
+    "002_Zettelkasten/Class 12.md",
+    "002_Zettelkasten/Class 11.md",
+    "002_Zettelkasten/Class 10.md"
+  ]
+}

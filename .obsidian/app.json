@@ -1,0 +1,37 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "002_Zettelkasten",
+  "attachmentFolderPath": "Files",
+  "communityThemeSortOrder": "download",
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Latzio",
+    "Latzio",
+    "lucareli",
+    "Delocalised",
+    "delocalised",
+    "delocalised",
+    "ecopolitics",
+    "Dutton",
+    "Hải",
+    "Minh"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-AU"
+  ],
+  "tabSize": 4,
+  "communityPluginSortOrder": "download"
+}

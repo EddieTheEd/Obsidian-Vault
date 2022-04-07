@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Hippocampus",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#chemclass",
+      "color": {
+        "a": 1,
+        "rgb": 3140617
+      }
+    },
+    {
+      "query": "tag:#idea",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "tag:#chemtopic",
+      "color": {
+        "a": 1,
+        "rgb": 929921
+      }
+    },
+    {
+      "query": "tag:#subject",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#chemclassnotes",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.83105413105413,
+  "lineSizeMultiplier": 0.42463768115942,
+  "collapse-forces": true,
+  "centerStrength": 0.498575498575499,
+  "repelStrength": 14.5299145299145,
+  "linkStrength": 0.458689458689459,
+  "linkDistance": 200,
+  "scale": 0.10734449865601345,
+  "close": true
+}
