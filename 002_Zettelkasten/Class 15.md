@@ -26,7 +26,7 @@ Larger atoms mean that valence electrons can be lost more easily, as they are fu
 
 **Valency**:
 
-* Valency is the **combining power** of an atom and is equal to the number of hydrogen atoms it could combine with or displace from a compound. (Hydrogen has a valency of 1)
+* *Valency is the **combining power** of an atom and is equal to the number of hydrogen atoms it could combine with or displace from a compound. (Hydrogen has a valency of 1)*
 * **Valency and number of valence electrons are not the same thing**
 * e.g. Nitrogen:
 	* Nitrogen has a valency of 3, thus to achieve stability via gaining the electron configuration of nearest noble gas, it must lose 3 electrons. 
