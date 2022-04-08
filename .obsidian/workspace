@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Class 15.md",
+                "file": "002_Zettelkasten/English Podcast Draft 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Class 15.md",
+                "file": "002_Zettelkasten/English Podcast Draft 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,8 +294,9 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "98ecce5b2ed08226",
+  "active": "144e2048d09c8322",
   "lastOpenFiles": [
+    "002_Zettelkasten/English Podcast Draft 1.md",
     "002_Zettelkasten/Class 15.md",
     "README.md",
     "002_Zettelkasten/1.3 Writing Chemical Equations Worksheet.md",
@@ -304,7 +305,6 @@
     "002_Zettelkasten/History of the Atomic Model Notes.md",
     "002_Zettelkasten/Chemistry Yr 11.md",
     "002_Zettelkasten/Electron Configuration.md",
-    "002_Zettelkasten/Class 24.md",
-    "002_Zettelkasten/Class 14.md"
+    "002_Zettelkasten/Class 24.md"
   ]
 }
