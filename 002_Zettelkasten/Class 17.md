@@ -39,7 +39,7 @@ Tags: [[Metallic Bonding]][[Ionic Bonding]]
 	* Note - all metals are solid except mercury
 * Melting point means you have particles that are closer together that are separated into a looser arrangements where particles are further apart. i.e. Solid -> liquid.
 
-* **Any type of bonding is electrostatic force of attraction**
+* **Any type of bonding is electrostatic force of attraction (for this section,)**
 
 * e.g. in Metallic bonding, there is a **stronger** electrostatic attraction between cations of metal and the sea of delocalised electrons **in a network**, if the metal has a higher melting point.
 * When describing melting point, **write about heat energy required**.
@@ -81,6 +81,10 @@ It takes more energy to separate ions of metal if you have a higher melting poin
 * There is a transfer of electrons from metal atoms to non-metal atoms to form anions and cations with stable electronic configurations.
 * p-block elements gain one or more electrons to form stable anions (negatively charged ions).
 * There is a transfer of electrons from metal atoms to non-metal atoms to form anions and cations with stable electronic configurations.
+
+yea ms pilling is the kind of teacher to teach an entire chem topic in a single lesson
+
+Note: **Most metals are found on the left side. As discussed previously in the Periodicity section, elements on the left have a lower ionisation(first + others) energy. This is essential as there must be little energy required to ionise metal atoms to produce cations and a sea of delocalised electrons**
 
 
 ---

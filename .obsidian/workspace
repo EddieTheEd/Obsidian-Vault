@@ -45,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Zettelkasten/Chem Class Notes.md",
+            "file": "002_Zettelkasten/Class 17.md",
             "mode": "source",
             "source": false
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Chem Class Notes.md",
+                "file": "002_Zettelkasten/Class 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Chem Class Notes.md",
+                "file": "002_Zettelkasten/Class 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,15 +211,15 @@
   },
   "active": "487d41b87e617f88",
   "lastOpenFiles": [
+    "002_Zettelkasten/Class 17.md",
     "002_Zettelkasten/Chem Class Notes.md",
+    "002_Zettelkasten/Class 16.md",
+    "002_Zettelkasten/Class 15.md",
+    "002_Zettelkasten/Class 14.md",
     "002_Zettelkasten/Class 13.md",
     "002_Zettelkasten/Class 12.md",
     "002_Zettelkasten/Class 11.md",
     "002_Zettelkasten/Class 10.md",
-    "002_Zettelkasten/Class 8.md",
-    "002_Zettelkasten/Class 9.md",
-    "002_Zettelkasten/Class 7.md",
-    "002_Zettelkasten/Atomic Structure - Development of the Atomic Model.md",
-    "002_Zettelkasten/Chemistry Test 2 Objectives.md"
+    "002_Zettelkasten/Class 8.md"
   ]
 }
