@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "79857cf09aa675d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Chemistry Test 2 Objectives.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "2080ddc2733b7035",
         "type": "leaf",
         "state": {
@@ -33,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Zettelkasten/Class 7.md",
+            "file": "002_Zettelkasten/Chem Class Notes.md",
             "mode": "source",
             "source": false
           }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Class 7.md",
+                "file": "002_Zettelkasten/Chem Class Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Class 7.md",
+                "file": "002_Zettelkasten/Chem Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,15 +211,15 @@
   },
   "active": "487d41b87e617f88",
   "lastOpenFiles": [
-    "002_Zettelkasten/Class 7.md",
     "002_Zettelkasten/Chem Class Notes.md",
-    "002_Zettelkasten/Class 6.md",
-    "002_Zettelkasten/Class 5.md",
-    "002_Zettelkasten/Class 4.md",
-    "002_Zettelkasten/Class 3.md",
-    "002_Zettelkasten/Class 2.md",
-    "002_Zettelkasten/Class 1.md",
-    "002_Zettelkasten/Electron Configuration.md",
-    "002_Zettelkasten/Metallic Bonding.md"
+    "002_Zettelkasten/Class 13.md",
+    "002_Zettelkasten/Class 12.md",
+    "002_Zettelkasten/Class 11.md",
+    "002_Zettelkasten/Class 10.md",
+    "002_Zettelkasten/Class 8.md",
+    "002_Zettelkasten/Class 9.md",
+    "002_Zettelkasten/Class 7.md",
+    "002_Zettelkasten/Atomic Structure - Development of the Atomic Model.md",
+    "002_Zettelkasten/Chemistry Test 2 Objectives.md"
   ]
 }

@@ -3,7 +3,7 @@
 
 Status: #chemclass
 
-Tags:[[Atomic Structure - Development of the Atomic Model]]
+Tags:[[Atomic Structure - Development of the Atomic Model]][[Properties of matter]]
 
 
 # Class 7

@@ -3,7 +3,7 @@
 
 Status: #chemclass
 
-Tags: [[Electron Configuration]][[Atomic Structure - Development of the Atomic Model]]
+Tags: [[Electron Configuration]][[Atomic Structure - Development of the Atomic Model]][[Separation Techniques]]
 
 
 # Class 10
