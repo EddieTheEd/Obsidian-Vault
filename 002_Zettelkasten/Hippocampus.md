@@ -13,18 +13,16 @@
 * [[Methods Yr 10]]
 * [[Chem Yr 10]]
 * [[Chinese Yr 10]]
+* [[English Yr 11]]
 
 
+**Projects:**
 
-**Useful Thoughts**:
+* [[Notes.exe]]
+
+
+**Useful Things**:
 
 * [[Markdown Resources]]
 
 
-[[English Creative  Assessment 1st Draft]]
-[[English Creative Assessment 2nd Draft]]
-
-[[English Short Speech]]
-[[English Podcast Transcript Brainstorm]]
-
-[[Notes.exe]]
