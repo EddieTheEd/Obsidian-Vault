@@ -3,7 +3,7 @@
 
 Status: #chemclass
 
-Tags: [[Ionic Bonding]][[The Periodic Table]][[Properties of matter]]
+Tags: [[Ionic Bonding]][[The Periodic Table]][[Properties of matter]][[Intermolecular Forces]]
 
 
 # Class 18

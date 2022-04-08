@@ -39,7 +39,7 @@ Tags: [[Metallic Bonding]][[Ionic Bonding]]
 	* Note - all metals are solid except mercury
 * Melting point means you have particles that are closer together that are separated into a looser arrangements where particles are further apart. i.e. Solid -> liquid.
 
-* **Any type of bonding is electrostatic force of attraction (for this section,)**
+* **Any type of bonding is electrostatic force of attraction (for this section, wait till you get to intermolecular forces L)**
 
 * e.g. in Metallic bonding, there is a **stronger** electrostatic attraction between cations of metal and the sea of delocalised electrons **in a network**, if the metal has a higher melting point.
 * When describing melting point, **write about heat energy required**.
