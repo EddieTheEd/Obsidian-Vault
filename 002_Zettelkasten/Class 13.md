@@ -94,7 +94,7 @@ Because nitrogen has a smaller atom, and when nitrogen gains electrons, the nucl
 * The 'f' subshells holds a maximum of 10 electrons
 
 https://byjus.com/chemistry/aufbau-principle/
-[[Aufbau Principle.png]]
+![[Aufbau Principle.png]]
 
 e.g. Hydrogen in spdf notation:
 
