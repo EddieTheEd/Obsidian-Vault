@@ -27,7 +27,7 @@ Dalton proposed: “compounds are formed when atoms of more than one element com
 **The law of conservation of mass:**
     
  Dalton proposed: “atoms are not created nor destroyed or changed into different types; a chemical reaction involves separation, combination or rearrangement of atoms.” Thus, there must be the same amount of atoms in the reactants of a chemical reaction as the atoms in the product.
-    
+
 **The law of multiple proportions:**
     
 Dalton proposed: “Whenever two elements form more than one compound, the different masses of one element that combines with a fixed mass of the other element is always a whole number ratio.” 95% sure this is wrong
