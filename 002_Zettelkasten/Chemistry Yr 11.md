@@ -21,4 +21,5 @@ Topics:
 [[Properties of matter]]
 [[Intermolecular Forces]]
 [[Atomic Structure - Development of the Atomic Model]]
+[[Electron Configuration]]
 

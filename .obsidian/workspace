@@ -16,133 +16,24 @@
         }
       },
       {
-        "id": "63d0db3b7c762133",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Chemistry Yr 11.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1a6e839617002a97",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Chemistry Test 2 Objectives.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "05ec4650016065a8",
+        "id": "2080ddc2733b7035",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "002_Zettelkasten/Electron Configuration.md",
             "mode": "source",
-            "backlinks": false,
             "source": false
           }
         }
       },
       {
-        "id": "1d884462f43708df",
+        "id": "4f0c23ace04d2098",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Zettelkasten/Class 24.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "98ecce5b2ed08226",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 15.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "45aa3255b2fbbbfc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 14.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d9edf16bf2fa544f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 13.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3510b5645c3a2eea",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 12.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "baf0fbdb9fb1da0a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 10.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "eb09ae6e07e47f7e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 9.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "836a4323ec16153f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/English Podcast Draft 2.md",
+            "file": "002_Zettelkasten/Metallic Bonding.md",
             "mode": "source",
             "source": false
           }
@@ -246,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Hippocampus.md",
+                "file": "002_Zettelkasten/Metallic Bonding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,13 +156,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Hippocampus.md",
+                "file": "002_Zettelkasten/Metallic Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -282,17 +173,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "1def4b7382f0f5fa",
+  "active": "4f0c23ace04d2098",
   "lastOpenFiles": [
+    "002_Zettelkasten/Metallic Bonding.md",
+    "002_Zettelkasten/Electron Configuration.md",
+    "002_Zettelkasten/Chemistry Yr 11.md",
     "002_Zettelkasten/Hippocampus.md",
+    "002_Zettelkasten/English Podcast Draft 2.md",
     "002_Zettelkasten/Notes.exe.md",
     "002_Zettelkasten/Chemistry Stoichiometry Notes.md",
     "002_Zettelkasten/English Yr 11.md",
     "002_Zettelkasten/Chinese Yr 10.md",
-    "002_Zettelkasten/Sadler 1 Notes.md",
-    "002_Zettelkasten/Class 24.md",
-    "002_Zettelkasten/Chemistry Yr 11.md",
-    "002_Zettelkasten/Chemistry Test 2 Objectives.md",
-    "002_Zettelkasten/Electron Configuration.md"
+    "002_Zettelkasten/Sadler 1 Notes.md"
   ]
 }
