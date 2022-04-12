@@ -16,18 +16,6 @@
         }
       },
       {
-        "id": "8e79357ae0860af9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 14.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "434980cbbc9d5763",
         "type": "leaf",
         "state": {
@@ -185,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Class 14.md",
+                "file": "002_Zettelkasten/Electron Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Class 14.md",
+                "file": "002_Zettelkasten/Electron Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,10 +209,10 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "8e79357ae0860af9",
+  "active": "be902d9070b67c22",
   "lastOpenFiles": [
-    "002_Zettelkasten/Class 14.md",
     "002_Zettelkasten/Electron Configuration.md",
+    "002_Zettelkasten/Class 14.md",
     "002_Zettelkasten/Class 13.md",
     "002_Zettelkasten/Class 9.md",
     "002_Zettelkasten/Class 10.md",

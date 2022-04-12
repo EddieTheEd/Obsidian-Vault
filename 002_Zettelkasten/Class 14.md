@@ -3,7 +3,7 @@
 
 Status: #chemclass
 
-Tags: [[Electron Configuration]][[The Periodic Table]]
+Tags: [[Electron Configuration]][[The Periodic Table]][[Covalent Bonding]][[Intermolecular Forces]]
 
 
 # Class 14

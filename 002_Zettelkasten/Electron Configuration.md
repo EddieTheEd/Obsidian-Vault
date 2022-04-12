@@ -32,9 +32,9 @@ This is because, **certain subshells dont have (sorta) consistent levels of ener
 
 ![[Aufbau Principle.png]]
 
-E.g. Titanium: $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{2}4s^{2}$
+E.g. Titanium: $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}4s^{2}3d^{2}$
 
-Here, the **3d** subshell has a lower energy than l
+Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we write it first.
 
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
