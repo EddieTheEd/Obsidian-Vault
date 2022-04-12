@@ -54,7 +54,7 @@ What is charge of nitride
 
 Nitrogen has an electron configuration of $2,5$. Therefore, if it wants to reach stability via its nearest noble gas (Neon), which has an electron configuration of $2,5$, it must gain 3 electrons, becoming negative.
 
-$N_{2}+ 6 \bar e \rightarrow 2N^{-3}$ - this is the **reduction reaction** for nitrogen.
+$N_{2}+ 6 \bar e \rightarrow 2N^{-3}$ - this is the **reduction reaction** for nitrogen. redox be like
 
 The actual electron description formula (?) is:
 

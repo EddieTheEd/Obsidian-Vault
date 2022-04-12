@@ -12,7 +12,7 @@ Tags: [[Chemistry Yr 11]]
 * The second shell can hold 8 electrons.
 * The third shell **usually** holds 8 electrons, however it has space for 10 more.
 * The formula $2n^2$ describes the **total possible electrons in an electron shell**.
-	* Here, n represents the **principal quantum number**, or the **energ**
+	* Here, n represents the **principal quantum number**, or the **energy level notation**.
 
 **Valency:**
 * The **combining power** of an atom, is equal to **the number of hydrogen atoms** it could combine/displace.

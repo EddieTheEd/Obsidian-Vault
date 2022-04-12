@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Electron Configuration.md",
+                "file": "002_Zettelkasten/Class 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Electron Configuration.md",
+                "file": "002_Zettelkasten/Class 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,11 +209,11 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "be902d9070b67c22",
+  "active": "434980cbbc9d5763",
   "lastOpenFiles": [
+    "002_Zettelkasten/Class 13.md",
     "002_Zettelkasten/Electron Configuration.md",
     "002_Zettelkasten/Class 14.md",
-    "002_Zettelkasten/Class 13.md",
     "002_Zettelkasten/Class 9.md",
     "002_Zettelkasten/Class 10.md",
     "002_Zettelkasten/Class 11.md",
