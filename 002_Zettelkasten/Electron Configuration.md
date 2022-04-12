@@ -13,7 +13,13 @@ Tags: [[Chemistry Yr 11]]
 	* e.g. Nitrogen: Valency of 3(-), but has a number of Valence electrons of 5.
 * **Principal quantum shells** – the shells of an atom. 
 	* e.g. Sodium's principal quantum shells are 2, 8, 1.
-* **Nuclear attraction:** Effective nuclear attraction is derived by substraction
+* **Nuclear attraction:** Effective nuclear attraction is derived by substracting the number of inner (core) electrons (which 'shield' the valence electrons) from the nuclear charge of an atom (how many protons in an atoms nucleus)
+
+**Electronegativity:** a higher density of atoms? ==research this==
+
+
+**'-'block elements:**
+* To be an 'x'-block element, the **outer subshell** must be an 'x' shell (x being s, p, d or f)
 
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
