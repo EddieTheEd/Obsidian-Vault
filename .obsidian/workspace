@@ -14,6 +14,90 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "85bc4050ff53faa9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 15.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8e79357ae0860af9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 14.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "434980cbbc9d5763",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a79380048603406d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 12.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "dc452665ba71c0e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 11.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "60c5f0c78d79c5e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 10.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "af5a2776ea2079d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -152,14 +236,14 @@
   "active": "be902d9070b67c22",
   "lastOpenFiles": [
     "002_Zettelkasten/Electron Configuration.md",
-    "002_Zettelkasten/Chemistry Yr 11.md",
-    "002_Zettelkasten/Atomic Structure - Development of the Atomic Model.md",
-    "002_Zettelkasten/The Periodic Table.md",
-    "002_Zettelkasten/Chemistry Test 2.md",
-    "002_Zettelkasten/Chinese Yr 10.md",
-    "002_Zettelkasten/Chem Class Notes.md",
-    "002_Zettelkasten/History of the Atomic Model Notes.md",
-    "002_Zettelkasten/Metallic Bonding.md",
-    "002_Zettelkasten/Hippocampus.md"
+    "002_Zettelkasten/Class 9.md",
+    "002_Zettelkasten/Class 10.md",
+    "002_Zettelkasten/Class 11.md",
+    "002_Zettelkasten/Class 12.md",
+    "002_Zettelkasten/Class 13.md",
+    "002_Zettelkasten/Class 14.md",
+    "002_Zettelkasten/Class 15.md",
+    "002_Zettelkasten/Class 24.md",
+    "002_Zettelkasten/Chemistry Yr 11.md"
   ]
 }
