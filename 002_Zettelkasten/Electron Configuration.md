@@ -20,6 +20,13 @@ Tags: [[Chemistry Yr 11]]
 
 **'-'block elements:**
 * To be an 'x'-block element, the **outer subshell** must be an 'x' shell (x being s, p, d or f)
+* E.g. Argon's electronic configuration (using spdf notation) is:
+	* $1s^22s^22p^6$
+* Here, the last subshell is a p subshell. Thus, Argon is a **p-block element**.
+
+![[Pasted image 20220412202739.png]]
+
+**Recall:** Aufbau's principle!!!! There is not a linear motion to 
 
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
