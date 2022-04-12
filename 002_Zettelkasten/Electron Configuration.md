@@ -14,6 +14,25 @@ Tags: [[Chemistry Yr 11]]
 * The formula $2n^2$ describes the **total possible electrons in an electron shell**.
 	* Here, n represents the **principal quantum number**, or the **energy level notation**.
 
+**Subshells - Electronic Configuration:**
+* Electrons are arranged in energy levels or shells
+* Energy of shells increases as distance from nucleus increases.
+* n is the principle quantum number which shows energy
+* The maximum number of each shell is $2n^2$
+
+* Shells are divided into **sub-shells**.
+* n = 1 has a single s subshell
+* n = 2 has s **and** p subshells
+* n = 3 has s, p and d subshells
+* The subshells are:
+	* **s, p, d, f**
+
+
+* The 's' subshells holds a maximum of 2 electrons.
+* The 'p' subshells holds a maximum of 6 electrons.
+* The 'd' subshells holds a maximum of 10 electrons.
+* The 'f' subshells holds a maximum of 10 electrons
+
 **Valency:**
 * The **combining power** of an atom, is equal to **the number of hydrogen atoms** it could combine/displace.
 * **Valency vs Valence electrons**

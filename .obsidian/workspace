@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Zettelkasten/Electron Configuration.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "434980cbbc9d5763",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 13.md",
+            "file": "002_Zettelkasten/300 Hour Stream Moment.md",
             "mode": "source",
             "source": false
           }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Class 13.md",
+                "file": "002_Zettelkasten/300 Hour Stream Moment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Class 13.md",
+                "file": "002_Zettelkasten/300 Hour Stream Moment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,17 +197,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "434980cbbc9d5763",
+  "active": "be902d9070b67c22",
   "lastOpenFiles": [
-    "002_Zettelkasten/Class 13.md",
+    "002_Zettelkasten/300 Hour Stream Moment.md",
     "002_Zettelkasten/Electron Configuration.md",
+    "002_Zettelkasten/Class 13.md",
     "002_Zettelkasten/Class 14.md",
     "002_Zettelkasten/Class 9.md",
     "002_Zettelkasten/Class 10.md",
     "002_Zettelkasten/Class 11.md",
     "002_Zettelkasten/Class 12.md",
     "002_Zettelkasten/Class 15.md",
-    "002_Zettelkasten/Class 24.md",
-    "002_Zettelkasten/Chemistry Yr 11.md"
+    "002_Zettelkasten/Class 24.md"
   ]
 }
