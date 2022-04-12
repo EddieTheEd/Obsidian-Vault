@@ -38,6 +38,8 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 
 **Isoelectronic species** - chemical species that have the same number of electrons/ same electronic structure/ same electronic configuration
 
+* In general, this applies when atoms have the same electron configuration, but varying atomic mass (e.g. S-2 and Ar)
+
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
 * **research similarities / differences of flame test to AAS**
