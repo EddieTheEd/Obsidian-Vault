@@ -6,6 +6,14 @@ Tags: [[Chemistry Yr 11]]
 # Electron Configuration:
 
 
+**Generic Electron Configuration**:
+* This is the basic electron configuration that you are taught in Yr 8
+* Essentially, the first shell of an atom can hold 2 electrons.
+* The second shell can hold 8 electrons.
+* The third shell **usually** holds 8 electrons, however it has space for 10 more.
+* The formula $2n^2$ describes the **total possible electrons in an electron shell**.
+	* Here, n represents the **principal quantum number**, or the **energ**
+
 **Valency:**
 * The **combining power** of an atom, is equal to **the number of hydrogen atoms** it could combine/displace.
 * **Valency vs Valence electrons**
