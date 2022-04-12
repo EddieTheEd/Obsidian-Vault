@@ -13,13 +13,16 @@ Topics:
 [[Chromatography]]
 [[Introduction to Bonding]]
 [[Separation Techniques]]
-[[Essential Chemistry Skills]]
+
 [[Metallic Bonding]]
 [[Ionic Bonding]]
 [[Covalent Bonding]]
 [[Stoichiometry]]
-[[Properties of matter]]
+
 [[Intermolecular Forces]]
-[[Atomic Structure - Development of the Atomic Model]]
+
 [[Electron Configuration]]
 
+[[Essential Chemistry Skills]]
+[[Properties of matter]]
+[[Atomic Structure - Development of the Atomic Model]]
