@@ -36,6 +36,8 @@ E.g. Titanium: $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}4s^{2}3d^{2}$
 
 Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we write it first.
 
+**Isoelectronic species** - chemical species that have the same number of electrons/ same electronic structure/ same electronic configuration
+
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
 * **research similarities / differences of flame test to AAS**
