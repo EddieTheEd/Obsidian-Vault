@@ -6,23 +6,16 @@ Status: #subject
 * [[Chemistry Test 2]]
 
 Topics:
-[[Solubility]]
-[[Nanomaterials]]
-[[The Periodic Table]]
-[[Intermolecular Forces]]
-[[Chromatography]]
-[[Introduction to Bonding]]
-[[Separation Techniques]]
-
-[[Metallic Bonding]]
-[[Ionic Bonding]]
-[[Covalent Bonding]]
-[[Stoichiometry]]
-
-[[Intermolecular Forces]]
-
-[[Electron Configuration]]
-
 [[Essential Chemistry Skills]]
 [[Properties of matter]]
+[[Separation Techniques]]
+[[Nanomaterials]]
 [[Atomic Structure - Development of the Atomic Model]]
+[[Electron Configuration]]
+[[The Periodic Table]]
+[[Introduction to Bonding]]
+[[Ionic Bonding]]
+[[Metallic Bonding]]
+[[Covalent Bonding]]
+[[Intermolecular Forces]]
+[[Stoichiometry]]
