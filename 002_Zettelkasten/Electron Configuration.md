@@ -26,7 +26,7 @@ Tags: [[Chemistry Yr 11]]
 
 ![[Pasted image 20220412202739.png]]
 
-**Recall:** Aufbau's principle!!!! There is not a linear direction to 
+**Recall:** Aufbau's principle!!!! There is not a linear direction to c
 
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
