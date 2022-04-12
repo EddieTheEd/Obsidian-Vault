@@ -34,7 +34,7 @@ This is because, **certain subshells dont have (sorta) consistent levels of ener
 
 E.g. Titanium: $1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{2}4s^{2}$
 
-Here, the **3d** subshell has a lower energy than 
+Here, the **3d** subshell has a lower energy than l
 
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
