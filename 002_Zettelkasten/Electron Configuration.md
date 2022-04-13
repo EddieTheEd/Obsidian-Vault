@@ -89,7 +89,10 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
 	* We use this to identify **concentration** in a mixture.
 
-**Very minor details about absopr**
+**Very minor details about absorption/emissions spectrum:**
+* Any photons produced by an excited electron dropping back from n = 2 to n = 1 **are not visible**.
+* In general, the visible spectrum is based of the **Balmer series**.
+![[400px-Hydrogen_transitions.svg 1.png]]
 
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
