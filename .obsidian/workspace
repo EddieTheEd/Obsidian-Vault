@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Zettelkasten/Electron Configuration.md",
+            "file": "002_Zettelkasten/Chemistry Test 2 Objectives.md",
             "mode": "source",
             "source": false
           }
@@ -22,18 +22,6 @@
           "type": "markdown",
           "state": {
             "file": "002_Zettelkasten/Electron Configuration.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "dc452665ba71c0e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Zettelkasten/Class 11.md",
             "mode": "source",
             "source": false
           }
@@ -188,9 +176,10 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "a79380048603406d",
+  "active": "56b6399cd497c10e",
   "lastOpenFiles": [
     "002_Zettelkasten/Electron Configuration.md",
+    "002_Zettelkasten/Chemistry Test 2 Objectives.md",
     "002_Zettelkasten/Class 9.md",
     "002_Zettelkasten/Atomic Structure - Development of the Atomic Model.md",
     "002_Zettelkasten/Class 12.md",
@@ -198,7 +187,6 @@
     "README.md",
     "002_Zettelkasten/300 Hour Stream Moment.md",
     "002_Zettelkasten/Class 13.md",
-    "002_Zettelkasten/Class 14.md",
-    "002_Zettelkasten/Class 10.md"
+    "002_Zettelkasten/Class 14.md"
   ]
 }

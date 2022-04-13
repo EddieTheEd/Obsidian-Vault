@@ -67,9 +67,15 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 
 * In general, this applies when atoms have the same electron configuration, but varying atomic mass (e.g. S-2 and Ar)
 
+**Absorption and Emissions Spectrum:**
+* Absorption and emissions spectrum (of the same species) will **always superimpose exactly**.
+* **Every elements spectrum is unique!**
+	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
+	* We use this to identify **concentration** in a mixture.
+
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
-* **research similarities / differences of flame test to AAS**
+* ==**research similarities / differences of flame test to AAS**==
 
 ## Related Class Notes:
 * [[Class 9]]
