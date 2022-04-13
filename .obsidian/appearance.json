@@ -1,8 +1,6 @@
 {
   "baseFontSize": 24,
   "translucency": false,
-  "cssTheme": "Notation",
-  "enabledCssSnippets": [
-    "obsidian"
-  ]
+  "cssTheme": "Primary",
+  "enabledCssSnippets": []
 }
