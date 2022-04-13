@@ -1,4 +1,14 @@
 {
   "blue-topaz-theme@@translucent-setting-panel": false,
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz"
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
+  "obsidian-prism-theme@@titlebar-style": "pt-windows-titlebar",
+  "obsidian-prism-theme@@pt-titlebar-hide-nav-buttons": true,
+  "obsidian-prism-theme@@pt-titlebar-hide-text": false,
+  "obsidian-prism-theme@@pt-status-bar-position": "pt-status-bar-position-top",
+  "obsidian-prism-theme@@pt-status-bar-align": "pt-status-bar-align-right",
+  "obsidian-prism-theme@@pt-status-bar-order": "pt-status-bar-rtl",
+  "obsidian-prism-theme@@pt-solid-status-bar-dt": false,
+  "obsidian-prism-theme@@scroll-bar-size": 7,
+  "obsidian-prism-theme@@pt-scroll-button": false,
+  "obsidian-prism-theme@@pt-scroll-hover": false
 }
