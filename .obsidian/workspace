@@ -109,28 +109,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 127
+    "width": 140.50816345214844
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
     "type": "split",
     "children": [
       {
-        "id": "7cac248ef4d63719",
+        "id": "26d96d30da489d24",
         "type": "tabs",
-        "dimension": 16.77852348993288,
         "children": [
-          {
-            "id": "f88f9f753a5de229",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
           {
             "id": "314d062e002ab917",
             "type": "leaf",
@@ -140,6 +128,40 @@
                 "file": "002_Zettelkasten/Class 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1dfe86ffa1822bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002_Zettelkasten/Class 9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7cac248ef4d63719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88f9f753a5de229",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -160,31 +182,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "3d1aff972a8830c8",
-        "type": "tabs",
-        "dimension": 83.22147651006712,
-        "children": [
-          {
-            "id": "a1dfe86ffa1822bc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "002_Zettelkasten/Class 9.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
