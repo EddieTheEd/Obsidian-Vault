@@ -74,13 +74,14 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 	* In comparison, an emissions spectrum represents **wavelengths of photons being emitted**
 * The lines we see in absorption/emission spectrums are called **spectra**.
 * This occurs as electrons absorb energy to be excited to higher energy levels.
+	* *Note: A spectrum of light is not the only way for electrons to be excited. They can be excited through **heat** or **electrical discharge**
 * Here, electrons only choose photons with a specific frequency to excite them, and when they drop back to the ground state, they release photons.
 	* Note that all energy levels of an atom have **specific, discrete** energy quantities.
 * Here, the energy of the photons is equal to: **the difference between the two energy levels** that an electron falls from.
 * This means multiple photons can be produces from a single electron being excited.
 	* e.g. Lets say that an electron is excited from the ground state to n = 3. There are **2** ways this electron can fall down, and **3** possible photons that can be produced. 
 		* From n = 3, straight to n = 1 (ground state). This will produce a single photon, with the energy of the difference in energy between n = 3 and n = 1.
-		* From n = 3, to n = 2, then n = 1. This produces 2 photons, each varying in energy (dif. between n = 3 and 2, and another with dif. between n = 2 and 1)
+		* From n = 3, to n = 2, then n = 1. This produces 2 photons, each varying in energy (diff. between n = 3 and 2, and another with diff. between n = 2 and 1)
 * What do the 2 spectrums look like?
 	* **Absorption spectrum:** Black lines on coloured background.
 	* **Emissions spectrum:** Coloured lines on black background.
@@ -90,7 +91,8 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 	* We use this to identify **concentration** in a mixture.
 * Why is light absorbed by electrons?
 	* Einstein proposed that **light behaved as a wave.**
-	* In his theory, the **energy** of a photon would be related to the **frequency** of the photon's（electr） wave
+	* In his theory, the **energy** of a photon would be related to the **frequency** of the photon's (electromagnetic) wave.
+		* Presently, we known that this relation is derived from the **Planck constant**
 	* 
 
 **Very minor details about absorption/emissions spectrum:**
