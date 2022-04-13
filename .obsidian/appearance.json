@@ -2,5 +2,7 @@
   "baseFontSize": 24,
   "translucency": false,
   "cssTheme": "Notation",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }
