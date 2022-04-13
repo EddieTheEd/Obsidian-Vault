@@ -88,13 +88,15 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 * **Every elements spectrum is unique!**
 	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
 	* We use this to identify **concentration** in a mixture.
+* Why is light absorbed by electrons?
+	* Einstein proposed that **light behaved as a wave**
 
 **Very minor details about absorption/emissions spectrum:**
 * Any photons produced by an excited electron dropping back from n = 2 to n = 1 **are not visible**.
 * In general, the visible light spectrum for a hydrogen atom is called the **Balmer series**.
 * The Balmer series does not describe any other atoms, but the principle is the same. ==asking pranav==
 ![[400px-Hydrogen_transitions.svg 1.png]]
-
+ssss
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
 * ==**research similarities / differences of flame test to AAS**==

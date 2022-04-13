@@ -68,5 +68,15 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-git:commit-push-specified-message": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }
