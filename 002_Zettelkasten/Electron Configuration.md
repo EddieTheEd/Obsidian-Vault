@@ -70,7 +70,10 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 **Absorption and Emissions Spectrum:**
 * Bohr's model describes the existence of **absorption/emissions spectra**.
 	* *From the idea that electrons occupy energy levels, and can be excited to higher energy levels
-* An absorption spectra represents **different wavelengths of photons being absorb**
+* An absorption spectrum represents **different wavelengths of photons being absorbed**.
+	* In comparison, an emissions spectrum represents **wavelengths of photons being emitted**
+* This occurs as electrons absorb energy to be excited to higher energy levels.
+* Here, electrons only choose photons with a specific frequency to excite them, and when they
 * Absorption and emissions spectrum (of the same species) will **always superimpose exactly**.
 * **Every elements spectrum is unique!**
 	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
