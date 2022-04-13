@@ -68,6 +68,9 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 * In general, this applies when atoms have the same electron configuration, but varying atomic mass (e.g. S-2 and Ar)
 
 **Absorption and Emissions Spectrum:**
+* Bohr's model describes the existence of **absorption/emissions spectra**.
+	* *From the idea that electrons occupy energy levels, and can be excited to higher energy levels
+* An absorption spectra represents **different wavelengths of photons being absorb**
 * Absorption and emissions spectrum (of the same species) will **always superimpose exactly**.
 * **Every elements spectrum is unique!**
 	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
