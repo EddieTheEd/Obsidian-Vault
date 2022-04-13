@@ -89,6 +89,8 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
 	* We use this to identify **concentration** in a mixture.
 
+**Very minor details about absopr**
+
 Good Resources to Review:
 * **any** worksheets given by Ms Pilling
 * ==**research similarities / differences of flame test to AAS**==
