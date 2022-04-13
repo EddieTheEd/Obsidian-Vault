@@ -73,7 +73,9 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 * An absorption spectrum represents **different wavelengths of photons being absorbed**.
 	* In comparison, an emissions spectrum represents **wavelengths of photons being emitted**
 * This occurs as electrons absorb energy to be excited to higher energy levels.
-* Here, electrons only choose photons with a specific frequency to excite them, and when they
+* Here, electrons only choose photons with a specific frequency to excite them, and when they drop back to the ground state, they release photons.
+	* Note that all energy levels of an atom have **specific, discrete** energy quantities.
+* Here, the energy of the photons is equal to: **the difference between the two energy levels** that an electron falls from
 * Absorption and emissions spectrum (of the same species) will **always superimpose exactly**.
 * **Every elements spectrum is unique!**
 	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
