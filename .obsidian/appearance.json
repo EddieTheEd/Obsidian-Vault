@@ -1,7 +1,7 @@
 {
   "baseFontSize": 24,
   "translucency": false,
-  "cssTheme": "Clair de Lune",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "obsidian"
   ]
