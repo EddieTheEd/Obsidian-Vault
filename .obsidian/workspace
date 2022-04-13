@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "5fa4fef2d8bad8eb",
+        "id": "56b6399cd497c10e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Zettelkasten/Class 12.md",
+            "file": "002_Zettelkasten/Electron Configuration.md",
             "mode": "source",
             "source": false
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Class 9.md",
+                "file": "002_Zettelkasten/Electron Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Class 9.md",
+                "file": "002_Zettelkasten/Electron Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,10 +188,10 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "af5a2776ea2079d0",
+  "active": "a79380048603406d",
   "lastOpenFiles": [
-    "002_Zettelkasten/Class 9.md",
     "002_Zettelkasten/Electron Configuration.md",
+    "002_Zettelkasten/Class 9.md",
     "002_Zettelkasten/Atomic Structure - Development of the Atomic Model.md",
     "002_Zettelkasten/Class 12.md",
     "002_Zettelkasten/Untitled.md",
