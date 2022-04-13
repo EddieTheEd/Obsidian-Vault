@@ -75,7 +75,11 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 * This occurs as electrons absorb energy to be excited to higher energy levels.
 * Here, electrons only choose photons with a specific frequency to excite them, and when they drop back to the ground state, they release photons.
 	* Note that all energy levels of an atom have **specific, discrete** energy quantities.
-* Here, the energy of the photons is equal to: **the difference between the two energy levels** that an electron falls from
+* Here, the energy of the photons is equal to: **the difference between the two energy levels** that an electron falls from.
+* This means multiple photons can be produces from a single electron being excited.
+	* e.g. Lets say that an electron is excited from the ground state to n = 3. There are **2** ways this electron can fall down, and **3** possible photons that can be produced. 
+		* From n = 3, straight to n = 1 (ground state). This will produce a single photon, with the energy of the difference in energy between n = 3 and n = 1.
+		* From n = 3, to n = 2, then n = 
 * Absorption and emissions spectrum (of the same species) will **always superimpose exactly**.
 * **Every elements spectrum is unique!**
 	* In a spectrum, the intensity of a spectra indicates the abundance of an element.
