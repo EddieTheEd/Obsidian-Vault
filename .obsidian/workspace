@@ -19,9 +19,23 @@
         "id": "56b6399cd497c10e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "001_Files/Pasted image 20220315150921.png"
+            "file": "002_Zettelkasten/The Periodic Table.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "61bb4a53c9c16cb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Zettelkasten/Class 15.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Zettelkasten/Chemistry Test 2 Objectives.md",
+                "file": "002_Zettelkasten/The Periodic Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Zettelkasten/Chemistry Test 2 Objectives.md",
+                "file": "002_Zettelkasten/The Periodic Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,17 +200,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "a79380048603406d",
+  "active": "56b6399cd497c10e",
   "lastOpenFiles": [
-    "002_Zettelkasten/Chemistry Test 2 Objectives.md",
-    "001_Files/Pasted image 20220315150921.png",
+    "002_Zettelkasten/The Periodic Table.md",
+    "002_Zettelkasten/Class 15.md",
     "002_Zettelkasten/Class 14.md",
-    "002_Zettelkasten/Chem Class Notes.md",
+    "002_Zettelkasten/Class 16.md",
+    "002_Zettelkasten/Class 23.md",
     "002_Zettelkasten/Class 13.md",
-    "002_Zettelkasten/Class 12.md",
-    "002_Zettelkasten/Class 11.md",
-    "002_Zettelkasten/Class 9.md",
-    "002_Zettelkasten/Class 10.md",
-    "002_Zettelkasten/Electron Configuration.md"
+    "002_Zettelkasten/Class 18.md",
+    "002_Zettelkasten/Class 24.md",
+    "001_Files/Pasted image 20220315150921.png",
+    "002_Zettelkasten/Chemistry Test 2 Objectives.md"
   ]
 }
