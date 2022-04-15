@@ -1,4 +1,4 @@
-Status: #chemtopic 
+The last statue is next to a lamp in the room where the ceiling looks like stars.Status: #chemtopic 
 
 Tags: [[Chemistry Yr 11]]
 
