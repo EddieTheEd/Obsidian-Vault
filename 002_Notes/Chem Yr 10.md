@@ -18,4 +18,4 @@ Topics:
 * [[Meczes Homework Answers]]
 
 
-[[002_Zettelkasten/Chem Class Notes]]
+[[002_Notes/Chem Class Notes]]

@@ -2,7 +2,7 @@ Status: #subject
 
 **Relevant Resources:**
 
-* [[Chem Class Notes]]
+* [[002_Notes/Chem Class Notes]]
 * [[Chemistry Test 2]]
 
 Topics:

@@ -19,7 +19,7 @@ Tags: [[Separation Techniques]]
 -   **Makes sense to another human!**
 
 
-
+i still dont know how to write a good method
 
 ---
 ## Recall
