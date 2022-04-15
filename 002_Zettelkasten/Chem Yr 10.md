@@ -16,6 +16,6 @@ Topics:
 * [[Chemistry Stoichiometry Notes]]
 
 * [[Meczes Homework Answers]]
-* [[Notes.exe]]
+
 
 [[002_Zettelkasten/Chem Class Notes]]
