@@ -17,3 +17,7 @@ the quotes are so funny they give me a headache
 
 https://en.wikipedia.org/wiki/Mohamed_Ababou
 https://www.quora.com/Why-do-people-e-g-Mohammed-Ababou-and-his-cult-still-believe-that-numbers-are-finite-or-is-it-just-satire
+
+![[Pasted image 20220416190849.png]]
+
+wtf do these words mean
