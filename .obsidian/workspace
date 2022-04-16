@@ -7,8 +7,12 @@
         "id": "810f6285b340bb37",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Join if you want aids.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Join if you want aids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Join if you want aids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +143,7 @@
   },
   "active": "810f6285b340bb37",
   "lastOpenFiles": [
+    "Join if you want aids.md",
     "002_Notes/How to write a good method.md",
     "002_Notes/300 Hour Stream =  fun yes.md",
     "003_Templates/Idea.md",
@@ -145,7 +152,6 @@
     "002_Zettelkasten/Nanomaterials (Pearson + Lucarelli).md",
     "002_Notes/Atomic Structure - Development of the Atomic Model.md",
     "002_Notes/Hippocampus.md",
-    "002_Notes/Chem Yr 10.md",
-    "002_Notes/Properties of matter.md"
+    "002_Notes/Chem Yr 10.md"
   ]
 }
