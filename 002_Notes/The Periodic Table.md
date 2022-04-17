@@ -20,6 +20,9 @@ To become an ion you require ionisation energy.
 
 Ionisation energy is needed to break the attraction between an electron and its nucleus, so the further away an electron is from its nucleus the weaker the attraction force, and thus less ionisation energy is required to ionise.
 
+
+
+
 Thus, elements in higher periods are more reactive.
 
 Therefore, elements in higher periods have lower ionisation energy.
@@ -83,7 +86,7 @@ Dipole refers to the slightly negative/positive areas of a molecule
 * For the cation process, energy is absorbed.
 * For the anion process, energy is released.
 * Ionisation energy is:
-	* Energy required to remove one mole of electrons from one mole of gaseous atoms.
+	* **Energy required to remove one mole of electrons from one mole of gaseous atoms.**
 
 e.g. $X_{g} \rightarrow X^+_{g}+\bar e^-$
 
