@@ -23,8 +23,8 @@ Objective 8 - Properties of matter:
 </aside>
 
 -   Molecules: Elements bonded **covalently.** A particle containing two or more atoms joined together by covalent bonds. - has to involve non-metals.
--   Atom**:** Smallest particle of an element that can exist on its own. It is made up of subatomic particles that are indivisible.
--   **Ion:** An atom or groups of atoms that has become positively or negatively charged by losing or gaining electrons.
+	- **Atom:** Smallest particle of an element that can exist on its own. It is made up of subatomic particles that are indivisible.
+- **Ion:** An atom or groups of atoms that has become positively or negatively charged by losing or gaining electrons.
     -   Positively charged - cation (+ve) - formed by losing electrons
     -   Negatively charged - anion (-ve) - formed by gaining electrons
 
