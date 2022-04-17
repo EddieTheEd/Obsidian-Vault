@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English Course Concepts.md",
+            "file": "002_Notes/Properties of matter (Class).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Course Concepts.md",
+                "file": "002_Notes/Properties of matter (Class).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Course Concepts.md",
+                "file": "002_Notes/Properties of matter (Class).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +143,8 @@
   },
   "active": "810f6285b340bb37",
   "lastOpenFiles": [
+    "002_Notes/Properties of matter (Class).md",
+    "002_Notes/Chem Cap 1 Notes.md",
     "English Course Concepts.md",
     "002_Notes/English Yr 11.md",
     "002_Notes/Hippocampus.md",
@@ -150,8 +152,6 @@
     "002_Notes/How to write a good method.md",
     "002_Notes/300 Hour Stream =  fun yes.md",
     "003_Templates/Idea.md",
-    "002_Notes/Electron Configuration.md",
-    "002_Notes/Nanomaterials.md",
-    "002_Zettelkasten/Nanomaterials (Pearson + Lucarelli).md"
+    "002_Notes/Electron Configuration.md"
   ]
 }
