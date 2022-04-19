@@ -29,5 +29,8 @@ Rough Script:
 [[English Podcast Draft 2]]
 
 
-#$**References:**
+---
+# **References:**
 
+* https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22media%2Fpressrel%2F3828026%22
+* https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22media%2Fpressrel%2F5266893%22
