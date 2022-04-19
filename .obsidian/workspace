@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chemistry Test 2 Objectives.md",
+            "file": "002_Notes/English Podcast Transcript Brainstorm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cbfff066260fbd9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Podcast Draft 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "940ec64cccf29d86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Podcast Draft 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chemistry Test 2 Objectives.md",
+                "file": "002_Notes/English Podcast Transcript Brainstorm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chemistry Test 2 Objectives.md",
+                "file": "002_Notes/English Podcast Transcript Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,15 +167,15 @@
   },
   "active": "810f6285b340bb37",
   "lastOpenFiles": [
+    "002_Notes/English Podcast Transcript Brainstorm.md",
+    "002_Notes/English Podcast Draft 1.md",
+    "002_Notes/English Podcast Draft 2.md",
+    "002_Notes/English Short Speech.md",
     "002_Notes/Chemistry Test 2 Objectives.md",
     "002_Notes/The Periodic Table.md",
     "002_Notes/Class 4.md",
     "002_Notes/Chem Class Notes.md",
     "002_Notes/Properties of matter (Class).md",
-    "002_Notes/Chem Cap 1 Notes.md",
-    "English Course Concepts.md",
-    "002_Notes/English Yr 11.md",
-    "002_Notes/Hippocampus.md",
-    "Join if you want aids.md"
+    "002_Notes/Chem Cap 1 Notes.md"
   ]
 }
