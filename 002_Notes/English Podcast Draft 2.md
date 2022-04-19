@@ -13,9 +13,7 @@ Tags:
 
 (Tradition Vietnamese music plays in the background)
 
-**Host:** Now, we are extremely grateful to have guest speaker Hải Minh Nguyễn on our podcast. Being considered a 'boat person' himself, his bestseller "A Soulless Ocean" has brought to light the struggles that countless families bravely endured for a chance at a new life in Australia. Hải Minh, what do you think about Dutton's recent zero-tolerance policy of boat refugees?
-
-	state the date!
+**Host:** Hey there! It's the Independent Informers here on  the 11th of May, 2017 and we are extremely grateful to have guest speaker Hải Minh Nguyễn on our podcast. Being considered a 'boat person' himself, his bestseller "A Soulless Ocean" has brought to light the struggles that countless families bravely endured for a chance at a new life in Australia. Hải Minh, what do you think about Dutton's recent zero-tolerance policy of boat refugees?
 
 **Hải Minh:** It's frankly outrageous. I find it difficult to believe that Australia, one of the strongest democracies in the free world, could implement such an unsympathetic border policy. I can still remember the journey my family took to leave Vietnam. When the North seized Saigon, they took everything away from us. 
 
