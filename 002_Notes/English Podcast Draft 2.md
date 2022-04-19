@@ -15,25 +15,29 @@ Tags:
 
 **Host:** Hey there! It's the Independent Informers here on  the 11th of May, 2017 and we are extremely grateful to have guest speaker Hải Minh Nguyễn on our podcast. Being considered a 'boat person' himself, his bestseller "A Soulless Ocean" has brought to light the struggles that countless families bravely endured for a chance at a new life in Australia. Hải Minh, what do you think about Dutton's recent budget media release?
 
-(Screen shows a picture of Dutton at a press conference, which fades back into intro screen )
+(Screen shows a picture of Dutton at a press conference, which fades back into intro screen as **Hải Minh:** talks.)
 
-**Hải Minh:** It's frankly outrageous. I find it difficult to believe that Australia, one of the strongest democracies in the free world, could implement such an unsympathetic border policy. I can still remember the journey my family took to leave Vietnam. When the North seized Saigon, they took everything away from us. 
+**Hải Minh:** It's frankly outrageous. I find it difficult to believe that Australia, one of the strongest democracies in the free world, could implement such an unsympathetic border policy. I can still remember the journey my family took to leave Vietnam. 
 
-**Host:** That sounds horrible. Please continue.
+(Screen fades into picture of an abandoned home in Saigon)
 
-**Hải Minh:** They took all our belongings from us. So we gathered as many valuables as we could find, and my father paid for a boat to Australia. For those saying that we took the coward's way out, I assure you this was more punishment than escape. Any family I had back in Vietnam are either dead or lost to me. 
+When the North seized Saigon, they took everything away from us. So we gathered the scarce valuables we had left, and my father paid for a boat to Australia. 
+
+(Screen fades to a Vietnamese empty harbour??)
+
+For those saying that we took the coward's way out, I assure you this was more punishment than escape. Any family I had back in Vietnam are either dead or lost to me. 
 
 (Storm music)
 
 The voyage was agonising, with the waves thundering like the artillery shells back at home. It was as if I had never left. The boat would be constantly barraged by the violent rage of the ocean. The suffocating winds of salt was overwhelmed by the smell of vomit and mould. This was a struggle that everyone onboard experienced, for months on end. Not everyone made it through. My grandmother would pass away a few kilometres from the shores of Australia.
 
-**Host:** I'm deeply sorry for your loss.
+**Host:** Wow. I'm deeply sorry for your loss.
 
 **Hải Minh:** She was one of the lucky ones. She was buried in Australia. Those that died before would be thrown into the sea. Their graves being the vast waterbed of the Pacific. Our family went through all this pain and suffering, just to make it to Australia. To have a new life, one free from authority. For them, the risk of dying thousands of kilometres away from home was worth it. 
 
 (Western music plays)
 
-**Host:** Truly tragic. I hope you've found peace with her passing. Now, take a look at this picture.
+**Host:** Truly tragic. I hope you've found peace with her passing. Now, take a look at this.
 
 (Picture of refugees show)
 
