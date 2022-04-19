@@ -23,7 +23,7 @@ Tags:
 
 When the North seized Saigon, they took everything away from us. So we gathered the scarce valuables we had left, and my father paid for a boat to Australia. 
 
-(Screen fades to a Vietnamese empty harbour??)
+(Screen fades to a Vietnamese empty harbour?)
 
 For those saying that we took the coward's way out, I assure you this was more punishment than escape. Any family I had back in Vietnam are either dead or lost to me. 
 
@@ -45,7 +45,7 @@ The voyage was agonising, with the waves thundering like the artillery shells ba
 
 **Host:** What do you think of this photo?
 
-**Hải Minh:** It's an unfortunate reality we live in. None of these people want to be refugees. They just want to survive, and have the best opportunity at life. When we send back boats, we are denying refugees their basic human rights to live freely and without persecution. I am fortunate to have had many great moments in my life. But none were as joyous or rewarding when I got off the boat and stepped foot onto an Australian harbour. Having made it through the treacherous journey across the Pacific, I could really appreciate the tranquillity and silence of Australia. The calm tides washing over my feet, the quiet zephyrs dancing around me. 
+**Hải Minh:** It's an unfortunate reality we live in. None of these people want to be refugees. They just want to survive, and have the best opportunity at life. When we send back boats, we are denying refugees their basic human rights to live freely and without persecution. I am fortunate to have had many great moments in my life. But none were as joyous or rewarding when ==I got off the boat and stepped foot onto an Australian harbour==. Having made it through the treacherous journey across the Pacific, I could really appreciate the tranquillity and silence of Australia. The calm tides washing over my feet, the quiet zephyrs dancing around me. 
 
 **Host:** How did you and your family adapt to this new environment?
 
