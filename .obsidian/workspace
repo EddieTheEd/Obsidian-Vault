@@ -16,6 +16,18 @@
         }
       },
       {
+        "id": "1cb8ec4b8c2c7e47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Properties of matter (Class).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "d5b3a324436ddf9c",
         "type": "leaf",
         "state": {
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chemistry Test 2 Objectives.md",
+                "file": "002_Notes/Properties of matter (Class).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chemistry Test 2 Objectives.md",
+                "file": "002_Notes/Properties of matter (Class).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +201,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "810f6285b340bb37",
+  "active": "1cb8ec4b8c2c7e47",
   "lastOpenFiles": [
+    "002_Notes/Properties of matter (Class).md",
+    "002_Notes/Chem Cap 1 Notes.md",
+    "002_Notes/Chemistry Test 2.md",
     "002_Notes/Chemistry Test 2 Objectives.md",
+    "Untitled.md",
+    "Nanomaterials (Pearson + Lucarelli).md",
     "002_Notes/Chem Y10 Objectives.md",
     "002_Notes/English Podcast Transcript Brainstorm.md",
     "002_Notes/Political podcast transcript.md",
-    "002_Notes/English Podcast Draft 2.md",
-    "002_Notes/English Podcast Draft 1.md",
-    "002_Notes/English Short Speech.md",
-    "002_Notes/The Periodic Table.md",
-    "002_Notes/Class 4.md",
-    "002_Notes/Chem Class Notes.md"
+    "002_Notes/English Podcast Draft 2.md"
   ]
 }

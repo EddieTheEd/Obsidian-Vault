@@ -16,7 +16,7 @@ my generic notes:
 Objective 8 - Properties of matter:
 
 -   Element - The **simplest** kind of substance that **cannot be broken down** into anything simpler. All its atoms have the **same number of protons**, and it is only made of **one type of atom.**
--   Compound - a substance with **2 or more elements** (different) **chemically bonded** together
+-   Compound - a substance with **2 or more elements** (**different**) **chemically bonded** together
 
 <aside> ⚛️ Sodium chloride is a lot of sodium ions attracted to chloride ions, which are attracted to sodium ions. This forms NaCl as a lattice (Note: lattice only refers to ionic compounds), as these ions occur in an equal ratio.
 
