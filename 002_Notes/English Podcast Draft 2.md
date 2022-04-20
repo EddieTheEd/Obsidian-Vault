@@ -61,4 +61,4 @@ The voyage was agonising, with the waves thundering like the artillery shells ba
 
 **Host:** Do you return to the harbour where you first stepped foot in Australia often?
 
-**Hải Minh:** Absolutely. I regularly go back and just sit in the sand with my family. My life in Vietnam ended there, but my life as an Australian began. The restful flow of the waves remind me of my journey, and those I had left behind. Precious memories, falling from my mind and into the ocean like handfuls of sand. I will never forget the first time I grasped the cool, saline sand, it was the day I became Australian.
+**Hải Minh:** Absolutely. I regularly go back and just sit in the sand with my family. My life in Vietnam ended there, but my life as an Australian began. The restful flow of the waves remind me of my journey, and those I had left behind. Precious memories, falling from my mind and into the ocean like handfuls of sand. I will never forget the first time I grasped the cool, saline seashore, it was the day I became Australian.
