@@ -19,3 +19,7 @@ Topics:
 [[Covalent Bonding]]
 [[Intermolecular Forces]]
 [[Stoichiometry]]
+
+
+[[Chromatography]]
+[[Solubility]]

@@ -22,6 +22,28 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "e88c87653aca996e",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "001_Files/Year 11 Chemistry Program 2022.pdf"
+          }
+        }
+      },
+      {
+        "id": "70f118cb544c4cf2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Chemistry Yr 11.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "002_Notes/Chemistry Yr 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "002_Notes/Chemistry Yr 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,14 +149,6 @@
             }
           },
           {
-            "id": "5bdd98534654bb48",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "5a8953d819704e8f",
             "type": "leaf",
             "state": {
@@ -149,17 +163,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "10b4c715891a5e2b",
+  "active": "70f118cb544c4cf2",
   "lastOpenFiles": [
+    "002_Notes/Chemistry Yr 11.md",
+    "001_Files/Year 11 Chemistry Program 2022.pdf",
+    "002_Notes/Chemistry Test 2 Objectives.md",
+    "002_Notes/Solubility.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Properties of matter (Class).md",
     "002_Notes/Chem Cap 1 Notes.md",
     "002_Notes/Chemistry Test 2.md",
-    "002_Notes/Chemistry Test 2 Objectives.md",
     "Untitled.md",
-    "Nanomaterials (Pearson + Lucarelli).md",
-    "002_Notes/Chem Y10 Objectives.md",
-    "002_Notes/English Podcast Transcript Brainstorm.md",
-    "002_Notes/Political podcast transcript.md"
+    "Nanomaterials (Pearson + Lucarelli).md"
   ]
 }
