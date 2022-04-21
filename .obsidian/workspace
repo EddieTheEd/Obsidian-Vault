@@ -85,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/Hippocampus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "7c3cb51e165deb1f",
+  "active": "10b4c715891a5e2b",
   "lastOpenFiles": [
     "002_Notes/Hippocampus.md",
     "002_Notes/Properties of matter (Class).md",
