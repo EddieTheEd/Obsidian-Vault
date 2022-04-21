@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#chemclass",
+      "query": "tag:#chemclass tag:#chemtopic tag:#chemclassnotes",
       "color": {
         "a": 1,
         "rgb": 3140617
@@ -60,6 +60,6 @@
   "repelStrength": 14.5299145299145,
   "linkStrength": 0.458689458689459,
   "linkDistance": 200,
-  "scale": 0.16348370567220488,
-  "close": true
+  "scale": 0.12688708967130802,
+  "close": false
 }

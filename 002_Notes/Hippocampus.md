@@ -2,6 +2,14 @@
 
 	¯\_(ツ)_/¯ maybe this works maybe it doesnt, but christian choe based
 
+If you're reading this:
+	Hello! You're inside my brain right now. Must feel pretty cool, huh?
+	Anyway, the whole point of this conversation right now is so that I can discuss with you how I'm going to organise this obsidian vault.
+	Essentially, what I want to do is have *subject tags*, and *project tags*.
+	**Subject tags** will be used to identify specific subjects, e.g. Chemistry Yr 11, Methods Yr 11 etc.
+	**Project tags** are for personal projects of mine, e.g. Notes.exe which needs a better name.
+	That's essentially it! If you want to see these tags, download obsidian and open this as a vault.
+
 
 **Useful Links:**
 * https://help.obsidian.md/How+to/Add+aliases+to+note
