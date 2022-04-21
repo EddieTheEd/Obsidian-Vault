@@ -13,7 +13,7 @@ notes go brr #subject
 * [[Stoich Notes 2]]
 * [[Sadler 1 Notes]]
 * [[Sadler 2 Notes]]
-	* me waiting for myself to be competent and actually dsso stoich notes 2
+	* me waiting for myself to be competent and actually do stoich notes 2
 * Insert Yr11 notes here
 
 
