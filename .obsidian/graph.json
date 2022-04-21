@@ -5,20 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Hippocampus",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#chemclass tag:#chemtopic tag:#chemclassnotes",
-      "color": {
-        "a": 1,
-        "rgb": 16756224
       }
     },
     {
@@ -41,6 +34,27 @@
         "a": 1,
         "rgb": 3926794
       }
+    },
+    {
+      "query": "tag:#chemclass",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "tag:#chemtopic",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "tag:#chemclassnotes",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +67,6 @@
   "repelStrength": 14.5299145299145,
   "linkStrength": 0.458689458689459,
   "linkDistance": 200,
-  "scale": 0.27976629505184575,
-  "close": false
+  "scale": 0.11349907970656974,
+  "close": true
 }
