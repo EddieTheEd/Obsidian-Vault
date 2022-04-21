@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Hippocampus",
@@ -18,7 +18,7 @@
       "query": "tag:#chemclass tag:#chemtopic tag:#chemclassnotes",
       "color": {
         "a": 1,
-        "rgb": 3140617
+        "rgb": 16756224
       }
     },
     {
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "tag:#methods",
+      "color": {
+        "a": 1,
+        "rgb": 3926794
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 14.5299145299145,
   "linkStrength": 0.458689458689459,
   "linkDistance": 200,
-  "scale": 0.22498125744918998,
+  "scale": 0.27976629505184575,
   "close": false
 }

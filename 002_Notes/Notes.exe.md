@@ -11,7 +11,7 @@ notes go brr #subject
 * [[Chemistry Stoichiometry Notes]]
 * [[Redox Notes]]
 * [[Stoich Notes 2]]
-	* me waiting for myself to be competent and actually do stoich notes 2
+	* me waiting for myself to be competent and actually dsso stoich notes 2
 * Insert Yr11 notes here
 
 

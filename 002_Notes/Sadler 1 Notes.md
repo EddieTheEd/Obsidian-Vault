@@ -1,3 +1,7 @@
+Status: #methods
+
+Tags: [[Methods Yr 10]]
+
 **Preliminary Notes:**
 
 Types of numbers: real numbers - whole, rational, irrational and unreal numbers and unreal numbers - imaginary numbers, etc.
