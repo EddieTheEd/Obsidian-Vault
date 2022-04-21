@@ -16,11 +16,23 @@
         }
       },
       {
-        "id": "7c3cb51e165deb1f",
+        "id": "137445826f44503b",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "c7329d8aaefbb5c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Notes.exe.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
@@ -107,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chemistry Yr 11.md",
+                "file": "002_Notes/Notes.exe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chemistry Yr 11.md",
+                "file": "002_Notes/Notes.exe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +175,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "70f118cb544c4cf2",
+  "active": "c7329d8aaefbb5c2",
   "lastOpenFiles": [
+    "002_Notes/Notes.exe.md",
+    "002_Notes/Hippocampus.md",
     "002_Notes/Chemistry Yr 11.md",
     "001_Files/Year 11 Chemistry Program 2022.pdf",
     "002_Notes/Chemistry Test 2 Objectives.md",
     "002_Notes/Solubility.md",
-    "002_Notes/Hippocampus.md",
     "002_Notes/Properties of matter (Class).md",
     "002_Notes/Chem Cap 1 Notes.md",
     "002_Notes/Chemistry Test 2.md",
-    "Untitled.md",
-    "Nanomaterials (Pearson + Lucarelli).md"
+    "Untitled.md"
   ]
 }
