@@ -144,10 +144,8 @@ Thus, all numbers that are **not** natural, **not** integers and **not** rationa
 
 | Name              | Symbol |
 | ----------------- | ------ |
-| Irrational        |        |
-| Complex           |        |
-| Positive Integers |        |
+| Irrational        |   $\mathbb{I} \ or \ \mathbb{Q}^{'}$     |
+| Complex           |   $\mathbb{C}$    |
+| Positive Integers |    $\mathbb{Z}$    |
 | Negative Integers |        |
 | Imaginary                  |        |
-
-You can also say **not** part of a set by placing a cross through the symbol like you would write $\neq$.
