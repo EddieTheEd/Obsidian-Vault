@@ -35,13 +35,9 @@ $1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infty$
 
 Notice that this set does not include negative numbers (or 0).
 
-```ad-note
-color: 
-
-Side-Note: There are 2 accepted definitions of natural numbers:
+	Side-Note: There are 2 accepted definitions of natural numbers:
     -   Traditional: Natural = set of positive integers {1,2,3...}
     -   Slightly new: Natural = set of non-negative integers {0,1,2,3...}
-```
 
 The range of all natural numbers goes from {$1, \infty$}
 
@@ -68,7 +64,6 @@ However, numbers such as $\sqrt{2}$ are not rational as they cannot be expressed
 
 ```ad-seealso
 title: Extension
-collapse: open
 
 The square root of 2 is not rational. Let’s use a proof by contradiction.
 
@@ -121,10 +116,10 @@ Thus, $q^2$ is even, where $k = r^2$.
 As shown above, the square of a number’s parity (even or odd) is the same as the number’s parity. Therefore, $q$ is even.
 
 However, this means that both $p$ and $q$ are even, and this contradicts our initial assumption that there are no common factors between $p$ and $q$ (even numbers have the common factor of 2).
-
-Therefore, the statement $\sqrt{2} = \frac{p}{q}$ is false and thus $\sqrt{2}$ is not rational.
 ```
 
+
+Therefore, the statement $\sqrt{2} = \frac{p}{q}$ is false and thus $\sqrt{2}$ is not rational.
 Numbers like 0.012342342134 are rational, ($\frac{6171171067}{500000000000}$) and so are all the integers. Numbers like $\pi$ and $e$ are not rational. (they cannot be expressed as a fraction)
 
 Thus, all numbers that are **not** natural, **not** integers and **not** rational, are **real** (for now). This includes:
