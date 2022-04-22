@@ -130,14 +130,16 @@ Thus, all numbers that are **not** natural, **not** integers and **not** rationa
 -   $\sqrt{3}$
 -   1234.1237481237410283750134681039... (goes to infinity)
 
-
-
-etc.
-
-$\mathbb{Z}^-$
+**You can also call them irrational**
 
 **Notation:**
 
+| Name     | Symbol |
+| -------- | ------ |
+| Natural  |  |
+| Integer  | ------ |
+| Rational |        |
+| Real   |        |
 Name
 
 Symbol
