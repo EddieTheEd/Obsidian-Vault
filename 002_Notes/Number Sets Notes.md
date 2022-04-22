@@ -6,15 +6,11 @@ Status: #methods
 Tags: [[Methods Yr 10]]
 
 # Number Sets Notes
-
 Here is a pretty good set diagram I stole from the internet:
-
 (for now we ignore the complex stuff, its in the next part)
-
 ![[Pasted image 20220422081915.png]]
 
 These are all the subsets for the **real** numbers
-
 ```ad-note
 -   Real numbers: A value of a continuous quantity that can be represented as a distance on a line.
     -   Note: continuous, as real numbers include 1 and 0.1357108375103759831...
@@ -34,6 +30,12 @@ Ask your teacher whether it starts at 0 or 1, however from those numbers they in
 $1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infty$
 
 Notice that this set does not include negative numbers (or 0).
+
+
+
+
+
+
 
 ```ad-note
 
@@ -152,5 +154,5 @@ Here's some general notation for these sets
 | Irrational        |   $\mathbb{I} \ or \ \mathbb{Q}^{'}$     |
 | Complex           |   $\mathbb{C}$    |
 | Positive Integers |    $\mathbb{Z}^+$    |
-| Negative Integers |    $\mathbb{Z}$^-    |
+| Negative Integers |    $\mathbb{Z}^{-}$    |
 | Imaginary   |   $\mathbb{i}$     |
