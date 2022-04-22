@@ -68,11 +68,14 @@ Thus, we should think of this rate of change not as **instantaneous,** but measu
 Now, lets look at the $y=x^2$ problem again.
 
 ![[Pasted image 20220422210710.png]]
-Lets say the black and blue lines are a really small unit, h. In this case, the black line = h (run), and the blue line is a bit difficult.
 
-The point at the very top of this triangle is $f(x+h)$, where $f(x)=x^2$. This is because $f(x)$ is the output when given x, and x becomes x + h.
+Lets say the black and blue lines represent a **really** small change in value. In this case, we'll let the length of the black lines = h (run), and we'll think about the blue lines later.
 
-The blue line would be equal to the value of the point at the top, minus the value of $f(x)$, or the point that we’re basing this off. This makes the **rise** of the gradient $f(x+h) - f(x)$. (the difference)
+We'll say the bottom left point (indicated as 1,1) is actually x, just the x in $f(x)$, an x value on the x axis. That means the bottom right point is x + h.
+
+The point at the very top of this triangle is $f(x+h)$, where $f(x)=x^2$. This is because $f(x)$ is the output when given x, the x value in this case is x + h.
+
+The blue line would be equal to the value of the point at the top, minus the value of $f(x)$, or the point that we’re basing this off. i.e. The top right point minus the bottom left point. This makes the **rise** of the gradient $f(x+h) - f(x)$. (the difference between the 2 points)
 
 Now, the gradient formula is $\frac{Rise}{Run}$. Therefore, The gradient of these points that we’re chosen is:
 
