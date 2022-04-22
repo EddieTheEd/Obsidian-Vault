@@ -36,6 +36,7 @@ $1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infty$
 Notice that this set does not include negative numbers (or 0).
 
 ```ad-note
+color: 
 
 Side-Note: There are 2 accepted definitions of natural numbers:
     -   Traditional: Natural = set of positive integers {1,2,3...}

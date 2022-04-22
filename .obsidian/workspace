@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Notes.exe.md",
+                "file": "002_Notes/Number Sets Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Notes.exe.md",
+                "file": "002_Notes/Number Sets Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,11 +165,11 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "70f118cb544c4cf2",
+  "active": "10b4c715891a5e2b",
   "lastOpenFiles": [
+    "002_Notes/Number Sets Notes.md",
     "002_Notes/Notes.exe.md",
     "002_Notes/Chemistry Yr 11.md",
-    "002_Notes/Number Sets Notes.md",
     "000_UnsortedFiles/Pasted image 20220422081915.png",
     "003_Templates/Chem Study Notes.md",
     "003_Templates/Chem Topic Format.md",
