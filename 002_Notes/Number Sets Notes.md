@@ -42,15 +42,18 @@ Side-Note: There are 2 accepted definitions of natural numbers:
     -   Slightly new: Natural = set of non-negative integers {0,1,2,3...}
 ```
 
+The range of all natural numbers goes from {$1, \infty$}
+
+(or $0, \infty$)
 
 **Integers:**
 
 Whole numbers, **OR**
 Fraction that can be simplified, so that the denominator is 1.
 
-e.g. -42/2 is an integer as it can be simplified to -21. However, -43/2 is not an integer as it is simplified to $-21 \ \frac{1}{2}$, which is not whole and thus not an integer.
+e.g. -42/2 is an integer, as it can be simplified to -21. However, -43/2 is not an integer as it is simplified to $-21 \ \frac{1}{2}$, which is not whole and thus not an integer.
 
-Essentially, its the natural numbers + all the negative whole numbers.
+Essentially, it's the natural numbers + all the negative whole numbers.
 
 The range of all integers goes from {$-\infty , \ \infty$}.
 
@@ -62,7 +65,9 @@ Therefore, all integers are rational (put them in a fraction, make the denominat
 
 However, numbers such as $\sqrt{2}$ are not rational as they cannot be expressed by a fraction.
 
-Extension:
+```ad-seealso
+title: Extension
+collapse: open
 
 The square root of 2 is not rational. Let’s use a proof by contradiction.
 
@@ -76,9 +81,7 @@ Therefore, $p^2$ is even, as all even numbers can be written in the form $2k$, w
 
 Given that $p^2$ is even, then p must also be even, as an even number squared is always even, however an odd number squared is not even.
 
-\/ formal (ish? i dunno the actual formal way im not smart) proof
-
-Extension Extension:
+Here's a slightly better proof (but badly formatted)
 
 Case 1: p is even
 
@@ -115,15 +118,19 @@ As shown above, the square of any number’s parity (even or odd) is the same as
 However, this means that both $p$ and $q$ are even, and this contradicts our initial assumption that there are no common factors between $p$ and $q$.
 
 Therefore, the statement $\sqrt{2} = \frac{p}{q}$ is false and thus $\sqrt{2}$ is not rational.
+```
 
-Numbers like 0.012342342134 are rational, ($\frac{6171171067}{500000000000}$) and so are all the integers. Numbers like $\pi$ and $e$ are not rational. (they dont end)
+
+Numbers like 0.012342342134 are rational, ($\frac{6171171067}{500000000000}$) and so are all the integers. Numbers like $\pi$ and $e$ are not rational. (they cannot be expressed as a fraction)
 
 Thus, all numbers that are **not** natural, **not** integers and **not** rational, are **real** (for now). This includes:
 
 -   $\pi$
 -   $e$
 -   $\sqrt{3}$
--   1234.1237481237410283750134681039...
+-   1234.1237481237410283750134681039... (goes to infinity)
+
+
 
 etc.
 
