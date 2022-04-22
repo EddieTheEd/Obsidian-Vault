@@ -11,5 +11,8 @@
   "obsidian-prism-theme@@scroll-bar-size": 7,
   "obsidian-prism-theme@@pt-scroll-button": false,
   "obsidian-prism-theme@@pt-scroll-hover": false,
-  "primary-ceciliamay@@md-color-blockquotes@@light": "#FFFFFF"
+  "primary-ceciliamay@@md-color-blockquotes@@light": "#FFFFFF",
+  "primary-ceciliamay@@md-color-blockquotes@@dark": "#FFFFFF",
+  "primary-ceciliamay@@md-color-blockquotes-bg@@dark": "#000000",
+  "primary-ceciliamay@@md-color-blockquotes-border@@dark": "#FFFFFF"
 }

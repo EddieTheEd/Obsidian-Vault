@@ -38,7 +38,6 @@ Side-Note: There are 2 accepted definitions of natural numbers:
     -   Slightly new: Natural = set of non-negative integers {0,1,2,3...}
 ```
 
-
 The range of all natural numbers goes from {$1, \infty$}
 
 (or $0, \infty$)
