@@ -14,7 +14,9 @@ notes go brr #subject
 * [[Sadler 1 Notes]]
 * [[Number Sets Notes]]
 * [[Sadler 2 Notes]]
-* 
+* [[Differentiation Notes]]
+
+
 * [[Spec Notes]]
 	* me waiting for myself to be competent and actually do stoich notes 2
 * Insert Yr11 notes here

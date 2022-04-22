@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Number Sets Notes.md",
+            "file": "002_Notes/Differentiation Notes.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Number Sets Notes.md",
+                "file": "002_Notes/Differentiation Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Number Sets Notes.md",
+                "file": "002_Notes/Differentiation Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,15 +166,15 @@
   },
   "active": "10b4c715891a5e2b",
   "lastOpenFiles": [
+    "002_Notes/Differentiation Notes.md",
+    "002_Notes/Notes.exe.md",
+    "002_Notes/Methods Yr 10.md",
     "002_Notes/Number Sets Notes.md",
     "002_Notes/Chemistry Stoichiometry Notes.md",
-    "002_Notes/Notes.exe.md",
     "002_Notes/Chemistry Yr 11.md",
     "000_UnsortedFiles/Pasted image 20220422081915.png",
     "003_Templates/Chem Study Notes.md",
     "003_Templates/Chem Topic Format.md",
-    "003_Templates/Methods Yr 10 Format.md",
-    "000_UnsortedFiles/Pasted image 20220416190849.png",
-    "000_UnsortedFiles/Join if you want aids.md"
+    "003_Templates/Methods Yr 10 Format.md"
   ]
 }
