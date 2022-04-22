@@ -5,7 +5,7 @@ Status: #methods
 
 Tags: [[Methods Yr 10]]
 
-# {title}
+# Number Sets Notes
 
 Here is a pretty good set diagram I stole from the internet:
 
@@ -71,17 +71,21 @@ collapse: open
 
 The square root of 2 is not rational. Let’s use a proof by contradiction.
 
-Assume $\sqrt{2}$ is rational. Since all rational numbers can be written in the form $\frac{p}{q}$ , where there are no common factors.
+Assume $\sqrt{2}$ is rational. All rational numbers can be written in the form $\frac{p}{q}$ , where there are no common factors.
 
 Therefore:
 
-$$ (\sqrt{2})^2 = (\frac{p}{q})^2 \\ 2 = \frac{p^2}{q^2} \\ p^2 = 2q^2 $$
+$(\sqrt{2})^2 = (\frac{p}{q})^2$
+
+$2 = \frac{p^2}{q^2}$
+
+$p^2 = 2q^2$
 
 Therefore, $p^2$ is even, as all even numbers can be written in the form $2k$, where $k$ is some number. In this case, this number is $q^2$.
 
 Given that $p^2$ is even, then p must also be even, as an even number squared is always even, however an odd number squared is not even.
 
-Here's a slightly better proof (but badly formatted)
+Here's a slightly better proof for this relationship between numbers and their squares (but badly formatted (i dont have sadler spec book))
 
 Case 1: p is even
 
@@ -146,6 +150,6 @@ Thus, all numbers that are **not** natural, **not** integers and **not** rationa
 | ----------------- | ------ |
 | Irrational        |   $\mathbb{I} \ or \ \mathbb{Q}^{'}$     |
 | Complex           |   $\mathbb{C}$    |
-| Positive Integers |    $\mathbb{Z}$    |
-| Negative Integers |        |
-| Imaginary                  |        |
+| Positive Integers |    $\mathbb{Z}^+$    |
+| Negative Integers |    $\mathbb{Z}$^-    |
+| Imaginary   |   $\mathbb{i}$     |
