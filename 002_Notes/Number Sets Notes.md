@@ -1,4 +1,11 @@
-# Number Subsets Notes
+
+*Date: 2022 04 22 Time: 08:23*
+
+Status: #methods
+
+Tags: [[Methods Yr 10]]
+
+# {title}
 
 Here is a pretty good set diagram I stole from the internet:
 
@@ -9,7 +16,6 @@ Here is a pretty good set diagram I stole from the internet:
 These are all the subsets for the **real** numbers
 
 ```ad-note
-collapse: open
 -   Real numbers: A value of a continuous quantity that can be represented as a distance on a line.
     -   Note: continuous, as real numbers include 1 and 0.1357108375103759831...
 
@@ -17,7 +23,7 @@ collapse: open
 
 Within all the **real** numbers exists numerous **subsets** of numbers.
 
-These are the definitions for all the subsets:
+These are the definitions for all the subsets, starting from the "smallest":
 
 **Natural/Counting Numbers:**
 
@@ -25,25 +31,28 @@ Numbers which are used for counting.
 
 Ask your teacher whether it starts at 0 or 1, however from those numbers they increase by 1 all the way to infinity, e.g. :
 
-1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infin$
+$1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infty$
 
-Note: this does not include negative numbers.
+Notice that this set does not include negative numbers (or 0).
 
--   Extension: There are 2 accepted definitions of natural numbers:
+```ad-note
+
+Side-Note: There are 2 accepted definitions of natural numbers:
     -   Traditional: Natural = set of positive integers {1,2,3...}
     -   Slightly new: Natural = set of non-negative integers {0,1,2,3...}
+```
+
 
 **Integers:**
 
-Numbers which are whole.
-
-Numbers that can be simplified so it isn’t a fraction.
+Whole numbers, **OR**
+Fraction that can be simplified, so that the denominator is 1.
 
 e.g. -42/2 is an integer as it can be simplified to -21. However, -43/2 is not an integer as it is simplified to $-21 \ \frac{1}{2}$, which is not whole and thus not an integer.
 
 Essentially, its the natural numbers + all the negative whole numbers.
 
-The range of all integers goes from {$-\infin , \ \infin$}.
+The range of all integers goes from {$-\infty , \ \infty$}.
 
 **Rational:**
 
