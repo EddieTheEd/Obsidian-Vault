@@ -35,9 +35,13 @@ $1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infty$
 
 Notice that this set does not include negative numbers (or 0).
 
-	Side-Note: There are 2 accepted definitions of natural numbers:
+```ad-note
+
+Side-Note: There are 2 accepted definitions of natural numbers:
     -   Traditional: Natural = set of positive integers {1,2,3...}
     -   Slightly new: Natural = set of non-negative integers {0,1,2,3...}
+```
+
 
 The range of all natural numbers goes from {$1, \infty$}
 
@@ -139,7 +143,7 @@ Here's some general notation for these sets
 | Natural  | $\mathbb{N}$ |
 | Integer  | $\mathbb{Z}$ |
 | Rational |   $\mathbb{Q}$   |
-| Real   |     $\mathbb{R}$   |
+| Real   |    $\mathbb{R}$   |
 
 **Extras:**
 

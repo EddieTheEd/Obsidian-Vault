@@ -108,12 +108,11 @@
             }
           },
           {
-            "id": "a1dfe86ffa1822bc",
+            "id": "5f183adc773d58aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Number Sets Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7cac248ef4d63719",
