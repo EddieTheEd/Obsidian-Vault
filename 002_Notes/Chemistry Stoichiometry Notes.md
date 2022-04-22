@@ -313,7 +313,3 @@ where n = number of moles (mol)
 V = Volume of gas at STP (L)
 
 Congratulations! Now you can convert for grams to moles, moles to grams, litres to moles, and moles to litres.
-
-By the way, this isn't even proper stoichiometry.
-
-You're a quarter of the way there. Good job tho :)
