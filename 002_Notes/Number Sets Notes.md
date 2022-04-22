@@ -1,0 +1,165 @@
+# Number Subsets Notes
+
+Here is a pretty good set diagram I stole from the internet:
+
+(for now we ignore the complex stuff, its in the next part)
+
+
+These are all the subsets for the **real** numbers
+
+-   Real number: A value of a continuous quantity that can be represented as a distance on a line.
+    -   Note: continuous, as real numbers include 1 and 0.1357108375103759831...
+        -   Another note: did you know Georg Cantor proved that there are more real numbers between 0 and 1 than there are natural numbers stretching towards infinity? pretty cool
+
+These are the definitions for all the subsets:
+
+**Natural/Counting Numbers:**
+
+Numbers of which are used for counting.
+
+Ask your teacher whether it starts at 0 or 1, however from those numbers they increase by 1 all the way to infinity, e.g. :
+
+$1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infin$
+
+Note: this does not include negative numbers.
+
+-   Extension: There are 2 accepted definitions of natural numbers:
+    -   Traditional: Natural = set of positive integers {1,2,3...}
+    -   Slightly new: Natural = set of non-negative integers {0,1,2,3...}
+
+**Integers:**
+
+Numbers which are whole.
+
+Numbers that can be simplified so it isn’t a fraction.
+
+e.g. -42/2 is an integer as it can be simplified to -21. However, -43/2 is not an integer as it is simplified to $-21 \ \frac{1}{2}$, which is not whole and thus not an integer.
+
+Essentially, its the natural numbers + all the negative whole numbers.
+
+The range of all integers goes from {$-\infin , \ \infin$}.
+
+**Rational:**
+
+A rational number is any number that can be described as a fraction of 2 whole integers.
+
+Therefore, all integers are rational (put them in a fraction, make the denominator 1)
+
+However, numbers such as $\sqrt{2}$ are not rational as they cannot be expressed by a fraction.
+
+Extension:
+
+The square root of 2 is not rational. Let’s use a proof by contradiction.
+
+Assume $\sqrt{2}$ is rational. Since all rational numbers can be written in the form $\frac{p}{q}$ , where there are no common factors.
+
+Therefore:
+
+$$ (\sqrt{2})^2 = (\frac{p}{q})^2 \\ 2 = \frac{p^2}{q^2} \\ p^2 = 2q^2 $$
+
+Therefore, $p^2$ is even, as all even numbers can be written in the form $2k$, where $k$ is some number. In this case, this number is $q^2$.
+
+Given that $p^2$ is even, then p must also be even, as an even number squared is always even, however an odd number squared is not even.
+
+\/ formal (ish? i dunno the actual formal way im not smart) proof
+
+Extension Extension:
+
+Case 1: p is even
+
+Given $p = 2k$, $p^2 = (2k)^2 = 4k^2$
+
+$\therefore p^2 = 2(2k^2)$ where in this case, the number multiplied by 2 is $2k^2$.
+
+Case 2: p is odd
+
+Given $p = 2k-1, p^2 = (2k-1)^2 = 4k^2-4k+1$
+
+$4k^2 - 4k + 1 = 2(2k^2-2k) + 1$
+
+Now, given $2(k) + 1 = 2(k + 1) -1$,
+
+$2(2k^2-2k) +1 = 2(2k^2-2k+1) -1$
+
+$\therefore$ $p^2$ is an odd number, following the rule $p = 2k -1$
+
+in this case, $k = 2k^2 -2k+1$
+
+Given that $p^2$ is even, let $p = 2k$
+
+Thus, our equation can be written as:
+
+$4k^2 = 2q^2$.
+
+$q^2 = 2(k^2)$
+
+Thus, $q^2$ is even, where $k = k^2$. - bit weird, but remember k is a variable
+
+As shown above, the square of any number’s parity (even or odd) is the same as the number’s parity. Therefore, $q$ is even.
+
+However, this means that both $p$ and $q$ are even, and this contradicts our initial assumption that there are no common factors between $p$ and $q$.
+
+Therefore, the statement $\sqrt{2} = \frac{p}{q}$ is false and thus $\sqrt{2}$ is not rational.
+
+Numbers like 0.012342342134 are rational, ($\frac{6171171067}{500000000000}$) and so are all the integers. Numbers like $\pi$ and $e$ are not rational. (they dont end)
+
+Thus, all numbers that are **not** natural, **not** integers and **not** rational, are **real** (for now). This includes:
+
+-   $\pi$
+-   $e$
+-   $\sqrt{3}$
+-   1234.1237481237410283750134681039...
+
+etc.
+
+$\mathbb{Z}^-$
+
+**Notation:**
+
+Name
+
+Symbol
+
+Natural
+
+⁍
+
+Integer
+
+⁍
+
+Rational
+
+⁍
+
+Real
+
+⁍
+
+**Extras:**
+
+Name
+
+Symbol
+
+Irrational
+
+⁍
+
+Complex
+
+⁍
+
+Positive Integers
+
+⁍
+
+Negative Integers
+
+⁍
+
+Imaginary
+
+i
+
+You can also say **not _** by placing a cross through the symbol like you would write $\neq$.

@@ -153,7 +153,7 @@ Similar horizontal line test to determine whether a function is a one to one fun
 
 1.  If there is a square root, then the insides of the square root must be greater than or equal to 0.
 
-e.g: $f(x) = sqrt(x)$ : Natural domain is ≥ 0 as if it were negative then you would create a complex number (i.e i (sqrt(-1)), which is NOT a real number)
+e.g: $f(x) = \sqrt{x}$ : Natural domain is ≥ 0 as if it were negative then you would create a complex number (i.e i (sqrt(-1)), which is NOT a real number)
 
 1.  If there is a fraction, the denominator must NOT be 0. (YOU CANNOT DIVIDE BY ZERO)
 
