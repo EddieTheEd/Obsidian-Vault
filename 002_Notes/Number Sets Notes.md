@@ -133,57 +133,21 @@ Thus, all numbers that are **not** natural, **not** integers and **not** rationa
 **You can also call them irrational**
 
 **Notation:**
-
 | Name     | Symbol |
 | -------- | ------ |
-| Natural  |  |
-| Integer  | ------ |
-| Rational |        |
-| Real   |        |
-Name
-
-Symbol
-
-Natural
-
-⁍
-
-Integer
-
-⁍
-
-Rational
-
-⁍
-
-Real
-
-⁍
+| Natural  | $\mathbb{N}$ |
+| Integer  | $\mathbb{Z}$ |
+| Rational |   $\mathbb{Q}$   |
+| Real   |     $\mathbb{R}$   |
 
 **Extras:**
 
-Name
+| Name              | Symbol |
+| ----------------- | ------ |
+| Irrational        |        |
+| Complex           |        |
+| Positive Integers |        |
+| Negative Integers |        |
+| Imaginary                  |        |
 
-Symbol
-
-Irrational
-
-⁍
-
-Complex
-
-⁍
-
-Positive Integers
-
-⁍
-
-Negative Integers
-
-⁍
-
-Imaginary
-
-i
-
-You can also say **not _** by placing a cross through the symbol like you would write $\neq$.
+You can also say **not** part of a set by placing a cross through the symbol like you would write $\neq$.
