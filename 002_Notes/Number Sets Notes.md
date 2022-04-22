@@ -107,15 +107,15 @@ $\therefore$ $p^2$ is an odd number, following the rule $p = 2k -1$
 
 in this case, $k = 2k^2 -2k+1$
 
-Given that $p^2$ is even, let $p = 2k$
+Now, as $p^2$ is even, and $p$ is even, let $p = 2r$
 
 Thus, our equation can be written as:
 
-$4k^2 = 2q^2$.
+$4r^2 = 2q^2$.
 
-$q^2 = 2(k^2)$
+$q^2 = 2(r^2)$
 
-Thus, $q^2$ is even, where $k = k^2$. - bit weird, but remember k is a variable
+Thus, $q^2$ is even, where $k = r^2$.
 
 As shown above, the square of any number’s parity (even or odd) is the same as the number’s parity. Therefore, $q$ is even.
 
