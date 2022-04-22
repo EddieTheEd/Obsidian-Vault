@@ -27,7 +27,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "2",
-    "downscalePercent": 77
+    "downscalePercent": 100
   },
   "showLineNumber": true,
   "spellcheckLanguages": [

@@ -124,7 +124,6 @@ However, this means that both $p$ and $q$ are even, and this contradicts our ini
 Therefore, the statement $\sqrt{2} = \frac{p}{q}$ is false and thus $\sqrt{2}$ is not rational.
 ```
 
-
 Numbers like 0.012342342134 are rational, ($\frac{6171171067}{500000000000}$) and so are all the integers. Numbers like $\pi$ and $e$ are not rational. (they cannot be expressed as a fraction)
 
 Thus, all numbers that are **not** natural, **not** integers and **not** rational, are **real** (for now). This includes:
@@ -138,6 +137,7 @@ Thus, all numbers that are **not** natural, **not** integers and **not** rationa
 Here's some general notation for these sets
 
 **Notation:**
+
 | Name     | Symbol |
 | -------- | ------ |
 | Natural  | $\mathbb{N}$ |
