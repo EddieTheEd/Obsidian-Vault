@@ -26,8 +26,8 @@
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
+    "margin": "2",
+    "downscalePercent": 77
   },
   "showLineNumber": true,
   "spellcheckLanguages": [
