@@ -15,7 +15,7 @@ Instead, lets look at the equation $y = x^2$:
 
 ![[Pasted image 20220422210133.png]]
 
-Looking at points 0 - 1, the y values increase by 1 (1 - 0). Hfrom 1 to 2om 1 - 2 it increases by 3. This means we cannot use a simple number to describe the gradient of this function.
+Looking at points 0 to 1, the y values increase by 1 (1 – 0). However, from 1 to 2 it increases by 3 (4-1). This means we cannot use a simple number to describe the gradient of this function.
 
 Now, let’s look at the function where x = 1. We’re looking for the gradient of this point, and:
 
@@ -27,7 +27,7 @@ Let’s choose point (4,2).
 
 The gradient using this point is: $\frac{4-1}{2-1}$ = 3.
 
-That’s good, but this point is really far away. If we’re looking for the gradient at a **particular point,** the closer we are to the point the better.
+That’s good, but this point is really far away (relatively). If we’re looking for the gradient at a **particular point,** the closer we are to the point the better.
 
 What about (1.05, 1.1025)?
 
@@ -41,7 +41,7 @@ Well, it looks pretty clear that the gradient at 1 is 2.
 
 How would we describe this using fancy words?
 
-Let’s day P is (1, 1), and Q is some point on this function.
+Let’s say P is (1, 1), and Q is some point on this function.
 
 We’d say that the **limit** of the gradient of the line (or chord) PQ (now we’re treating this line as a linear equation), as Q approaches P, appears to be 2.
 
@@ -49,7 +49,7 @@ We call this gradient the **instantaneous rate of change**. (instantaneous meani
 
 Great, we’ve stated that the gradient of a certain point is two. But wait a second. How can a point have a gradient, if it’s a stationary point?
 
-Well, it can’t really. But think of it like this.
+Well, it can’t. But think of it like this.
 
 Imagine we have a graph of a car’s distance travelled. The gradient of a point is essentially the velocity of this car. Velocity will increase when the distance function is steeper.
 
@@ -67,8 +67,7 @@ Thus, we should think of this rate of change not as **instantaneous,** but measu
 
 Now, lets look at the $y=x^2$ problem again.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c59fd21-d95a-4193-81c4-32a8f9f46298/Untitled.png)
-
+![[Pasted image 20220422210710.png]]
 Lets say the black and blue lines are a really small unit, h. In this case, the black line = h (run), and the blue line is a bit difficult.
 
 The point at the very top of this triangle is $f(x+h)$, where $f(x)=x^2$. This is because $f(x)$ is the output when given x, and x becomes x + h.
