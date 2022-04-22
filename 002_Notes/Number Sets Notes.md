@@ -4,22 +4,28 @@ Here is a pretty good set diagram I stole from the internet:
 
 (for now we ignore the complex stuff, its in the next part)
 
+![[Pasted image 20220422081915.png]]
 
 These are all the subsets for the **real** numbers
 
--   Real number: A value of a continuous quantity that can be represented as a distance on a line.
+```ad-note
+collapse: open
+-   Real numbers: A value of a continuous quantity that can be represented as a distance on a line.
     -   Note: continuous, as real numbers include 1 and 0.1357108375103759831...
-        -   Another note: did you know Georg Cantor proved that there are more real numbers between 0 and 1 than there are natural numbers stretching towards infinity? pretty cool
+
+```
+
+Within all the **real** numbers exists numerous **subsets** of numbers.
 
 These are the definitions for all the subsets:
 
 **Natural/Counting Numbers:**
 
-Numbers of which are used for counting.
+Numbers which are used for counting.
 
 Ask your teacher whether it starts at 0 or 1, however from those numbers they increase by 1 all the way to infinity, e.g. :
 
-$1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infin$
+1, 2,3,4,5,6,7,8,9,10,11 \ ... \ \infin$
 
 Note: this does not include negative numbers.
 
