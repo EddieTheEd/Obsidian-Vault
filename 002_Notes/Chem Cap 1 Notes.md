@@ -21,4 +21,4 @@ just so you know, i did **very** bad on this cap. probably cause i spent too muc
 
 ## Nanomaterials
 
-* [[Nanomaterials (Pearson + Lucarelli)]]
+* [[Nanomaterials]]
