@@ -144,12 +144,17 @@ Lucarelli :)
 	- As particle size decreases, surface area greatly increases.
 	- This means that more atoms/molecules can interact.
 	- Reactivity is generally higher in nanoparticles due to their larger surface area, creating unique properties, that are very different to their bulk material.
+	- Light has a wavelength of around 500 nanometers. This means that photons are significantly larger than nanoparticles, which can exist in dimensions as small as 1 nanometer.
+		- This means that light simply passes through nanomaterials, and **do not reflect**.
+	- This is called a **quantum effect**. Essentially, due to their very small size, nanoparticles interact uniquely with particles of radiation, like light (electromagnetic).
+	- Other forms of quantum effects exist. 
 	- Applications of nanotechnology include:
 		- Sunscreens
+			- 
 		- Special surfaces and coatings
 		- Nanocomposite materials
 		- Medicine
-	- However, it is important to be aware of certain safety issues and regul
+	- However, it is important to be aware of certain safety issues and regulations.
 
 
 [https://www.dummies.com/article/academics-the-arts/science/nanotechnology/why-you-want-nanotechnology-in-your-life-198989](https://www.dummies.com/article/academics-the-arts/science/nanotechnology/why-you-want-nanotechnology-in-your-life-198989)
