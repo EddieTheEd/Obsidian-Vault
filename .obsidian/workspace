@@ -19,9 +19,11 @@
         "id": "70f118cb544c4cf2",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Set Theory why.png"
+            "file": "002_Notes/Brilliant Course Complex Numbers.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -99,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set Theory why.png",
+                "file": "002_Notes/Brilliant Course Complex Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Theory why.png",
+                "file": "002_Notes/Brilliant Course Complex Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,12 +166,12 @@
   },
   "active": "70f118cb544c4cf2",
   "lastOpenFiles": [
-    "Set Theory why.png",
     "002_Notes/Brilliant Course Complex Numbers.md",
     "002_Notes/Spec Notes.md",
-    "Spec Yr 10/Specialist Yr 11.md",
-    "002_Notes/Chemistry Yr 11.md",
+    "002_Notes/Specialist Yr 11.md",
     "002_Notes/Hippocampus.md",
+    "001_Files/Set Theory why.png",
+    "002_Notes/Chemistry Yr 11.md",
     "002_Notes/Methods Yr 10.md",
     "000_UnsortedFiles/balmer is love, balmer is life.png",
     "001_Files/nice triangle.png",
