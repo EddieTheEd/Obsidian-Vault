@@ -7,3 +7,5 @@ Tags: [[Specialist Yr 11]]
 
 # Spec Notes
 
+[[Brilliant Course Complex Numbers]]
+
