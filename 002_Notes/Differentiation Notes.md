@@ -77,17 +77,15 @@ The point at the very top of this triangle is $f(x+h)$, where $f(x)=x^2$. This i
 
 The blue line would be equal to the value of the point at the top, minus the value of $f(x)$, or the point that we’re basing this off. i.e. The top right point minus the bottom left point. This makes the **rise** of the gradient $f(x+h) - f(x)$. (the difference between the 2 points)
 
-Now, the gradient formula is $\frac{Rise}{Run}$. Therefore, The gradient of these points that we’re chosen is:
+Now, the gradient formula is $\frac{Rise}{Run}$. Remember the run is the black line, which is essentially h. Therefore, The gradient of these points that we’re chosen is:
 
 $\frac{f(x+h)-f(x)}{h}$
 
-Remember that h is just some arbitrary point.
+Remember that h is just some arbitrary value that we're adding to a point (variable) to create 2 points.
 
 Now, we’ve said before that as the distance between these two points (on the x axis), we get closer to the gradient of the point.
 
-Likewise, we describe this as a **limit**, where something approaches zero, which would be the distance between the two points.
-
-But wait! We’re just said that the second point is x + h. Thus, h is the distance!
+Likewise, we describe this as a **limit**, where something approaches zero (in this case), which would be the distance between the two points.
 
 Now, we can write the formula as:
 
