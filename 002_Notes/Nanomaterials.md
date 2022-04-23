@@ -143,14 +143,16 @@ Lucarelli :)
 - **Nanotechnology**: 
 	- As particle size decreases, surface area greatly increases.
 	- This means that more atoms/molecules can interact.
-	- Reactivity is generally higher in nanoparticles due to their larger surface area, creating unique properties, that are very different to their bulk material.
-	- Light has a wavelength of around 500 nanometers. This means that photons are significantly larger than nanoparticles, which can exist in dimensions as small as 1 nanometer.
+	- Reactivity is generally higher in nanoparticles due to their larger surface area, creating unique properties, that are very different in their macro particle form.
+	- Light has a wavelength of around 500 nanometres. This means that photons are significantly larger than nanoparticles, which can exist in dimensions as small as 1 nanometre.
 		- This means that light simply passes through nanomaterials, and **do not reflect**.
 	- This is called a **quantum effect**. Essentially, due to their very small size, nanoparticles interact uniquely with particles of radiation, like light (electromagnetic).
-	- Other forms of quantum effects exist. 
+	- Other forms of quantum effects exist. *Cadmium selenide* produces different types of coloured light depending on particle size while being in a solution.
+		- This is different to macro particles of *Cadmium selenide*, which is insoluble and does not exhibit this range of colours.
 	- Applications of nanotechnology include:
 		- Sunscreens
-			- 
+			- Zinc oxide in its macro particle form is an effective absorber of UV light, which is why it is commonly used in sunscreens.
+			- However, zinc oxide in its macro particle form is also a white, opaque 
 		- Special surfaces and coatings
 		- Nanocomposite materials
 		- Medicine
