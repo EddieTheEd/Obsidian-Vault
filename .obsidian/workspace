@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Hippocampus.md",
+            "file": "002_Notes/Spec Notes.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chemclass",
+                "query": "tag:#methods",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "002_Notes/Spec Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "002_Notes/Spec Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,15 +167,15 @@
   },
   "active": "70f118cb544c4cf2",
   "lastOpenFiles": [
+    "002_Notes/Spec Notes.md",
+    "Spec Yr 10/Specialist Yr 11.md",
+    "002_Notes/Chemistry Yr 11.md",
     "002_Notes/Hippocampus.md",
+    "002_Notes/Methods Yr 10.md",
     "000_UnsortedFiles/balmer is love, balmer is life.png",
     "001_Files/nice triangle.png",
     "002_Notes/Chemistry Stoichiometry Notes.md",
     "002_Notes/Differentiation Notes.md",
-    "002_Notes/Notes.exe.md",
-    "002_Notes/Methods Yr 10.md",
-    "002_Notes/Number Sets Notes.md",
-    "002_Notes/Chemistry Yr 11.md",
-    "000_UnsortedFiles/Pasted image 20220422081915.png"
+    "002_Notes/Notes.exe.md"
   ]
 }
