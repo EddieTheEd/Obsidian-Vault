@@ -152,7 +152,8 @@ Lucarelli :)
 	- Applications of nanotechnology include:
 		- Sunscreens
 			- Zinc oxide in its macro particle form is an effective absorber of UV light, which is why it is commonly used in sunscreens.
-			- However, zinc oxide in its macro particle form is also a white, opaque 
+			- However, zinc oxide in its macro particle form is also a white, opaque substance.
+			- Zinc oxide as nanoparticles becomes *transparent*, as a result of a unique **quantum effect**.
 		- Special surfaces and coatings
 		- Nanocomposite materials
 		- Medicine
