@@ -138,7 +138,18 @@ Lucarelli :)
 * In general, the properties (physical + chemical) of bulk materials remains constant regardless of size.
 * However, as particle size becomes small, then properties can change drastically.
 
-- A nanoparticle is a particle that has at least 1 dimension within the nanoscale (1 - 100 nm).
+- A nanoparticle is a particle that has at least 1 dimension within the nanoscale (1 - 100 nm (1 nm -> $1 \times 10^{-9}$m)).
+
+- **Nanotechnology**: 
+	- As particle size decreases, surface area greatly increases.
+	- This means that more atoms/molecules can interact.
+	- Reactivity is generally higher in nanoparticles due to their larger surface area, creating unique properties, that are very different to their bulk material.
+	- Applications of nanotechnology include:
+		- Sunscreens
+		- Special surfaces and coatings
+		- Nanocomposite materials
+		- Medicine
+	- However, it is important to be aware of certain safety issues and regul
 
 
 [https://www.dummies.com/article/academics-the-arts/science/nanotechnology/why-you-want-nanotechnology-in-your-life-198989](https://www.dummies.com/article/academics-the-arts/science/nanotechnology/why-you-want-nanotechnology-in-your-life-198989)
