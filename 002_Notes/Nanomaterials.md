@@ -134,6 +134,13 @@ Lucarelli :)
 -   Very hard to make:
     -   **The production of nanomaterials requires a complex design and production infrastructure. There are numerous means to create nanoparticles, however they are usually very expensive and exclusive.**
 
+**WACE Study Guide Review:**
+* In general, the properties (physical + chemical) of bulk materials remains constant regardless of size.
+* However, as particle size becomes small, then properties can change drastically.
+
+- A nanoparticle is a particle that has at least 1 dimension within the nanoscale (1 - 100 nm).
+
+
 [https://www.dummies.com/article/academics-the-arts/science/nanotechnology/why-you-want-nanotechnology-in-your-life-198989](https://www.dummies.com/article/academics-the-arts/science/nanotechnology/why-you-want-nanotechnology-in-your-life-198989)
 
 [[IJSO_Bohr__Spectra_and_the_Quantum_Atom_4.pdf]]
