@@ -67,7 +67,7 @@ Thus, we should think of this rate of change not as **instantaneous,** but measu
 
 Now, lets look at the $y=x^2$ problem again.
 
-![[Pasted image 20220422210710.png]]
+![[nice triangle.png]]
 
 Lets say the black and blue lines represent a **really** small change in value. In this case, we'll let the length of the black lines = h (run), and we'll think about the blue lines later.
 

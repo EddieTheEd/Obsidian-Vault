@@ -61,7 +61,7 @@ Balmer series refers to the possible promotions of electrons that produce visibl
 
 Balmer goes from **n = 2** to whatever the largest electron shell is.
 
-![[400px-Hydrogen_transitions.svg 1.png]]
+![[balmer is love, balmer is life.png]]
 ![[Pasted image 20220407112928.png]]
 
 Further Reading:

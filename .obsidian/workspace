@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chemistry Stoichiometry Notes.md",
+            "file": "002_Notes/Hippocampus.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chemistry Stoichiometry Notes.md",
+                "file": "002_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chemistry Stoichiometry Notes.md",
+                "file": "002_Notes/Hippocampus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,15 +166,15 @@
   },
   "active": "70f118cb544c4cf2",
   "lastOpenFiles": [
+    "002_Notes/Hippocampus.md",
+    "000_UnsortedFiles/balmer is love, balmer is life.png",
+    "001_Files/nice triangle.png",
     "002_Notes/Chemistry Stoichiometry Notes.md",
     "002_Notes/Differentiation Notes.md",
     "002_Notes/Notes.exe.md",
     "002_Notes/Methods Yr 10.md",
     "002_Notes/Number Sets Notes.md",
     "002_Notes/Chemistry Yr 11.md",
-    "000_UnsortedFiles/Pasted image 20220422081915.png",
-    "003_Templates/Chem Study Notes.md",
-    "003_Templates/Chem Topic Format.md",
-    "003_Templates/Methods Yr 10 Format.md"
+    "000_UnsortedFiles/Pasted image 20220422081915.png"
   ]
 }
