@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Nanomaterials.md",
+            "file": "002_Notes/English Podcast Draft 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Nanomaterials.md",
+                "file": "002_Notes/English Podcast Draft 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Nanomaterials.md",
+                "file": "002_Notes/English Podcast Draft 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +143,7 @@
   },
   "active": "10b4c715891a5e2b",
   "lastOpenFiles": [
+    "002_Notes/English Podcast Draft 2.md",
     "002_Notes/Nanomaterials.md",
     "002_Notes/Differentiation Notes.md",
     "002_Notes/Nanomaterials (Pearson + Lucarelli).md",
@@ -151,7 +152,6 @@
     "002_Notes/Untitled.md",
     "002_Notes/Brilliant Course Complex Numbers.md",
     "002_Notes/Spec Notes.md",
-    "002_Notes/Specialist Yr 11.md",
-    "002_Notes/Hippocampus.md"
+    "002_Notes/Specialist Yr 11.md"
   ]
 }
