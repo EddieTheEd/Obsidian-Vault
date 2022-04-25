@@ -29,6 +29,8 @@ For those saying that we took the coward's way out, I assure you this was more p
 
 (Storm music, boat images)
 
+The voyage was heartless, with the waves thundering like the artillery shells back at home. It was as if I had never left. The suffocating winds of salt were overcome by the smell of vomit. This was a struggle that everyone onboard experienced, for months on end. Not everyone made it through. My grandmother would pass away a few kilometres from the shores of Australia.
+
 **Host:** Wow. I'm deeply sorry for your loss.
 
 **Hải Minh:** She was one of the lucky ones. She was buried in Australia. Those that died before would be thrown into the sea. Their graves being the vast waterbed of the Pacific. Our family went through all this pain and suffering, just to make it to Australia. To have a new life, one free from authority. For them, the risk of dying thousands of kilometres away from home was worth it. 

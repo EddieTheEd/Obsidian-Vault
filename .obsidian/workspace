@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000_UnsortedFiles/Join if you want aids.md",
+            "file": "002_Notes/English Podcast Transcript Brainstorm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e5549fab8e6350de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Podcast Draft 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "61bb6cdc04eb7b75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Podcast Draft 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_UnsortedFiles/Join if you want aids.md",
+                "file": "002_Notes/English Podcast Draft 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -89,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_UnsortedFiles/Join if you want aids.md",
+                "file": "002_Notes/English Podcast Draft 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,23 +159,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "10b4c715891a5e2b",
+  "active": "61bb6cdc04eb7b75",
   "lastOpenFiles": [
+    "002_Notes/English Podcast Draft 2.md",
+    "002_Notes/English Podcast Draft 1.md",
+    "002_Notes/English Podcast Transcript Brainstorm.md",
+    "002_Notes/The Periodic Table.md",
+    "002_Notes/Chemistry Yr 11.md",
+    "002_Notes/Electron Configuration.md",
+    "002_Notes/Chem Yr 10.md",
     "000_UnsortedFiles/Join if you want aids.md",
     "002_Notes/Hippocampus.md",
-    "002_Notes/English Podcast Transcript Brainstorm.md",
-    "002_Notes/English Podcast Draft 2.md",
-    "002_Notes/Nanomaterials.md",
-    "002_Notes/Differentiation Notes.md",
-    "002_Notes/Nanomaterials (Pearson + Lucarelli).md",
-    "002_Notes/Chem Cap 1 Notes.md",
-    "002_Notes/Chemistry Yr 11.md",
-    "002_Notes/Untitled.md"
+    "002_Notes/Nanomaterials.md"
   ]
 }
