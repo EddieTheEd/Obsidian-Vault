@@ -21,6 +21,8 @@ Tags: [[Separation Techniques]]
 
 i still dont know how to write a good method
 
+# :)
+
 ---
 ## Recall
 

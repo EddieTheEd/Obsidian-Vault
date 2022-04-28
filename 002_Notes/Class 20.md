@@ -15,8 +15,8 @@ Tags: [[Covalent Bonding]][[Intermolecular Forces]]
 
 
 **Covalent bonding:**
-* Discrete molecules: Cl_2, H_2, CO_2, HCl
-* Network: C_{(s)}, Si 
+* Discrete molecules: $Cl_2, H_2, CO_2, HCl$
+* Network: $C_{(s)}, Si$
 
 **Dispersion forces:** exists between all molecules and arises due to very weak electrostatic attraction between induces and temporary dipoles. e.g. Random motion of electrons creates areas in a molecule that are slightly negative and slightly charged.
 
@@ -33,7 +33,7 @@ What makes nitrogen very inert?
 
 Nitrogen gas bonds in triple bonds. Therefore, to make nitrogen do anything, you need to break a relatively strong triple bond.
 
-**NOTE: Pyramidal bond angle is 107 degrees, Trigonal planar is 120 degrees. RESEARCH OCTET EXPANSION**
+**NOTE: Pyramidal bond angle is 107 degrees, Triangular planar is 120 degrees. RESEARCH OCTET EXPANSION**
 
 
 

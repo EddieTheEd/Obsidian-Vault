@@ -31,7 +31,7 @@ Tags: [[Chemistry Yr 11]]
 * The 's' subshells holds a maximum of 2 electrons.
 * The 'p' subshells holds a maximum of 6 electrons.
 * The 'd' subshells holds a maximum of 10 electrons.
-* The 'f' subshells holds a maximum of 10 electrons
+* The 'f' subshells holds a maximum of 14 electrons
 
 **Valency:**
 * The **combining power** of an atom, is equal to **the number of hydrogen atoms** it could combine/displace.

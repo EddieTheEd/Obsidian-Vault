@@ -21,7 +21,8 @@
     "Dutton",
     "Hải",
     "Minh",
-    "Isoelectronic"
+    "Isoelectronic",
+    "Nausicaa"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -35,5 +36,5 @@
   ],
   "tabSize": 4,
   "communityPluginSortOrder": "download",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": true
 }

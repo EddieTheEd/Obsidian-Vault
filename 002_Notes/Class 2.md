@@ -21,7 +21,7 @@ Objective 8 - Properties of matter:
 Sodium chloride is a lot of sodium ions attracted to chloride ions, which are attracted to sodium ions. This forms NaCl as a lattice (Note: lattice only refers to ionic compounds), as these ions occur in an equal ratio.
 
 -   **Molecules: Elements bonded covalently.**
--   e.g. $Cl_2$ is not a molecule
+-   e.g. $Cl_2$ is a molecule
 -   $SO_2$ is a molecule. also, it is a compound.
 
 **Atom:**

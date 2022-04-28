@@ -28,6 +28,8 @@ Status : #chemclassnotes
 * [[Class 22]]
 * [[Class 23]]
 * [[Class 24]]
+* [[Class 25]]
+* [[Class 26]]
 
 ---
 **Chem Yr 10 Class Notes**

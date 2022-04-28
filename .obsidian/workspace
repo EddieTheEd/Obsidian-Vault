@@ -4,36 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "10b4c715891a5e2b",
+        "id": "2ce31fb6c591c6e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Podcast Transcript Brainstorm.md",
+            "file": "002_Notes/Chemistry Definitions.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "e5549fab8e6350de",
+        "id": "1fb334ff1d1ba244",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Podcast Draft 1.md",
+            "file": "002_Notes/Chemistry Definitions.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "61bb6cdc04eb7b75",
+        "id": "95934cc274f795d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Podcast Draft 2.md",
+            "file": "002_Notes/Chemistry Test 2 Objectives.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "de0ed90962fea930",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/How to write a good method.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2dbf132aa2969b82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Electron Configuration.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9f8b44b5bcb9731c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Class 2.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#methods",
+                "query": "\"![[Pasted image 20220331135611.png]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,10 +118,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "9f19db2a1e5dd589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c28bebf88cd38b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002_Notes/Chemistry Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 140.50816345214844
+    "width": 140.50816345214844,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -101,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/English Podcast Draft 2.md",
+                "file": "002_Notes/Chemistry Test 2 Objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/English Podcast Draft 2.md",
+                "file": "002_Notes/Chemistry Test 2 Objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +220,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "61bb6cdc04eb7b75",
+  "active": "95934cc274f795d2",
   "lastOpenFiles": [
-    "002_Notes/English Podcast Draft 2.md",
-    "002_Notes/English Podcast Draft 1.md",
-    "002_Notes/English Podcast Transcript Brainstorm.md",
-    "002_Notes/The Periodic Table.md",
-    "002_Notes/Chemistry Yr 11.md",
+    "002_Notes/Chemistry Test 2 Objectives.md",
     "002_Notes/Electron Configuration.md",
-    "002_Notes/Chem Yr 10.md",
-    "000_UnsortedFiles/Join if you want aids.md",
-    "002_Notes/Hippocampus.md",
-    "002_Notes/Nanomaterials.md"
+    "002_Notes/Chemistry Definitions.md",
+    "002_Notes/Class 18.md",
+    "002_Notes/Chem Class Notes.md",
+    "002_Notes/Class 2.md",
+    "002_Notes/Class 5.md",
+    "002_Notes/Class 4.md",
+    "002_Notes/English Visual Text Notes.md",
+    "002_Notes/Class 3.md"
   ]
 }

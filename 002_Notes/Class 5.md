@@ -71,7 +71,7 @@ Next part:
 
 -   **Solution:** A mixture in which the solute particles are homogenously distributed throughout particles of solvent
     
-    -   Can be solid (e.g. Bronze), liquid (e.g. Sea water) or gas (e.g. Air)
+    -   Can be solid (e.g. Bronze(Metal alloys)), liquid (e.g. Sea water) or gas (e.g. Air)
 -   **Aqueous Solution:** Liquid solution where the solvent is water
     
 -   **Solvent:** The major component of a solution by mass

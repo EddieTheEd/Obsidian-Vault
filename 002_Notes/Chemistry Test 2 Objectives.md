@@ -4,14 +4,14 @@ Status: #chemclass
 **Updated as of 11/03/2022**
 
 *Essential Chemistry Skills*
-1. Represent ions using formulae which include the number of constituent atoms and the charge on the ion.
-2. Recognise, name and write the formulae of a range of ions. [[Appendix 1 Ions & Molecules.png]]
-3. Determine the formulae of ionic compound from the formulae of their constituent ions [[Appendix 1 Ions & Molecules.png]]
-4. Use molecular formulae to represent the number and type of atoms in a covalent molecule, and recognise some common covalent molecular substances [[Appendix 1 Ions & Molecules.png]]
-5. Write and use balanced chemical equations to represent chemical reactions.
-6. Define the mole as a preciely defined quantity of matter, equal to Avogadro's numbe of particles.
-7. Use Avogadro's number to convert between number of particles and moles, and vice versa.
-8. Use the relationship between mass, molar mass and number of moles to convert between moles and mass, and vise versa.
+1. ==Represent ions using formulae which include the number of constituent atoms and the charge on the ion.==
+2. ==Recognise, name and write the formulae of a range of ions. [[Appendix 1 Ions & Molecules.png]]==
+3. ==Determine the formulae of ionic compound from the formulae of their constituent ions [[Appendix 1 Ions & Molecules.png]]==
+4. ==Use molecular formulae to represent the number and type of atoms in a covalent molecule, and recognise some common covalent molecular substances [[Appendix 1 Ions & Molecules.png]]==
+5. ==Write and use balanced chemical equations to represent chemical reactions.==
+6. ==Define the mole as a precisely defined quantity of matter, equal to Avogadro's number of particles.==
+7. ==Use Avogadro's number to convert between number of particles and moles, and vice versa.==
+8. ==Use the relationship between mass, molar mass and number of moles to convert between moles and mass, and vise versa.==
 
 *Properties of Matter*
 
@@ -20,7 +20,7 @@ Status: #chemclass
 11. Distinguish between pure substances (elements and compounds), homogenous mixtures and heterogeneous mixtures.
 12. Explain the relationship between the identity and relative amounts of substances in a solution, and its properties.
 13. Explain how differences in physical properties of substances in a mixture can be used to separate them.
-14. Describe a range of separating techniques, and explain whcih physical property is utilised in the method of separation, including: filtration, decanting, use of separating funnel, recrystallization, distillation and fractional distilation. [[Review Note 1]]
+14. Describe a range of separating techniques, and explain which physical property is utilised in the method of separation, including: filtration, decanting, use of separating funnel, recrystallization, distillation and fractional distilation. [[Review Note 1]]
 15. **Use knowledge of separating techniques to devise methods to separate mixtures of substances**
 16.  *Conduct experimental separation techniques safely, competently and methodically.*
 
@@ -29,7 +29,7 @@ Status: #chemclass
 17. Describe what nanomaterials are.
 18. State and describe how the properties of nanomaterials may differ from the properties of the bulk material, and give examples.
 19. Identify uses of nanomaterials and suggest advantages and disadvantages to their use.
-20. *Describe the potential health risks associated with the usen of nanoparticles.*
+20. *Describe the potential health risks associated with the uses of nanoparticles.*
 21. *Describe and explain examples of environmental concerns associated with the use of nanomaterials.*
 22. ***Provide a balanced discussion of the advantages and disadvantages of nanomaterials.***
 
@@ -42,7 +42,7 @@ Status: #chemclass
 	3. Rutherford
 	4. Bohr
 	5. Chadwick
-25. *Explain how developments in technology have contributed to oru understanding of the model of the atom.
+25. *Explain how developments in technology have contributed to our understanding of the model of the atom.
 26. *Research and communicate scientific ideas effectively in the format of a scientific report, including correct referencing of sources.*
 27. Describe the structure of the atom, including the locations of sub-atomic particles, holding the electrons to the nucleus.
 28. Describe the properties of protons, neutrons and electrons, including relative mass and charge.
@@ -71,7 +71,7 @@ Status: #chemclass
 *The Periodic Table*
 
 47. Explain how the arrangement of the periodic table is based on the atomic numb of the elements.
-48. Describe the relationship between position on the periodic table and electronic arrangement, including the relationship between group and numbe of valence electrons, and between period and number of occupied electron shells.
+48. Describe the relationship between position on the periodic table and electronic arrangement, including the relationship between group and number of valence electrons, and between period and number of occupied electron shells.
 49. Use electron configuration to identify and atom or ion and its location in the periodic table, and infer its chemical properties.
 50. Describe and explain the relationship between electronic structure and chemical properties and reactivity, for elements in groups **1, 2, 13 - 18**
 51. Explain the trends in reactivity for groups **1, 2, 16 & 17**
@@ -123,54 +123,3 @@ Status: #chemclass
 	2. hardness and brittleness
 	3. thermal conductivity
 	4. electrical conductivity
-
-*Intermolecular Forces*
-
-75. Describe the difference between intramolecular bonding and intermolecular forces.
-76. Compare the relative strength of ionic, covalent and metallic bonding with intermolecular forces.
-77. Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules.
-78. Describe how dispersion forces arise in al substances, and explain how molecular shapes, and number of atoms affect the strength of dispersion forces.
-79. Use knowledge of electronegativity to establish bond polarity.
-80. Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules.
-81. Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces.
-82. Describe how hydrogen bonding arises, and explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding.
-83. Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules.
-84. Compare the relative strengths of the types of intermolecular forces.
-85. Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance.
-86. Explain how the physical properties of covalent molecular substances spends on the strength of intermolecular forces, including:
-	1. melting and boiling point
-	2. vapour pressure
-	3. solubility in water and organic solvent
-87. Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
-
-*Chromatography*
-
-88. Describe the general principles of chromatography, including the role of the stationary and mobile phrases.
-89. Explain the importance of intermolecular forces in the chromatography process.
-90. Explain how chromatography can be used to separate and identify the component of a mixture.
-91. Use knowledge of the polarity of the components of a mixture to be separated to select a chromatographic method for separation.
-92. Apply the general principles of chromatography to the following techniques:
-	1. Paper chromatography
-	2. Thin-layer chromatography (TLC)
-	3. Gas chromatography (GC)
-	4. High-performance liquid chromatography (HPLC)
-93. *Analyse data from a range of chromatographic methods to determine the composition and purity of a substance.*
-
-*Solubility*
-
-94. Explain the unique properties of water using understanding of its molecular shape and ability to form hydrogen bonds, including:
-	1. anomalous melting and boiling points
-	2. relative density of solid and liquid states
-	3. surface tension, viscosity, cohesive and adhesive forces
-95. Classify solvents as polar or non-polar, and solutes as ionic, polar and non-polar.
-96. Identify and describe interactions between solvent and solute, and use this to predict whether a solution will form.
-97. Describe and explain how ion-dipole forces form in solution, and use this to explain why ionic solutes are often soluble in water or other polar solvents.
-98. Describe solutions using the terms saturated, unsaturated or supersaturated, and use these ideas to describe the concentration of a solution.
-99. Describe the concentration of a substance using moles per litre of solution (mol $L^{-1}$), mass per litre of solution (g $L^{-1}$) or parts per million (ppm)
-100. Convert concentrations between different units listed above.
-101. Draw, interpret and analyse solubility graphs for solids and gasses.
-102. Draw, interpret and analyse solubility graphs for solids and gasses.
-103. Use understanding of solubility, along with the data tables, to predict whether solutions will form a precipitate.
-104. Write equations to show only the reacting species and products made in a reaction, including net ionic equations for precipitation reactions.
-105. Tive observations for reactions involving solutions, solids and precipitates, with colours of solutions and solids, using the Data Booklet.
-106. *Conduct experimental work safely, competently and methodically to determine solubility of ionic compounds.*
