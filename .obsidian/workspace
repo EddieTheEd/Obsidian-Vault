@@ -4,72 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2ce31fb6c591c6e5",
+        "id": "abc92e519cdf9bc0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chemistry Definitions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1fb334ff1d1ba244",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chemistry Definitions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "95934cc274f795d2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chemistry Test 2 Objectives.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "de0ed90962fea930",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/How to write a good method.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2dbf132aa2969b82",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Electron Configuration.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9f8b44b5bcb9731c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Class 2.md",
+            "file": "002_Notes/English Visual Text Notes.md",
             "mode": "source",
             "source": false
           }
@@ -100,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"![[Pasted image 20220331135611.png]]\"",
+                "query": "tag:#chemclass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,24 +58,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9f19db2a1e5dd589",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c28bebf88cd38b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002_Notes/Chemistry Definitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -146,42 +68,6 @@
     "id": "ea8decc1ffb8d3db",
     "type": "split",
     "children": [
-      {
-        "id": "26d96d30da489d24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "314d062e002ab917",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "002_Notes/Chemistry Test 2 Objectives.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5f183adc773d58aa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "002_Notes/Chemistry Test 2 Objectives.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
       {
         "id": "7cac248ef4d63719",
         "type": "tabs",
@@ -206,11 +92,40 @@
             }
           },
           {
-            "id": "137445826f44503b",
+            "id": "ef78d026f553d807",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "314d062e002ab917",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "002_Notes/English Visual Text Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f183adc773d58aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002_Notes/English Visual Text Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -218,19 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 180.48313903808594
+    "width": 180.48313903808594,
+    "collapsed": true
   },
-  "active": "95934cc274f795d2",
+  "active": "abc92e519cdf9bc0",
   "lastOpenFiles": [
-    "002_Notes/Chemistry Test 2 Objectives.md",
-    "002_Notes/Electron Configuration.md",
-    "002_Notes/Chemistry Definitions.md",
-    "002_Notes/Class 18.md",
-    "002_Notes/Chem Class Notes.md",
-    "002_Notes/Class 2.md",
-    "002_Notes/Class 5.md",
-    "002_Notes/Class 4.md",
     "002_Notes/English Visual Text Notes.md",
-    "002_Notes/Class 3.md"
+    "002_Notes/Hippocampus.md",
+    "002_Notes/Chemistry Test 2 Objectives.md",
+    "002_Notes/Chem Class Notes.md",
+    "002_Notes/Chem Yr 10.md",
+    "002_Notes/Periodic Table and Bonding.md",
+    "002_Notes/History of the Atomic Model Notes.md",
+    "002_Notes/History of the Atomic Model.md",
+    "002_Notes/Chemistry Definitions.md",
+    "002_Notes/Review Note 1.md"
   ]
 }

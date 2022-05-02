@@ -100,8 +100,8 @@ why learn, when you can just inject information into your brain?
 - **Covalent Network Bonding:**
 	- **High Melting and Boiling Points**
 		- Within a covalent network substance, strong covalent bonds exist between all atoms within the structure. For this structure to be disrupted, a large amount of **particle kinetic energy** is required. As energy is proportional to temperature, covalent network substances will have a very high melting/boiling point.
-		- **Hardness and Brittleness**
-			- A lot of force is required to disrupt atoms in a covalent network substance. Thus, these substances are hard and brittle, as applying such a force would fracture the network.
+	- **Hardness and Brittleness**
+		- A lot of force is required to disrupt atoms in a covalent network substance. Thus, these substances are hard and brittle, as applying such a force would fracture the network.
 	- **Thermal and Electrical Conductivity**
 		- Thermal:
 			- To conduct heat, a substance must contain mobile particles to carry kinetic energy. Electrons are rigid in the covalent network structure, either as part of lone pairs or bonding pairs. The atoms are also held in place. Thus, there are no mobile particles present to carry kinetic energy and thus these substances are thermally non-conductive.

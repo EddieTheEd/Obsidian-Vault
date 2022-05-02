@@ -15,12 +15,12 @@ Status: #chemclass
 
 *Properties of Matter*
 
-9. Define what is meant by a pure substance, and describe their common properties, including melting and boiling points, hardness and density.
-10. State and compare the characteristics of homogenous and heterogeneous substances.
-11. Distinguish between pure substances (elements and compounds), homogenous mixtures and heterogeneous mixtures.
-12. Explain the relationship between the identity and relative amounts of substances in a solution, and its properties.
-13. Explain how differences in physical properties of substances in a mixture can be used to separate them.
-14. Describe a range of separating techniques, and explain which physical property is utilised in the method of separation, including: filtration, decanting, use of separating funnel, recrystallization, distillation and fractional distilation. [[Review Note 1]]
+9. ==Define what is meant by a pure substance, and describe their common properties, including melting and boiling points, hardness and density.==
+10. ==State and compare the characteristics of homogenous and heterogeneous substances.==
+11. ==Distinguish between pure substances (elements and compounds), homogenous mixtures and heterogeneous mixtures.==
+12. ==Explain the relationship between the identity and relative amounts of substances in a solution, and its properties.==
+13. ==Explain how differences in physical properties of substances in a mixture can be used to separate them.==
+14. Describe a range of separating techniques, and explain which physical property is utilised in the method of separation, including: filtration, decanting, use of separating funnel, recrystallisation, distillation and fractional distillation. [[Review Note 1]]
 15. **Use knowledge of separating techniques to devise methods to separate mixtures of substances**
 16.  *Conduct experimental separation techniques safely, competently and methodically.*
 
@@ -70,7 +70,7 @@ Status: #chemclass
 
 *The Periodic Table*
 
-47. Explain how the arrangement of the periodic table is based on the atomic numb of the elements.
+47. Explain how the arrangement of the periodic table is based on the atomic number of the elements.
 48. Describe the relationship between position on the periodic table and electronic arrangement, including the relationship between group and number of valence electrons, and between period and number of occupied electron shells.
 49. Use electron configuration to identify and atom or ion and its location in the periodic table, and infer its chemical properties.
 50. Describe and explain the relationship between electronic structure and chemical properties and reactivity, for elements in groups **1, 2, 13 - 18**
@@ -111,7 +111,7 @@ Status: #chemclass
 
 68. Describe a covalent bond as a shared pair of electrons, resulting in electrostatic attraction between positive nuclei of the atoms and the shared electron pair.
 69. Draw Lewis structures for covalent molecules, showing both bonding pairs and lone pairs of electrons.
-70. Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shpae of molecules and polyatomic ions.
+70. Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shape of molecules and polyatomic ions.
 71. Explain the physical properties of covalent molecular substances, including:
 	1. low melting and boiling points
 	2. non-conductivity

@@ -57,3 +57,21 @@ Nausicaa with wings
 
 Underground:
 * Serene beauty of underground in contrast to the poisoned wasteland above.
+
+Empire invades the valley of the wind (30min in)
+- Symbolic meaning of the valley of the wind? 
+	- Connection with nature.
+	- Good guys, like the greens party.
+	- Human balance between mankind and nature.
+
+Flag:
+* Sword: represents belligerence.
+* Snakes: embodiment of sin, deception, etc.
+* Red colour: blood? Anger, war etc.
+
+Speech:
+* Peace, but just murdered a guy.
+* Power imbalance.
+* Misinformation about the jungle.
+
+Through the use of symbolism, the film represents the contemporary issue of an uncontrolled, endangering 

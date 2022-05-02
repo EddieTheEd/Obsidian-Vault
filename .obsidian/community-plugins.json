@@ -7,5 +7,6 @@
   "obsidian-languagetool-plugin",
   "quick-latex",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "persistent-graph"
 ]

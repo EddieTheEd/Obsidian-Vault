@@ -2,6 +2,11 @@
 	
 	¯\_(ツ)_/¯ maybe this works maybe it doesnt, but christian choe based
 
+NOTE TO SELF:
+1. Press Ctrl + P
+2. Type 'res'
+3. Press enter
+
 If you're reading this:
 	Hello! You're inside my brain right now. Must feel pretty cool, huh?
 	Anyway, the whole point of this conversation right now is so that I can discuss with you how I'm going to organise this obsidian vault.

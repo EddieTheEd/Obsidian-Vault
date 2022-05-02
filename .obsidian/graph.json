@@ -1,10 +1,10 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -39,14 +39,14 @@
       "query": "tag:#chemclass",
       "color": {
         "a": 1,
-        "rgb": 16756224
+        "rgb": 16706064
       }
     },
     {
       "query": "tag:#chemtopic",
       "color": {
         "a": 1,
-        "rgb": 16756224
+        "rgb": 16711680
       }
     },
     {
@@ -59,14 +59,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 1.83105413105413,
-  "lineSizeMultiplier": 0.42463768115942,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 2.5692835118468,
+  "lineSizeMultiplier": 2.72196121389159,
   "collapse-forces": true,
-  "centerStrength": 0.498575498575499,
-  "repelStrength": 14.5299145299145,
-  "linkStrength": 0.458689458689459,
-  "linkDistance": 200,
-  "scale": 0.08198169343321395,
+  "centerStrength": 0.370288248337029,
+  "repelStrength": 12.0919919558604,
+  "linkStrength": 0.515495281802712,
+  "linkDistance": 123,
+  "scale": 0.1432995458693303,
   "close": true
 }
