@@ -74,4 +74,4 @@ Speech:
 * Power imbalance.
 * Misinformation about the jungle.
 
-Through the use of symbolism, the film represents the contemporary issue of an uncontrolled, endangering 
+Through the use of symbolism, the film represents the contemporary issue of climate change as a result of technological negligence. In the film, large metallic warships from the Tolmekian Empire aggressively attack the Valley of the Wind, smashing through a windmill. This emotionless destruction of the windmill symbolises the Tolmekian's strength and dominance over the Valley of the Wind, and their ideals of human connection with nature. Furthermore, the extensive symbolism of metal within the Tolmekian ranks highlights a lack of sympathy and attention to nature. This dehumanises the Tolmekians, presenting their relationship with metal and by extension technology as detrimental to nature. Thus, by utilising symbolism, the text represents two societies at odds regarding the prevalence of climate change.

@@ -9,12 +9,11 @@ notes go brr #subject
 
 **Notes In Production**
 * [[Chemistry Stoichiometry Notes]]
-* [[Redox Notes]]
-* [[Stoich Notes 2]]
 * [[Sadler 1 Notes]]
 * [[Number Sets Notes]]
 * [[Sadler 2 Notes]]
 * [[Differentiation Notes]]
+* [[Chem Topic Test 1 Notes]]
 
 
 * [[Spec Notes]]
