@@ -9,7 +9,7 @@
   },
   "weekly": {
     "format": "",
-    "template": "003_",
+    "template": "",
     "folder": "",
     "enabled": true
   },
