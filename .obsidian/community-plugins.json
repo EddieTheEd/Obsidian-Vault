@@ -8,5 +8,8 @@
   "quick-latex",
   "obsidian-style-settings",
   "obsidian-git",
-  "persistent-graph"
+  "persistent-graph",
+  "customjs",
+  "dataview",
+  "obsidian-dynamic-toc"
 ]
