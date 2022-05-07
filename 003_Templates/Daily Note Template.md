@@ -2,7 +2,7 @@
 <% tp.file.include("[[Frontmatter Template]]") %>
  - "#calendar/daily/<% tp.date.now("YYYY") %>"
 
-banner: "![[<% tp.date.now('YYYY MMMM') %> Banner.jpg]]"
+banner: "![[]]"
 ---
 
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
