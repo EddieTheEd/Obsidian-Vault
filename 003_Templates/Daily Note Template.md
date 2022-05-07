@@ -5,7 +5,7 @@
 
 banner: "![[dailynotesbanner.png]]"
 ---
-*Credit to *
+*Credit to u/Diictodom, Battle of the Yellow Sea by Kobayashi Kiyochika*
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
 
 [[<% tp.date.yesterday("YYYY-MM-DD") %>|↶ Previous Day]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>|Following Day ↷]]

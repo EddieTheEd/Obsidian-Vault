@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003_Templates/Daily Note Template.md",
+            "file": "003_Templates/Weekly Note Template.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003_Templates/Daily Note Template.md",
+                "file": "003_Templates/Weekly Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003_Templates/Daily Note Template.md",
+                "file": "003_Templates/Weekly Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "060f69965be650ea",
   "lastOpenFiles": [
-    "003_Templates/Daily Note Template.md",
+    "003_Templates/Weekly Note Template.md",
     "003_Templates/Idea.md",
+    "003_Templates/Daily Note Template.md",
     "002_Notes/Class 7.md",
     "002_Notes/Chem Topic Test 1 Notes.md",
     "002_Notes/Chem Y10 Objectives.md",
     "002_Notes/Number Sets Notes.md",
     "Pasted image 20220505140713.png",
     "002_Notes/Class 29.md",
-    "002_Notes/Chemistry Definitions.md",
-    "002_Notes/History of the Atomic Model Notes.md"
+    "002_Notes/Chemistry Definitions.md"
   ]
 }
