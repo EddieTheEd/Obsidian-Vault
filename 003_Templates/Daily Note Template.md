@@ -1,10 +1,11 @@
+
 ---
 <% tp.file.include("[[Frontmatter Template]]") %>
  - "#calendar/daily/<% tp.date.now("YYYY") %>"
 
-banner: "![[]]"
+banner: "![[dailynotesbanner.png]]"
 ---
-
+*Credit to *
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
 
 [[<% tp.date.yesterday("YYYY-MM-DD") %>|↶ Previous Day]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>|Following Day ↷]]
