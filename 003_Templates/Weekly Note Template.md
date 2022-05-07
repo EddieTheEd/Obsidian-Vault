@@ -95,7 +95,7 @@ const date = "<% tp.date.now('YYYY-MM-DD') %>";
 customJS.DvCharts.renderWeeklyChart({
 	dv,
 	context: this,
-	daysPath: '02 Personal/02.01 Periodic Notes/<% tp.date.now("YYYY") %>/Daily/<%tp.date.now("MM MMMM")%>',
+	daysPath: '003_Template/Periodic Notes/<% tp.date.now("YYYY") %>/Daily/<%tp.date.now("MM MMMM")%>',
 	attributes,
 	type: 'average',
 	date
