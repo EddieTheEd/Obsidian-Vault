@@ -18,7 +18,7 @@
       "query": "tag:#idea",
       "color": {
         "a": 1,
-        "rgb": 15662848
+        "rgb": 1966335
       }
     },
     {
@@ -59,14 +59,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -2.4,
-  "nodeSizeMultiplier": 2.5692835118468,
-  "lineSizeMultiplier": 2.72196121389159,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.73083333333333,
+  "lineSizeMultiplier": 1.47083333333333,
   "collapse-forces": true,
-  "centerStrength": 0.370288248337029,
-  "repelStrength": 12.0919919558604,
-  "linkStrength": 0.515495281802712,
-  "linkDistance": 123,
-  "scale": 0.2760089804556874,
-  "close": true
+  "centerStrength": 0.439630681818182,
+  "repelStrength": 14.53125,
+  "linkStrength": 0.573153409090909,
+  "linkDistance": 103,
+  "scale": 0.2859770606341631,
+  "close": false
 }
