@@ -4,72 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ef78d026f553d807",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Number Sets Notes.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "43f180182a8ed342",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "002_Notes/Chem Topic Test 1 Notes.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "acc1edec9738cf10",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chem Y10 Objectives.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1f5e35c1b52784a0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chem Y10 Objectives.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1580378626bc3032",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/History of the Atomic Model Notes.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fd795ffe455c7d14",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chemistry Definitions.md",
             "mode": "source",
             "source": false
           }
@@ -189,11 +129,11 @@
   "active": "43f180182a8ed342",
   "lastOpenFiles": [
     "002_Notes/Chem Topic Test 1 Notes.md",
+    "002_Notes/Chem Y10 Objectives.md",
     "002_Notes/Number Sets Notes.md",
     "Pasted image 20220505140713.png",
     "002_Notes/Class 29.md",
     "002_Notes/Chemistry Definitions.md",
-    "002_Notes/Chem Y10 Objectives.md",
     "002_Notes/History of the Atomic Model Notes.md",
     "0.gif",
     "002_Notes/Electron Configuration.md",
