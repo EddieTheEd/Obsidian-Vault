@@ -11,5 +11,10 @@
   "persistent-graph",
   "customjs",
   "dataview",
-  "obsidian-dynamic-toc"
+  "obsidian-dynamic-toc",
+  "obsidian-banners",
+  "obsidian-charts",
+  "periodic-notes",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]
