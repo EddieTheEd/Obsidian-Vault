@@ -2,6 +2,7 @@
 banner: "![[weeklynotesbanner.png]]"
 banner_y: 0.5
 ---
+*Credit to u/ruetanissed, Change is tomorrow*
 
 # <% tp.date.now("YYYY-MM [Week] WW") %>
 
