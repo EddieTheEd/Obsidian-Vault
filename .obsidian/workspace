@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "060f69965be650ea",
+        "id": "625fb49835a041a0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "003_Templates/Weekly Note Template.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003_Templates/Weekly Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003_Templates/Weekly Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +120,9 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "060f69965be650ea",
+  "active": "625fb49835a041a0",
   "lastOpenFiles": [
+    "002_Notes/Untitled.md",
     "003_Templates/Weekly Note Template.md",
     "003_Templates/Idea.md",
     "003_Templates/Daily Note Template.md",
@@ -136,7 +131,6 @@
     "002_Notes/Chem Y10 Objectives.md",
     "002_Notes/Number Sets Notes.md",
     "Pasted image 20220505140713.png",
-    "002_Notes/Class 29.md",
-    "002_Notes/Chemistry Definitions.md"
+    "002_Notes/Class 29.md"
   ]
 }
