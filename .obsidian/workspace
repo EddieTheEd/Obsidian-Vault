@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Hippocampus.md",
+            "file": "Day Planners/Day Planner-20220508.md",
             "mode": "source",
             "source": false
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "Day Planners/Day Planner-20220508.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "Day Planners/Day Planner-20220508.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "5f0c9bd4f2b935d5",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220508.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/'study notes'.md",
     "005_DailyNotes/2022-05-08.md",
@@ -159,7 +160,6 @@
     "002_Notes/Hydrocarbons.md",
     "002_Notes/A Tale of Two Suns.md",
     "003_Templates/Chem Study Notes.md",
-    "002_Notes/Axis Victory.md",
-    "003_Templates/Lit Format.md"
+    "002_Notes/Axis Victory.md"
   ]
 }
