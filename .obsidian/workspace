@@ -21,18 +21,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003_Templates/Chem Study Notes.md",
+            "file": "002_Notes/A Tale of Two Suns.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "1d1de7a5f1f77088",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       },
       {
@@ -140,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/A Tale of Two Suns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/A Tale of Two Suns.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,17 +161,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "1d1de7a5f1f77088",
+  "active": "6e8f7c8941bc676f",
   "lastOpenFiles": [
+    "002_Notes/A Tale of Two Suns.md",
     "003_Templates/Chem Study Notes.md",
-    "003_Templates/Lit Format.md",
     "002_Notes/Axis Victory.md",
+    "003_Templates/Lit Format.md",
     "003_Templates/Weekly Note Template.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/日常生活.md",
     "005_DailyNotes/2022-05-08.md",
     "005_DailyNotes/2022-W20.md",
-    "003_Templates/Daily Note Template.md",
-    "002_Notes/Chem Y10 Objectives.md"
+    "003_Templates/Daily Note Template.md"
   ]
 }
