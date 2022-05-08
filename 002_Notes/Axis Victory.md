@@ -8,7 +8,11 @@ Tags:
 
 listen i was really young and stupid, and christian made me write this
 
-also this is a really crappy 'manuscript' of 
+also this is a really crappy 'manuscript' of sorts
+
+and yes, i did name the chapters after one of bach's preludes and fugues because it was an audition piece and i thought it was funny
+
+im not proud of this neo-nazi stuff but hey i wrote it and data must be preserved before we become part of a singularity that destroys information
 
 # **Scenario One: The Reichstag Coup**
 
@@ -148,7 +152,8 @@ A vague character in Norwegian politics, Johan quickly rose to prominence when h
 
 Scenario One Map (unfinished):
 
-[](https://lh5.googleusercontent.com/J9tw-d4KIyQ3h0GK0kq9NNO7SLpUMj1zy0VkdAbSQtDaIwClaOHRXwYgPZXH1v97sp_rLClwu5vT_6byDqv3j2Higvc19ydE2eMBiON2XdOGOiCRk0XxjaixYjDc30WZPfWgGzMN=s0)[https://lh5.googleusercontent.com/J9tw-d4KIyQ3h0GK0kq9NNO7SLpUMj1zy0VkdAbSQtDaIwClaOHRXwYgPZXH1v97sp_rLClwu5vT_6byDqv3j2Higvc19ydE2eMBiON2XdOGOiCRk0XxjaixYjDc30WZPfWgGzMN=s0](https://lh5.googleusercontent.com/J9tw-d4KIyQ3h0GK0kq9NNO7SLpUMj1zy0VkdAbSQtDaIwClaOHRXwYgPZXH1v97sp_rLClwu5vT_6byDqv3j2Higvc19ydE2eMBiON2XdOGOiCRk0XxjaixYjDc30WZPfWgGzMN=s0)
+lol it corrupted kekw
 
 Europe Free Liberation Force + Separatists
 
+![[Pasted image 20220508202858.png]]

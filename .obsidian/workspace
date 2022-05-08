@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
+        "id": "75189d09b49d8e43",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "005_DailyNotes/2022-W20.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "6e8f7c8941bc676f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Axis Victory.md",
+            "file": "003_Templates/Chem Study Notes.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "1d1de7a5f1f77088",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -120,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Axis Victory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Axis Victory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,34 +162,16 @@
             }
           }
         ]
-      },
-      {
-        "id": "e6452ffca94d17ea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75189d09b49d8e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "005_DailyNotes/2022-W20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "6e8f7c8941bc676f",
+  "active": "1d1de7a5f1f77088",
   "lastOpenFiles": [
-    "002_Notes/Axis Victory.md",
-    "003_Templates/Lit Format.md",
     "003_Templates/Chem Study Notes.md",
+    "003_Templates/Lit Format.md",
+    "002_Notes/Axis Victory.md",
     "003_Templates/Weekly Note Template.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/日常生活.md",
