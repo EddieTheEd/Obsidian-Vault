@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/日常生活.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Monday.md",
+            "file": "005_DailyNotes/2022-05-08.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/日常生活.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/日常生活.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +139,15 @@
   },
   "active": "e7bb366c92d1c48d",
   "lastOpenFiles": [
-    "002_Notes/日常生活.md",
-    "002_Notes/Monday.md",
-    "002_Notes/Sunday.md",
-    "003_Templates/Daily Note Template.md",
+    "README.md",
     "005_DailyNotes/2022-05-08.md",
-    "Day Planners/Day Planner-20220508.md",
-    "003_Templates/Lit Format.md",
-    "005_DailyNotes/2022-W20.md",
-    "003_Templates/Weekly Note Template.md",
-    "002_Notes/Hippocampus.md"
+    "002_Notes/Sunday.md",
+    "002_Notes/Saturday.md",
+    "002_Notes/日常生活.md",
+    "002_Notes/Friday.md",
+    "002_Notes/Thursday.md",
+    "002_Notes/Wednesday.md",
+    "002_Notes/Tuesday.md",
+    "002_Notes/Monday.md"
   ]
 }
