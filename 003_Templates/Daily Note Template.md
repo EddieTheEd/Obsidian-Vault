@@ -20,7 +20,17 @@ style: number
 ```
 
 ___
+## Things To Do
 
+- [[Sunday]]
+- [[Monday]]
+- [[Tuesday]]
+- [[Wednesday]]
+- [[Thursday]]
+- [[Friday]]
+- [[Saturday]]
+
+---
 ## Memos
 - …
 

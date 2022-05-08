@@ -1,65 +1,18 @@
+**Sunday Routine:**
 
----
-banner: "![[dailynotesbanner.png]]"
----
-*Credit to u/Diictodom, Battle of the Yellow Sea by Kobayashi Kiyochika*
-
-# <% tp.date.now("YYYY-MM-DD") %>’s Note
-
-[[<% tp.date.yesterday("YYYY-MM-DD") %>|↶ Previous Day]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>|Following Day ↷]]
-
-> [!METADATA]-
-> - Created:: <% tp.date.now("YYYY-MM-DD @ HH:mm") %>
-> - Updated:: <% tp.date.now("YYYY-MM-DD @ HH:mm") %>
-> - ID:: <% tp.date.now('YYYYMMDDHHmm') %>
-> - Week:: [[<% tp.date.now("YYYY [Week] WW") %>]]
-
-**Table of Contents:**
-```toc
-style: number
-```
-
-___
-
-## Memos
-- …
-
-^memo-link
-
-## Trackers
-### Statistics
-- Feeling:: 
-- Learnt Word:: 
-- Money Spent:: 
-- Panic:: 
-- Steps:: 
-- Hours Worked:: 
-
-### Habits
-- Anki:: 
-- Coffee:: 
-- Exercise:: 
-- Martial Arts:: 
-- Reading:: 
-- Revision:: 
-- Shower::
-- Typing:: 
-
-## Tasks
-### Not Done
-```tasks
-not done
-hide backlink
-path includes 005_DailyNotes
-
-heading does not include Day Planner
-heading does not include Before Heading Out…
-```
-
-### New Today
-- [ ]
-
-
-(psst heres the 📅 YYYY-MM-DD stuff for 谈恋爱 )
+-   6am - Wake up, do the following for 1 hour:
+    -   Brush teeth
+    -   Shower
+    -   **Eat breakfast - prioritise this**
+-   7am - Study for 2 hours using tomato method
+-   9am - Take a 1 hour break
+-   10am - Study till lunch
+-   12pm - Eat lunch
+-   1pm - Study for 2 hours
+-   3pm - Take a 30 min break
+-   3.30pm - Relax (e.g. gamin/minceraft time) for one and a half hours
+-   5pm - Eat dinner for an hour
+-   6pm - Study for two hours
+-   8pm - Take a break and wind down
 
 Tags: #personalnotes 
