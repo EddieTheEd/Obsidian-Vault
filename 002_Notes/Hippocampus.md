@@ -49,4 +49,4 @@ Also, there'll be a literal #subject tag to identify subjects.
 
 **Personal Stuff**
 - (no touchy)
-- 
+- [[日常生活]]
