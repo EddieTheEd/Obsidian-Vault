@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220508.md",
+            "file": "003_Templates/Daily Note Template.md",
             "mode": "source",
             "source": false
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20220508.md",
+                "file": "003_Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20220508.md",
+                "file": "003_Templates/Daily Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "30c0e455e375061e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae723475b0dab561",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,6 +165,8 @@
   },
   "active": "5f0c9bd4f2b935d5",
   "lastOpenFiles": [
+    "003_Templates/Daily Note Template.md",
+    "003_Templates/Weekly Note Template.md",
     "Day Planners/Day Planner-20220508.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/'study notes'.md",
@@ -158,8 +174,6 @@
     "000_UnsortedFiles/Pasted image 20220508203144.png",
     "000_UnsortedFiles/Pasted image 20220508202858.png",
     "002_Notes/Hydrocarbons.md",
-    "002_Notes/A Tale of Two Suns.md",
-    "003_Templates/Chem Study Notes.md",
-    "002_Notes/Axis Victory.md"
+    "002_Notes/A Tale of Two Suns.md"
   ]
 }
