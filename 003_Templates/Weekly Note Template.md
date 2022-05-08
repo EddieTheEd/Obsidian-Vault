@@ -1,6 +1,6 @@
 ---
 banner: "![[weeklynotesbanner.png]]"
-banner_y: 0.5
+banner_y: 3
 ---
 *Credit to u/ruetanissed, Change is tomorrow*
 

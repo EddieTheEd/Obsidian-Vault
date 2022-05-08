@@ -11,7 +11,7 @@
       "query": "Hippocampus",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "tag:#chemtopic",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 49151
       }
     },
     {
@@ -64,9 +64,9 @@
   "lineSizeMultiplier": 1.47083333333333,
   "collapse-forces": true,
   "centerStrength": 0.439630681818182,
-  "repelStrength": 14.53125,
-  "linkStrength": 0.573153409090909,
+  "repelStrength": 16.5922619047619,
+  "linkStrength": 0.381994047619048,
   "linkDistance": 103,
-  "scale": 0.20780659749080196,
+  "scale": 0.04406667328247601,
   "close": true
 }

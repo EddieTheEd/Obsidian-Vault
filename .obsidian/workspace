@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "164e819f7919ef5e",
+        "id": "bb3fd13d5e8f1e52",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-W20.md",
-            "mode": "source",
+            "file": "002_Notes/Hippocampus.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 140.50816345214844
+    "width": 140.50816345214844,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-W20.md",
+                "file": "002_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-W20.md",
+                "file": "002_Notes/Hippocampus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,21 +122,34 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "e6452ffca94d17ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e8f7c8941bc676f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 180.48313903808594,
-    "collapsed": true
+    "width": 180.48313903808594
   },
-  "active": "164e819f7919ef5e",
+  "active": "bb3fd13d5e8f1e52",
   "lastOpenFiles": [
+    "002_Notes/Hippocampus.md",
     "005_DailyNotes/2022-W20.md",
+    "005_DailyNotes/2022-05-08.md",
     "003_Templates/Weekly Note Template.md",
     "003_Templates/Daily Note Template.md",
     "001_Files/weeklynotesbanner 1.png",
-    "005_DailyNotes/2022-05-08.md",
     "002_Notes/2022-05-09.md",
-    "002_Notes/Hippocampus.md",
     "README.md",
     "005_DailyNotes/2022-05-07.md",
     "005_DailyNotes/2022-W19.md"
