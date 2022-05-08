@@ -14,5 +14,22 @@
   "primary-ceciliamay@@md-color-blockquotes@@light": "#FFFFFF",
   "primary-ceciliamay@@md-color-blockquotes@@dark": "#FFFFFF",
   "primary-ceciliamay@@md-color-blockquotes-bg@@dark": "#000000",
-  "primary-ceciliamay@@md-color-blockquotes-border@@dark": "#FFFFFF"
+  "primary-ceciliamay@@md-color-blockquotes-border@@dark": "#FFFFFF",
+  "primary-ceciliamay@@header-color__preset": "header-color__yrb",
+  "primary-ceciliamay@@h1-background": true,
+  "primary-ceciliamay@@h1-style": "italic",
+  "primary-ceciliamay@@h1-border": false,
+  "primary-ceciliamay@@h1-border-width": 4,
+  "primary-ceciliamay@@h1-border-color@@light": "#E0DAD1",
+  "primary-ceciliamay@@h1-border-color@@dark": "#E0DAD1",
+  "primary-ceciliamay@@h1-border-radius": 16,
+  "primary-ceciliamay@@h1-bg-color@@light": "#F0B94F33",
+  "primary-ceciliamay@@h1-bg-color@@dark": "#F0B94F33",
+  "primary-ceciliamay@@h1-text-align": "center",
+  "primary-ceciliamay@@h1-text-color@@dark": "#DAC81C",
+  "primary-ceciliamay@@h2-background": true,
+  "primary-ceciliamay@@h2-border-radius": 16,
+  "primary-ceciliamay@@h3-background": true,
+  "primary-ceciliamay@@h3-bg-color@@dark": "#67ADD433",
+  "primary-ceciliamay@@h3-border-radius": 16
 }

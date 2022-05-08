@@ -10,9 +10,9 @@
   },
   "weekly": {
     "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "template": "003_Templates/Weekly Note Template.md",
+    "folder": "005_DailyNotes",
+    "enabled": true
   },
   "monthly": {
     "format": "",

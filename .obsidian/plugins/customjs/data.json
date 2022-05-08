@@ -1,4 +1,4 @@
 {
-  "jsFiles": "js_script.js",
-  "jsFolder": ""
+  "jsFiles": "DvScripts.js",
+  "jsFolder": "pluginscripts/customjs"
 }
