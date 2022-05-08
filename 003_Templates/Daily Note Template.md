@@ -19,6 +19,7 @@ banner: "![[dailynotesbanner.png]]"
 style: number
 ```
 
+Today is <% tp.date.weekday("YYYY-MM-DD"!) %>
 ___
 
 ## Memos
