@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e7bb366c92d1c48d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "e9bde41a21b89772",
         "type": "leaf",
         "state": {
@@ -108,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "005_DailyNotes/2022-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "005_DailyNotes/2022-05-08.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +120,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "ac46d69b67936255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7bb366c92d1c48d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "e7bb366c92d1c48d",
+  "active": "e9bde41a21b89772",
   "lastOpenFiles": [
-    "README.md",
     "005_DailyNotes/2022-05-08.md",
+    "README.md",
     "002_Notes/Sunday.md",
     "002_Notes/Saturday.md",
     "002_Notes/日常生活.md",
