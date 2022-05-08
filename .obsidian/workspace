@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/'study notes'.md",
+            "file": "002_Notes/Hippocampus.md",
             "mode": "source",
             "source": false
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/'study notes'.md",
+                "file": "002_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/'study notes'.md",
+                "file": "002_Notes/Hippocampus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,8 @@
   },
   "active": "5f0c9bd4f2b935d5",
   "lastOpenFiles": [
-    "002_Notes/'study notes'.md",
     "002_Notes/Hippocampus.md",
+    "002_Notes/'study notes'.md",
     "005_DailyNotes/2022-05-08.md",
     "000_UnsortedFiles/Pasted image 20220508203144.png",
     "000_UnsortedFiles/Pasted image 20220508202858.png",
