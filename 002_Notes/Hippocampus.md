@@ -45,3 +45,8 @@ Also, there'll be a literal #subject tag to identify subjects.
 
 * [[Markdown Resources]]
 * https://www.lucaspublications.com.au/read-online/?book_id=1137
+
+
+**Personal Stuff**
+- (no touchy)
+- 

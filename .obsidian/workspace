@@ -7,8 +7,12 @@
         "id": "6e8f7c8941bc676f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Hippocampus.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
@@ -60,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#subject",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/Hippocampus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
