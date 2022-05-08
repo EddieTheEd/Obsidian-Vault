@@ -31,5 +31,6 @@
   "primary-ceciliamay@@h2-border-radius": 16,
   "primary-ceciliamay@@h3-background": true,
   "primary-ceciliamay@@h3-bg-color@@dark": "#67ADD433",
-  "primary-ceciliamay@@h3-border-radius": 16
+  "primary-ceciliamay@@h3-border-radius": 16,
+  "primary-ceciliamay@@tab-header__anim-none": true
 }
