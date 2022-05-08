@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003_Templates/Weekly Note Template.md",
+            "file": "005_DailyNotes/2022-W20.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003_Templates/Weekly Note Template.md",
+                "file": "005_DailyNotes/2022-W20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003_Templates/Weekly Note Template.md",
+                "file": "005_DailyNotes/2022-W20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +129,9 @@
   },
   "active": "164e819f7919ef5e",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-W20.md",
     "003_Templates/Weekly Note Template.md",
     "003_Templates/Daily Note Template.md",
-    "005_DailyNotes/2022-W20.md",
     "001_Files/weeklynotesbanner 1.png",
     "005_DailyNotes/2022-05-08.md",
     "002_Notes/2022-05-09.md",
