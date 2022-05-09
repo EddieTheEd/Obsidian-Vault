@@ -29,7 +29,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Electron Configuration.md",
+            "file": "005_DailyNotes/2022-05-09.md",
             "mode": "source",
             "source": false
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Electron Configuration.md",
+                "file": "005_DailyNotes/2022-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Electron Configuration.md",
+                "file": "005_DailyNotes/2022-05-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,13 +148,13 @@
   },
   "active": "7f97fa22cd8fea6f",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-09.md",
     "002_Notes/Electron Configuration.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Chemistry Yr 11.md",
     "002_Notes/Chemistry Definitions.md",
     "002_Notes/Intermolecular Forces.md",
     "005_DailyNotes/2022-W20.md",
-    "005_DailyNotes/2022-05-09.md",
     "005_DailyNotes/2022-05-08.md",
     "003_Templates/Weekly Note Template.md",
     "003_Templates/Daily Note Template.md"
