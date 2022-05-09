@@ -21,6 +21,8 @@ style: number
 ___
 
 ## Memos
+- **[[<% tp.date.weekday("YYYY-MM-DD", 0) %>|Sunday]]**
+	![[<% tp.date.weekday("YYYY-MM-DD", 0) %>#^memo-link]]
 - **[[<% tp.date.weekday("YYYY-MM-DD", 1) %>|Monday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 1) %>#^memo-link]]
 - **[[<% tp.date.weekday("YYYY-MM-DD", 2) %>|Tuesday]]**
@@ -33,8 +35,6 @@ ___
 	![[<% tp.date.weekday("YYYY-MM-DD", 5) %>#^memo-link]]
 - **[[<% tp.date.weekday("YYYY-MM-DD", 6) %>|Saturday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 6) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 0) %>|Sunday]]**
-	![[<% tp.date.weekday("YYYY-MM-DD", 0) %>#^memo-link]]
 
 ## Overview
 ### Week Statistics
