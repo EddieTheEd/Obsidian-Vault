@@ -93,7 +93,6 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 	* Einstein proposed that **light behaved as a wave.**
 	* In his theory, the **energy** of a photon would be related to the **frequency** of the photon's (electromagnetic) wave.
 		* Presently, we known that this relation is derived from the **Planck constant**
-	* 
 
 **Very minor details about absorption/emissions spectrum:**
 * Any photons produced by an excited electron dropping back from n = 2 to n = 1 **are not visible**.
