@@ -16,6 +16,14 @@
         }
       },
       {
+        "id": "e7bb366c92d1c48d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
         "id": "7f97fa22cd8fea6f",
         "type": "leaf",
         "state": {
@@ -130,20 +138,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ac46d69b67936255",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7bb366c92d1c48d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
