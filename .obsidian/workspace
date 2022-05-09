@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-W20.md",
+            "file": "005_DailyNotes/2022-05-09.md",
             "mode": "source",
             "source": false
           }
@@ -29,7 +29,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-05-09.md",
+            "file": "005_DailyNotes/2022-W20.md",
             "mode": "source",
             "source": false
           }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electronegativity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,17 +145,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "7f97fa22cd8fea6f",
+  "active": "db0e093d97475320",
   "lastOpenFiles": [
     "005_DailyNotes/2022-05-09.md",
+    "005_DailyNotes/2022-05-08.md",
+    "005_DailyNotes/2022-W20.md",
+    "002_Notes/2022-05-10.md",
     "002_Notes/Electron Configuration.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Chemistry Yr 11.md",
     "002_Notes/Chemistry Definitions.md",
     "002_Notes/Intermolecular Forces.md",
-    "005_DailyNotes/2022-W20.md",
-    "005_DailyNotes/2022-05-08.md",
-    "003_Templates/Weekly Note Template.md",
-    "003_Templates/Daily Note Template.md"
+    "003_Templates/Weekly Note Template.md"
   ]
 }
