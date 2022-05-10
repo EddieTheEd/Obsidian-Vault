@@ -333,13 +333,13 @@ function getDaysOfWeek() {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     let weekStart = moment.localeData()._week.dow;
     const daysOfWeek = [
-        "sunday",
         "monday",
         "tuesday",
         "wednesday",
         "thursday",
         "friday",
         "saturday",
+        "sunday"
     ];
     while (weekStart) {
         daysOfWeek.push(daysOfWeek.shift());
