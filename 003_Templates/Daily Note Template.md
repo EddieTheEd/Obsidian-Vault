@@ -1,7 +1,4 @@
 ---
-<% tp.file.include("[[Frontmatter Template]]") %>
- - "#calendar/daily/<% tp.date.now("YYYY") %>"
-
 banner: "![[dailynotesbanner.png]]"
 ---
 
@@ -27,18 +24,12 @@ ___
 
 ^memo-link
 
-## Work Log
-- …
-
-^work-link
-
 ## Trackers
 ### Statistics
 - Feeling:: 
 - Learnt Word:: 
 - Money Spent:: 
 - Panic:: 
-- Prayer:: 
 - Steps:: 
 - Hours Worked:: 
 
@@ -51,14 +42,6 @@ ___
 - Revision:: 
 - Shower::
 - Typing:: 
-
-### Weather
-- Temperature:: 
-- Feels Like:: 
-- Weather:: 
-- Wind Direction:: 
-- Wind Speed:: 
-- Observed:: 
 
 ## Tasks
 ### Not Done
