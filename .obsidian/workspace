@@ -7,8 +7,12 @@
         "id": "e7bb366c92d1c48d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Chemistry Definitions.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
@@ -104,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/Chemistry Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/Chemistry Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +139,7 @@
   },
   "active": "e7bb366c92d1c48d",
   "lastOpenFiles": [
+    "002_Notes/Chemistry Definitions.md",
     "002_Notes/2022-05-11.md",
     "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-10.md",
@@ -141,7 +148,6 @@
     "002_Notes/2022-05-10.md",
     "002_Notes/Electron Configuration.md",
     "002_Notes/Hippocampus.md",
-    "002_Notes/Chemistry Yr 11.md",
-    "002_Notes/Chemistry Definitions.md"
+    "002_Notes/Chemistry Yr 11.md"
   ]
 }
