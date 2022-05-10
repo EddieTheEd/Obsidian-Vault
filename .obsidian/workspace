@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Untitled.md",
+            "file": "002_Notes/English Essay Draft.md",
             "mode": "source",
             "source": false
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Untitled.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Untitled.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +144,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "67bb1ed42a8bcbc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e6c7cc25dfd79d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +165,7 @@
   },
   "active": "892aa1fc99148349",
   "lastOpenFiles": [
-    "002_Notes/Untitled.md",
+    "002_Notes/English Essay Draft.md",
     "002_Notes/Chem Y10 Objectives.md",
     "002_Notes/Chemistry Definitions.md",
     "002_Notes/2022-05-11.md",
