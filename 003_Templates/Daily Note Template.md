@@ -1,8 +1,9 @@
-
 ---
+<% tp.file.include("[[Frontmatter Template]]") %>
+ - "#calendar/daily/<% tp.date.now("YYYY") %>"
+
 banner: "![[dailynotesbanner.png]]"
 ---
-*Credit to u/Diictodom, Battle of the Yellow Sea by Kobayashi Kiyochika*
 
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
 
@@ -20,26 +21,24 @@ style: number
 ```
 
 ___
-## Things To Do
-- [[Sunday]]
-- [[Monday]]
-- [[Tuesday]]
-- [[Wednesday]]
-- [[Thursday]]
-- [[Friday]]
-- [[Saturday]]
----
+
 ## Memos
 - …
 
 ^memo-link
----
+
+## Work Log
+- …
+
+^work-link
+
 ## Trackers
 ### Statistics
 - Feeling:: 
 - Learnt Word:: 
 - Money Spent:: 
 - Panic:: 
+- Prayer:: 
 - Steps:: 
 - Hours Worked:: 
 
@@ -53,12 +52,20 @@ ___
 - Shower::
 - Typing:: 
 
+### Weather
+- Temperature:: 
+- Feels Like:: 
+- Weather:: 
+- Wind Direction:: 
+- Wind Speed:: 
+- Observed:: 
+
 ## Tasks
 ### Not Done
 ```tasks
 not done
 hide backlink
-path includes 005_DailyNotes
+path includes 02.01 Periodic Notes
 
 heading does not include Day Planner
 heading does not include Before Heading Out…
@@ -66,10 +73,3 @@ heading does not include Before Heading Out…
 
 ### New Today
 - [ ]
-
-
-(psst heres the 📅 YYYY-MM-DD stuff for 谈恋爱 )
-
----
-
-Tags: #personalnotes 
