@@ -43,7 +43,11 @@ Paper chromatography:
 - Note that we do not place the line of origin within the solvent, as the mixture would simply dissolve in the solvent and not move up the stationary phase.
 - Dots of single dyes are placed alongside a dot of the unknown mixture.
 - The solvent is drawn up the paper by **capillary action**.
-- 
+- As the solvent moves up the paper, the pattern of the single dyes can be compared to that of the mixture's pattern.
+
+Thin layer chromatography:
+- All chromatography involves a stationary and mobile phase.
+- In TLC, the stationary phase is a layer of silica gel fixed onto a glass p
 
 
 ---
