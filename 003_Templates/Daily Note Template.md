@@ -20,24 +20,6 @@ style: number
 ```
 
 ___
-## Tasks
-### Not Done
-```tasks
-not done
-hide backlink
-path includes 005_DailyNotes
-
-heading does not include Day Planner
-heading does not include Before Heading Out…
-```
-
-### New Today
-- [ ]
-
-
-(psst heres the 📅 YYYY-MM-DD stuff for 谈恋爱 )
-
----
 ## Things To Do
 - [[Sunday]]
 - [[Monday]]
@@ -71,5 +53,23 @@ heading does not include Before Heading Out…
 - Shower::
 - Typing:: 
 
+## Tasks
+### Not Done
+```tasks
+not done
+hide backlink
+path includes 005_DailyNotes
+
+heading does not include Day Planner
+heading does not include Before Heading Out…
+```
+
+### New Today
+- [ ]
+
+
+(psst heres the 📅 YYYY-MM-DD stuff for 谈恋爱 )
+
+---
 
 Tags: #personalnotes 
