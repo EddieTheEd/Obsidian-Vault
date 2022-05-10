@@ -3,7 +3,7 @@
 
 Status: #chemclass
 
-Tags: 
+Tags: [[Chromatography]][[Solubility]]
 
 
 # Class 30
@@ -26,6 +26,16 @@ Tags:
 -   **cppm** is the concentration of solute in parts per million by mass (ppm)
 -   **ms** is the mass of solute in grams (g)
 -   **mt** is the mass of solution (solvent + solute) in grams (g)
+
+Chromatography can be used as a separation technique, or as a technique to identify components of a mixture for further use or for analysis.
+
+Key requirement is that it contains a **stationary phase** and **mobile phase**.
+
+Stationary phase:
+- The phase that does not move. Compounds in the mixture are attracted to it (**adsorbed**) and slowed down. Either a solid or a liquid.
+
+Mobile phase:
+- 
 
 
 
