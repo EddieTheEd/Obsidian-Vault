@@ -52,7 +52,7 @@
         }
       },
       {
-        "id": "068666bbf9da6564",
+        "id": "59719902dde2b79e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Class 30.md",
+                "file": "005_DailyNotes/2022-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Class 30.md",
+                "file": "005_DailyNotes/2022-05-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,17 +187,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "88ce9f3f3b3e8d2f",
+  "active": "59719902dde2b79e",
   "lastOpenFiles": [
-    "002_Notes/Class 30.md",
     "005_DailyNotes/2022-05-10.md",
+    "003_Templates/Daily Note Template.md",
+    "002_Notes/Class 30.md",
+    "002_Notes/2022-05-11.md",
     "002_Notes/English Course Concepts.md",
     "001_Files/Pasted image 20220319200331.png",
     "002_Notes/300 Hour Stream =  fun yes.md",
     "005_DailyNotes/2022-W20.md",
-    "003_Templates/Daily Note Template.md",
     "002_Notes/Sunday.md",
-    "005_DailyNotes/2022-05-08.md",
-    "005_DailyNotes/2022-05-09.md"
+    "005_DailyNotes/2022-05-08.md"
   ]
 }
