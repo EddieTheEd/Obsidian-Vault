@@ -20,8 +20,25 @@ style: number
 ```
 
 ___
-## Things To Do
+## Tasks
+### Not Done
+```tasks
+not done
+hide backlink
+path includes 005_DailyNotes
 
+heading does not include Day Planner
+heading does not include Before Heading Out…
+```
+
+### New Today
+- [ ]
+
+
+(psst heres the 📅 YYYY-MM-DD stuff for 谈恋爱 )
+
+---
+## Things To Do
 - [[Sunday]]
 - [[Monday]]
 - [[Tuesday]]
@@ -29,13 +46,12 @@ ___
 - [[Thursday]]
 - [[Friday]]
 - [[Saturday]]
-
 ---
 ## Memos
 - …
 
 ^memo-link
-
+---
 ## Trackers
 ### Statistics
 - Feeling:: 
@@ -55,21 +71,5 @@ ___
 - Shower::
 - Typing:: 
 
-## Tasks
-### Not Done
-```tasks
-not done
-hide backlink
-path includes 005_DailyNotes
-
-heading does not include Day Planner
-heading does not include Before Heading Out…
-```
-
-### New Today
-- [ ]
-
-
-(psst heres the 📅 YYYY-MM-DD stuff for 谈恋爱 )
 
 Tags: #personalnotes 
