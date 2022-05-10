@@ -35,8 +35,15 @@ Stationary phase:
 - The phase that does not move. Compounds in the mixture are attracted to it (**adsorbed**) and slowed down. Either a solid or a liquid.
 
 Mobile phase:
-- 
+- The phase that moves. The more soluble compounds in the mixture are carried faster as the mobile phase moves. Either a liquid or a gas.
 
+Paper chromatography:
+- Is used to separate mixtures, especially dyes or pigments.
+- We put the mixture on a **line of origin**
+- Note that we do not place the line of origin within the solvent, as the mixture would simply dissolve in the solvent and not move up the stationary phase.
+- Dots of single dyes are placed alongside a dot of the unknown mixture.
+- The solvent is drawn up the paper by **capillary action**.
+- 
 
 
 ---
