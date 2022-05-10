@@ -1,4 +1,4 @@
-*Date: 20220510 Time: 0918*
+s*Date: 20220510 Time: 0918*
 
 Status: #idea 
 
