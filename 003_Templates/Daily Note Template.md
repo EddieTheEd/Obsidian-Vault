@@ -59,7 +59,6 @@ Tick: ✅ Cross: ❌
 - Exercise:: 
 - Reading:: 
 - Revision:: 
-- Typing:: 
 - Homework::
 
 ## Tasks

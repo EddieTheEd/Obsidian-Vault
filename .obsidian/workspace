@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Periodic Tasks.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d3378ca4831443eb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "003_Templates/Daily Note Template.md",
+            "file": "005_DailyNotes/2022-05-11.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003_Templates/Daily Note Template.md",
+                "file": "005_DailyNotes/2022-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003_Templates/Daily Note Template.md",
+                "file": "005_DailyNotes/2022-05-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,16 +139,16 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "d3378ca4831443eb",
+  "active": "f15167bb8482e4b5",
   "lastOpenFiles": [
-    "003_Templates/Daily Note Template.md",
-    "005_DailyNotes/2022-W20.md",
-    "002_Notes/Periodic Tasks.md",
-    "002_Notes/Class 30.md",
     "005_DailyNotes/2022-05-11.md",
-    "003_Templates/Chem Class Notes.md",
+    "002_Notes/Periodic Tasks.md",
+    "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-10.md",
     "003_Templates/Weekly Note Template.md",
+    "003_Templates/Daily Note Template.md",
+    "002_Notes/Class 30.md",
+    "003_Templates/Chem Class Notes.md",
     "003_Templates/Lit Format.md",
     "003_Templates/Methods Yr 10 Format.md"
   ]
