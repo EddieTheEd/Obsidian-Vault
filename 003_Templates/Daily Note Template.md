@@ -27,7 +27,15 @@ path includes 005_DailyNotes
 heading does not include Day Planner
 heading does not include Before Heading Out…
 ```
+**Periodic Tasks**
+```tasks
+not done
+hide backlink
+path includes 002_Notes
 
+heading does not include Day Planner
+heading does not include Before Heading Out…
+```
 ## Memos
 - …
 
