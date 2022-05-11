@@ -4,7 +4,7 @@ banner_y: 3
 ---
 *Credit to u/ruetanissed, Change is tomorrow*
 
-# <% tp.date.now("YYYY-MM [Week] WW", 7) %>
+# <% tp.date.now("[Week] WW", 7) %>
 
 [[<% tp.date.now("YYYY [Week] WW", -7) %>|↶ Previous Week]] | [[<% tp.date.now("YYYY [Week] WW", 7) %>|Following Week ↷]]
 
