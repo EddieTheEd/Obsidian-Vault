@@ -48,7 +48,7 @@ ___
 ```tasks
 not done
 hide backlink
-path includes 02.01 Periodic Notes
+path includes 005_DailyNotes
 
 heading does not include Day Planner
 heading does not include Before Heading Out…
@@ -56,3 +56,6 @@ heading does not include Before Heading Out…
 
 ### New Today
 - [ ]
+
+
+Tags: #personalnotes 

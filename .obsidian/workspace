@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-W20.md",
+            "file": "003_Templates/Daily Note Template.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-W20.md",
+                "file": "003_Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-W20.md",
+                "file": "003_Templates/Daily Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "7cf659c1aae84672",
   "lastOpenFiles": [
+    "003_Templates/Daily Note Template.md",
     "005_DailyNotes/2022-W20.md",
-    "005_DailyNotes/2022-05-10.md",
     "005_DailyNotes/2022-05-11.md",
+    "005_DailyNotes/2022-05-10.md",
     "003_Templates/Weekly Note Template.md",
     "003_Templates/Lit Format.md",
     "003_Templates/Methods Yr 10 Format.md",
     "003_Templates/Chem Topic Format.md",
     "003_Templates/Chem Class Notes.md",
-    "003_Templates/Chem Study Notes.md",
-    "003_Templates/Chem Review Notes.md"
+    "003_Templates/Chem Study Notes.md"
   ]
 }
