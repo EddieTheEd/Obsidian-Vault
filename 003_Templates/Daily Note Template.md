@@ -18,6 +18,15 @@ style: number
 ```
 
 ___
+### Not Done
+```tasks
+not done
+hide backlink
+path includes 005_DailyNotes
+
+heading does not include Day Planner
+heading does not include Before Heading Out…
+```
 
 ## Memos
 - …
@@ -46,16 +55,6 @@ Tick: ✅ Cross: ❌
 - Homework::
 
 ## Tasks
-### Not Done
-```tasks
-not done
-hide backlink
-path includes 005_DailyNotes
-
-heading does not include Day Planner
-heading does not include Before Heading Out…
-```
-
 ### New Today
 - [ ]
 
