@@ -34,14 +34,16 @@ ___
 - Hours Worked:: 
 
 ### Habits
-- Anki:: 
-- Coffee:: 
+
+Tick: ✅ Cross: ❌
+
+- Early_morning:: 
+- Morning_shower:: 
 - Exercise:: 
-- Martial Arts:: 
 - Reading:: 
 - Revision:: 
-- Shower::
 - Typing:: 
+- Homework::
 
 ## Tasks
 ### Not Done

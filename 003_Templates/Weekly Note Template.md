@@ -95,14 +95,12 @@ SORT file.name ASC
 ```dataview
 TABLE WITHOUT ID
 	file.link AS "Day",
-	anki AS "📇",
-	coffee AS "☕",
+	Early_morning AS "🌅",
+	Morning_shower AS "🚿",
 	exercise AS "🏋️",
-	martial-arts AS "🥋",
 	reading AS "👓",
 	revision AS "🔁",
-	shower AS "🚿",
-	typing AS "⌨️"
+	homework AS "📚"
 FROM "005_DailyNotes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
 SORT file.name ASC
