@@ -60,12 +60,12 @@ const attributes = {
 	},
 };
 
-const date = "<% tp.date.now('YYYY-MM-DD') %>";
+const date = "<% tp.date.now('YYYY-MM-DD') %>";s
 
 customJS.DvCharts.renderWeeklyChart({
 	dv,
 	context: this,
-	daysPath: '005_DailyNotes/<% tp.date.now("YYYY-MM-DD") %>',
+	daysPath: '005_DailyNotes',
 	attributes,
 	type: 'average',
 	date
