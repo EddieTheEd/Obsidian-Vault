@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f15167bb8482e4b5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Physics Definitions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "3172e29a59106bfc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "002_Notes/Chemistry Definitions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "742c18c5bd9df52b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Physics Definitions.md",
             "mode": "source",
             "source": false
           }
@@ -151,7 +151,7 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "f15167bb8482e4b5",
+  "active": "742c18c5bd9df52b",
   "lastOpenFiles": [
     "002_Notes/Physics Definitions.md",
     "002_Notes/Chemistry Definitions.md",
