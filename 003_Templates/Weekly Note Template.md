@@ -52,12 +52,6 @@ const attributes = {
 		borderColor: 'rgba(85, 174, 229, 1)',
 		average: 20,
 	},
-	'steps': {
-		label: 'Steps',
-		backgroundColor: 'rgba(141, 82, 188, 0.2)',
-		borderColor: 'rgba(141, 82, 188, 1)',
-		average: 10000,
-	},
 	'hours-worked': {
 		label : 'Hours Worked',
 		backgroundColor: 'rgba(143, 208, 50, 0.2)',

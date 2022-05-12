@@ -47,7 +47,6 @@ heading does not include Before Heading Out…
 - Learnt Word:: 
 - Money Spent:: 
 - Panic:: 
-- Steps:: 
 - Hours Worked:: 
 
 ### Habits
