@@ -44,19 +44,19 @@ const daysPath = dv.current().file.folder;
 const attributes = {
 	'panic': {
 		label: 'Panic',
-		average: 10,
+		average: 100,
 	},
 	'money-spent': {
 		label: 'Money Spent',
 		backgroundColor: 'rgba(85, 174, 229, 0.2)',
 		borderColor: 'rgba(85, 174, 229, 1)',
-		average: 20,
+		average: 100,
 	},
 	'hours-worked': {
 		label : 'Hours Worked',
 		backgroundColor: 'rgba(143, 208, 50, 0.2)',
 		borderColor: 'rgba(143, 208, 50, 1)',
-		average: 6
+		average: 100
 	},
 };
 
