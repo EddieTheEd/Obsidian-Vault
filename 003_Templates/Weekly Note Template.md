@@ -78,7 +78,6 @@ TABLE WITHOUT ID
 	feeling AS "💭",
 	money-spent AS "💸",
 	panic AS "🌪️",
-	steps AS "👣",
 	hours-worked AS "✏️"
 FROM "005_DailyNotes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4e334df0d6fba28d",
+        "id": "fb5a6e1a6330df22",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -139,13 +139,13 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "4e334df0d6fba28d",
+  "active": "fb5a6e1a6330df22",
   "lastOpenFiles": [
     "005_DailyNotes/2022-W20.md",
+    "003_Templates/Weekly Note Template.md",
     "005_DailyNotes/2022-05-12.md",
     "005_DailyNotes/2022-05-10.md",
     "003_Templates/Daily Note Template.md",
-    "003_Templates/Weekly Note Template.md",
     "002_Notes/Intermolecular Forces.md",
     "005_DailyNotes/2022-05-11.md",
     "002_Notes/English Essay Draft.md",
