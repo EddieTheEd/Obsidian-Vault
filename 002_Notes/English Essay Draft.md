@@ -38,7 +38,7 @@ Both 'Immersion' and 'The Pedestrian' promote a concerned attitude towards socie
 2. **Society's attitudes towards individuality**
 	1. "he was alone in this world of A.D. 2053, or as good as alone,"
 3. **Critical attitude towards technology and its effects on individuality.**
-	1. 
+	1. "this one lone car wandering and wandering the empty streets."
 
 **Immersion**
 
