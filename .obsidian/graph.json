@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "tag:#specialist",
+      "color": {
+        "a": 1,
+        "rgb": 2860042
+      }
     }
   ],
   "collapse-display": true,
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 2.09554197229014,
   "lineSizeMultiplier": 1.47083333333333,
   "collapse-forces": true,
-  "centerStrength": 0.386471067644662,
+  "centerStrength": 0,
   "repelStrength": 14.1972290138549,
   "linkStrength": 0.224775876120619,
   "linkDistance": 103,
-  "scale": 0.048933127898892204,
+  "scale": 0.0078125,
   "close": true
 }
