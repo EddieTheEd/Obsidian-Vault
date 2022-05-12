@@ -31,7 +31,10 @@ Both 'Immersion' and 'The Pedestrian' promote a concerned attitude towards socie
 	1. "he was alone in this world of A.D. 2053, or as good as alone,"
 	2. "it was not unequal to walking through a graveyard"
 	3. "Sudden gray phantoms seemed to manifest upon inner room walls... there were whisperings and murmurs where a window in a tomb-like building was still open."
-	4. "an entire street [would] be startle "
+	4. "an entire street [would] be startled by the passing of a lone figure,"
+	5. "The street was silent and long and empty,"
+	6. "In ten years of walking... he had never met another person walking,"
+	7. 
 2. **Society's attitudes towards individuality**
 	1. "he was alone in this world of A.D. 2053, or as good as alone,"
 3. **Critical attitude towards technology and its effects on individuality.**
