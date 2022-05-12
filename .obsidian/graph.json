@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 16756224
       }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#personalnotes",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +81,6 @@
   "repelStrength": 14.1972290138549,
   "linkStrength": 0.224775876120619,
   "linkDistance": 103,
-  "scale": 0.0620949944030997,
+  "scale": 0.06466446937471015,
   "close": true
 }
