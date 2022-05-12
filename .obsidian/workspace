@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chemistry Definitions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "44bcc6b5ccabd61b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/English Essay Draft.md",
+            "file": "005_DailyNotes/2022-05-12.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "005_DailyNotes/2022-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "005_DailyNotes/2022-05-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +139,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "44bcc6b5ccabd61b",
+  "active": "3172e29a59106bfc",
   "lastOpenFiles": [
-    "002_Notes/English Essay Draft.md",
+    "005_DailyNotes/2022-05-12.md",
     "002_Notes/Chemistry Definitions.md",
+    "002_Notes/English Essay Draft.md",
     "002_Notes/save gra.md",
     "002_Notes/Physics Definitions.md",
     "002_Notes/Copper Cycle Notes.md",
     "002_Notes/Chemistry Yr 11.md",
     "003_Templates/Physics Yr 10 Format.md",
     "003_Templates/Methods Yr 10 Format.md",
-    "005_DailyNotes/2022-W20.md",
-    "005_DailyNotes/2022-05-12.md"
+    "005_DailyNotes/2022-W20.md"
   ]
 }
