@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Physics Definitions.md",
+            "file": "002_Notes/English Essay Draft.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Physics Definitions.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Physics Definitions.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +131,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4bdde89b5eb647d5",
@@ -154,6 +153,7 @@
   },
   "active": "742c18c5bd9df52b",
   "lastOpenFiles": [
+    "002_Notes/English Essay Draft.md",
     "002_Notes/Physics Definitions.md",
     "002_Notes/Chemistry Definitions.md",
     "002_Notes/Copper Cycle Notes.md",
@@ -162,7 +162,6 @@
     "003_Templates/Methods Yr 10 Format.md",
     "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-12.md",
-    "005_DailyNotes/2022-05-11.md",
-    "002_Notes/Electron Configuration.md"
+    "005_DailyNotes/2022-05-11.md"
   ]
 }
