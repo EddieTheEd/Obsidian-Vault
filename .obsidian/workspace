@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-W20.md",
+            "file": "002_Notes/Physics Definitions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3172e29a59106bfc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Chemistry Definitions.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-W20.md",
+                "file": "002_Notes/Physics Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-W20.md",
+                "file": "002_Notes/Physics Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
         ]
       },
       {
-        "id": "67bb1ed42a8bcbc7",
+        "id": "c2ffe7e498046668",
         "type": "tabs",
         "children": [
           {
@@ -141,15 +153,15 @@
   },
   "active": "f15167bb8482e4b5",
   "lastOpenFiles": [
+    "002_Notes/Physics Definitions.md",
+    "002_Notes/Chemistry Definitions.md",
+    "002_Notes/Chemistry Yr 11.md",
+    "003_Templates/Physics Yr 10 Format.md",
+    "003_Templates/Methods Yr 10 Format.md",
     "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-12.md",
     "005_DailyNotes/2022-05-11.md",
     "002_Notes/Electron Configuration.md",
-    "002_Notes/Periodic Tasks.md",
-    "005_DailyNotes/2022-05-10.md",
-    "003_Templates/Weekly Note Template.md",
-    "003_Templates/Daily Note Template.md",
-    "002_Notes/Class 30.md",
-    "003_Templates/Chem Class Notes.md"
+    "002_Notes/Periodic Tasks.md"
   ]
 }
