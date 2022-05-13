@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chinese Speaking Assessment.md",
+            "file": "005_DailyNotes/2022-05-12.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Essay Draft.md",
+            "file": "002_Notes/Electron Configuration.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chinese Speaking Assessment.md",
+                "file": "002_Notes/Electron Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chinese Speaking Assessment.md",
+                "file": "002_Notes/Electron Configuration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "fb5a6e1a6330df22",
+  "active": "0d6b5527c022958d",
   "lastOpenFiles": [
-    "002_Notes/Chinese Speaking Assessment.md",
-    "002_Notes/Chinese Grammar.md",
-    "002_Notes/Chinese Yr 10.md",
-    "002_Notes/Hippocampus.md",
+    "002_Notes/Electron Configuration.md",
+    "002_Notes/Brilliant Course Complex Numbers.md",
+    "002_Notes/Number Sets Notes.md",
+    "002_Notes/Spec Notes.md",
+    "002_Notes/Specialist Yr 11.md",
+    "002_Notes/English Essay Draft.md",
     "005_DailyNotes/2022-05-12.md",
-    "005_DailyNotes/2022-05-11.md",
-    "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-13.md",
-    "003_Templates/Weekly Note Template.md",
-    "002_Notes/English Essay Draft.md"
+    "005_DailyNotes/2022-05-10.md",
+    "005_DailyNotes/2022-05-11.md"
   ]
 }
