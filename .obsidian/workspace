@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-05-12.md",
+            "file": "002_Notes/English Essay Draft.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-12.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-12.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "fb5a6e1a6330df22",
   "lastOpenFiles": [
+    "002_Notes/English Essay Draft.md",
     "005_DailyNotes/2022-05-12.md",
     "005_DailyNotes/2022-05-13.md",
     "002_Notes/Number Sets Notes.md",
@@ -149,7 +150,6 @@
     "002_Notes/Differentiation Notes.md",
     "002_Notes/Electron Configuration.md",
     "002_Notes/Brilliant Course Complex Numbers.md",
-    "002_Notes/Spec Notes.md",
-    "002_Notes/Specialist Yr 11.md"
+    "002_Notes/Spec Notes.md"
   ]
 }
