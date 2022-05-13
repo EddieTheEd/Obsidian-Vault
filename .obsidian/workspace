@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "005_DailyNotes/2022-05-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7a9b47a195301e7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "002_Notes/English Essay Draft.md",
             "mode": "source",
             "source": false
@@ -96,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "005_DailyNotes/2022-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "005_DailyNotes/2022-05-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +153,9 @@
   },
   "active": "fb5a6e1a6330df22",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-13.md",
     "002_Notes/English Essay Draft.md",
     "005_DailyNotes/2022-05-12.md",
-    "005_DailyNotes/2022-05-13.md",
     "002_Notes/Number Sets Notes.md",
     "002_Notes/2022-05-15.md",
     "005_DailyNotes/2022-W20.md",
