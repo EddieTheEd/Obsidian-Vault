@@ -2,5 +2,7 @@
   "baseFontSize": 27,
   "translucency": false,
   "cssTheme": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "primary"
+  ]
 }
