@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-05-12.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0d6b5527c022958d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Electron Configuration.md",
+            "file": "002_Notes/Number Sets Notes.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Electron Configuration.md",
+                "file": "002_Notes/Number Sets Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Electron Configuration.md",
+                "file": "002_Notes/Number Sets Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +139,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "0d6b5527c022958d",
+  "active": "fb5a6e1a6330df22",
   "lastOpenFiles": [
+    "002_Notes/Number Sets Notes.md",
+    "005_DailyNotes/2022-05-13.md",
+    "005_DailyNotes/2022-05-12.md",
+    "002_Notes/2022-05-15.md",
+    "005_DailyNotes/2022-W20.md",
+    "002_Notes/Differentiation Notes.md",
     "002_Notes/Electron Configuration.md",
     "002_Notes/Brilliant Course Complex Numbers.md",
-    "002_Notes/Number Sets Notes.md",
     "002_Notes/Spec Notes.md",
-    "002_Notes/Specialist Yr 11.md",
-    "002_Notes/English Essay Draft.md",
-    "005_DailyNotes/2022-05-12.md",
-    "005_DailyNotes/2022-05-13.md",
-    "005_DailyNotes/2022-05-10.md",
-    "005_DailyNotes/2022-05-11.md"
+    "002_Notes/Specialist Yr 11.md"
   ]
 }

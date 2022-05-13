@@ -76,7 +76,7 @@ Here, the **4s** subshell has a lower energy than the **3d** subshell, thus we w
 * This occurs as electrons absorb energy to be excited to higher energy levels.
 	* *Note: A spectrum of light is not the only way for electrons to be excited. They can be excited through **heat** or **electrical discharge**
 * Here, electrons only choose photons with a specific frequency to excite them, and when they drop back to the ground state, they release photons.
-	* Note that all energy levels of an atom have **specific, discrete** energy quantities.
+	* Note that all energy levels of an atom have **specific, discrete** energy quantities. 
 * Here, the energy of the photons is equal to: **the difference between the two energy levels** that an electron falls from.
 * This means multiple photons can be produces from a single electron being excited.
 	* e.g. Lets say that an electron is excited from the ground state to n = 3. There are **2** ways this electron can fall down, and **3** possible photons that can be produced. 
