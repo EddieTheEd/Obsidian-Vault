@@ -4,7 +4,7 @@ Use the question below to prepare a 2-minute monologue. Then the teacher will as
 
 **你喜欢什么运动？说说你喜欢的运动.**
 
-我不太喜欢运动。在学校，我最不喜欢体育课。因为我常常忘了带我的运动服，
+我不太喜欢运动。在学校，我最不喜欢体育课。因为我常常忘了带我的运动服，所以我体育老师经常让我==多跑==。虽然在学校我不喜欢体育，但是我最喜欢==课外体育== (kewai, wo...)。
 
 Part 2-spontaneous questions (10%)
 
