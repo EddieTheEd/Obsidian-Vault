@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-05-14.md",
+            "file": "002_Notes/Chromatography.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "da101ec58fe23e9f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Class 30.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chemtopic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-14.md",
+                "file": "002_Notes/Chromatography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-14.md",
+                "file": "002_Notes/Chromatography.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +154,15 @@
   },
   "active": "6efb0032685ed806",
   "lastOpenFiles": [
+    "002_Notes/Chromatography.md",
+    "002_Notes/Class 30.md",
+    "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-14.md",
     "002_Notes/Notes.exe.md",
     "006_PublishedNotes/History of the Atomic Model Notes.md",
     "Anthony's B-Day GIft.pdf",
     "Pasted image 20220513203519.png",
     "005_DailyNotes/2022-05-11.md",
-    "005_DailyNotes/2022-05-10.md",
-    "005_DailyNotes/2022-05-13.md",
-    "002_Notes/English Essay Draft.md",
-    "002_Notes/Anthony's B-Day GIft.md"
+    "005_DailyNotes/2022-05-10.md"
   ]
 }
