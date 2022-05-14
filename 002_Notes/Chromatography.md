@@ -31,3 +31,13 @@ Types of Chromatography include:
 	- Polar substances in a mixture will be more attracted to the stationary phase and thus will adsorb and not move with the mobile phase as much.
 	- Non-polar substances are less attracted, and thus do not adsorb well and can be dissolved in the mobile phase, and move greatly along with the mobile phase.
 - This form of chromatography is most useful if the substances involved have distinct colours.
+
+**Thin-Layered Chromatography**
+- In TLC, the stationary phase is a layer of silica gel fixed onto a glass plate.
+- The mobile phase is a solvent which travels up the plate, carrying the substances.
+- Has the same principles as paper chromatography.
+- TLC involves a stable silica gel, but paper in paper chromatography is flexible and might affect results of chromatography. In TLC, the glass plate does not bend, and thus you will have better results.
+- Capillary action still draws the solvent up the matrix; however while the molecules in paper chromatography are separated based on mass, in TLC, separation often depends upon solubility or charge, due to the interaction of solute and matrix.
+- A dry sample is placed in the silica gel matrix. As the solvent front moves up the gel, it dissolves the sample and caries it up the matrix with it.
+- Some of the particles in the sample stick more strongly to he silica gel than others, so they lag behind the solvent
+- Eventually the different substances in the sample separate out, with similar molecules travelling a similar distance.
