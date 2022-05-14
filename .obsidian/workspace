@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ce12f3d019e859e2",
+        "id": "6efb0032685ed806",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Anthony's B-Day GIft.pdf"
+            "file": "005_DailyNotes/2022-05-14.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anthony's B-Day GIft.pdf",
+                "file": "005_DailyNotes/2022-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anthony's B-Day GIft.pdf",
+                "file": "005_DailyNotes/2022-05-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,17 +139,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "ce12f3d019e859e2",
+  "active": "6efb0032685ed806",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-14.md",
+    "002_Notes/Notes.exe.md",
+    "006_PublishedNotes/History of the Atomic Model Notes.md",
     "Anthony's B-Day GIft.pdf",
     "Pasted image 20220513203519.png",
-    "005_DailyNotes/2022-05-14.md",
     "005_DailyNotes/2022-05-11.md",
     "005_DailyNotes/2022-05-10.md",
     "005_DailyNotes/2022-05-13.md",
     "002_Notes/English Essay Draft.md",
-    "002_Notes/Anthony's B-Day GIft.md",
-    "005_DailyNotes/2022-05-12.md",
-    "002_Notes/Number Sets Notes.md"
+    "002_Notes/Anthony's B-Day GIft.md"
   ]
 }
