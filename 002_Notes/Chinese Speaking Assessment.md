@@ -9,8 +9,10 @@ Use the question below to prepare a 2-minute monologue. Then the teacher will as
 Part 2-spontaneous questions (10%)
 
 1. 你有什么爱好？
+	我有很多爱好。除了羽毛球以外，我还弹钢琴。我弹钢琴比打羽毛球好一些。
 
 2. 你周末做什么？在哪儿？和谁一起？
+	
 
 3. 你喜欢听什么音乐？为什么？
 
