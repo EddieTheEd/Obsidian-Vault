@@ -7,9 +7,11 @@
         "id": "6efb0032685ed806",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "2022-CHE-Data-Book.PDF"
+            "file": "002_Notes/Chemistry Definitions.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -106,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-CHE-Data-Book.PDF",
+                "file": "002_Notes/Chemistry Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-CHE-Data-Book.PDF",
+                "file": "002_Notes/Chemistry Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +153,8 @@
   },
   "active": "6efb0032685ed806",
   "lastOpenFiles": [
+    "002_Notes/Chemistry Definitions.md",
+    "002_Notes/Physics Definitions.md",
     "2022-CHE-Data-Book.PDF",
     "002_Notes/aww yea baby yr 12 examination lets goooo.png",
     "002_Notes/Intermolecular Forces.md",
@@ -158,8 +162,6 @@
     "002_Notes/Class 30.md",
     "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-14.md",
-    "002_Notes/Notes.exe.md",
-    "006_PublishedNotes/History of the Atomic Model Notes.md",
-    "Anthony's B-Day GIft.pdf"
+    "002_Notes/Notes.exe.md"
   ]
 }

@@ -48,6 +48,8 @@ why learn, when you can just inject information into your brain?
 
 **Valency:** The **combining power** of an atom, and is equal to **the number of hydrogen atoms** it could combine with or displace.
 
+**Precipitate:** An insoluble solid produced by two solutions being added together.
+
 **Physical Properties Copy-Paste Moment**
 
 - **Ionic Bonding:**
