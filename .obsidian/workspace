@@ -16,6 +16,16 @@
         }
       },
       {
+        "id": "1675f3a2a6dc3d07",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "2022-CHE-Data-Book.PDF"
+          }
+        }
+      },
+      {
         "id": "da101ec58fe23e9f",
         "type": "leaf",
         "state": {
@@ -154,8 +164,8 @@
   "active": "6efb0032685ed806",
   "lastOpenFiles": [
     "002_Notes/Chemistry Definitions.md",
-    "002_Notes/Physics Definitions.md",
     "2022-CHE-Data-Book.PDF",
+    "002_Notes/Physics Definitions.md",
     "002_Notes/aww yea baby yr 12 examination lets goooo.png",
     "002_Notes/Intermolecular Forces.md",
     "002_Notes/Chromatography.md",

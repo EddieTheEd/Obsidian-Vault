@@ -44,7 +44,7 @@ why learn, when you can just inject information into your brain?
 	- **Supersaturated:** Contains more solute than the solvent is normally able to dissolve
 		- Can be achieved through heating and dissolving, then carefully cooling the solution.
 
-**Pure substances:** A substance that has a fixed composition. This includes elements and compounds.
+**Pure substances:** A substance that has a fixed composition. This includes elements and compounds.S
 
 **Valency:** The **combining power** of an atom, and is equal to **the number of hydrogen atoms** it could combine with or displace.
 
