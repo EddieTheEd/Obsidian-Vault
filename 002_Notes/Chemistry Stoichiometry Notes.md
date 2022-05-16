@@ -1,7 +1,7 @@
 *Date: 2022 03 13 Time: 19:37*
 
 
-Status: #chemclass
+Status: #chemclass 
 
 Tags: [[Stoichiometry]]
 
