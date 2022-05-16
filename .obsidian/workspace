@@ -72,6 +72,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "b81e9f93131d1b42",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Essay Draft.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-16.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-16.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,8 +209,10 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "6f239f31fb0720ec",
+  "active": "b81e9f93131d1b42",
   "lastOpenFiles": [
+    "002_Notes/English Essay Draft.md",
+    "002_Notes/aww yea baby yr 12 examination lets goooo.png",
     "005_DailyNotes/2022-05-16.md",
     "005_DailyNotes/2022-W21.md",
     "005_DailyNotes/2022-05-15.md",
@@ -206,8 +220,6 @@
     "Anthony's B-Day GIft.pdf",
     "2022-CHE-Data-Book.pdf",
     "002_Notes/Class 30.md",
-    "002_Notes/Chemistry Definitions.md",
-    "002_Notes/Physics Definitions.md",
-    "002_Notes/aww yea baby yr 12 examination lets goooo.png"
+    "002_Notes/Chemistry Definitions.md"
   ]
 }
