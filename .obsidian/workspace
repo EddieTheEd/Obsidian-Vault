@@ -67,7 +67,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Essay Draft.md",
+            "file": "002_Notes/Methods Yr 10.md",
             "mode": "source",
             "source": false
           }
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 140.50816345214844,
-    "collapsed": true
+    "width": 140.50816345214844
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "002_Notes/Methods Yr 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "002_Notes/Methods Yr 10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,6 +199,7 @@
   },
   "active": "6f239f31fb0720ec",
   "lastOpenFiles": [
+    "002_Notes/Methods Yr 10.md",
     "002_Notes/English Essay Draft.md",
     "005_DailyNotes/2022-W21.md",
     "002_Notes/'study notes'.md",
@@ -208,7 +208,6 @@
     "002_Notes/Class 18.md",
     "002_Notes/Political podcast transcript.md",
     "002_Notes/Chemistry Yr 11.md",
-    "002_Notes/Specialist Yr 11.md",
-    "002_Notes/Chemistry Stoichiometry Notes.md"
+    "002_Notes/Specialist Yr 11.md"
   ]
 }
