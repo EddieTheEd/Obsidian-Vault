@@ -67,7 +67,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Class 31.md",
+            "file": "002_Notes/English Essay Draft.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c56cd927878f5889",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Essay Draft 2.md",
             "mode": "source",
             "source": false
           }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Class 31.md",
+                "file": "002_Notes/English Essay Draft 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Class 31.md",
+                "file": "002_Notes/English Essay Draft 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,17 +209,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "d2dc6286ed4db6fb",
+  "active": "c56cd927878f5889",
   "lastOpenFiles": [
+    "002_Notes/English Essay Draft 2.md",
+    "002_Notes/English Essay Draft.md",
     "002_Notes/Class 31.md",
     "002_Notes/Methods Yr 10.md",
     "002_Notes/Class 30.md",
-    "002_Notes/English Essay Draft.md",
     "005_DailyNotes/2022-W21.md",
     "002_Notes/'study notes'.md",
     "005_DailyNotes/2022-05-16.md",
     "002_Notes/Electron Configuration.md",
-    "002_Notes/Class 18.md",
-    "002_Notes/Political podcast transcript.md"
+    "002_Notes/Class 18.md"
   ]
 }
