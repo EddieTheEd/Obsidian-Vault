@@ -2,8 +2,6 @@
 
 Status: #idea 
 
-Tags:
-
 # English Essay Draft
 
 Question: Discuss how particular values and attitudes are **promoted** within at least one studied text to **challenge** an audience.
