@@ -1,17 +1,10 @@
 *Date: 20220510 Time: 0918*
 
-```
-tags: idea 
-```
+Status: #idea 
 
 # English Essay Draft
 
-Question: Discuss how particular values and attitudes are **promoted** within at least one studied text to **challenge** an audience.
-
-Ideas:
-1. Human connection/family/cultural values
-2. Society's attitudes towards individuality
-3. Critical attitude towards technology and its effects on individuality.
+Question (4): Discuss how particular values and attitudes are **promoted** within at least one studied text to **challenge** an audience.
 
 Individuals in society reflect their own concerns over the direction their community takes. This is most prominent in the literature and artistic works of turbulent time-periods. The short story 'Immersion' (2012) by Aliette de Bodard is set in a space dystopia where the Galactic and Rong cultures mimic contemporary issues of racism through the use of Immersers which manipulate appearance to appear ethnically Galactic. Similarly, 'The Pedestrian' (1951) by Ray Bradbury in set in a defunct future of the United States where entire cities spend their nights watching television, and the only citizen who experiences individuality, Leonard Mead, is persecuted. Although both texts were written in different time periods, the 21st and 20th century respectively, both convey a sceptical attitude towards technology. Both texts promote an intrinsic value of family, culture and human connection, alongside a critical, sceptical attitude towards technology and challenge the progressive attitudes of readers that are passionate about technology.
 
