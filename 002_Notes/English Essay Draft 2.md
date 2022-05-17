@@ -28,4 +28,4 @@ Furthermore, both texts promote a critical attitude towards technology and its e
 Thus, by utilising dialogue, imagery and personification, both texts successfully promote a value of human connection, and promote an antagonising attitude towards technology's effects on individuality. Furthermore, the texts critiques contemporary society's degrading attitudes towards individuality. This works to challenge the more technologically-inclined audience, opposing their progressive and endearing attitude towards technology, and a sense of disregard for technology's effect on individuality. Both text's expression of concern regarding technology's threat to individuality seeks to resonate with their audience. Both authors utilise their texts to promote their personal uneasiness over the looming threats to modern society
 
 **Biblography(Harvard Referencing System):**
-- 
+- Bradbury, R., 1951. _The Pedestrian_. The Reporter.
