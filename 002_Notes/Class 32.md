@@ -49,6 +49,11 @@ This was indeed said by Ms Pilling.
 - **Adhesive forces** are between molecules of different substances. Adhesion enables solvent molecules to bond to the stationary phase.
 - **Cohesive forces** are between molecules of the same substance.
 
+
+**TLC Advantages**:
+* The glass plate is rigid, not flexible like paper, so it is easy to control.
+* After separation, the substances in the mixture can be recovered. The silica gel holding the separated substance is scraped off the glass plate and added to a solvent. The substance will dissolve and the silica gel can easily be removed by filtration. The glass plates can be recoated with silica gel and used over and over again.
+
 ---
 # Recall
 
