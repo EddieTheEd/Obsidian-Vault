@@ -1,6 +1,6 @@
-# English Essay Edited Copy 1
+# English Essay
 
-Question (4): Discuss how particular values and attitudes are **promoted** within at least one studied text to **challenge** an audience.
+Question (4): Discuss how particular values and attitudes are promoted within at least one studied text to challenge an audience.
 
 Individuals in society reflect their own concerns over the direction their community takes in the literature and artistic works of turbulent time-periods. This can be seen in 'Immersion' (2012) by Aliette de Bodard and 'The Pedestrian' (1951) by Ray Bradbury, two science fiction short stories that challenge the ways their technologically inclined audiences view their interaction with technology. 'Immersion' is set in a space dystopia where the Galactic and Rong cultures mimic contemporary issues of racism through the use of Immersers which manipulate appearance to appear ethnically Galactic. On the other hand, 'The Pedestrian' is set in a defunct future of the United States where entire cities spend their nights watching television, and the only citizen who experiences individuality, Leonard Mead, is persecuted. Although both texts were written in different time periods, audiences from both time periods hold a strong interest in technology. Both texts promote an intrinsic value of family, culture and human connection, alongside a critical attitude towards society's neglect of individuality, and a sceptical attitude towards technology and challenge the progressive attitudes of readers that are passionate about technology.
 
