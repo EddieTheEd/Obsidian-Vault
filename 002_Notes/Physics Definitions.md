@@ -2,7 +2,7 @@
 
 Status: #physics
 
-Tags: [[Physics Yr 10]]
+Tags: 
 
 # Physics Definitions
 
@@ -12,7 +12,7 @@ Tags: [[Physics Yr 10]]
 **Acceleration:** The rate at which velocity changes with time, in terms of both speed and direction.
 **Velocity:** The rate of change in displacement and direction of an object.
 **Force:** The push or pull on an object with mass that causes a change in velocity.
-**Inertia:** A property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state  is changed by an external force.
+**Inertia:** A property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force.
 - Objects continue in their state, either stationary or moving, unless a force acts on them. 
 **Centre of Gravity:** An imaginary point in an object where it can be thought the total weight of the object is concentrated in.
 - A balance point of an object.
