@@ -1,6 +1,5 @@
 [
   "obsidian-admonition",
-  "sliding-panes-obsidian",
   "table-editor-obsidian",
   "obsidian-citation-plugin",
   "better-word-count",
@@ -18,5 +17,6 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "nldates-obsidian",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "sliding-panes-obsidian"
 ]

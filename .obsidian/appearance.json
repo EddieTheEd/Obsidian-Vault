@@ -1,6 +1,8 @@
 {
-  "baseFontSize": 28,
+  "baseFontSize": 29,
   "translucency": false,
   "cssTheme": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "primary"
+  ]
 }
