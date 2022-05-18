@@ -19,6 +19,15 @@ Tags:
 - 2 Principles:
 	- Capillary action still draws the solvent up the matrix, however while the molecules in paper chromatography are separated based on mass, in TLC, separation often depends upon solubility or charge, due to the interaction of solute and matrix.
 	- A dry sample is played in the silica gel matrix. As the solvent front moves up the gel, it dissolves the sample and carries it up the matrix with it.
+- Many substances are white or colourless, and so aren't visible on a TLC plate.
+- One way of making colourless substances show up is to use UV light.
+- This usually works well for organic compounds.
+- A chemical locating agent can be used.
+- Ninhydrin is a common one. When reacted with an organic compound it stains it purple-brown.
+- The solvent is drawn up the stationary phase by capillary action.
+	- Adheive force are between molecule of different subtance/ Adhesion enables solvent molecules to bond to stationary phase.
+	- Cohesive forces are between molecules of the same substances. Cohesion enables solvent molecules to bond each other, and move each other through stationary phase.
+
 ---
 # Recall
 
