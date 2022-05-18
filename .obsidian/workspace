@@ -67,8 +67,12 @@
         "id": "6d7d18da0d5975a8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "005_DailyNotes/2022-05-18.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -152,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "005_DailyNotes/2022-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "005_DailyNotes/2022-05-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +201,7 @@
   },
   "active": "6d7d18da0d5975a8",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-18.md",
     "002_Notes/English Essay Edited Copy 1.md",
     "002_Notes/Eng,jsh Essay Draft 3.md",
     "002_Notes/Physics Definitions.md",
@@ -203,7 +210,6 @@
     "002_Notes/Methods Yr 10.md",
     "2022-CHE-Data-Book.pdf",
     "005_DailyNotes/2022-05-17.md",
-    "002_Notes/Chemistry Definitions.md",
-    "002_Notes/Chinese Speaking Assessment.md"
+    "002_Notes/Chemistry Definitions.md"
   ]
 }
