@@ -15,11 +15,11 @@ Tags:
 **Force:** The push or pull on an object with mass that causes a change in velocity.
 **Inertia:** A property of matter by which it continues in its existing state of rest or uniform motion in a straight line, unless that state is changed by an external force.
 - Objects continue in their state, either stationary or moving, unless a force acts on them. 
-- The tendency of an object to maintin its
-**Centre of Gravity:** An imaginary point in an object where it can be thought the total weight of the object is concentrated in.
+- *The tendency of an object to maintain its current status* (usually velocity)
+**Centre of Gravity:** An imaginary point in a body of matter where it can be thought mass is concentrated.
 - A balance point of an object.
 **Stable Equilibrium:** A state of equilibrium of an object where if the object were displaced it would return to its original position.
-**Moment:** A measure of its tendency to cause an object to rotate around a specific point/axis.
+**Moment:** A force that causes an object to turn.
 
 **Vector:** A strength or size of force (magnitude) that acts in a *particular direction*.
 **Scalar:** A magnitude without direction.
