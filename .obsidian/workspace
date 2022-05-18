@@ -62,6 +62,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "6d7d18da0d5975a8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -144,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Eng,jsh Essay Draft 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Eng,jsh Essay Draft 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +193,10 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "c56cd927878f5889",
+  "active": "6d7d18da0d5975a8",
   "lastOpenFiles": [
-    "002_Notes/Eng,jsh Essay Draft 3.md",
     "002_Notes/English Essay Edited Copy 1.md",
+    "002_Notes/Eng,jsh Essay Draft 3.md",
     "002_Notes/Physics Definitions.md",
     "002_Notes/English Essay Draft.md",
     "002_Notes/English Essay Draft 2.md",
