@@ -14,6 +14,7 @@ Tags:
 
 **Chromatography:**
 - An *analytical* technique
+- Graphite does not dissolve in aqueous or organic solvents. Therefore, we use graphite as the material of our line of origin in paper chromatography.
 
 ---
 # Recall
