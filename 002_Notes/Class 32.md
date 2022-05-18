@@ -23,10 +23,31 @@ Tags:
 - One way of making colourless substances show up is to use UV light.
 - This usually works well for organic compounds.
 - A chemical locating agent can be used.
-- Ninhydrin is a common one. When reacted with an organic compound it stains it purple-brown.
+- Ninhydrin is a common one. When reacted with an organic compound, it stains it purple-brown.
 - The solvent is drawn up the stationary phase by capillary action.
-	- Adheive force are between molecule of different subtance/ Adhesion enables solvent molecules to bond to stationary phase.
+	- Adhesive force are between molecule of different substance. Adhesion enables solvent molecules to bond to stationary phase.
 	- Cohesive forces are between molecules of the same substances. Cohesion enables solvent molecules to bond each other, and move each other through stationary phase.
+
+**The most crucial information to year 11 chemistry**
+- When you stay quiet, zombie cannot see you
+- When you have a terminal illness, zombie cannot see you because you are not a good host
+- How did Jerusalem got sieged by zombies
+	- Jerusalem people started singing
+	- Zombie was like "hang on a minute what's happening" - actual quote from Ms Pilling
+	- Zombie started building a zombie ladder
+	- One by one they got to the top of the wall
+	- Story is that zombies infected Jerusalem.
+	- Ukrainian plane die before reaching Ukraine
+- Attraction of zombie to all is called adhesive forces
+	- The force is between different types of things: Zombie and wall
+	- Cohesive force is the attraction between zombies
+
+This was indeed said by Ms Pilling.
+
+**Capillary action:**
+- The mobile phase (solvent) is drawn up the stationary phase by capillary action.
+- **Adhesive forces** are between molecules of different substances. Adhesion enables solvent molecules to bond to the stationary phase.
+- **Cohesive forces** are between molecules of the same substance.
 
 ---
 # Recall
