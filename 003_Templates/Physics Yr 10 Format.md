@@ -3,7 +3,7 @@
 
 Status: #physics
 
-Tags: [[Physics Yr 10]]
+Tags: 
 
 # {{title}}
 
