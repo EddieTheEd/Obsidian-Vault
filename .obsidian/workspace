@@ -4,42 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bf48ee050aa7b05a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chinese Speaking Assessment.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "932b4e955970cc1f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005_DailyNotes/2022-05-17.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6f239f31fb0720ec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Methods Yr 10.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "d2dc6286ed4db6fb",
         "type": "leaf",
         "state": {
@@ -70,40 +34,6 @@
           "type": "markdown",
           "state": {
             "file": "002_Notes/Eng,jsh Essay Draft 3.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1675f3a2a6dc3d07",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "2022-CHE-Data-Book.pdf"
-          }
-        }
-      },
-      {
-        "id": "f376e6ba07f7b5be",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chemistry Definitions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0e6a8ce604af1976",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Class 32.md",
             "mode": "source",
             "source": false
           }
@@ -190,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Class 32.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Class 32.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,17 +163,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "0e6a8ce604af1976",
+  "active": "d2dc6286ed4db6fb",
   "lastOpenFiles": [
+    "002_Notes/English Essay Draft.md",
+    "002_Notes/Methods Yr 10.md",
+    "2022-CHE-Data-Book.pdf",
+    "005_DailyNotes/2022-05-17.md",
+    "002_Notes/Chemistry Definitions.md",
+    "002_Notes/Chinese Speaking Assessment.md",
     "002_Notes/Class 32.md",
     "002_Notes/The most important symbol in the universe.md",
-    "002_Notes/Chemistry Definitions.md",
     "002_Notes/Physics Worksheet 1 Meczes.md",
-    "002_Notes/Physics Definitions.md",
-    "001_Files/Set Theory why.png",
-    "003_Templates/Idea.md",
-    "003_Templates/Chem Review Notes.md",
-    "003_Templates/Chem Study Notes.md",
-    "003_Templates/Chem Topic Format.md"
+    "002_Notes/Physics Definitions.md"
   ]
 }
