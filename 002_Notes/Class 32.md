@@ -8,11 +8,9 @@ Tags:
 
 # Class 32
 
-Solubility Curves:
+**Solubility Curves:**
 * Solubility curves show the solubility of substances as temperature changes.
 * Generally, the solubility of ionic solids increases with temperature. This is because there is more energy to overcome bonding in the solid.
-
-
 
 
 ---
