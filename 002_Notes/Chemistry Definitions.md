@@ -50,6 +50,8 @@ why learn, when you can just inject information into your brain?
 
 **Precipitate:** An insoluble solid produced by two solutions being added together.
 
+**Mole:** The amount of particles of a substance that is equal to the number of particles in 12 grams of Carbon-12.
+
 **Physical Properties Copy-Paste Moment**
 
 - **Ionic Bonding:**
