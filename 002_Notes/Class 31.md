@@ -3,7 +3,7 @@
 
 Status: #chemclass
 
-Tags: 
+Tags: [[Solubility]]
 
 
 # Class 31

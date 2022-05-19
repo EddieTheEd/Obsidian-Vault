@@ -3,7 +3,7 @@
 
 Status: #chemclass
 
-Tags: 
+Tags: [[Solubility]][[Chromatography]]
 
 
 # Class 32

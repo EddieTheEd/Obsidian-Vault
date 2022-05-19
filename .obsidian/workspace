@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Physics Definitions.md",
+            "file": "002_Notes/Class 33.md",
             "mode": "source",
             "source": false
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-W21.md",
+                "file": "002_Notes/Class 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-W21.md",
+                "file": "002_Notes/Class 33.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,17 +199,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "6d7d18da0d5975a8",
+  "active": "d2dc6286ed4db6fb",
   "lastOpenFiles": [
+    "002_Notes/Class 33.md",
+    "002_Notes/Class 30.md",
+    "002_Notes/300 Hour Stream =  fun yes.md",
+    "002_Notes/Class 31.md",
+    "002_Notes/Class 32.md",
+    "002_Notes/Physics Definitions.md",
+    "002_Notes/English Essay Edited Copy 1.md",
     "005_DailyNotes/2022-W21.md",
     "005_DailyNotes/2022-05-19.md",
-    "005_DailyNotes/2022-05-18.md",
-    "002_Notes/English Essay Edited Copy 1.md",
-    "002_Notes/Eng,jsh Essay Draft 3.md",
-    "002_Notes/Physics Definitions.md",
-    "002_Notes/English Essay Draft.md",
-    "002_Notes/English Essay Draft 2.md",
-    "002_Notes/Methods Yr 10.md",
-    "2022-CHE-Data-Book.pdf"
+    "005_DailyNotes/2022-05-18.md"
   ]
 }
