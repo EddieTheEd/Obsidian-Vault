@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d2dc6286ed4db6fb",
+        "id": "31779afc09dbcf93",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "31779afc09dbcf93",
+        "id": "f8ffa2ad8af09343",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -199,17 +199,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "d2dc6286ed4db6fb",
+  "active": "31779afc09dbcf93",
   "lastOpenFiles": [
     "002_Notes/Class 33.md",
+    "002_Notes/English Essay Draft.md",
+    "002_Notes/English Essay Edited Copy 1.md",
     "002_Notes/Class 30.md",
     "002_Notes/300 Hour Stream =  fun yes.md",
     "002_Notes/Class 31.md",
     "002_Notes/Class 32.md",
     "002_Notes/Physics Definitions.md",
-    "002_Notes/English Essay Edited Copy 1.md",
     "005_DailyNotes/2022-W21.md",
-    "005_DailyNotes/2022-05-19.md",
-    "005_DailyNotes/2022-05-18.md"
+    "005_DailyNotes/2022-05-19.md"
   ]
 }
