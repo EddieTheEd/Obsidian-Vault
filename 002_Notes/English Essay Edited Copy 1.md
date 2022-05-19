@@ -15,4 +15,3 @@ Thus, by utilising dialogue, imagery and personification, both texts successfull
 **Biblography(Harvard Referencing System):**
 - Bradbury, R., 1951. _The Pedestrian_. The Reporter.
 - de Bodard, A., 2012. _Immersion_. Clarkesworld Magazine.
-- 

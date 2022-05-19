@@ -19,7 +19,17 @@ style: number
 ```
 
 ___
+### Not Done
 
+```tasks
+not done
+hide backlink
+path includes 005_DailyNotes
+
+heading does not include Day Planner
+heading does not include Before Heading Out…
+```
+---
 ## Memos
 - **[[<% tp.date.weekday("YYYY-MM-DD", 1) %>|Monday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 1) %>#^memo-link]]
@@ -35,7 +45,7 @@ ___
 	![[<% tp.date.weekday("YYYY-MM-DD", 6) %>#^memo-link]]
 - **[[<% tp.date.weekday("YYYY-MM-DD", 7) %>|Sunday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 7) %>#^memo-link]]
-
+---
 ## Overview
 ### Week Statistics
 ```dataviewjs
