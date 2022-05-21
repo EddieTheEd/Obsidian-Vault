@@ -4,72 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "31779afc09dbcf93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Class 33.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f8ffa2ad8af09343",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/English Essay Draft.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "858c0ffe5798168e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/English Essay Draft 2.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c56cd927878f5889",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/English Essay Draft 3.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "6306611590cd99fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "002_Notes/English Essay Edited Copy 1.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "498f52dc96a1f5d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005_DailyNotes/2022-05-20.md",
             "mode": "source",
             "source": false
           }
@@ -157,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-20.md",
+                "file": "002_Notes/English Essay Edited Copy 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-20.md",
+                "file": "002_Notes/English Essay Edited Copy 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +140,11 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "498f52dc96a1f5d7",
+  "active": "6306611590cd99fa",
   "lastOpenFiles": [
+    "002_Notes/English Essay Edited Copy 1.md",
     "005_DailyNotes/2022-05-20.md",
     "005_DailyNotes/2022-05-19.md",
-    "002_Notes/English Essay Edited Copy 1.md",
     "002_Notes/English Essay Draft.md",
     "005_DailyNotes/2022-W21.md",
     "003_Templates/Weekly Note Template.md",
