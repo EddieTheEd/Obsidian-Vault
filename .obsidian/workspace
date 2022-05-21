@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6306611590cd99fa",
+        "id": "eccafd7c291fbb3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chinese Speaking Assessment.md",
+            "file": "005_DailyNotes/2022-05-21.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chinese Speaking Assessment.md",
+                "file": "005_DailyNotes/2022-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chinese Speaking Assessment.md",
+                "file": "005_DailyNotes/2022-05-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +140,9 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "6306611590cd99fa",
+  "active": "eccafd7c291fbb3a",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-21.md",
     "002_Notes/Chinese Speaking Assessment.md",
     "002_Notes/English Essay Edited Copy 1.md",
     "005_DailyNotes/2022-05-20.md",
@@ -150,7 +151,6 @@
     "005_DailyNotes/2022-W21.md",
     "003_Templates/Weekly Note Template.md",
     "005_DailyNotes/2022-05-12.md",
-    "002_Notes/English Essay Draft 3.md",
-    "English Essay.pdf"
+    "002_Notes/English Essay Draft 3.md"
   ]
 }
