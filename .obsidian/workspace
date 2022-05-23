@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chinese Speaking Assessment.md",
+            "file": "005_DailyNotes/2022-05-23.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chinese Speaking Assessment.md",
+                "file": "005_DailyNotes/2022-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chinese Speaking Assessment.md",
+                "file": "005_DailyNotes/2022-05-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,8 @@
   },
   "active": "2222c3b6f138704b",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-23.md",
+    "002_Notes/Markdown Resources.md",
     "002_Notes/Chinese Speaking Assessment.md",
     "005_DailyNotes/2022-W22.md",
     "005_DailyNotes/2022-W21.md",
@@ -160,8 +162,6 @@
     "005_DailyNotes/2022-05-22.md",
     "002_Notes/Chemistry Test 2 Objectives.md",
     "005_DailyNotes/2022-05-21.md",
-    "002_Notes/English Essay Edited Copy 1.md",
-    "005_DailyNotes/2022-05-20.md",
-    "005_DailyNotes/2022-05-19.md"
+    "002_Notes/English Essay Edited Copy 1.md"
   ]
 }
