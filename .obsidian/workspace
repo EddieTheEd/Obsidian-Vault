@@ -31,9 +31,11 @@
         "id": "d224efbf7ca12f69",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "2022-CHE-Data-Book.pdf"
+            "file": "002_Notes/Chinese Speaking Assessment.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-CHE-Data-Book.pdf",
+                "file": "002_Notes/Chinese Speaking Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-CHE-Data-Book.pdf",
+                "file": "002_Notes/Chinese Speaking Assessment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +165,10 @@
   },
   "active": "d224efbf7ca12f69",
   "lastOpenFiles": [
+    "002_Notes/Chinese Speaking Assessment.md",
     "2022-CHE-Data-Book.pdf",
     "005_DailyNotes/2022-05-23.md",
     "002_Notes/Markdown Resources.md",
-    "002_Notes/Chinese Speaking Assessment.md",
     "005_DailyNotes/2022-W22.md",
     "005_DailyNotes/2022-W21.md",
     "005_DailyNotes/2022-W20.md",
