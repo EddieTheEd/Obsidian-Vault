@@ -26,6 +26,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "d224efbf7ca12f69",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "2022-CHE-Data-Book.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-23.md",
+                "file": "2022-CHE-Data-Book.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-23.md",
+                "file": "2022-CHE-Data-Book.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +161,9 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "2222c3b6f138704b",
+  "active": "d224efbf7ca12f69",
   "lastOpenFiles": [
+    "2022-CHE-Data-Book.pdf",
     "005_DailyNotes/2022-05-23.md",
     "002_Notes/Markdown Resources.md",
     "002_Notes/Chinese Speaking Assessment.md",
@@ -161,7 +172,6 @@
     "005_DailyNotes/2022-W20.md",
     "005_DailyNotes/2022-05-22.md",
     "002_Notes/Chemistry Test 2 Objectives.md",
-    "005_DailyNotes/2022-05-21.md",
-    "002_Notes/English Essay Edited Copy 1.md"
+    "005_DailyNotes/2022-05-21.md"
   ]
 }
