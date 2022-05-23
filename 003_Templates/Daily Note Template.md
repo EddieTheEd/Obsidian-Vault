@@ -58,7 +58,7 @@ Tick: ✅ Cross: ❌
 - Exercise:: 
 - Reading:: 
 - Revision:: 
-- Homework::
+- Homework:: 
 
 ## Tasks
 ### New Today
