@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0ee2349597226181",
+        "id": "d14d69ea4513d920",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/2022 -W21.md",
+            "file": "003_Templates/Weekly Note Template.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/2022 -W21.md",
+                "file": "003_Templates/Weekly Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/2022 -W21.md",
+                "file": "003_Templates/Weekly Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +139,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "0ee2349597226181",
+  "active": "d14d69ea4513d920",
   "lastOpenFiles": [
-    "002_Notes/2022 -W21.md",
-    "005_DailyNotes/2022-W22.md",
     "003_Templates/Weekly Note Template.md",
+    "002_Notes/The most important symbol in the universe.md",
+    "002_Notes/Chromatography.md",
+    "005_DailyNotes/2022-05-24.md",
+    "005_DailyNotes/2022-W21.md",
+    "005_DailyNotes/2022-W22.md",
+    "002_Notes/2022 -W21.md",
     "002_Notes/2022 -W 20.md",
     "003_Templates/Daily Note Template.md",
-    "005_DailyNotes/2022-05-24.md",
-    "002_Notes/Chromatography.md",
-    "005_DailyNotes/2022-W21.md",
-    "2022-CHE-Data-Book.pdf",
-    "002_Notes/Hippocampus.md"
+    "2022-CHE-Data-Book.pdf"
   ]
 }
