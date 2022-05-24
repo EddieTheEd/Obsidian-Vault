@@ -41,3 +41,14 @@ Types of Chromatography include:
 - A dry sample is placed in the silica gel matrix. As the solvent front moves up the gel, it dissolves the sample and caries it up the matrix with it.
 - Some of the particles in the sample stick more strongly to he silica gel than others, so they lag behind the solvent
 - Eventually the different substances in the sample separate out, with similar molecules travelling a similar distance.
+
+**Gas Chromatography:**
+- Used for identifying substances and their concentrations in stable mixtures (ones that do not decompose)
+	- Mobile phase: **inert carrier gas**
+		- Helium
+		- Nitrogen
+		- Hydrogen
+	- Stationary phase: **High BP viscous liquid** (that stays liquid(non-volatile))
+- Retention **time** is based on **volatility** of **analytes** in the mixture.
+	- More volatile analytes prefer to remain as gas (vapour), and thus are carried by the carrier gas and leave the chromatography chamber easily.
+	- The opposite applies for less volati

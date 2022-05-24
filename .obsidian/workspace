@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Hippocampus.md",
+            "file": "002_Notes/Chromatography.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "002_Notes/Chromatography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Hippocampus.md",
+                "file": "002_Notes/Chromatography.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,9 +163,9 @@
   },
   "active": "9a8a2761a8cb8f5f",
   "lastOpenFiles": [
+    "002_Notes/Chromatography.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Markdown Resources.md",
-    "002_Notes/Chromatography.md",
     "005_DailyNotes/2022-W22.md",
     "005_DailyNotes/2022-W21.md",
     "005_DailyNotes/2022-W20.md",
