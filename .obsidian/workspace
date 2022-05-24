@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-05-24.md",
-            "mode": "source",
+            "file": "005_DailyNotes/2022-W21.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -24,16 +24,6 @@
             "file": "002_Notes/Chromatography.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "d224efbf7ca12f69",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "2022-CHE-Data-Book.pdf"
           }
         }
       }
@@ -118,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-24.md",
+                "file": "005_DailyNotes/2022-W21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-24.md",
+                "file": "005_DailyNotes/2022-W21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,15 +153,15 @@
   },
   "active": "56175c9271acbfd2",
   "lastOpenFiles": [
-    "005_DailyNotes/2022-05-24.md",
+    "005_DailyNotes/2022-W21.md",
     "005_DailyNotes/2022-W22.md",
+    "005_DailyNotes/2022-05-24.md",
+    "003_Templates/Weekly Note Template.md",
+    "2022-CHE-Data-Book.pdf",
     "002_Notes/Chromatography.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Markdown Resources.md",
-    "005_DailyNotes/2022-W21.md",
     "005_DailyNotes/2022-W20.md",
-    "003_Templates/Daily Note Template.md",
-    "003_Templates/Chem Topic Format.md",
-    "005_DailyNotes/2022-05-23.md"
+    "003_Templates/Daily Note Template.md"
   ]
 }
