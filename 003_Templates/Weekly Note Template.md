@@ -5,7 +5,7 @@ banner_y: 3
 
 # <% tp.date.now("[Week] WW", 7) %>
 
-[[<% tp.date.now("YYYY [Week] WW", -7) %>|↶ Previous Week]] | [[<% tp.date.now("YYYY [Week] WW", 7) %>|Following Week ↷]]
+[[<% tp.date.now("YYYY [-W]WW") %>|↶ Previous Week]] | [[<% tp.date.now("YYYY [-W]WW", 14) %>|Following Week ↷]]
 
 > [!METADATA]-
 > Created:: [[<% tp.date.now('YYYY-MM-DD') %>]] <% tp.date.now('HH:mm') %>
