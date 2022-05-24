@@ -51,4 +51,8 @@ Types of Chromatography include:
 	- Stationary phase: **High BP viscous liquid** (that stays liquid(non-volatile))
 - Retention **time** is based on **volatility** of **analytes** in the mixture.
 	- More volatile analytes prefer to remain as gas (vapour), and thus are carried by the carrier gas and leave the chromatography chamber easily.
-	- The opposite applies for less volati
+	- The opposite applies for less volatile analytes
+- As analytes leave the column, they are analysed by a detector.
+- When all analytes have left the chamber, data collated by the detector can be analysed to produce a **chromatogram**.
+- Note that **volatility** is highly related to **boiling-point**, which is in turn related to **intermolecular forces**.
+	- Stronger intermolecular forces leads to a higher boiling point. Substances that have a high boiling point are less likely to remain in the gaseous state, and thus have a low 
