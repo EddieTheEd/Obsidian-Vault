@@ -60,3 +60,7 @@ Types of Chromatography include:
 - *When used with Mass spectrometry, gas chromatography becomes highly accurate identifier of compounds.*
 - *Flame ionization detector (FID) is a commonly used detector that give retention time.*
 
+**HPLC:**
+- HPLC is for mixtures that easily decompose, or have extremely low volatility (prefer to be liquid/solid rather than gas)
+- Mobile phase: **liquid solvent** (usually non-polar in normal)
+- Stationary phase: **fine particles of $SiO_2$**.
