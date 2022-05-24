@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-W22.md",
+            "file": "002_Notes/Hippocampus.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-W22.md",
+                "file": "002_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-W22.md",
+                "file": "002_Notes/Hippocampus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,15 +163,15 @@
   },
   "active": "9a8a2761a8cb8f5f",
   "lastOpenFiles": [
+    "002_Notes/Hippocampus.md",
+    "002_Notes/Markdown Resources.md",
+    "002_Notes/Chromatography.md",
     "005_DailyNotes/2022-W22.md",
+    "005_DailyNotes/2022-W21.md",
+    "005_DailyNotes/2022-W20.md",
     "003_Templates/Daily Note Template.md",
     "003_Templates/Chem Topic Format.md",
     "005_DailyNotes/2022-05-23.md",
-    "005_DailyNotes/2022-05-11.md",
-    "2022-CHE-Data-Book.pdf",
-    "002_Notes/Chinese Speaking Assessment.md",
-    "001_Files/Year 11 Chemistry Assessment Outline 2022.pdf",
-    "001_Files/Year 11 Chemistry Program 2022.pdf",
-    "002_Notes/Markdown Resources.md"
+    "005_DailyNotes/2022-05-11.md"
   ]
 }
