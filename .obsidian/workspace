@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d14d69ea4513d920",
+        "id": "1038c3bbd0ab42c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -139,17 +139,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "d14d69ea4513d920",
+  "active": "1038c3bbd0ab42c2",
   "lastOpenFiles": [
     "003_Templates/Weekly Note Template.md",
-    "002_Notes/The most important symbol in the universe.md",
-    "002_Notes/Chromatography.md",
-    "005_DailyNotes/2022-05-24.md",
-    "005_DailyNotes/2022-W21.md",
-    "005_DailyNotes/2022-W22.md",
-    "002_Notes/2022 -W21.md",
-    "002_Notes/2022 -W 20.md",
     "003_Templates/Daily Note Template.md",
-    "2022-CHE-Data-Book.pdf"
+    "005_DailyNotes/2022-05-24.md",
+    "006_WeeklyNotes/2022-W22.md",
+    "2022-CHE-Data-Book.pdf",
+    "Day Planners/Day Planner-20220524.md",
+    "003_Templates/Chem Topic Format.md",
+    "005_DailyNotes/2022-W21.md",
+    "002_Notes/The most important symbol in the universe.md",
+    "002_Notes/Chromatography.md"
   ]
 }

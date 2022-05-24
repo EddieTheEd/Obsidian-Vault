@@ -1,6 +1,5 @@
 ---
 banner: "![[weeklynotesbanner.png]]"
-banner_y: 3
 ---
 
 # <% tp.date.now("[Week] WW", 7) %>
@@ -16,10 +15,8 @@ banner_y: 3
 ```toc
 style: number
 ```
-
 ___
 ### Not Done
-
 ```tasks
 not done
 hide backlink
@@ -80,7 +77,7 @@ customJS.DvCharts.renderWeeklyChart({
 	date
 })
 ```
-
+---
 ```dataview
 TABLE WITHOUT ID
 	link(file.name) as "Day",
@@ -92,7 +89,6 @@ FROM "005_DailyNotes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
 SORT file.name ASC
 ```
-
 ### Habits
 ```dataview
 TABLE WITHOUT ID
@@ -107,7 +103,6 @@ FROM "005_DailyNotes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
 SORT file.name ASC
 ```
-
 ### Learnt Words
 ```dataviewjs
 dv.table(

@@ -5,13 +5,13 @@
   "daily": {
     "format": "",
     "template": "003_Templates/Daily Note Template.md",
-    "folder": "005_DailyNotes/",
+    "folder": "005_DailyNotes",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "003_Templates/Weekly Note Template.md",
-    "folder": "005_DailyNotes",
+    "folder": "006_WeeklyNotes",
     "enabled": true
   },
   "monthly": {
