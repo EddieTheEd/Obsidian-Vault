@@ -1,4 +1,4 @@
-s*Date: 2022 04 27 Time: 20:03*
+*Date: 2022 04 27 Time: 20:03*
 
 
 Status: #chemclass
