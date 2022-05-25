@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006_WeeklyNotes/2022-W22.md",
-            "mode": "preview",
+            "file": "002_Notes/Chinese Speaking Assessment.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006_WeeklyNotes/2022-W22.md",
+                "file": "002_Notes/Chinese Speaking Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006_WeeklyNotes/2022-W22.md",
+                "file": "002_Notes/Chinese Speaking Assessment.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "bc20b1d71ce31098",
   "lastOpenFiles": [
+    "002_Notes/Chinese Speaking Assessment.md",
     "006_WeeklyNotes/2022-W22.md",
     "003_Templates/Weekly Note Template.md",
     "003_Templates/Daily Note Template.md",
@@ -149,7 +150,6 @@
     "Day Planners/Day Planner-20220524.md",
     "003_Templates/Chem Topic Format.md",
     "005_DailyNotes/2022-W21.md",
-    "002_Notes/The most important symbol in the universe.md",
-    "002_Notes/Chromatography.md"
+    "002_Notes/The most important symbol in the universe.md"
   ]
 }
