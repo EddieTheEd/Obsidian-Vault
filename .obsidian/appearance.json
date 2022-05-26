@@ -4,5 +4,6 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "primary"
-  ]
+  ],
+  "theme": "obsidian"
 }
