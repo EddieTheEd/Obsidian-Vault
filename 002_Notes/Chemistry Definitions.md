@@ -75,7 +75,7 @@ why learn, when you can just inject information into your brain?
 			- Ions are also charged.
 			- Thus, in the aqueous phase ionic compounds are very conductive.
 	- **Comparison Question**
-		- e.g. Element X is a Group 1 element, Element Y is a group 2 element. Which one has the stronger ionic bond?
+		- e.g. Element X is a Group 1 element, Element Y is a group 2 element. Which one has the stronger metallic bond?
 			- Element Y. As it releases more valence electrons, it becomes more positively charged. Thus, a greater electrostatic force of attraction will exist between Element Y's cations and the sea of delocalised electrons, i.e., the metallic bond. Thus, the metallic bond will be stronger.
 
 - **Metallic Bonding:**
