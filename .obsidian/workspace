@@ -31,8 +31,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-05-26.md",
-            "mode": "source",
+            "file": "002_Notes/Chromatography.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-26.md",
+                "file": "002_Notes/Chromatography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-26.md",
+                "file": "002_Notes/Chromatography.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +163,7 @@
   },
   "active": "7521c5547ff9d955",
   "lastOpenFiles": [
+    "002_Notes/Chromatography.md",
     "005_DailyNotes/2022-05-26.md",
     "006_WeeklyNotes/2022-W22.md",
     "002_Notes/Chemistry Definitions.md",
@@ -171,7 +172,6 @@
     "001_Files/Appendix 1 Ions & Molecules.png",
     "001_Files/Year 11 Chemistry Assessment Outline 2022.pdf",
     "001_Files/Pasted image 20220331135625.png",
-    "001_Files/Pasted image 20220331135611.png",
-    "003_Templates/Weekly Note Template.md"
+    "001_Files/Pasted image 20220331135611.png"
   ]
 }
