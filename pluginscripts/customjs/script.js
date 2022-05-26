@@ -1,9 +1,4 @@
-/**
- * Class for rendering charts in Obsidian.
- * To be used with DataviewJS, Obsidian Charts and CustomJS plugins
- * @author Olivier C <olo06@hotmail.fr>
- */
- class DvCharts {
+class DvCharts {
 
     /**
      * Render a chart on a daily basis with a custom attribute extracted from dailies pages
@@ -21,7 +16,7 @@
         const {
             dv,
             context,
-            daysPath = '"01-Notes/Journal"',
+            daysPath = '""',
             dayFormat = 'YYYY-MM-DD',
             attr,
             label,

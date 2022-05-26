@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc20b1d71ce31098",
+        "id": "b3de444e772a38a9",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "001_Files/Year 11 Chemistry Program 2022.pdf"
-          }
-        }
-      },
-      {
-        "id": "e3cd88b4a51adff6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chemistry Definitions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7521c5547ff9d955",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chromatography.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -118,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chemistry Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chemistry Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,17 +133,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "e3cd88b4a51adff6",
+  "active": "b3de444e772a38a9",
   "lastOpenFiles": [
+    "006_WeeklyNotes/2022-W22.md",
+    "005_DailyNotes/2022-05-27.md",
     "002_Notes/Chemistry Definitions.md",
     "002_Notes/Chromatography.md",
     "005_DailyNotes/2022-05-26.md",
-    "006_WeeklyNotes/2022-W22.md",
     "001_Files/Year 11 Chemistry Program 2022.pdf",
     "002_Notes/Chinese Speaking Assessment.md",
     "001_Files/Appendix 1 Ions & Molecules.png",
     "001_Files/Year 11 Chemistry Assessment Outline 2022.pdf",
-    "001_Files/Pasted image 20220331135625.png",
-    "001_Files/Pasted image 20220331135611.png"
+    "001_Files/Pasted image 20220331135625.png"
   ]
 }
