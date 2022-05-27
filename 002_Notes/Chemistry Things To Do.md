@@ -10,7 +10,8 @@ Tags:
 
 
 1. Read the question, make sure the answer is properly balanced
-2. Read the fundamental particles for the "Number of x th"
+2. Read the fundamental particles for the "Number of x things in y"
+3. $NH_4OH$ :(
 
 
 ---
