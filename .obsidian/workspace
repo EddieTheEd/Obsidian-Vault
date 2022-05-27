@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b3de444e772a38a9",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "001_Files/Year 11 Chemistry Program 2022.pdf"
-          }
-        }
-      },
-      {
-        "id": "f52542d75833837f",
+        "id": "8d483467f482d7c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Physics Definitions.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "27637757eabd2aba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chemistry Things To Do.md",
+            "file": "005_DailyNotes/2022-05-27.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Physics Definitions.md",
+                "file": "005_DailyNotes/2022-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Physics Definitions.md",
+                "file": "005_DailyNotes/2022-05-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,17 +139,17 @@
     "direction": "horizontal",
     "width": 180.48313903808594
   },
-  "active": "f52542d75833837f",
+  "active": "8d483467f482d7c8",
   "lastOpenFiles": [
-    "002_Notes/Physics Definitions.md",
-    "002_Notes/Chemistry Things To Do.md",
-    "001_Files/Year 11 Chemistry Program 2022.pdf",
-    "006_WeeklyNotes/2022-W22.md",
     "005_DailyNotes/2022-05-27.md",
-    "002_Notes/Chemistry Definitions.md",
-    "002_Notes/Chromatography.md",
     "005_DailyNotes/2022-05-26.md",
-    "002_Notes/Chinese Speaking Assessment.md",
-    "001_Files/Appendix 1 Ions & Molecules.png"
+    "001_Files/Year 11 Chemistry Program 2022.pdf",
+    "002_Notes/Chemistry Things To Do.md",
+    "005_DailyNotes/2022-05-11.md",
+    "005_DailyNotes/2022-05-10.md",
+    "002_Notes/Physics Definitions.md",
+    "006_WeeklyNotes/2022-W22.md",
+    "002_Notes/Chemistry Definitions.md",
+    "002_Notes/Chromatography.md"
   ]
 }
