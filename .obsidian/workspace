@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8d483467f482d7c8",
+        "id": "f18e28ca607008c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#personalnotes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -128,16 +128,16 @@
     "width": 180.48313903808594,
     "collapsed": true
   },
-  "active": "8d483467f482d7c8",
+  "active": "f18e28ca607008c7",
   "lastOpenFiles": [
     "002_Notes/Chemistry Definitions.md",
+    "002_Notes/Physics Definitions.md",
     "005_DailyNotes/2022-05-27.md",
     "005_DailyNotes/2022-05-26.md",
     "001_Files/Year 11 Chemistry Program 2022.pdf",
     "002_Notes/Chemistry Things To Do.md",
     "005_DailyNotes/2022-05-11.md",
     "005_DailyNotes/2022-05-10.md",
-    "002_Notes/Physics Definitions.md",
     "006_WeeklyNotes/2022-W22.md",
     "002_Notes/Chromatography.md"
   ]
