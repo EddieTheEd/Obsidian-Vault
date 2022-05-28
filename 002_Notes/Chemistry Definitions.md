@@ -8,9 +8,6 @@ Tags: [[Chemistry Yr 11]]
 
 # Chemistry Definitions
 
-why learn, when you can just inject information into your brain?
-
-
 **Periodicity:** The occurrence of similar properties in elements occupying similar positions in the periodic table.
 **First ionisation energy:** The energy required to remove one mole of the most loosely held valence electron from one mole of gaseous atoms.
 **Electronegativity:** The tendency of an atom in a molecule to attract a shared pair of electrons in a covalent bond to itself.
