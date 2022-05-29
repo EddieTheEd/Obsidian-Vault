@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6325e1dcfd3bd155",
+        "id": "2ee0e036d694a00b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "006_WeeklyNotes/2022-W23.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006_WeeklyNotes/2022-W23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006_WeeklyNotes/2022-W23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +121,7 @@
     "width": 180.48313903808594,
     "collapsed": true
   },
-  "active": "6325e1dcfd3bd155",
+  "active": "2ee0e036d694a00b",
   "lastOpenFiles": [
     "006_WeeklyNotes/2022-W23.md",
     "006_WeeklyNotes/2022-W22.md",
