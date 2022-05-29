@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chemistry Definitions.md",
+            "file": "005_DailyNotes/2022-05-29.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 140.50816345214844,
-    "collapsed": true
+    "width": 140.50816345214844
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chemistry Definitions.md",
+                "file": "005_DailyNotes/2022-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chemistry Definitions.md",
+                "file": "005_DailyNotes/2022-05-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +129,7 @@
   },
   "active": "f18e28ca607008c7",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-29.md",
     "002_Notes/Chemistry Definitions.md",
     "002_Notes/Physics Definitions.md",
     "005_DailyNotes/2022-05-27.md",
@@ -138,7 +138,6 @@
     "002_Notes/Chemistry Things To Do.md",
     "005_DailyNotes/2022-05-11.md",
     "005_DailyNotes/2022-05-10.md",
-    "006_WeeklyNotes/2022-W22.md",
-    "002_Notes/Chromatography.md"
+    "006_WeeklyNotes/2022-W22.md"
   ]
 }
