@@ -50,7 +50,7 @@
   "spellcheckLanguages": [
     "en-AU"
   ],
-  "tabSize": 4,
+  "tabSize": 6,
   "communityPluginSortOrder": "download",
   "autoPairMarkdown": true
 }

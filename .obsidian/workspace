@@ -7,8 +7,12 @@
         "id": "2ee0e036d694a00b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Sem1 Quotes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/English Sem1 Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/English Sem1 Quotes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +129,8 @@
   },
   "active": "2ee0e036d694a00b",
   "lastOpenFiles": [
+    "002_Notes/English Sem1 Quotes.md",
+    "002_Notes/aww yea baby yr 12 examination lets goooo.png",
     "006_WeeklyNotes/2022-W23.md",
     "006_WeeklyNotes/2022-W22.md",
     "005_DailyNotes/2022-05-10.md",
@@ -130,8 +138,6 @@
     "005_DailyNotes/2022-05-29.md",
     "002_Notes/Chemistry Definitions.md",
     "002_Notes/Physics Definitions.md",
-    "005_DailyNotes/2022-05-27.md",
-    "005_DailyNotes/2022-05-26.md",
-    "001_Files/Year 11 Chemistry Program 2022.pdf"
+    "005_DailyNotes/2022-05-27.md"
   ]
 }
