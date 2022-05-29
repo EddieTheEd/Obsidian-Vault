@@ -108,3 +108,5 @@ Tags: [[Chemistry Yr 11]]
 			- To conduct heat, a substance must contain mobile particles to carry kinetic energy. Electrons are rigid in the covalent network structure, either as part of lone pairs or bonding pairs. The atoms are also held in place. Thus, there are no mobile particles present to carry kinetic energy and thus these substances are thermally non-conductive.
 		- Electrical:
 			- To conduct electricity, a substance must contain charged particles. Electrons are rigid in the covalent network structure, either as part of lone pairs or bonding pairs. The atoms are also held in place. Thus, there are no mobile charged particles and thus these substances are not electrically conductive. 
+**Intermolecular Forces and Solubility**:
+- 
