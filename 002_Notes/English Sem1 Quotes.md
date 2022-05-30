@@ -1,4 +1,4 @@
-s*Date: 20220529 Time: 2020*
+*Date: 20220529 Time: 2020*
 
 Status: #idea 
 
@@ -14,7 +14,7 @@ Tags:
 |                                                                                                                                           |                                                                                                                                                        | Critical attitude towards society's conformity                             |                   |                                                                                  |                            |
 | The prevalence of social media (means of changing appearance) negatively impacts contemp. society                                         | Representation of Agnes as weak and broken by technology, to draw sympathy from audience, critique lack of acknowledgement that tech. can be addicting | Sympathetic attitude towards the negative effects of technology on society |                   | To pursuade readers into taking caution regarding technology                     | Agnes's disoriented state  |
 | The importance of vision and being able to see reality is very important in society to ward against the detriment of the human experience | Representation of (main characters) to emphasise their unhappiness and dystopian nature of their reality                                               | Critical attitude towards technology, positive towards human connection.   |                   | To pursuade readers of the importance of encouraging a healthy vision of reality | All voices + disoriented   |
-s
+
 | Evidence                                                                                                                   | Character    | Symbol                                                                            | Motif                                                                              | Genre           |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------- |
 | "Her avatar was paler than her, and taller: it made her look beautiful, most customers agreed."                            | Quy          | Immerser as a means of changing appearance/ethnicity                              | Technology is used to promote conformity                                           | Science-fiction |
