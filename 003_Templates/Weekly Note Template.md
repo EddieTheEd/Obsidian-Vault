@@ -3,7 +3,7 @@ banner: "![[weeklynotesbanner.png]]"
 tags:
   - personalnotes
 ---
-# <% tp.date.now("[Week] WW", 14) %>
+# <% tp.date.now("[Week] WW", 7) %>
 
 [[<% tp.date.now("YYYY[-W]WW", 7) %>|↶ Previous Week]] | [[<% tp.date.now("YYYY[-W]WW", 21) %>|Following Week ↷]]
 
