@@ -15,10 +15,11 @@ Tags:
 | The prevalence of social media (means of changing appearance) negatively impacts contemp. society | Representation of Agnes as weak and broken by technology, to draw sympathy from audience, critique lack of acknowledgement that tech. can be addicting | Sympathetic attitude towards the negative effects of technology on society |                   | To pursuade readers into taking caution regarding technology | Agnes's disoriented state  |
 |                                                                                                   |                                                                                                                                                        |                                                                            |                   |                                                              |                            |
 
-| Evidence                                                                                        | Character | Symbol                                               | Motif                                    | Genre           |
-| ----------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------- | ---------------------------------------- | --------------- |
-| "Her avatar was paler than her, and taller: it made her look beautiful, most customers agreed." | Quy       | Immerser as a means of changing appearance/ethnicity | Technology is used to promote conformity | Science-fiction |
-|                                                                                                 |           |                                                      |                                          |                 |
+| Evidence                                                                                        | Character    | Symbol                                                                            | Motif                                              | Genre           |
+| ----------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------- | -------------------------------------------------- | --------------- |
+| "Her avatar was paler than her, and taller: it made her look beautiful, most customers agreed." | Quy          | Immerser as a means of changing appearance/ethnicity                              | Technology is used to promote conformity           | Science-fiction |
+| "rubbed his hands, … a Galactic expression of satisfaction."                                    | Second Uncle | Immerser changing personality/individuality/character traits and cultural customs | Technology is used to promote conformity in speech | Science-fiction |
+|                                                                                                 |              |                                                                                   |                                                    |                 |
 
 
 
