@@ -1,4 +1,4 @@
-*Date: 20220529 Time: 2020*
+s*Date: 20220529 Time: 2020*
 
 Status: #idea 
 
