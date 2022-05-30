@@ -21,8 +21,16 @@ Tags:
 | "rubbed his hands, … a Galactic expression of satisfaction."                                                               | Second Uncle | Immerser changing personality/individuality/character traits and cultural customs | Technology is used to promote conformity in speech                                 | Science-fiction |
 | "This is a Galactic toy, ... it takes a Galactic to believe that you can take a whole culture and reduce it to algorithms" | Agnes        | Immerser as a technology that is able to change culture (very shocking)           | Technology is used to manipulate culture, a fundamental natural aspect of humanity | Science-fiction                |
 
+**The Pedestrian:**
+| Idea | Representation | Values/Attitudes | Context? Examples | Purpose | Voice/perspective |
+| ---- | -------------- | ---------------- | ----------------- | ------- | ----------------- |
+|      |                |                  |                   |         |                   |
 
-
+| Evidence                                                        | Character    | Symbol                                                                                                                               | Motif                                                                     | Genre           |
+| --------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------- |
+| "he was alone in this world of A.D. 2053, or as good as alone," | Leonard Mead | Leonard is symbolised as isolated in society, despite being the most authentic/human                                                 | Society can alienate individuals leading to a dystopian reality           | Science-fiction |
+| "it was not unequal to walking through a graveyard"             | Community    | The community is symbolised as lacking in humanity/connection and describes as essentially dead due to their lack of meaning in life | Entertainment can dehumanise citizens in society + remove meaning in life | Science-fiction |
+|                                                                 |              |                                                                                                                                      |                                                                           |                 |
 
 
 
