@@ -9,55 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Sem1 Quotes.md",
+            "file": "005_DailyNotes/2022-05-31.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "58ee9000cde42ebf",
+        "id": "f656d928c672f76f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Essay Draft.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c085995754fbe3bd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/English Course Concepts.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "74570805fbcb041e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/English Essay Edited Copy 1.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cf75114b1e194cc8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005_DailyNotes/2022-05-30.md",
+            "file": "006_WeeklyNotes/2022-W23.md",
             "mode": "source",
             "source": false
           }
@@ -144,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/English Sem1 Quotes.md",
+                "file": "005_DailyNotes/2022-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/English Sem1 Quotes.md",
+                "file": "005_DailyNotes/2022-05-31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,15 +141,15 @@
   },
   "active": "2ee0e036d694a00b",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-05-31.md",
+    "006_WeeklyNotes/2022-W23.md",
     "002_Notes/English Sem1 Quotes.md",
     "002_Notes/English Essay Draft.md",
     "002_Notes/English Course Concepts.md",
     "002_Notes/English Essay Edited Copy 1.md",
     "005_DailyNotes/2022-05-30.md",
-    "006_WeeklyNotes/2022-W23.md",
     "003_Templates/Weekly Note Template.md",
     "005_DailyNotes/2022-05-24.md",
-    "006_WeeklyNotes/2022-W22.md",
-    "002_Notes/aww yea baby yr 12 examination lets goooo.png"
+    "006_WeeklyNotes/2022-W22.md"
   ]
 }
