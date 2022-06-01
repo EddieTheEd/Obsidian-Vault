@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-05-31.md",
+            "file": "005_DailyNotes/2022-06-01.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006_WeeklyNotes/2022-W23.md",
+            "file": "002_Notes/English Essay Draft.md",
             "mode": "source",
             "source": false
           }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 140.50816345214844
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-05-31.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-05-31.md",
+                "file": "002_Notes/English Essay Draft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,24 +133,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 180.48313903808594,
+    "width": 150,
     "collapsed": true
   },
-  "active": "2ee0e036d694a00b",
+  "active": "f656d928c672f76f",
   "lastOpenFiles": [
-    "005_DailyNotes/2022-05-31.md",
-    "006_WeeklyNotes/2022-W23.md",
-    "002_Notes/English Sem1 Quotes.md",
     "002_Notes/English Essay Draft.md",
+    "006_WeeklyNotes/2022-W23.md",
+    "005_DailyNotes/2022-06-01.md",
+    "005_DailyNotes/2022-05-31.md",
+    "002_Notes/English Sem1 Quotes.md",
     "002_Notes/English Course Concepts.md",
     "002_Notes/English Essay Edited Copy 1.md",
     "005_DailyNotes/2022-05-30.md",
     "003_Templates/Weekly Note Template.md",
-    "005_DailyNotes/2022-05-24.md",
-    "006_WeeklyNotes/2022-W22.md"
+    "005_DailyNotes/2022-05-24.md"
   ]
 }

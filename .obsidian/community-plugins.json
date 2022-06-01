@@ -18,5 +18,7 @@
   "templater-obsidian",
   "nldates-obsidian",
   "obsidian-day-planner",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-sidebar-expand-on-hover"
 ]
