@@ -31,9 +31,11 @@
         "id": "7a307496ec69056a",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "2022-CHE-Data-Book.pdf"
+            "file": "002_Notes/Chinese Grammar.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-CHE-Data-Book.pdf",
+                "file": "002_Notes/Chinese Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-CHE-Data-Book.pdf",
+                "file": "002_Notes/Chinese Grammar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +154,7 @@
   },
   "active": "7a307496ec69056a",
   "lastOpenFiles": [
+    "002_Notes/Chinese Grammar.md",
     "2022-CHE-Data-Book.pdf",
     "005_DailyNotes/2022-06-02.md",
     "005_DailyNotes/2022-06-01.md",
@@ -160,7 +163,6 @@
     "005_DailyNotes/2022-05-31.md",
     "002_Notes/English Sem1 Quotes.md",
     "002_Notes/English Course Concepts.md",
-    "002_Notes/English Essay Edited Copy 1.md",
-    "005_DailyNotes/2022-05-30.md"
+    "002_Notes/English Essay Edited Copy 1.md"
   ]
 }
