@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005_DailyNotes/2022-06-01.md",
+            "file": "005_DailyNotes/2022-06-02.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005_DailyNotes/2022-06-01.md",
+                "file": "005_DailyNotes/2022-06-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005_DailyNotes/2022-06-01.md",
+                "file": "005_DailyNotes/2022-06-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "b333065ba479c5bf",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-06-02.md",
     "005_DailyNotes/2022-06-01.md",
     "002_Notes/English Essay Draft.md",
     "006_WeeklyNotes/2022-W23.md",
@@ -150,7 +151,6 @@
     "002_Notes/English Course Concepts.md",
     "002_Notes/English Essay Edited Copy 1.md",
     "005_DailyNotes/2022-05-30.md",
-    "003_Templates/Weekly Note Template.md",
-    "005_DailyNotes/2022-05-24.md"
+    "003_Templates/Weekly Note Template.md"
   ]
 }
