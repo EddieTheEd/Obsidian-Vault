@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2ee0e036d694a00b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005_DailyNotes/2022-06-01.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "f656d928c672f76f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "002_Notes/English Essay Draft.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b333065ba479c5bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "005_DailyNotes/2022-06-01.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "005_DailyNotes/2022-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/English Essay Draft.md",
+                "file": "005_DailyNotes/2022-06-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,11 +140,11 @@
     "width": 150,
     "collapsed": true
   },
-  "active": "f656d928c672f76f",
+  "active": "b333065ba479c5bf",
   "lastOpenFiles": [
+    "005_DailyNotes/2022-06-01.md",
     "002_Notes/English Essay Draft.md",
     "006_WeeklyNotes/2022-W23.md",
-    "005_DailyNotes/2022-06-01.md",
     "005_DailyNotes/2022-05-31.md",
     "002_Notes/English Sem1 Quotes.md",
     "002_Notes/English Course Concepts.md",
