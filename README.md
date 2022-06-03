@@ -23,5 +23,6 @@ If you have any notes related to these subjects, and you are willing to share it
 
 # How to use
 
-1. Download [[https://obsidian.md|Obsidian]]
+1. Download [Obsidian](https://obsidian.md/)
+2. 
 
