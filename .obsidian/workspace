@@ -7,11 +7,9 @@
         "id": "49339f995e4a5209",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "001_Files/Set Theory why.png"
           }
         }
       }
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "001_Files/Set Theory why.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "001_Files/Set Theory why.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +127,8 @@
   },
   "active": "49339f995e4a5209",
   "lastOpenFiles": [
+    "001_Files/Set Theory why.png",
+    "001_Files/Anthony's B-Day Gift.pdf",
     "README.md",
     "README_Files/1st.png",
     "README_Files/10th.png",
@@ -136,8 +136,6 @@
     "README_Files/8th.png",
     "README_Files/7th.png",
     "README_Files/6th.png",
-    "README_Files/5th.png",
-    "4th.png",
-    "README_Files/3rd.png"
+    "README_Files/5th.png"
   ]
 }
