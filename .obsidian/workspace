@@ -7,11 +7,9 @@
         "id": "49339f995e4a5209",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "README Files/1st.png"
           }
         }
       }
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "README Files/1st.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "README Files/1st.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +127,15 @@
   },
   "active": "49339f995e4a5209",
   "lastOpenFiles": [
+    "README Files/1st.png",
+    "README Files/10th.png",
     "README.md",
-    "1st.png",
-    "10th.png",
     "9th.png",
-    "8th.png",
-    "7th.png",
-    "6th.png",
-    "5th.png",
+    "README Files/8th.png",
+    "README Files/7th.png",
+    "README Files/6th.png",
+    "README Files/5th.png",
     "4th.png",
-    "3rd.png"
+    "README Files/3rd.png"
   ]
 }
