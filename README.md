@@ -6,7 +6,7 @@ I will be reformatting the obsidian vault for a week or two. Please don't try pu
 
 Thanks, Ed
 
-
+---
 
 This is where I store my Year 10 notes, and a bunch of other random stuff
 
