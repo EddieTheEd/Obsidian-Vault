@@ -30,19 +30,20 @@ If you have any notes related to these subjects, and you are willing to share it
 2. Download **ALL** the files and folders in the [GitHub page](https://github.com/EddieTheEd/Obsidian-Vault). It is best to use GitHub's inbuilt zip function.
 ![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/1st.jpg?raw=true)
 
-![[8th.png]]
-![[7th.png]]
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/8th.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/7th.png?raw=true)
 
 3. Unzip the folder. You should then get a folder that looks like this.
-![[6th.png]]
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/6th.png?raw=true)
 
 4. Go back to the Obsidian window. Press the Open button.
-![[5th.png]]
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/5th.png?raw=true)
 
 5. Select the folder **inside** the folder you just unzipped.
-![[3rd.png]]
-![[2nd.png]]
-![[1st.png]]
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/3rd.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/2nd.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/1st.png?raw=true)
+
 7. You will probably get some error message regarding GitHub. That is the plugin that I've installed, you can either ignore it or uninstall it from the community plugins tab (Ctrl + <, Community Plugins)
 
 ### **Congratulations, you now see almost exactly what I see! You have access to the Graph view (Ctrl + G), and can see all the links between the notes in the vault. You also have a downloaded copy of the markdown files. Use them how you see fit.**
