@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/Chinese Grammar.md",
+            "file": "002_Notes/Computer-Science-Part-2.md",
             "mode": "source",
             "source": false
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chinese Grammar.md",
+                "file": "002_Notes/Computer-Science-Part-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chinese Grammar.md",
+                "file": "002_Notes/Computer-Science-Part-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
   },
   "active": "7a307496ec69056a",
   "lastOpenFiles": [
+    "002_Notes/Computer-Science-Part-2.md",
+    "002_Notes/Computer-Science-Part-1.md",
+    "002_Notes/aww yea baby yr 12 examination lets goooo.png",
     "002_Notes/Chinese Grammar.md",
     "2022-CHE-Data-Book.pdf",
     "005_DailyNotes/2022-06-02.md",
     "005_DailyNotes/2022-06-01.md",
     "002_Notes/English Essay Draft.md",
     "006_WeeklyNotes/2022-W23.md",
-    "005_DailyNotes/2022-05-31.md",
-    "002_Notes/English Sem1 Quotes.md",
-    "002_Notes/English Course Concepts.md",
-    "002_Notes/English Essay Edited Copy 1.md"
+    "005_DailyNotes/2022-05-31.md"
   ]
 }
