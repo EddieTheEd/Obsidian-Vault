@@ -26,11 +26,18 @@ If you have any notes related to these subjects, and you are willing to share it
 1. Download [Obsidian](https://obsidian.md/), install and open it. You should see something like this
 ![[Pasted image 20220603200427.png]]
 
-2. Download **ALL** the files and folders in the GitHub page. It is best to use GitHub's inbuilt zip function.
+2. Download **ALL** the files and folders in the [GitHub page](https://github.com/EddieTheEd/Obsidian-Vault). It is best to use GitHub's inbuilt zip function.
 ![[Pasted image 20220603200642.png]]
 ![[Pasted image 20220603200655.png]]
 
 3. Unzip the folder. You should then get a folder that looks like this.
 ![[Pasted image 20220603200811.png]]
 
-4. Go back to the Obsidian window.
+4. Go back to the Obsidian window. Press the Open button.
+![[Pasted image 20220603200950.png]]
+
+5. Select the folder **inside** the folder you just unzipped.
+![[Pasted image 20220603201314.png]]
+![[Pasted image 20220603201439.png]]
+![[Pasted image 20220603201520.png]]
+7. 
