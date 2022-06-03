@@ -7,9 +7,11 @@
         "id": "49339f995e4a5209",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "001_Files/Set Theory why.png"
+            "file": "006_PublishedNotes/History of the Atomic Model Notes.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -94,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Files/Set Theory why.png",
+                "file": "006_PublishedNotes/History of the Atomic Model Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Files/Set Theory why.png",
+                "file": "006_PublishedNotes/History of the Atomic Model Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +129,15 @@
   },
   "active": "49339f995e4a5209",
   "lastOpenFiles": [
+    "006_PublishedNotes/History of the Atomic Model Notes.md",
+    "002_Notes/Class 20.md",
+    "README.md",
     "001_Files/Set Theory why.png",
     "001_Files/Anthony's B-Day Gift.pdf",
-    "README.md",
     "README_Files/1st.png",
     "README_Files/10th.png",
     "9th.png",
     "README_Files/8th.png",
-    "README_Files/7th.png",
-    "README_Files/6th.png",
-    "README_Files/5th.png"
+    "README_Files/7th.png"
   ]
 }
