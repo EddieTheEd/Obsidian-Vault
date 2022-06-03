@@ -4,36 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f656d928c672f76f",
+        "id": "4c6655b264af90b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_Notes/English Essay Draft.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b333065ba479c5bf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005_DailyNotes/2022-06-02.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7a307496ec69056a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Computer-Science-Part-2.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -85,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 128,
-    "collapsed": true
+    "width": 199.50173950195312
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -121,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Computer-Science-Part-2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Computer-Science-Part-2.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,20 +124,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256,
+    "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "7a307496ec69056a",
+  "active": "4c6655b264af90b4",
   "lastOpenFiles": [
-    "002_Notes/Computer-Science-Part-2.md",
-    "002_Notes/Computer-Science-Part-1.md",
+    "README.md",
+    "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-1.md",
+    "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-2.md",
+    "001_Files/Anthony's B-Day GIft.pdf",
+    "001_Files/2022-CHE-Data-Book.pdf",
     "002_Notes/aww yea baby yr 12 examination lets goooo.png",
     "002_Notes/Chinese Grammar.md",
-    "2022-CHE-Data-Book.pdf",
-    "005_DailyNotes/2022-06-02.md",
-    "005_DailyNotes/2022-06-01.md",
-    "002_Notes/English Essay Draft.md",
-    "006_WeeklyNotes/2022-W23.md",
-    "005_DailyNotes/2022-05-31.md"
+    "004_DailyNotes/2022-06-02.md",
+    "004_DailyNotes/2022-06-01.md",
+    "002_Notes/English Essay Draft.md"
   ]
 }

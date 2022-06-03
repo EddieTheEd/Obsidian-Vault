@@ -1,4 +1,10 @@
-# Obsidian-Vault
+# IMPORTANT PLEASE READ!!!
+
+As of 3/06/2022,
+
+I will be reformatting the obsidian vault for a week or two. 
+
+
 
 This is where I store my Year 10 notes, and a bunch of other random stuff
 
