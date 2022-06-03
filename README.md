@@ -25,24 +25,24 @@ If you have any notes related to these subjects, and you are willing to share it
 
 1. Download [Obsidian](https://obsidian.md/), install and open it. You should see something like this.
 
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/10th.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/10th.png?raw=true)
 
 2. Download **ALL** the files and folders in the [GitHub page](https://github.com/EddieTheEd/Obsidian-Vault). It is best to use GitHub's inbuilt zip function.
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/1st.jpg?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/1st.jpg?raw=true)
 
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/8th.png?raw=true)
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/7th.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/8th.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/7th.png?raw=true)
 
 3. Unzip the folder. You should then get a folder that looks like this.
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/6th.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/6th.png?raw=true)
 
 4. Go back to the Obsidian window. Press the Open button.
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/5th.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/5th.png?raw=true)
 
 5. Select the folder **inside** the folder you just unzipped.
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/3rd.png?raw=true)
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/2nd.png?raw=true)
-![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/1st.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/3rd.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/2nd.png?raw=true)
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/1st.png?raw=true)
 
 7. You will probably get some error message regarding GitHub. That is the plugin that I've installed, you can either ignore it or uninstall it from the community plugins tab (Ctrl + <, Community Plugins)
 
