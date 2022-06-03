@@ -24,7 +24,8 @@ If you have any notes related to these subjects, and you are willing to share it
 # How to use
 
 1. Download [Obsidian](https://obsidian.md/), install and open it. You should see something like this.
-![[10th.png]]
+
+![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/10th.png?raw=true)
 ![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/Pasted image 20220603200427.png?raw=true)
 
 2. Download **ALL** the files and folders in the [GitHub page](https://github.com/EddieTheEd/Obsidian-Vault). It is best to use GitHub's inbuilt zip function.
