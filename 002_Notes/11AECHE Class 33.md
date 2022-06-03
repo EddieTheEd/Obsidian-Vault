@@ -1,7 +1,7 @@
 *Date: 2022 05 19 Time: 13:29*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes 
 
 Tags: [[Chromatography]]
 

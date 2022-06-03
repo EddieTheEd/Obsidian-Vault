@@ -1,7 +1,7 @@
 *Date: 2022 04 07 Time: 14:01*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[Separation Techniques]][[The Periodic Table]][[Electron Configuration]]
 

@@ -1,7 +1,7 @@
 *Date: 20220312 Time: 1947*
 
 
-Status: #chemclass
+Status: #10SCI_ChemNotes #11AECHE_PermanentNotes 
 
 Tags: [[Atomic Structure - Development of the Atomic Model]]
 

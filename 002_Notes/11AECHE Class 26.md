@@ -1,7 +1,7 @@
 *Date: 2022 04 28 Time: 14:43*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: 
 

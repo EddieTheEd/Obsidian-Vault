@@ -1,7 +1,7 @@
 *Date: 2022 04 26 Time: 11:12*
 
 
-Status: #chemclass
+Status: #10SCI_ChemNotes
 
 Tags: 
 

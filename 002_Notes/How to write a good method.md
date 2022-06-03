@@ -2,7 +2,7 @@
 *20220312 1633*
 
 
-Status: #chemclass
+Status: #11AECHE_PermanentNotes 
 
 Tags: [[Separation Techniques]]
 

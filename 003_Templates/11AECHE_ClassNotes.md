@@ -1,7 +1,7 @@
 *Date: {{date:YYYY MM DD}} Time: {{time:HH:mm}}*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes 
 
 Tags: 
 

@@ -1,7 +1,7 @@
 *Date: 2022 05 16 Time: 14:08*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[Solubility]]
 

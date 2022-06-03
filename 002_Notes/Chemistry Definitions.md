@@ -1,7 +1,7 @@
 *Date: 2022 04 27 Time: 20:03*
 
 
-Status: #chemclass
+Status: #11AECHE_PermanentNotes 
 
 Tags: [[Chemistry Yr 11]]
 
