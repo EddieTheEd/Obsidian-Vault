@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Hippocampus",
@@ -88,6 +88,6 @@
   "repelStrength": 20,
   "linkStrength": 0.412550937245314,
   "linkDistance": 293,
-  "scale": 0.23908923841356883,
+  "scale": 0.19324671390848044,
   "close": false
 }

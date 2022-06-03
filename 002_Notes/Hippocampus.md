@@ -28,9 +28,11 @@ Also, there'll be a literal #subject tag to identify subjects.
 
 **Year 10 Subjects:**
 
-* [[Chemistry Yr 11]]
+* Chemistry Yr 11 Tags:
+	* #11AECHE_TopicNotes 
+	* #aeche
 * [[Methods Yr 10]]
-* [[Chem Yr 10]]
+* #10SCI_ChemNotes 
 * [[Chinese Yr 10]]
 * [[English Yr 11]]
 * [[Specialist Yr 11]]

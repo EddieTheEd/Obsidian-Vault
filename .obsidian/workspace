@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6a756bd383ae10fc",
+        "id": "4b76f0d9baf25af0",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "b7e1abed42a5d1cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Hippocampus.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chemtopic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -53,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/Hippocampus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +127,24 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "6a756bd383ae10fc",
+  "active": "b7e1abed42a5d1cb",
   "lastOpenFiles": [
-    "002_Notes/Types of Reaction.md",
-    "002_Notes/Separation Techniques.md",
-    "002_Notes/Separation Techniques (Class + Lucarelli + Widjaja).md",
-    "002_Notes/Review Note 2.md",
-    "002_Notes/Review Note 1.md",
-    "002_Notes/Properties of matter.md",
-    "002_Notes/Properties of matter (Class).md",
-    "002_Notes/Meczes Class 2.md",
-    "002_Notes/Meczes Class 1.md",
-    "002_Notes/Hydrocarbons.md"
+    "002_Notes/Hippocampus.md",
+    "002_Notes/Chemistry Stoichiometry Notes.md",
+    "002_Notes/Chem Yr 10.md",
+    "003_Templates/Methods Yr 10 Format.md",
+    "003_Templates/Idea.md",
+    "003_Templates/Lit Format.md",
+    "003_Templates/Physics Yr 10 Format.md",
+    "003_Templates/Daily Note Template.md",
+    "003_Templates/11AECHE_ClassNotes.md",
+    "003_Templates/11AECHE_TopicNotes.md"
   ]
 }
