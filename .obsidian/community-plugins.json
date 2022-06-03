@@ -18,5 +18,6 @@
   "templater-obsidian",
   "nldates-obsidian",
   "obsidian-day-planner",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-vault-statistics-plugin"
 ]
