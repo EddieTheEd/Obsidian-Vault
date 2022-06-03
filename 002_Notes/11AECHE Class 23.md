@@ -1,7 +1,7 @@
 *Date: 2022 04 06 Time: 10:56*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[Covalent Bonding]][[Intermolecular Forces]][[The Periodic Table]][[Properties of matter]]
 

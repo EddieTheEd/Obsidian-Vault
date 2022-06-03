@@ -1,7 +1,7 @@
 *Date: 20220312 Time: 1700*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags:[[Separation Techniques]][[Atomic Structure - Development of the Atomic Model]]
 

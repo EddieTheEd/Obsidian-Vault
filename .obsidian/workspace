@@ -7,8 +7,12 @@
         "id": "49339f995e4a5209",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/11AECHE Class 23.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chemclass",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/11AECHE Class 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/11AECHE Class 23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +130,15 @@
   },
   "active": "49339f995e4a5209",
   "lastOpenFiles": [
-    "002_Notes/Class 13.md",
-    "002_Notes/Class 12.md",
-    "006_PublishedNotes/History of the Atomic Model Notes.md",
-    "002_Notes/Class 20.md",
-    "README.md",
-    "001_Files/Set Theory why.png",
-    "001_Files/Anthony's B-Day Gift.pdf",
-    "README_Files/1st.png",
-    "README_Files/10th.png",
-    "9th.png"
+    "002_Notes/11AECHE Class 23.md",
+    "002_Notes/11AECHE Class 22.md",
+    "002_Notes/11AECHE Class 21.md",
+    "002_Notes/11AECHE Class 20.md",
+    "002_Notes/11AECHE Class 19.md",
+    "002_Notes/11AECHE Class 18.md",
+    "002_Notes/11AECHE Class 17.md",
+    "002_Notes/11AECHE Class 16.md",
+    "002_Notes/11AECHE Class 15.md",
+    "002_Notes/11AECHE Class 14.md"
   ]
 }

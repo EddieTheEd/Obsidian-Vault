@@ -1,7 +1,7 @@
 *Date: 2022 03 17 Time: 14:49*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[Electron Configuration]][[The Periodic Table]]
 

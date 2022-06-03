@@ -1,7 +1,7 @@
 *Date: 20220312 Time: 1702*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes 
 
 Tags:[[Atomic Structure - Development of the Atomic Model]][[Electron Configuration]]
 

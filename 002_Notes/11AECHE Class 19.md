@@ -1,7 +1,7 @@
 *Date: 2022 03 28 Time: 11:11*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[Ionic Bonding]]
 

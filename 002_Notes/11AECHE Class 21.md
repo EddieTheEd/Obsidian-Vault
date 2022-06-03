@@ -1,7 +1,7 @@
 *Date: 2022 03 31 Time: 14:21*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[Intermolecular Forces]][[Covalent Bonding]]
 

@@ -1,4 +1,4 @@
 	¯\_(ツ)_/¯
 
 
-Status: #chemclass 
+Status: #11AECHE_ClassNotes 

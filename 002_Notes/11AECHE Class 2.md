@@ -1,7 +1,7 @@
 *Date: 20220312 Time: 1642*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes 
 
 Tags: [[Properties of matter]]
 

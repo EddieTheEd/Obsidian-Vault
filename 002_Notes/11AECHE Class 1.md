@@ -1,6 +1,6 @@
 *20220312 1639*
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[Properties of matter]]
 

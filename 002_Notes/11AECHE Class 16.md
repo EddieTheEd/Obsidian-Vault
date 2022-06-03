@@ -1,7 +1,7 @@
 *Date: 2022 03 21 Time: 13:36*
 
 
-Status: #chemclass
+Status: #11AECHE_ClassNotes
 
 Tags: [[The Periodic Table]]
 
