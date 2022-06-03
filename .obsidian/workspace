@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 128,
     "collapsed": true
   },
   "right": {
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150,
+    "width": 256,
     "collapsed": true
   },
   "active": "7a307496ec69056a",
