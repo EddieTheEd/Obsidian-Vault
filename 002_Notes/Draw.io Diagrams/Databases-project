@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T15:04:52.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="Jgc-lyNbuzyLz7_-K3Vf" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T10:56:46.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="lzWnCoUPLNl0St7vuySh" version="18.2.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4974" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3796" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,8 +163,8 @@
             <mxPoint x="1090" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV0keFFoRAN2RoG9Tfuv-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 37px&quot;&gt;Ariz Ahmed: ERD Diagrams for Computer Science Database Project&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="320" width="1200" height="30" as="geometry" />
+        <mxCell id="wV0keFFoRAN2RoG9Tfuv-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 37px&quot;&gt;ERD Diagrams for Computer Science Database Project&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="320" width="980" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wV0keFFoRAN2RoG9Tfuv-76" value="Many to Many cardinality resolved" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="830" y="400" width="200" height="20" as="geometry" />
