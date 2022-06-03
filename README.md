@@ -23,6 +23,14 @@ If you have any notes related to these subjects, and you are willing to share it
 
 # How to use
 
-1. Download [Obsidian](https://obsidian.md/)
-2. 
+1. Download [Obsidian](https://obsidian.md/), install and open it. You should see something like this
+![[Pasted image 20220603200427.png]]
 
+2. Download **ALL** the files and folders in the GitHub page. It is best to use GitHub's inbuilt zip function.
+![[Pasted image 20220603200642.png]]
+![[Pasted image 20220603200655.png]]
+
+3. Unzip the folder. You should then get a folder that looks like this.
+![[Pasted image 20220603200811.png]]
+
+4. Go back to the Obsidian window.

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6655b264af90b4",
+        "id": "ff863e98b6a5b3df",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -127,9 +127,10 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "4c6655b264af90b4",
+  "active": "ff863e98b6a5b3df",
   "lastOpenFiles": [
     "README.md",
+    "002_Notes/Untitled.md",
     "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-1.md",
     "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-2.md",
     "001_Files/Anthony's B-Day GIft.pdf",
@@ -137,7 +138,6 @@
     "002_Notes/aww yea baby yr 12 examination lets goooo.png",
     "002_Notes/Chinese Grammar.md",
     "004_DailyNotes/2022-06-02.md",
-    "004_DailyNotes/2022-06-01.md",
-    "002_Notes/English Essay Draft.md"
+    "004_DailyNotes/2022-06-01.md"
   ]
 }
