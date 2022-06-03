@@ -30,7 +30,8 @@ Also, there'll be a literal #subject tag to identify subjects.
 
 * Chemistry Yr 11 Tags:
 	* #11AECHE_TopicNotes 
-	* #aeche
+	* #11AECHE_ClassNotes 
+	* #11AECHE_PermanentNotes 
 * [[Methods Yr 10]]
 * #10SCI_ChemNotes 
 * [[Chinese Yr 10]]
