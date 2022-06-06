@@ -7,8 +7,12 @@
         "id": "4b76f0d9baf25af0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/Physics Definitions.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/Physics Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/Physics Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
   },
   "active": "4b76f0d9baf25af0",
   "lastOpenFiles": [
+    "002_Notes/Physics Definitions.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Chemistry Stoichiometry Notes.md",
     "002_Notes/Chem Yr 10.md",
@@ -130,7 +137,6 @@
     "003_Templates/Lit Format.md",
     "003_Templates/Physics Yr 10 Format.md",
     "003_Templates/Daily Note Template.md",
-    "003_Templates/11AECHE_ClassNotes.md",
-    "003_Templates/11AECHE_TopicNotes.md"
+    "003_Templates/11AECHE_ClassNotes.md"
   ]
 }
