@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ece8aea73a3f12f",
+        "id": "91cbc593f8fb01e4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Physics Definitions.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Physics Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Physics Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +120,17 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "8ece8aea73a3f12f",
+  "active": "91cbc593f8fb01e4",
   "lastOpenFiles": [
+    "Pasted image 20220603210307.png",
+    "Pasted image 20220603210206.png",
+    "Pasted image 20220603210141.png",
+    "Pasted image 20220603210201.png",
     "002_Notes/Physics Definitions.md",
     "003_Templates/Physics Yr 10 Format.md",
     "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-2.md",
     "006_PublishedNotes/History of the Atomic Model Notes.md",
     "002_Notes/Chem Topic Test 1 Notes.md",
-    "002_Notes/Hippocampus.md",
-    "002_Notes/Chemistry Stoichiometry Notes.md",
-    "002_Notes/Chem Yr 10.md",
-    "003_Templates/Methods Yr 10 Format.md",
-    "003_Templates/Idea.md"
+    "002_Notes/Hippocampus.md"
   ]
 }
