@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chemtopic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -129,14 +129,14 @@
   "active": "8ece8aea73a3f12f",
   "lastOpenFiles": [
     "002_Notes/Physics Definitions.md",
+    "003_Templates/Physics Yr 10 Format.md",
+    "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-2.md",
     "006_PublishedNotes/History of the Atomic Model Notes.md",
     "002_Notes/Chem Topic Test 1 Notes.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Chemistry Stoichiometry Notes.md",
     "002_Notes/Chem Yr 10.md",
     "003_Templates/Methods Yr 10 Format.md",
-    "003_Templates/Idea.md",
-    "003_Templates/Lit Format.md",
-    "003_Templates/Physics Yr 10 Format.md"
+    "003_Templates/Idea.md"
   ]
 }
