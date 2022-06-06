@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006_PublishedNotes/History of the Atomic Model Notes.md",
+                "file": "002_Notes/Physics Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006_PublishedNotes/History of the Atomic Model Notes.md",
+                "file": "002_Notes/Physics Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +138,10 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "65d5ca128852315e",
+  "active": "4b76f0d9baf25af0",
   "lastOpenFiles": [
-    "006_PublishedNotes/History of the Atomic Model Notes.md",
     "002_Notes/Physics Definitions.md",
+    "006_PublishedNotes/History of the Atomic Model Notes.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Chemistry Stoichiometry Notes.md",
     "002_Notes/Chem Yr 10.md",
