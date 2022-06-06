@@ -20,6 +20,7 @@ Tags:
 - A balance point of an object.
 **Stable Equilibrium:** A state of equilibrium of an object where if the object were displaced it would return to its original position.
 **Moment:** A force that causes an object to turn.
+**Gravity:** A fundamental force of mutual attraction between objects with mass/energy
 
 **Vector:** A strength or size of force (magnitude) that acts in a *particular direction*.
 **Scalar:** A magnitude without direction.

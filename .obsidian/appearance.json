@@ -2,6 +2,8 @@
   "baseFontSize": 17,
   "translucency": false,
   "cssTheme": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "primary"
+  ],
   "theme": "obsidian"
 }
