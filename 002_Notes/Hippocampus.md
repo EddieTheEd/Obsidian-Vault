@@ -16,7 +16,6 @@ If you're reading this:
 
 **Project tags** are for personal projects of mine, e.g. Notes.exe which needs a better name.
 That's essentially it! If you want to see these tags, download obsidian and open this as a vault.
-Also, there'll be a literal #subject tag to identify subjects.
 - **Extra Clarification:** The Notes.exe project is essentially me reviewing my previous notes and synthesising them into quality notes that I can distribute (for cash, hopefully jk jk)
 
 **UPDATE:**

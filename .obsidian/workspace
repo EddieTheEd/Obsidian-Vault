@@ -7,12 +7,16 @@
         "id": "62a12ba1f6f00a6d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/English Visual Text Notes.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "ed32d19bd27be807",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#subject",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -57,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/English Visual Text Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/English Visual Text Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +129,17 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "62a12ba1f6f00a6d",
+  "active": "ed32d19bd27be807",
   "lastOpenFiles": [
+    "002_Notes/Hippocampus.md",
+    "005_WeeklyNotes/2022-W24.md",
+    "004_DailyNotes/2022-06-10.md",
+    "002_Notes/Meczes Homework Answers.md",
     "002_Notes/English Visual Text Notes.md",
     "001_Files/Year 11 Chemistry Assessment Outline 2022.pdf",
     "002_Notes/'study notes'.md",
     "002_Notes/Reflections on Australia's Immigration policy.md",
     "002_Notes/English Podcast Draft 1.md",
-    "002_Notes/Political podcast transcript.md",
-    "002_Notes/Operation Sovereign Borders policy.md",
-    "002_Notes/Specialist Yr 11.md",
-    "002_Notes/English Podcast Transcript Brainstorm.md",
-    "002_Notes/Methods Yr 10.md"
+    "002_Notes/Political podcast transcript.md"
   ]
 }
