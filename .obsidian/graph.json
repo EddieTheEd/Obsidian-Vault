@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 7935
       }
+    },
+    {
+      "query": "tag:#10SCI_ChemNotes",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 0.412550937245314,
   "linkDistance": 293,
-  "scale": 0.16233522202086476,
+  "scale": 0.3861960482515188,
   "close": false
 }

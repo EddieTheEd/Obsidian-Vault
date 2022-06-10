@@ -1,4 +1,5 @@
 
+#10CSL
 
 * 。。。的时候 - refers to the time when something happened.  e.g. 晚上睡觉==的时候==我还咳嗽。
 * 是。。。的 - to emphasise the time, place, manner or purpose of a completed action: **Subject + 是 + Time/Place/Manner/Purpose + Verb phrase + 的**
