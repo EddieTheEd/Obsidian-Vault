@@ -7,16 +7,12 @@
         "id": "62a12ba1f6f00a6d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "3055c1e98282b3cf",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "002_Notes/English Visual Text Notes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -61,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002_Notes/English Visual Text Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002_Notes/English Visual Text Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +126,17 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "3055c1e98282b3cf",
+  "active": "62a12ba1f6f00a6d",
   "lastOpenFiles": [
+    "002_Notes/English Visual Text Notes.md",
+    "001_Files/Year 11 Chemistry Assessment Outline 2022.pdf",
+    "002_Notes/'study notes'.md",
+    "002_Notes/Reflections on Australia's Immigration policy.md",
+    "002_Notes/English Podcast Draft 1.md",
     "002_Notes/Political podcast transcript.md",
     "002_Notes/Operation Sovereign Borders policy.md",
     "002_Notes/Specialist Yr 11.md",
     "002_Notes/English Podcast Transcript Brainstorm.md",
-    "002_Notes/Methods Yr 10.md",
-    "002_Notes/English Yr 11.md",
-    "002_Notes/English Course Concepts.md",
-    "002_Notes/English Short Speech.md",
-    "002_Notes/English Creative Assessment 2nd Draft.md",
-    "002_Notes/English Creative  Assessment 1st Draft.md"
+    "002_Notes/Methods Yr 10.md"
   ]
 }
