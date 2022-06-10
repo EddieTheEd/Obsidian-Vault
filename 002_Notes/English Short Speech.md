@@ -47,3 +47,5 @@ A world of beauty, passion, and freedom.
 Sounds rather conservative, right?
 
 Thus, it is irresponsible and irrational to think that sustainability is a radical, uncontrolled, deceitful ideology. It is essential that you truly believe and contribute to building a safe, sustainable global environment, before it's too late.
+
+#10ENG 

@@ -4,7 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e1451719e653f047",
+        "id": "62a12ba1f6f00a6d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "3055c1e98282b3cf",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -53,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,17 +129,17 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "e1451719e653f047",
+  "active": "3055c1e98282b3cf",
   "lastOpenFiles": [
-    "002_Notes/Chem Topic Test 1 Notes.md",
-    "006_PublishedNotes/History of the Atomic Model Notes.md",
-    "002_Notes/Chemistry Stoichiometry Notes.md",
-    "002_Notes/Chinese Yr 10.md",
-    "002_Notes/Chinese Speaking Assessment.md",
-    "002_Notes/Chinese Grammar.md",
-    "002_Notes/Copper Cycle Notes.md",
-    "002_Notes/Hippocampus.md",
-    "002_Notes/Chem Cap 1 Notes.md",
-    "Pasted image 20220603210307.png"
+    "002_Notes/Political podcast transcript.md",
+    "002_Notes/Operation Sovereign Borders policy.md",
+    "002_Notes/Specialist Yr 11.md",
+    "002_Notes/English Podcast Transcript Brainstorm.md",
+    "002_Notes/Methods Yr 10.md",
+    "002_Notes/English Yr 11.md",
+    "002_Notes/English Course Concepts.md",
+    "002_Notes/English Short Speech.md",
+    "002_Notes/English Creative Assessment 2nd Draft.md",
+    "002_Notes/English Creative  Assessment 1st Draft.md"
   ]
 }

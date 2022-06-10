@@ -1,7 +1,7 @@
 *Date: 2022 03 13 Time: 19:37*
 
 
-Status: #11AECHE_PermanentNotes #10SCI_ChemNotes 
+Status: #11AECHE_PermanentNotes #10SCI_ChemNotes #ReleasedNotes 
 
 Tags: [[Stoichiometry]]
 
