@@ -1,6 +1,4 @@
-Dear Ms Li,
-	I have highlighted the chosen questions that I would like you to proof read.
-Thanks, Edward
+#10CSL 
 
 Part 1-Monologue (10%)
 

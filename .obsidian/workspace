@@ -7,12 +7,8 @@
         "id": "e1451719e653f047",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_Notes/Chinese Grammar.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -96,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_Notes/Chinese Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_Notes/Chinese Grammar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +122,15 @@
   },
   "active": "e1451719e653f047",
   "lastOpenFiles": [
-    "002_Notes/Chinese Grammar.md",
+    "002_Notes/Chem Topic Test 1 Notes.md",
+    "006_PublishedNotes/History of the Atomic Model Notes.md",
+    "002_Notes/Chemistry Stoichiometry Notes.md",
     "002_Notes/Chinese Yr 10.md",
+    "002_Notes/Chinese Speaking Assessment.md",
+    "002_Notes/Chinese Grammar.md",
     "002_Notes/Copper Cycle Notes.md",
     "002_Notes/Hippocampus.md",
     "002_Notes/Chem Cap 1 Notes.md",
-    "Pasted image 20220603210307.png",
-    "Pasted image 20220603210206.png",
-    "Pasted image 20220603210141.png",
-    "Pasted image 20220603210201.png",
-    "002_Notes/Physics Definitions.md"
+    "Pasted image 20220603210307.png"
   ]
 }
