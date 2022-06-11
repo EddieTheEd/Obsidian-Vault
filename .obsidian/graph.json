@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Hippocampus",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "query": "tag:#specialist",
+      "query": "tag:#11SPEC",
       "color": {
         "a": 1,
-        "rgb": 2860042
+        "rgb": 3823410
       }
     },
     {
@@ -95,6 +95,6 @@
   "repelStrength": 17.4555149110298,
   "linkStrength": 0.329220658441317,
   "linkDistance": 489,
-  "scale": 0.1308049806175871,
+  "scale": 0.07879709504546567,
   "close": false
 }

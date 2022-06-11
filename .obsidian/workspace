@@ -15,8 +15,10 @@
         "id": "ed32d19bd27be807",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "000_Files/2022-CHE-Data-Book.pdf"
+          }
         }
       }
     ],
@@ -61,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000_Files/2022-CHE-Data-Book.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000_Files/2022-CHE-Data-Book.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +134,15 @@
   },
   "active": "ed32d19bd27be807",
   "lastOpenFiles": [
+    "000_Files/2022-CHE-Data-Book.pdf",
     "002_Notes/Spec Notes.md",
     "002_Notes/Brilliant Course Complex Numbers.md",
     "002_Notes/Hippocampus.md",
-    "005_WeeklyNotes/2022-W24.md",
-    "004_DailyNotes/2022-06-10.md",
+    "003_PersonalNotes/005_WeeklyNotes/2022-W24.md",
+    "003_PersonalNotes/004_DailyNotes/2022-06-10.md",
     "002_Notes/Meczes Homework Answers.md",
     "002_Notes/English Visual Text Notes.md",
-    "001_Files/Year 11 Chemistry Assessment Outline 2022.pdf",
-    "002_Notes/'study notes'.md",
-    "002_Notes/Reflections on Australia's Immigration policy.md"
+    "000_Files/Year 11 Chemistry Assessment Outline 2022.pdf",
+    "002_Notes/'study notes'.md"
   ]
 }
