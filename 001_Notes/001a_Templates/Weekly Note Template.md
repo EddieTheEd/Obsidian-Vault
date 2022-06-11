@@ -67,12 +67,12 @@ const attributes = {
 	},
 };
 
-const date = "<% tp.date.now('YYYY-MM-DD') %>";s
+const date = "<% tp.date.now('YYYY-MM-DD') %>";
 
 customJS.DvCharts.renderWeeklyChart({
 	dv,
 	context: this,
-	daysPath: '005_DailyNotes',
+	daysPath: '002_PersonalNotes/002a_DailyNotes',
 	attributes,
 	type: 'average',
 	date
@@ -86,7 +86,7 @@ TABLE WITHOUT ID
 	money-spent AS "💸",
 	panic AS "🌪️",
 	hours-worked AS "✏️"
-FROM "005_DailyNotes"
+FROM "002_PersonalNotes/002a_DailyNotes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
 SORT file.name ASC
 ```
@@ -100,7 +100,7 @@ TABLE WITHOUT ID
 	reading AS "👓",
 	revision AS "🔁",
 	homework AS "📚"
-FROM "005_DailyNotes"
+FROM "002_PersonalNotes/002a_DailyNotes"
 WHERE week = [[<% tp.date.now("YYYY [Week] WW") %>]]
 SORT file.name ASC
 ```
@@ -108,7 +108,7 @@ SORT file.name ASC
 ```dataviewjs
 dv.table(
 	["Learnt Word", "Meaning"],
-	dv.pages('"005_DailyNotes"')
+	dv.pages('"002_PersonalNotes/002a_DailyNotes"')
 	.filter(p => p["Learnt Word"] && p.week.path == "<% tp.date.now("YYYY [Week] WW") %>")
 	.sort(p => dv.date(p.file.name), 'asc')
 	.flatMap(p =>

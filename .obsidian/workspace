@@ -12,14 +12,12 @@
         }
       },
       {
-        "id": "ed32d19bd27be807",
+        "id": "94a7862552c14187",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
-            "mode": "source",
-            "source": false
+            "file": "README_Files/5th.png"
           }
         }
       }
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
+                "file": "README_Files/5th.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
+                "file": "README_Files/5th.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,17 +132,17 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "ed32d19bd27be807",
+  "active": "94a7862552c14187",
   "lastOpenFiles": [
+    "README_Files/5th.png",
+    "README_Files/2nd.png",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
+    "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-11.md",
     "000_Files/2022-CHE-Data-Book.pdf",
     "001_Notes/Spec Notes.md",
     "001_Notes/Brilliant Course Complex Numbers.md",
     "001_Notes/Hippocampus.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-10.md",
-    "001_Notes/Meczes Homework Answers.md",
-    "001_Notes/English Visual Text Notes.md",
-    "000_Files/Year 11 Chemistry Assessment Outline 2022.pdf"
+    "002_PersonalNotes/002a_DailyNotes/2022-06-10.md"
   ]
 }
