@@ -4,14 +4,14 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "",
-    "folder": "004_DailyNotes",
+    "template": "001_Notes/001a_Templates/Daily Note Template.md",
+    "folder": "002_PersonalNotes/002a_DailyNotes",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "003_Templates/Weekly Note Template.md",
-    "folder": "005_WeeklyNotes",
+    "template": "001_Notes/001a_Templates/Weekly Note Template.md",
+    "folder": "002_PersonalNotes/002b_WeeklyNotes",
     "enabled": true
   },
   "monthly": {
