@@ -1,789 +1,789 @@
 {
   "nodePositions": [
     {
-      "id": "000_UnsortedFiles/Join if you want aids.md",
-      "x": 2980.255859375,
-      "y": 1645.4014892578125
+      "id": "000_Files/000a_UnsortedFiles/Join if you want aids.md",
+      "x": 129.97076416015625,
+      "y": 3100.7841796875
     },
     {
-      "id": "002_Notes/'study notes'.md",
-      "x": 1164.3197021484375,
-      "y": 1788.394775390625
+      "id": "001_Notes/'study notes'.md",
+      "x": 46.918399810791016,
+      "y": 2003.866455078125
     },
     {
-      "id": "002_Notes/1.1 Chemical Bonding Notes and Worksheet.md",
-      "x": 1011.6051025390625,
-      "y": 6214.41552734375
+      "id": "001_Notes/001a_Templates/11AECHE_ClassNotes.md",
+      "x": -719.5252075195312,
+      "y": -3985.84912109375
     },
     {
-      "id": "002_Notes/1.3 Writing Chemical Equations Worksheet.md",
-      "x": 1227.1513671875,
-      "y": 5519.08837890625
+      "id": "001_Notes/001a_Templates/11AECHE_TopicNotes.md",
+      "x": 979.5427856445312,
+      "y": -2987.472412109375
     },
     {
-      "id": "002_Notes/11AECHE Class 1.md",
-      "x": -5460.8740234375,
-      "y": 1544.2015380859375
+      "id": "001_Notes/001a_Templates/Daily Note Template.md",
+      "x": 4473.6201171875,
+      "y": -1051.3116455078125
     },
     {
-      "id": "002_Notes/11AECHE Class 10.md",
-      "x": -3194.079345703125,
-      "y": 2823.621337890625
+      "id": "001_Notes/001a_Templates/Idea.md",
+      "x": -541.4561157226562,
+      "y": 3499.2294921875
     },
     {
-      "id": "002_Notes/11AECHE Class 11.md",
-      "x": -2254.134521484375,
-      "y": 1550.943115234375
+      "id": "001_Notes/001a_Templates/Lit Format.md",
+      "x": 1429.794189453125,
+      "y": 6379.966796875
     },
     {
-      "id": "002_Notes/11AECHE Class 12.md",
-      "x": -2317.316650390625,
-      "y": 2189.500244140625
+      "id": "001_Notes/001a_Templates/Methods Yr 10 Format.md",
+      "x": -5808.62646484375,
+      "y": -2615.5537109375
     },
     {
-      "id": "002_Notes/11AECHE Class 13.md",
-      "x": -2077.591552734375,
-      "y": 490.49041748046875
+      "id": "001_Notes/001a_Templates/Physics Yr 10 Format.md",
+      "x": 4141.296875,
+      "y": 4855.9072265625
     },
     {
-      "id": "002_Notes/11AECHE Class 14.md",
-      "x": -2684.37646484375,
-      "y": -1901.5052490234375
+      "id": "001_Notes/001a_Templates/Weekly Note Template.md",
+      "x": 5211.7578125,
+      "y": 478.79150390625
     },
     {
-      "id": "002_Notes/11AECHE Class 15.md",
-      "x": -2609.621337890625,
-      "y": 321.01678466796875
+      "id": "001_Notes/1.1 Chemical Bonding Notes and Worksheet.md",
+      "x": -3625.98388671875,
+      "y": 4312.71484375
     },
     {
-      "id": "002_Notes/11AECHE Class 16.md",
-      "x": -3168.264892578125,
-      "y": -374.19635009765625
+      "id": "001_Notes/1.3 Writing Chemical Equations Worksheet.md",
+      "x": -2857.463623046875,
+      "y": 4947.32080078125
     },
     {
-      "id": "002_Notes/11AECHE Class 17.md",
-      "x": -1817.064208984375,
-      "y": -1138.5924072265625
+      "id": "001_Notes/11AECHE Class 1.md",
+      "x": 143.41432189941406,
+      "y": -2103.5517578125
     },
     {
-      "id": "002_Notes/11AECHE Class 18.md",
-      "x": -3789.61328125,
-      "y": -1203.9385986328125
+      "id": "001_Notes/11AECHE Class 10.md",
+      "x": -3843.543212890625,
+      "y": -2102.1611328125
     },
     {
-      "id": "002_Notes/11AECHE Class 19.md",
-      "x": -3050.12255859375,
-      "y": -1252.5616455078125
+      "id": "001_Notes/11AECHE Class 11.md",
+      "x": -3517.09521484375,
+      "y": -2818.988525390625
     },
     {
-      "id": "002_Notes/11AECHE Class 2.md",
-      "x": -4909.68212890625,
-      "y": 1901.030029296875
+      "id": "001_Notes/11AECHE Class 12.md",
+      "x": -4097.6376953125,
+      "y": -3302.9775390625
     },
     {
-      "id": "002_Notes/11AECHE Class 20.md",
-      "x": -3703.819091796875,
-      "y": -2334.16796875
+      "id": "001_Notes/11AECHE Class 13.md",
+      "x": -3467.233642578125,
+      "y": -4660.66015625
     },
     {
-      "id": "002_Notes/11AECHE Class 21.md",
-      "x": -4252.7802734375,
-      "y": -2649.3115234375
+      "id": "001_Notes/11AECHE Class 14.md",
+      "x": -1737.896484375,
+      "y": -6108.298828125
     },
     {
-      "id": "002_Notes/11AECHE Class 22.md",
-      "x": -4059.35595703125,
-      "y": -432.7431640625
+      "id": "001_Notes/11AECHE Class 15.md",
+      "x": -3421.2353515625,
+      "y": -5189.92919921875
     },
     {
-      "id": "002_Notes/11AECHE Class 23.md",
-      "x": -4382.7724609375,
-      "y": -1512.191650390625
+      "id": "001_Notes/11AECHE Class 16.md",
+      "x": -2423.4697265625,
+      "y": -4931.41650390625
     },
     {
-      "id": "002_Notes/11AECHE Class 24.md",
-      "x": -3277.50341796875,
-      "y": 1590.4676513671875
+      "id": "001_Notes/11AECHE Class 17.md",
+      "x": -453.30865478515625,
+      "y": -5568.50341796875
     },
     {
-      "id": "002_Notes/11AECHE Class 25.md",
-      "x": -3483.524658203125,
-      "y": 756.4755249023438
+      "id": "001_Notes/11AECHE Class 18.md",
+      "x": -713.4497680664062,
+      "y": -4943.3681640625
     },
     {
-      "id": "002_Notes/11AECHE Class 26.md",
-      "x": -4769.7998046875,
-      "y": 918.986572265625
+      "id": "001_Notes/11AECHE Class 19.md",
+      "x": -1487.653076171875,
+      "y": -5331.88427734375
     },
     {
-      "id": "002_Notes/11AECHE Class 27.md",
-      "x": -4699.46826171875,
-      "y": -592.56591796875
+      "id": "001_Notes/11AECHE Class 2.md",
+      "x": -669.6589965820312,
+      "y": -1948.1697998046875
     },
     {
-      "id": "002_Notes/11AECHE Class 28.md",
-      "x": -4161.34423828125,
-      "y": 1236.5111083984375
+      "id": "001_Notes/11AECHE Class 20.md",
+      "x": 972.261962890625,
+      "y": -5655.01513671875
     },
     {
-      "id": "002_Notes/11AECHE Class 29.md",
-      "x": -5237.91943359375,
-      "y": -270.669677734375
+      "id": "001_Notes/11AECHE Class 21.md",
+      "x": 322.44891357421875,
+      "y": -5809.57373046875
     },
     {
-      "id": "002_Notes/11AECHE Class 3.md",
-      "x": -5962.7080078125,
-      "y": 1088.71435546875
+      "id": "001_Notes/11AECHE Class 22.md",
+      "x": -2001.3974609375,
+      "y": -3405.165283203125
     },
     {
-      "id": "002_Notes/11AECHE Class 30.md",
-      "x": -5532.66748046875,
-      "y": -2256.26904296875
+      "id": "001_Notes/11AECHE Class 23.md",
+      "x": 74.60588836669922,
+      "y": -4845.78271484375
     },
     {
-      "id": "002_Notes/11AECHE Class 31.md",
-      "x": -6129.48974609375,
-      "y": -268.1034851074219
+      "id": "001_Notes/11AECHE Class 24.md",
+      "x": -3427.3935546875,
+      "y": -3760.431884765625
     },
     {
-      "id": "002_Notes/11AECHE Class 32.md",
-      "x": -5897.3623046875,
-      "y": -1786.8575439453125
+      "id": "001_Notes/11AECHE Class 25.md",
+      "x": -1379.419921875,
+      "y": -4332.8466796875
     },
     {
-      "id": "002_Notes/11AECHE Class 33.md",
-      "x": -5019.54443359375,
-      "y": -1693.4871826171875
+      "id": "001_Notes/11AECHE Class 26.md",
+      "x": -2001.2127685546875,
+      "y": -2565.784912109375
     },
     {
-      "id": "002_Notes/11AECHE Class 4.md",
-      "x": -5226.5185546875,
-      "y": 2989.800537109375
+      "id": "001_Notes/11AECHE Class 27.md",
+      "x": -1958.9742431640625,
+      "y": -4180.34765625
     },
     {
-      "id": "002_Notes/11AECHE Class 5.md",
-      "x": -6217.62890625,
-      "y": 1801.57666015625
+      "id": "001_Notes/11AECHE Class 28.md",
+      "x": -1376.571044921875,
+      "y": -2653.774169921875
     },
     {
-      "id": "002_Notes/11AECHE Class 6.md",
-      "x": -3881.529052734375,
-      "y": 3092.489990234375
+      "id": "001_Notes/11AECHE Class 29.md",
+      "x": -2440.20166015625,
+      "y": -3831.4013671875
     },
     {
-      "id": "002_Notes/11AECHE Class 7.md",
-      "x": -4341.83056640625,
-      "y": 2567.905517578125
+      "id": "001_Notes/11AECHE Class 3.md",
+      "x": -349.0300598144531,
+      "y": -2468.65087890625
     },
     {
-      "id": "002_Notes/11AECHE Class 8.md",
-      "x": -5341.5361328125,
-      "y": 453.4453430175781
+      "id": "001_Notes/11AECHE Class 30.md",
+      "x": 1835.727783203125,
+      "y": -3213.5107421875
     },
     {
-      "id": "002_Notes/11AECHE Class 9.md",
-      "x": -2861.840576171875,
-      "y": 2080.871337890625
+      "id": "001_Notes/11AECHE Class 31.md",
+      "x": 512.2091064453125,
+      "y": -2655.598388671875
     },
     {
-      "id": "002_Notes/2.0 Chemical Equations.md",
-      "x": 919.7342529296875,
-      "y": 4765.216796875
+      "id": "001_Notes/11AECHE Class 32.md",
+      "x": 1866.992919921875,
+      "y": -3814.65185546875
     },
     {
-      "id": "002_Notes/3.2 Redox Reactions Questions.md",
-      "x": 320.5754699707031,
-      "y": 6274.4697265625
+      "id": "001_Notes/11AECHE Class 33.md",
+      "x": 1340.1158447265625,
+      "y": -4389.73974609375
     },
     {
-      "id": "002_Notes/300 Hour Stream =  fun yes.md",
-      "x": 3066.58154296875,
-      "y": -174.34181213378906
+      "id": "001_Notes/11AECHE Class 4.md",
+      "x": -1450.104736328125,
+      "y": -1320.9906005859375
     },
     {
-      "id": "002_Notes/A Tale of Two Suns.md",
-      "x": 4937.2939453125,
-      "y": 2642.720458984375
+      "id": "001_Notes/11AECHE Class 5.md",
+      "x": -234.57615661621094,
+      "y": -1173.18115234375
     },
     {
-      "id": "002_Notes/Anthony's B-Day GIft.md",
-      "x": 3661.407470703125,
-      "y": 775.4963989257812
+      "id": "001_Notes/11AECHE Class 6.md",
+      "x": -3040.898681640625,
+      "y": -1691.0830078125
     },
     {
-      "id": "002_Notes/Atomic Structure - Development of the Atomic Model.md",
-      "x": -2404.706298828125,
-      "y": 3271.325439453125
+      "id": "001_Notes/11AECHE Class 7.md",
+      "x": -2040.813232421875,
+      "y": -1498.5743408203125
     },
     {
-      "id": "002_Notes/Axis Victory.md",
-      "x": 5561.18603515625,
-      "y": 3785.885009765625
+      "id": "001_Notes/11AECHE Class 8.md",
+      "x": -2435.457763671875,
+      "y": -3027.80908203125
     },
     {
-      "id": "002_Notes/Brilliant Course Complex Numbers.md",
-      "x": 6062.12890625,
-      "y": -364.0257873535156
+      "id": "001_Notes/11AECHE Class 9.md",
+      "x": -4247.3193359375,
+      "y": -2756.048095703125
     },
     {
-      "id": "002_Notes/Chem Cap 1 Notes.md",
-      "x": -3497.6708984375,
-      "y": 4137.0556640625
+      "id": "001_Notes/2.0 Chemical Equations.md",
+      "x": -3490.6259765625,
+      "y": 4943.85107421875
     },
     {
-      "id": "002_Notes/Chem Topic Test 1 Notes.md",
-      "x": -1421.9287109375,
-      "y": 6595.03369140625
+      "id": "001_Notes/3.2 Redox Reactions Questions.md",
+      "x": -2377.727783203125,
+      "y": 4373.193359375
     },
     {
-      "id": "002_Notes/Chemistry Definitions.md",
-      "x": -3230.512939453125,
-      "y": 5504.40576171875
+      "id": "001_Notes/300 Hour Stream =  fun yes.md",
+      "x": 872.6788940429688,
+      "y": 4101.16748046875
     },
     {
-      "id": "002_Notes/Chemistry Stoichiometry Notes.md",
-      "x": -1078.52392578125,
-      "y": 4046.068115234375
+      "id": "001_Notes/A Tale of Two Suns.md",
+      "x": 257.4127197265625,
+      "y": 6962.60107421875
     },
     {
-      "id": "002_Notes/Chemistry Things To Do.md",
-      "x": -2563.127197265625,
-      "y": 5777.5576171875
+      "id": "001_Notes/Anthony's B-Day GIft.md",
+      "x": 622.4501953125,
+      "y": 4881.23046875
     },
     {
-      "id": "002_Notes/Chinese Grammar.md",
-      "x": 5109.1767578125,
-      "y": 1433.8338623046875
+      "id": "001_Notes/Atomic Structure - Development of the Atomic Model.md",
+      "x": -3900.947021484375,
+      "y": -1288.802001953125
     },
     {
-      "id": "002_Notes/Chinese Speaking Assessment.md",
-      "x": 6513.41162109375,
-      "y": 1520.7900390625
+      "id": "001_Notes/Axis Victory.md",
+      "x": -135.27345275878906,
+      "y": 6349.1494140625
     },
     {
-      "id": "002_Notes/Chromatography.md",
-      "x": -4878.2578125,
-      "y": -2961.28466796875
+      "id": "001_Notes/Brilliant Course Complex Numbers.md",
+      "x": -6686.6240234375,
+      "y": -249.62893676757812
     },
     {
-      "id": "002_Notes/Copper Cycle Notes.md",
-      "x": 62.65691375732422,
-      "y": 4385.0419921875
+      "id": "001_Notes/Chem Cap 1 Notes.md",
+      "x": -1830.3946533203125,
+      "y": 52.90284729003906
     },
     {
-      "id": "002_Notes/Covalent Bonding.md",
-      "x": -2954.639892578125,
-      "y": -2904.429443359375
+      "id": "001_Notes/Chem Topic Test 1 Notes.md",
+      "x": -2262.078369140625,
+      "y": 6011.75439453125
     },
     {
-      "id": "002_Notes/Differentiation Notes.md",
-      "x": 4090.12451171875,
-      "y": -1392.28466796875
+      "id": "001_Notes/Chemistry Definitions.md",
+      "x": -2999.3115234375,
+      "y": 1494.2271728515625
     },
     {
-      "id": "002_Notes/Electron Configuration.md",
-      "x": -1466.47509765625,
-      "y": 1213.3792724609375
+      "id": "001_Notes/Chemistry Stoichiometry Notes.md",
+      "x": -1025.313720703125,
+      "y": 2189.186767578125
     },
     {
-      "id": "002_Notes/English Course Concepts.md",
-      "x": 2294.601318359375,
-      "y": 3899.662841796875
+      "id": "001_Notes/Chemistry Things To Do.md",
+      "x": -1647.6171875,
+      "y": 1431.835205078125
     },
     {
-      "id": "002_Notes/English Creative  Assessment 1st Draft.md",
-      "x": 4125.9541015625,
-      "y": 4169.05322265625
+      "id": "001_Notes/Chinese Grammar.md",
+      "x": 2822.27490234375,
+      "y": 6265.14306640625
     },
     {
-      "id": "002_Notes/English Creative Assessment 2nd Draft.md",
-      "x": 3893.8984375,
-      "y": 3579.697021484375
+      "id": "001_Notes/Chinese Speaking Assessment.md",
+      "x": 2859.9775390625,
+      "y": 5538.70654296875
     },
     {
-      "id": "002_Notes/English Essay Draft 2.md",
-      "x": 2356.141357421875,
-      "y": 1699.3275146484375
+      "id": "001_Notes/Chromatography.md",
+      "x": 2583.20263671875,
+      "y": -4354.259765625
     },
     {
-      "id": "002_Notes/English Essay Draft 3.md",
-      "x": 3505.439697265625,
-      "y": 1346.037841796875
+      "id": "001_Notes/Copper Cycle Notes.md",
+      "x": -2032.3056640625,
+      "y": 3138.53759765625
     },
     {
-      "id": "002_Notes/English Essay Draft.md",
-      "x": 1954.3758544921875,
-      "y": 1155.435791015625
+      "id": "001_Notes/Covalent Bonding.md",
+      "x": 1642.2642822265625,
+      "y": -5839.13330078125
     },
     {
-      "id": "002_Notes/English Essay Edited Copy 1.md",
-      "x": 1754.5426025390625,
-      "y": 542.5758056640625
+      "id": "001_Notes/Differentiation Notes.md",
+      "x": -5457.38134765625,
+      "y": -1229.436767578125
     },
     {
-      "id": "002_Notes/English Podcast Draft 1.md",
-      "x": 4196.6484375,
-      "y": 5049.20947265625
+      "id": "001_Notes/Electron Configuration.md",
+      "x": -4355.54736328125,
+      "y": -4222.9970703125
     },
     {
-      "id": "002_Notes/English Podcast Draft 2.md",
-      "x": 2823.991943359375,
-      "y": 6262.48388671875
+      "id": "001_Notes/English Course Concepts.md",
+      "x": -4343.6328125,
+      "y": 2650.90576171875
     },
     {
-      "id": "002_Notes/English Podcast Transcript Brainstorm.md",
-      "x": 3407.670654296875,
-      "y": 5696.69873046875
+      "id": "001_Notes/English Creative  Assessment 1st Draft.md",
+      "x": -4421.70703125,
+      "y": 3307.1787109375
     },
     {
-      "id": "002_Notes/English Sem1 Quotes.md",
-      "x": 2002.9996337890625,
-      "y": -2.7090916633605957
+      "id": "001_Notes/English Creative Assessment 2nd Draft.md",
+      "x": -5785.64990234375,
+      "y": 3445.500244140625
     },
     {
-      "id": "002_Notes/English Short Speech.md",
-      "x": 2694.072265625,
-      "y": 3395.373291015625
+      "id": "001_Notes/English Essay Draft 2.md",
+      "x": 29.85849380493164,
+      "y": 4946.08154296875
     },
     {
-      "id": "002_Notes/English Visual Text Notes.md",
-      "x": 3340.832763671875,
-      "y": 3281.59228515625
+      "id": "001_Notes/English Essay Draft 3.md",
+      "x": 1260.1763916015625,
+      "y": 3639.336669921875
     },
     {
-      "id": "002_Notes/Essential Chemistry Skills.md",
-      "x": -322.1940612792969,
-      "y": -158.22869873046875
+      "id": "001_Notes/English Essay Draft.md",
+      "x": -737.702880859375,
+      "y": 4132.26171875
     },
     {
-      "id": "002_Notes/Friday.md",
-      "x": 919.2191162109375,
-      "y": -3762.720947265625
+      "id": "001_Notes/English Essay Edited Copy 1.md",
+      "x": -469.669921875,
+      "y": 4686.28564453125
     },
     {
-      "id": "002_Notes/Hippocampus.md",
-      "x": -688.5887451171875,
-      "y": 2545.956787109375
+      "id": "001_Notes/English Podcast Draft 1.md",
+      "x": -6102.89208984375,
+      "y": 1913.4932861328125
     },
     {
-      "id": "002_Notes/History of the Atomic Model.md",
-      "x": -2043.5814208984375,
-      "y": 4380.98046875
+      "id": "001_Notes/English Podcast Draft 2.md",
+      "x": -5122.982421875,
+      "y": 688.9194946289062
     },
     {
-      "id": "002_Notes/How to write a good method.md",
-      "x": -4044.67431640625,
-      "y": 4922.10791015625
+      "id": "001_Notes/English Podcast Transcript Brainstorm.md",
+      "x": -5558.75830078125,
+      "y": 1346.191162109375
     },
     {
-      "id": "002_Notes/Hydrocarbons.md",
-      "x": -1572.9718017578125,
-      "y": 5240.80517578125
+      "id": "001_Notes/English Sem1 Quotes.md",
+      "x": 1193.485595703125,
+      "y": 4539.63818359375
     },
     {
-      "id": "002_Notes/Intermolecular Forces.md",
-      "x": -3764.544189453125,
-      "y": -3316.301025390625
+      "id": "001_Notes/English Short Speech.md",
+      "x": -4756.8359375,
+      "y": 3886.77490234375
     },
     {
-      "id": "002_Notes/Introduction to Bonding.md",
-      "x": -824.8742065429688,
-      "y": -489.1954040527344
+      "id": "001_Notes/English Visual Text Notes.md",
+      "x": -5326.77783203125,
+      "y": 3922.334228515625
     },
     {
-      "id": "002_Notes/Ionic Bonding.md",
-      "x": -1847.8692626953125,
-      "y": -1949.5609130859375
+      "id": "001_Notes/Essential Chemistry Skills.md",
+      "x": 940.6433715820312,
+      "y": -3595.519287109375
     },
     {
-      "id": "002_Notes/Markdown Resources.md",
-      "x": 374.4084167480469,
-      "y": 2812.574462890625
+      "id": "001_Notes/Friday.md",
+      "x": 3648.40625,
+      "y": 311.19134521484375
     },
     {
-      "id": "002_Notes/Meczes Homework Answers.md",
-      "x": 428.2733459472656,
-      "y": 5475.193359375
+      "id": "001_Notes/Hippocampus.md",
+      "x": -812.5294799804688,
+      "y": 161.55052185058594
     },
     {
-      "id": "002_Notes/Metallic Bonding.md",
-      "x": -682.7528076171875,
-      "y": -1134.7669677734375
+      "id": "001_Notes/History of the Atomic Model.md",
+      "x": -3433.79833984375,
+      "y": 729.7025756835938
     },
     {
-      "id": "002_Notes/Monday.md",
-      "x": -259.4940490722656,
-      "y": -4003.07568359375
+      "id": "001_Notes/How to write a good method.md",
+      "x": -3083.86328125,
+      "y": 194.19866943359375
     },
     {
-      "id": "002_Notes/Nanomaterials.md",
-      "x": -1751.471435546875,
-      "y": 2446.828125
+      "id": "001_Notes/Hydrocarbons.md",
+      "x": -2730.966552734375,
+      "y": 2175.6923828125
     },
     {
-      "id": "002_Notes/Number Sets Notes.md",
-      "x": 5724.4453125,
-      "y": -1161.00537109375
+      "id": "001_Notes/Intermolecular Forces.md",
+      "x": 476.82464599609375,
+      "y": -6492.50732421875
     },
     {
-      "id": "002_Notes/Operation Sovereign Borders policy.md",
-      "x": 3578.777587890625,
-      "y": 4945.658203125
+      "id": "001_Notes/Introduction to Bonding.md",
+      "x": 524.6329956054688,
+      "y": -4043.881103515625
     },
     {
-      "id": "002_Notes/Periodic Tasks.md",
-      "x": 375.8578796386719,
-      "y": -5513.0107421875
+      "id": "001_Notes/Ionic Bonding.md",
+      "x": -714.2330932617188,
+      "y": -6234.607421875
     },
     {
-      "id": "002_Notes/Physics Definitions.md",
-      "x": 6343.94189453125,
-      "y": -2241.004150390625
+      "id": "001_Notes/Markdown Resources.md",
+      "x": -598.776611328125,
+      "y": 962.758056640625
     },
     {
-      "id": "002_Notes/Physics Worksheet 1 Meczes.md",
-      "x": 5226.01611328125,
-      "y": -2894.014892578125
+      "id": "001_Notes/Meczes Homework Answers.md",
+      "x": -2967.15576171875,
+      "y": 3943.875
     },
     {
-      "id": "002_Notes/Political podcast transcript.md",
-      "x": 2766.595947265625,
-      "y": 5271.7236328125
+      "id": "001_Notes/Metallic Bonding.md",
+      "x": 864.5159301757812,
+      "y": -4920.90869140625
     },
     {
-      "id": "002_Notes/Properties of matter.md",
-      "x": -5644.5205078125,
-      "y": 2400.375244140625
+      "id": "001_Notes/Monday.md",
+      "x": 4056.32080078125,
+      "y": 826.8801879882812
     },
     {
-      "id": "002_Notes/Reflections on Australia's Immigration policy.md",
-      "x": 2466.240966796875,
-      "y": 4800.2568359375
+      "id": "001_Notes/Nanomaterials.md",
+      "x": -853.18896484375,
+      "y": -1011.8807983398438
     },
     {
-      "id": "002_Notes/Sadler 1 Notes.md",
-      "x": 4524.34814453125,
-      "y": -2085.60546875
+      "id": "001_Notes/Number Sets Notes.md",
+      "x": -6531.796875,
+      "y": -1081.97802734375
     },
     {
-      "id": "002_Notes/Saturday.md",
-      "x": 255.2086944580078,
-      "y": -3624.66162109375
+      "id": "001_Notes/Operation Sovereign Borders policy.md",
+      "x": -6037.306640625,
+      "y": 2488.925537109375
     },
     {
-      "id": "002_Notes/Separation Techniques.md",
-      "x": -4581.52783203125,
-      "y": 3828.90478515625
+      "id": "001_Notes/Periodic Tasks.md",
+      "x": 3586.432861328125,
+      "y": -289.97564697265625
     },
     {
-      "id": "002_Notes/Solubility.md",
-      "x": -6026.06689453125,
-      "y": -1055.494384765625
+      "id": "001_Notes/Physics Definitions.md",
+      "x": 3806.27001953125,
+      "y": 4014.779541015625
     },
     {
-      "id": "002_Notes/Spec Notes.md",
-      "x": 5532.11376953125,
-      "y": 279.6655578613281
+      "id": "001_Notes/Physics Worksheet 1 Meczes.md",
+      "x": 2714.509521484375,
+      "y": 4317.79736328125
     },
     {
-      "id": "002_Notes/Stoichiometry.md",
-      "x": -659.8187866210938,
-      "y": 1655.2347412109375
+      "id": "001_Notes/Political podcast transcript.md",
+      "x": -5308.4033203125,
+      "y": 2102.41064453125
     },
     {
-      "id": "002_Notes/Sunday.md",
-      "x": 1417.7274169921875,
-      "y": -4226.90673828125
+      "id": "001_Notes/Properties of matter.md",
+      "x": 498.0425720214844,
+      "y": -1406.513427734375
     },
     {
-      "id": "002_Notes/The Periodic Table.md",
-      "x": -2389.771484375,
-      "y": -766.5354614257812
+      "id": "001_Notes/Reflections on Australia's Immigration policy.md",
+      "x": -4682.6201171875,
+      "y": 1791.9176025390625
     },
     {
-      "id": "002_Notes/The most important symbol in the universe.md",
-      "x": 2519.907470703125,
-      "y": -197.78408813476562
+      "id": "001_Notes/Sadler 1 Notes.md",
+      "x": -6495.162109375,
+      "y": -2250.50732421875
     },
     {
-      "id": "002_Notes/Thursday.md",
-      "x": -96.45387268066406,
-      "y": -4733.5341796875
+      "id": "001_Notes/Saturday.md",
+      "x": 3975.698974609375,
+      "y": -752.56298828125
     },
     {
-      "id": "002_Notes/Tuesday.md",
-      "x": -617.5480346679688,
-      "y": -4656.31640625
+      "id": "001_Notes/Separation Techniques.md",
+      "x": -2854.824462890625,
+      "y": -814.6192626953125
     },
     {
-      "id": "002_Notes/Wednesday.md",
-      "x": 951.409912109375,
-      "y": -5377.78076171875
+      "id": "001_Notes/Solubility.md",
+      "x": 1675.8743896484375,
+      "y": -2267.5185546875
     },
     {
-      "id": "002_Notes/日常生活.md",
-      "x": -126.87960815429688,
-      "y": 3195.974609375
+      "id": "001_Notes/Spec Notes.md",
+      "x": -5904.080078125,
+      "y": -14.251992225646973
     },
     {
-      "id": "003_Templates/11AECHE_ClassNotes.md",
-      "x": -4814.55859375,
-      "y": 149.48672485351562
+      "id": "001_Notes/Stoichiometry.md",
+      "x": 51.90428924560547,
+      "y": -346.6963806152344
     },
     {
-      "id": "003_Templates/11AECHE_TopicNotes.md",
-      "x": -701.3744506835938,
-      "y": 317.6939697265625
+      "id": "001_Notes/Sunday.md",
+      "x": 5432.05615234375,
+      "y": -45.18144607543945
     },
     {
-      "id": "003_Templates/Daily Note Template.md",
-      "x": -200.77464294433594,
-      "y": -5332.744140625
+      "id": "001_Notes/The Periodic Table.md",
+      "x": -2596.671630859375,
+      "y": -5749.69970703125
     },
     {
-      "id": "003_Templates/Idea.md",
-      "x": 3451.975341796875,
-      "y": 246.48094177246094
+      "id": "001_Notes/The most important symbol in the universe.md",
+      "x": 806.1703491210938,
+      "y": 3136.64599609375
     },
     {
-      "id": "003_Templates/Lit Format.md",
-      "x": 6114.0810546875,
-      "y": 2683.22509765625
+      "id": "001_Notes/Thursday.md",
+      "x": 4972.0849609375,
+      "y": -807.2153930664062
     },
     {
-      "id": "003_Templates/Methods Yr 10 Format.md",
-      "x": 4706.1015625,
-      "y": -750.3677368164062
+      "id": "001_Notes/Tuesday.md",
+      "x": 4674.12109375,
+      "y": 824.840576171875
     },
     {
-      "id": "003_Templates/Physics Yr 10 Format.md",
-      "x": 5734.3876953125,
-      "y": -3579.033447265625
+      "id": "001_Notes/Wednesday.md",
+      "x": 5469.72607421875,
+      "y": -616.0882568359375
     },
     {
-      "id": "003_Templates/Weekly Note Template.md",
-      "x": 1354.6632080078125,
-      "y": -4887.8427734375
+      "id": "001_Notes/日常生活.md",
+      "x": 31.217790603637695,
+      "y": 684.1300659179688
     },
     {
-      "id": "004_DailyNotes/2022-05-10.md",
-      "x": 698.4057006835938,
-      "y": -2647.5888671875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-10.md",
+      "x": 2880.8095703125,
+      "y": -1032.3831787109375
     },
     {
-      "id": "004_DailyNotes/2022-05-11.md",
-      "x": 739.3450317382812,
-      "y": -1938.555419921875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-11.md",
+      "x": 2416.4990234375,
+      "y": -461.39898681640625
     },
     {
-      "id": "004_DailyNotes/2022-05-12.md",
-      "x": -205.12158203125,
-      "y": -2545.62255859375
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-12.md",
+      "x": 2925.0537109375,
+      "y": 861.6173095703125
     },
     {
-      "id": "004_DailyNotes/2022-05-13.md",
-      "x": -1015.083984375,
-      "y": -3217.593017578125
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-13.md",
+      "x": 4188.8125,
+      "y": 1740.2435302734375
     },
     {
-      "id": "004_DailyNotes/2022-05-14.md",
-      "x": -1621.2489013671875,
-      "y": -3867.555419921875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-14.md",
+      "x": 5719.45361328125,
+      "y": 1303.5001220703125
     },
     {
-      "id": "004_DailyNotes/2022-05-15.md",
-      "x": -1905.00634765625,
-      "y": -4607.630859375
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-15.md",
+      "x": 6548.63330078125,
+      "y": 848.1881103515625
     },
     {
-      "id": "004_DailyNotes/2022-05-16.md",
-      "x": -2635.797607421875,
-      "y": -4585.98291015625
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-16.md",
+      "x": 6429.82080078125,
+      "y": 1744.650390625
     },
     {
-      "id": "004_DailyNotes/2022-05-17.md",
-      "x": -3141.558349609375,
-      "y": -5108.6640625
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-17.md",
+      "x": 5857.3759765625,
+      "y": 2510.379638671875
     },
     {
-      "id": "004_DailyNotes/2022-05-18.md",
-      "x": -2586.760009765625,
-      "y": -5631.875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-18.md",
+      "x": 5113.51904296875,
+      "y": 2941.1328125
     },
     {
-      "id": "004_DailyNotes/2022-05-19.md",
-      "x": -1994.9012451171875,
-      "y": -6069.7861328125
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-19.md",
+      "x": 4538.4423828125,
+      "y": 2553.8583984375
     },
     {
-      "id": "004_DailyNotes/2022-05-20.md",
-      "x": -1394.1815185546875,
-      "y": -5671.97119140625
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-20.md",
+      "x": 5288.25732421875,
+      "y": 1738.567138671875
     },
     {
-      "id": "004_DailyNotes/2022-05-21.md",
-      "x": -977.8013305664062,
-      "y": -6386.8623046875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-21.md",
+      "x": 6451.52001953125,
+      "y": -86.87824249267578
     },
     {
-      "id": "004_DailyNotes/2022-05-22.md",
-      "x": -99.79080963134766,
-      "y": -6609.01318359375
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-22.md",
+      "x": 6432.5390625,
+      "y": -1309.2506103515625
     },
     {
-      "id": "004_DailyNotes/2022-05-23.md",
-      "x": 992.740478515625,
-      "y": -6610.1328125
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-23.md",
+      "x": 5905.59814453125,
+      "y": -2116.2431640625
     },
     {
-      "id": "004_DailyNotes/2022-05-24.md",
-      "x": 1706.7252197265625,
-      "y": -6231.7802734375
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-24.md",
+      "x": 5078.20849609375,
+      "y": -1944.6075439453125
     },
     {
-      "id": "004_DailyNotes/2022-05-26.md",
-      "x": 2307.27734375,
-      "y": -5826.35205078125
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-26.md",
+      "x": 3595.509033203125,
+      "y": -2578.977294921875
     },
     {
-      "id": "004_DailyNotes/2022-05-27.md",
-      "x": 2407.412841796875,
-      "y": -5103.80810546875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-27.md",
+      "x": 4082.81884765625,
+      "y": -2163.330322265625
     },
     {
-      "id": "004_DailyNotes/2022-05-29.md",
-      "x": 2451.818603515625,
-      "y": -4089.91357421875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-29.md",
+      "x": 2290.6572265625,
+      "y": 132.06468200683594
     },
     {
-      "id": "004_DailyNotes/2022-05-30.md",
-      "x": 3292.98876953125,
-      "y": -3201.681640625
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-30.md",
+      "x": 1757.0587158203125,
+      "y": 1073.5816650390625
     },
     {
-      "id": "004_DailyNotes/2022-05-31.md",
-      "x": 2849.582763671875,
-      "y": -2448.79248046875
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-05-31.md",
+      "x": 2443.719970703125,
+      "y": 2266.657470703125
     },
     {
-      "id": "004_DailyNotes/2022-06-01.md",
-      "x": 2583.95654296875,
-      "y": -3165.997314453125
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-06-01.md",
+      "x": 3191.099853515625,
+      "y": 2676.820068359375
     },
     {
-      "id": "004_DailyNotes/2022-06-02.md",
-      "x": 2979.9931640625,
-      "y": -4094.06787109375
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-06-02.md",
+      "x": 3277.257080078125,
+      "y": 1878.89111328125
     },
     {
-      "id": "005_WeeklyNotes/2022-W22.md",
-      "x": 3025.241455078125,
-      "y": -5522.681640625
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-06-10.md",
+      "x": 5384.62353515625,
+      "y": -2811.341796875
     },
     {
-      "id": "005_WeeklyNotes/2022-W23.md",
-      "x": 3727.228271484375,
-      "y": -3986.601318359375
+      "id": "002_PersonalNotes/002a_DailyNotes/2022-06-11.md",
+      "x": 4555.79541015625,
+      "y": -2917.14990234375
     },
     {
-      "id": "006_PublishedNotes/History of the Atomic Model Notes.md",
-      "x": -648.833251953125,
-      "y": 6739.93408203125
+      "id": "002_PersonalNotes/002b_WeeklyNotes/2022-W22.md",
+      "x": 3447.194091796875,
+      "y": -1646.2930908203125
     },
     {
-      "id": "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-1.md",
-      "x": 4975.107421875,
-      "y": -4335.3740234375
+      "id": "002_PersonalNotes/002b_WeeklyNotes/2022-W23.md",
+      "x": 2318.158203125,
+      "y": 1492.6290283203125
     },
     {
-      "id": "007_ContributedNotes/Ariz's Comp. Sci notes/Computer-Science-Part-2.md",
-      "x": 4436.60107421875,
-      "y": -5202.234375
+      "id": "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
+      "x": 4983.5947265625,
+      "y": -3535.950927734375
+    },
+    {
+      "id": "003_PublishedNotes/History of the Atomic Model Notes.md",
+      "x": -1549.8758544921875,
+      "y": 6173.521484375
+    },
+    {
+      "id": "004_ContributedNotes/004a_Ariz's Comp. Sci notes/Computer-Science-Part-1.md",
+      "x": 3672.81396484375,
+      "y": -5519.85888671875
+    },
+    {
+      "id": "004_ContributedNotes/004a_Ariz's Comp. Sci notes/Computer-Science-Part-2.md",
+      "x": 4515.7216796875,
+      "y": -4913.48828125
     },
     {
       "id": "README.md",
-      "x": 6925.2021484375,
-      "y": -805.2020263671875
-    },
-    {
-      "id": "004_DailyNotes/2022-06-10.md",
-      "x": 1419.2274169921875,
-      "y": -3090.627197265625
-    },
-    {
-      "id": "005_WeeklyNotes/2022-W24.md",
-      "x": 1701.8272705078125,
-      "y": -2255.2646484375
+      "x": 5204.1455078125,
+      "y": 4350.26123046875
     },
     {
       "id": "#idea",
-      "x": 2655.473876953125,
-      "y": 781.0872192382812
+      "x": 196.91407775878906,
+      "y": 3907.2978515625
     },
     {
       "id": "#11AECHE_ClassNotes",
-      "x": -4056.746826171875,
-      "y": 336.17218017578125
-    },
-    {
-      "id": "#literature",
-      "x": 5519.0732421875,
-      "y": 3061.11669921875
+      "x": -1285.397216796875,
+      "y": -3440.99267578125
     },
     {
       "id": "#11AECHE_TopicNotes",
-      "x": -1716.9990234375,
-      "y": -86.5169906616211
-    },
-    {
-      "id": "#specialist",
-      "x": 6404.20703125,
-      "y": 366.6470031738281
-    },
-    {
-      "id": "#11AECHE_PermanentNotes",
-      "x": -2588.91015625,
-      "y": 4910.7001953125
-    },
-    {
-      "id": "#ReleasedNotes",
-      "x": -890.4986572265625,
-      "y": 5827.11865234375
-    },
-    {
-      "id": "#10SCI_ChemNotes",
-      "x": -644.4828491210938,
-      "y": 4694.130859375
-    },
-    {
-      "id": "#10CSL",
-      "x": 5811.9013671875,
-      "y": 1478.66748046875
-    },
-    {
-      "id": "#methods",
-      "x": 4933.47314453125,
-      "y": -1470.7593994140625
-    },
-    {
-      "id": "#10ENG",
-      "x": 3184.22265625,
-      "y": 4199.8330078125
+      "x": -87.3628921508789,
+      "y": -3362.976806640625
     },
     {
       "id": "#personalnotes",
-      "x": 570.2731323242188,
-      "y": -4506.830078125
+      "x": 4465.1630859375,
+      "y": -11.144428253173828
     },
     {
-      "id": "#subject",
-      "x": 196.669189453125,
-      "y": 2169.176513671875
+      "id": "#literature",
+      "x": 700.46142578125,
+      "y": 6401.912109375
+    },
+    {
+      "id": "#methods",
+      "x": -5945.54296875,
+      "y": -1785.3878173828125
     },
     {
       "id": "#physics",
-      "x": 5987.82470703125,
-      "y": -2880.745849609375
+      "x": 3386.33740234375,
+      "y": 4587.97802734375
+    },
+    {
+      "id": "#11SPEC",
+      "x": -6600.54638671875,
+      "y": 544.7636108398438
+    },
+    {
+      "id": "#11AECHE_PermanentNotes",
+      "x": -2300.6865234375,
+      "y": 1119.475830078125
+    },
+    {
+      "id": "#ReleasedNotes",
+      "x": -1623.39208984375,
+      "y": 5072.26708984375
+    },
+    {
+      "id": "#10SCI_ChemNotes",
+      "x": -2019.0098876953125,
+      "y": 2360.81591796875
+    },
+    {
+      "id": "#10CSL",
+      "x": 3536.40771484375,
+      "y": 5872.337890625
+    },
+    {
+      "id": "#10ENG",
+      "x": -5190.583984375,
+      "y": 2920.778076171875
     }
   ],
   "automaticallyRestoreNodePositions": true

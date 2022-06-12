@@ -10,16 +10,6 @@
           "type": "graph",
           "state": {}
         }
-      },
-      {
-        "id": "94a7862552c14187",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "README_Files/5th.png"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -102,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README_Files/5th.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README_Files/5th.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "94a7862552c14187",
+  "active": "62a12ba1f6f00a6d",
   "lastOpenFiles": [
     "README_Files/5th.png",
     "README_Files/2nd.png",
