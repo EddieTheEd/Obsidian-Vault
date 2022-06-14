@@ -7,8 +7,12 @@
         "id": "62a12ba1f6f00a6d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Literature EXtract.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312
+    "width": 199.50173950195312,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -92,6 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001_Notes/Literature EXtract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001_Notes/Literature EXtract.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +129,7 @@
   },
   "active": "62a12ba1f6f00a6d",
   "lastOpenFiles": [
+    "001_Notes/Literature EXtract.md",
     "README_Files/5th.png",
     "README_Files/2nd.png",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
@@ -130,7 +138,6 @@
     "000_Files/2022-CHE-Data-Book.pdf",
     "001_Notes/Spec Notes.md",
     "001_Notes/Brilliant Course Complex Numbers.md",
-    "001_Notes/Hippocampus.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-10.md"
+    "001_Notes/Hippocampus.md"
   ]
 }
