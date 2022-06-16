@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_Notes/11AECHE Class 34.md",
+            "file": "001_Notes/11AECHE Class 35.md",
             "mode": "source",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/11AECHE Class 34.md",
+                "file": "001_Notes/11AECHE Class 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/11AECHE Class 34.md",
+                "file": "001_Notes/11AECHE Class 35.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "928d0a1ff7f01b35",
   "lastOpenFiles": [
+    "001_Notes/11AECHE Class 35.md",
     "001_Notes/11AECHE Class 34.md",
     "001_Notes/Literature Extract.md",
     "README_Files/5th.png",
@@ -137,7 +138,6 @@
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-11.md",
     "000_Files/2022-CHE-Data-Book.pdf",
-    "001_Notes/Spec Notes.md",
-    "001_Notes/Brilliant Course Complex Numbers.md"
+    "001_Notes/Spec Notes.md"
   ]
 }
