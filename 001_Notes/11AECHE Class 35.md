@@ -46,7 +46,7 @@ Def answer for Brønsted–Lowry strong acid
 
 - **Weak base:** ionise partially.
 	- $NH_4OH_{(aq)}⇌NH_4^{+}+OH^-_{(aq)}$
-	- $NH_{3}+ H_{2}O⇌NH_4^{+}+OH^-$ - extension \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	- $NH_{3}+ H_{2}O⇌NH_4^{+}+OH^-$ - extension 
 
 ---
 # Recall
