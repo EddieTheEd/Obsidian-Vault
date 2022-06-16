@@ -27,9 +27,22 @@ Tags: [[Acids + Bases]]
 - **Weak acids:** acids that do not ionise completely (ionise partially).
 	- e.g. $CH_3COOH$, $HNO_2$, $H_2SO_3$, $H_3PO_4$, $H_2C_2O_4$ 
 	- ⇌ - use this symbol when describing reactions with weak acids.
-- $H_2C_2O_{4}⇌H^{+}+HC_2O_4^{-}$
-- $HC_2O_4^{-}⇌H^{+}+C_2O_4^{2-}$
+- $H_2C_2O_{4(aq)}⇌H^{+}_{(aq)}+HC_2O{4(aq)}^{-}$
+- $HC_2O_{4(aq)}^{-}⇌H^{+}_{(aq)}+C_2O_{4(aq)}^{2-}$
 
+Def answer for Brønsted–Lowry strong acid
+- (1) proton donor
+- (1) ionises completely
+- (3) equations
+- (1) mono/diprotic?
+
+- **Base:** a proton acceptor
+	- e.g. $OH^{-}_{(aq)}+H^{+}_{(aq)}\rightarrow H_2O_{(l)}$
+- **Strong base**: ionise **completely.**
+	- *Group 1 hydroxides.*
+	- $Ca(OH)_2$
+	- $Ba(OH)_2$
+- $Ca(OH)_{2(aq)}\rightarrow Ca^{2+}_{(aq)}+2OH^{-}_{(aq)}$ - note this also goes in stages like polyprotic acids
 
 ---
 # Recall
