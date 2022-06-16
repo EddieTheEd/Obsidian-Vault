@@ -25,8 +25,10 @@ Tags: [[Acids + Bases]]
 	- There is a difference between strength of acids and concentration of acids.
 
 - **Weak acids:** acids that do not ionise completely (ionise partially).
-	- e.g. $CH_3COOH$, $HNO_2$, $H_2SO_3$, 
-
+	- e.g. $CH_3COOH$, $HNO_2$, $H_2SO_3$, $H_3PO_4$, $H_2C_2O_4$ 
+	- ⇌ - use this symbol when describing reactions with weak acids.
+- $H_2C_2O_{4}⇌H^{+}+HC_2O_4^{-}$
+- $HC_2O_4^{-}⇌H^{+}+C_2O_4^{2-}$
 
 
 ---
