@@ -6,10 +6,10 @@ Status: #personalnotes
 
 fancy words for a literal dumping place
 
-- [ ] Chinese Homework 🔁 every week on Sunday
-- [ ] EP Homework 🔁 every week on Sunday
-- [ ] English Homework 🔁 every week on Saturday
-- [ ] Chem Homework 🔁 every week on Saturday
+- [ ] Chinese Homework 🔁 every Sunday
+- [ ] EP Homework 🔁 every Sunday
+- [ ] English Homework 🔁 every Saturday
+- [ ] Chem Homework 🔁 every Saturday
 
 
 
