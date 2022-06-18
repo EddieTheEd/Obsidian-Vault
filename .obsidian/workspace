@@ -55,8 +55,12 @@
         "id": "7689c20e022fe9bd",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Personal Planner.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -140,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001_Notes/Personal Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001_Notes/Personal Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +176,7 @@
   },
   "active": "7689c20e022fe9bd",
   "lastOpenFiles": [
+    "001_Notes/Personal Planner.md",
     "001_Notes/Literature Extract.md",
     "001_Notes/Axis Victory.md",
     "001_Notes/A Tale of Two Suns.md",
@@ -178,7 +185,6 @@
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/001a_Templates/11AECHE_ClassNotes.md",
     "001_Notes/001a_Templates/Idea (Random).md",
-    "001_Notes/001a_Templates/Methods Yr 10 Format.md",
-    "001_Notes/001a_Templates/Physics Yr 10 Format.md"
+    "001_Notes/001a_Templates/Methods Yr 10 Format.md"
   ]
 }
