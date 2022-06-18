@@ -1,6 +1,6 @@
-*Date: 20220508 Time: 2025*
+*Date: {{date:YYYY MM DD}} Time: {{time:HH:mm}}*
 
-Status: #literature 
+Status: #10LIT
 
 Tags:
 
