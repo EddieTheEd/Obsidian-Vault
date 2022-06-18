@@ -12,6 +12,8 @@ banner: "![[dailynotesbanner.png]]"
 > - ID:: <% tp.date.now('YYYYMMDDHHmm') %>
 > - Week:: [[<% tp.date.now("YYYY [Week] WW") %>]]
 
+hey maybe write something down in the 
+
 **Table of Contents:**
 ```toc
 style: number
