@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
+                "file": "001_Notes/Periodic Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
+                "file": "001_Notes/Periodic Tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,11 +162,11 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "fa7d690d3f8d3086",
+  "active": "a4df8e5e01fcdb82",
   "lastOpenFiles": [
+    "001_Notes/Periodic Tasks.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
-    "001_Notes/Periodic Tasks.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "README.md",
