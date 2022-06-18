@@ -35,16 +35,23 @@ hide backlink
 heading includes Periodic Tasks
 ```
 **Topic-Specific Tasks:**
+*Chemistry*
 ```tasks
 not done
 hide backlink
-heading includes Periodic Tasks
+description includes Chem
 ```
 
 ## Daily Notes
 - …
 
 ^memo-link
+
+## New Tasks
+- [ ]
+
+
+psst heres the 📅 for 谈恋爱
 
 ## Trackers
 ### Statistics
@@ -64,12 +71,5 @@ Tick: ✅ Cross: ❌
 - Reading:: 
 - Revision:: 
 - Homework:: 
-
-## New Tasks
-- [ ]
-
-
-psst heres the 📅 for 谈恋爱
-
 
 Tags: #personalnotes 
