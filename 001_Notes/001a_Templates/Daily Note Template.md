@@ -71,10 +71,8 @@ psst heres the 📅 for 谈恋爱
 - Hours Worked:: 
 
 ### Habits
-
-Tick: ✅ Cross: ❌
-
-- Early_morning:: 
+**Tick: Y Cross: N**
+- Early_morning::   
 - Morning_shower:: 
 - Exercise:: 
 - Reading:: 
