@@ -1,10 +1,12 @@
 *Date: 20220529 Time: 2020*
 
-Status: #idea 
+Status: #10ENG 
 
 Tags:
 
 # English Sem1 Quotes
+
+ms pilkington >:(
 
 **Immersion:**
 | Idea                                                                                                                                      | Representation                                                                                                                                         | Values/Attitudes                                                           | Context? Examples | Purpose                                                                          | Voice/perspective          |
