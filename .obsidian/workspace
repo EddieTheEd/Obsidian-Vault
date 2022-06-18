@@ -28,12 +28,24 @@
         }
       },
       {
-        "id": "1a46640efe1f9e17",
+        "id": "ed8af5b7f1ad07b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a4df8e5e01fcdb82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Periodic Tasks.md",
             "mode": "source",
             "source": false
           }
@@ -144,34 +156,17 @@
             }
           }
         ]
-      },
-      {
-        "id": "02aafb80c4580358",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4df8e5e01fcdb82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_Notes/Periodic Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 185.1683349609375
+    "width": 185.1683349609375,
+    "collapsed": true
   },
-  "active": "1a46640efe1f9e17",
+  "active": "ed8af5b7f1ad07b6",
   "lastOpenFiles": [
     "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
-    "001_Notes/Periodic Tasks.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
+    "001_Notes/Periodic Tasks.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "README.md",

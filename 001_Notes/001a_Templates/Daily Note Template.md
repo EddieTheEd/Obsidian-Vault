@@ -27,8 +27,9 @@ path includes 002_PersonalNotes/002a_DailyNotes
 
 heading does not include Day Planner
 heading does not include Before Heading Out…
+description does not include Chem
 ```
-**Periodic Tasks**
+**Periodic Tasks** 
 ```tasks
 not done
 hide backlink
@@ -40,8 +41,15 @@ heading includes Periodic Tasks
 not done
 hide backlink
 description includes Chem
+description does not include Chem homework
 ```
-
+*Chinese*
+```tasks
+not done
+hide backlink
+description includes Chinese
+description does not include Chinese homework
+```
 ## Daily Notes
 - …
 
