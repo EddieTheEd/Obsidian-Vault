@@ -28,8 +28,9 @@ path includes 002_PersonalNotes/002a_DailyNotes
 heading does not include Day Planner
 heading does not include Before Heading Out…
 description does not include Chem
+description does not include CWP
 ```
-**Periodic Tasks** 
+*Periodic Tasks*
 ```tasks
 not done
 hide backlink
@@ -43,15 +44,15 @@ hide backlink
 description includes Chem
 description does not include Chem homework
 ```
-*Chinese*
+
+**Language-Specific:**
 ```tasks
 not done
 hide backlink
-description includes Chinese
-description does not include Chinese homework
+description includes CWP
 ```
 ## Daily Notes
-- …
+- pog champ no work :)
 
 ^memo-link
 
