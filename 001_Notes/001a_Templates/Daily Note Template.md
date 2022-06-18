@@ -22,7 +22,7 @@ ___
 ```tasks
 not done
 hide backlink
-path includes 005_DailyNotes
+path includes 002_PersonalNotes/002a_DailyNotes
 
 heading does not include Day Planner
 heading does not include Before Heading Out…
