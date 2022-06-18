@@ -70,6 +70,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "b29801a23b40005a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/日常生活.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/001a_Templates/Daily Note Template.md",
+                "file": "001_Notes/日常生活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/001a_Templates/Daily Note Template.md",
+                "file": "001_Notes/日常生活.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,17 +194,17 @@
     "width": 185.1683349609375,
     "collapsed": true
   },
-  "active": "fa7d690d3f8d3086",
+  "active": "b29801a23b40005a",
   "lastOpenFiles": [
-    "001_Notes/001a_Templates/Daily Note Template.md",
+    "001_Notes/日常生活.md",
+    "001_Notes/Hippocampus.md",
     "001_Notes/Personal Planner.md",
+    "001_Notes/001a_Templates/Daily Note Template.md",
     "001_Notes/Periodic Tasks.md",
     "001_Notes/Literature Extract.md",
     "001_Notes/Axis Victory.md",
     "001_Notes/A Tale of Two Suns.md",
     "001_Notes/001a_Templates/Lit Format.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md",
-    "001_Notes/001a_Templates/11AECHE_ClassNotes.md",
-    "001_Notes/001a_Templates/Idea (Random).md"
+    "001_Notes/001a_Templates/Weekly Note Template.md"
   ]
 }
