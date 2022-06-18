@@ -2,7 +2,7 @@
 --- 
 As of 3/06/2022,
 
-I will be reformatting the obsidian vault for a ~~week or two~~**multiple weeks (3-4 as of 18/06/2022)**. Please don't try pulling anything, I will be making specific folders and rewriting this readme so that there are some proper instructions. 
+I will be reformatting the obsidian vault for a ~~week or two~~ **multiple weeks (3-4 as of 18/06/2022)**. Please don't try pulling anything, I will be making specific folders and rewriting this readme so that there are some proper instructions. 
 
 Thanks, Ed
 
