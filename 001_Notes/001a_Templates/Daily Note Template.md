@@ -1,5 +1,6 @@
 ---
 banner: "![[dailynotesbanner.png]]"
+banner_y: 0.4879
 ---
 
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
