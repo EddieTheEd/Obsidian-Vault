@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
+                "file": "001_Notes/001a_Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
+                "file": "001_Notes/001a_Templates/Daily Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,10 +164,10 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "d69141ee69d056ca",
+  "active": "1e0a2813fbbd8c41",
   "lastOpenFiles": [
-    "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "004_ContributedNotes/004a_Ariz's Comp. Sci notes/Draw.io Diagrams/Transaction-context-diagram.drawio",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
