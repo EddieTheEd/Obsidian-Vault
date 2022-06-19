@@ -26,19 +26,22 @@ ___
 ```todoist
 {
 "name": "Inbox",
-"filter": "##Inbox & !search: assessment"
+"filter": "##Inbox & !search: assessment | today",
+"sorting": ["date"]
 }
 ```
 ```todoist
 {
 "name": "Assessments",
-"filter": "/Assessments"
+"filter": "/Assessments",
+"sorting": ["date"]
 }
 ```
 ```todoist
 {
 "name": "Periodic Tasks",
-"filter": "##Periodic Tasks"
+"filter": "##Periodic Tasks",
+"sorting": ["date"]
 }
 ```
 
@@ -46,14 +49,16 @@ ___
 ```todoist
 {
 "name": "Chem",
-"filter": "#School & /Chem"
+"filter": "#School & /Chem",
+"sorting": ["date"]
 }
 ```
 ##### Language-Specific:
 ```todoist
 {
 "name": "Chinese",
-"filter": "#School & /Chinese"
+"filter": "#School & /Chinese",
+"sorting": ["date"]
 }
 ```
 ## Daily Notes
