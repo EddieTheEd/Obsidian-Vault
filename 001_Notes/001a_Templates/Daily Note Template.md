@@ -32,12 +32,14 @@ heading does not include Before Heading Out…
 description does not include Chem
 description does not include CWP
 ```
-*Periodic Tasks*
-```tasks
-not done
-hide backlink
-heading includes Periodic Tasks
+
+```todoist
+{
+"name": "My Tasks",
+"filter": "Periodic"
+}
 ```
+
 **Topic-Specific Tasks:**
 *Chemistry*
 ```tasks
