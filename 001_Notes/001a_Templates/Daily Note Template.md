@@ -58,12 +58,6 @@ description includes CWP
 
 ^memo-link
 
-## New Tasks
-- [ ]
-
-
-psst heres the 📅 for 谈恋爱
-
 ## Trackers
 ### Statistics
 - Feeling:: 
