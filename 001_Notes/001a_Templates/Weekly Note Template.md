@@ -20,8 +20,8 @@ ___
 ### Tasks
 ```todoist
 {
-"name": "Unfinished (doo doo do do do)",
-"filter": "",
+"name": "Unfinished this week(doo doo do do do)",
+"filter": "7 days",
 "sorting": ["date"]
 }
 ```
