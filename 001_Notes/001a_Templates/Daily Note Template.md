@@ -25,7 +25,7 @@ style: bullet
 \begin{document}
 
 	\chemfig{H-C(-[2]H)(-[6]H)-C(-[7]O-H)(=[1]O)}
-	\lewis{0.2.4.6.,O}\hspace{1cm}
+	
 
 \end{document}
 ```
