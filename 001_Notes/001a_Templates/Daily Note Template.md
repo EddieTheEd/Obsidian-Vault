@@ -25,10 +25,15 @@ ___
 ```todoist
 {
 "name": "Inbox",
-"filter": "##Inbox | !search: assessment | !/Chem | !#Periodic Tasks"
+"filter": "##Inbox & !search: assessment"
 }
 ```
-
+```todoist
+{
+"name": "Assessments",
+"filter": "/Assessments"
+}
+```
 ```todoist
 {
 "name": "Periodic Tasks",
