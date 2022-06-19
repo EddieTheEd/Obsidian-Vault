@@ -375,7 +375,7 @@ async function createWeeklyNote(date) {
         })
             .replace(/{{\s*title\s*}}/gi, filename)
             .replace(/{{\s*time\s*}}/gi, window.moment().format("HH:mm"))
-            .replace(/{{\s*(sunday|monday|tuesday|wednesday|thursday|friday|saturday)\s*:(.*?)}}/gi, (_, dayOfWeek, momentFormat) => {
+            .replace(/{{\s*(monday|tuesday|wednesday|thursday|friday|saturday|sunday)\s*:(.*?)}}/gi, (_, dayOfWeek, momentFormat) => {
             const day = getDayOfWeekNumericalValue(dayOfWeek);
             return date.weekday(day).format(momentFormat.trim());
         }));
