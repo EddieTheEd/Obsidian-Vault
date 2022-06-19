@@ -205,7 +205,7 @@ async function getTemplateInfo(template) {
  */
 function getDateUID(date, granularity = "day") {
     const ts = date.clone().startOf(granularity).format();
-    return `${granularity}-${ts}`;
+    return `${granularity}-${ts}`;  
 }
 function removeEscapedCharacters(format) {
     return format.replace(/\[[^\]]*\]/g, ""); // remove everything within brackets
