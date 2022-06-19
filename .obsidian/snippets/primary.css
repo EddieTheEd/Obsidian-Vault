@@ -2687,44 +2687,44 @@ input[type=checkbox]:checked {
 .markdown-preview-view ul > li.task-list-item {
   .todoist-p1 > input[type="checkbox"] {
     border: 1px solid #ff757f !important;
-    background-color: rgba($red, 0.25) !important;
+    background-color: rgba(#ff757f, 0.25) !important;
 
     &:hover {
-      background-color: rgba($red, 0.5) !important;
+      background-color: rgba(#ff757f, 0.5) !important;
     }
   }
 
   .todoist-p2 > input[type="checkbox"] {
-    border: 1px solid $yellow !important;
-    background-color: rgba($yellow, 0.25) !important;
+    border: 1px solid #ffc777 !important;
+    background-color: rgba(#ffc777, 0.25) !important;
 
     &:hover {
-      background-color: rgba($yellow, 0.5) !important;
+      background-color: rgba(#ffc777, 0.5) !important;
     }
   }
 
   .todoist-p3 > input[type="checkbox"] {
-    border: 1px solid $sky-blue !important;
-    background-color: rgba($sky-blue, 0.25) !important;
+    border: 1px solid #65bcff !important;
+    background-color: rgba(#65bcff, 0.25) !important;
 
     &:hover {
-      background-color: rgba($sky-blue, 0.5) !important;
+      background-color: rgba(#65bcff, 0.5) !important;
     }
   }
 
   .todoist-p4 > input[type="checkbox"] {
-    border: 1px solid $gray-9 !important;
-    background-color: rgba($gray-9, 0.25) !important;
+    border: 1px solid #b4c2f0 !important;
+    background-color: rgba(#b4c2f0, 0.25) !important;
 
     &:hover {
-      background-color: rgba($gray-9, 0.5) !important;
+      background-color: rgba(#b4c2f0, 0.5) !important;
     }
   }
 }
 
 .task-metadata {
   font-size: var(--font-todoist-metadata-size);
-  color: $indigo;
+  color: #7a88cf;
   margin-left: unset !important;
 }
 
@@ -2733,7 +2733,7 @@ input[type=checkbox]:checked {
 }
 
 .task-date.task-overdue {
-  color: rgba($light-red, 0.75) !important;
+  color: rgba(#ff98a4, 0.75) !important;
 }
 
 .task-calendar-icon,
@@ -2759,14 +2759,14 @@ input[type=checkbox]:checked {
 
 .todoist-section .todoist-section-title {
   font-size: var(--font-todoist-title-size);
-  color: $indigo;
+  color: #7a88cf;
   font-weight: 700;
   margin-block-end: 0px;
 }
 
 .todoist-error {
-  border: 1px solid $light-red;
-  background-color: rgba($light-red, 0.05);
+  border: 1px solid #ff98a4;
+  background-color: rgba(#ff98a4, 0.05);
   padding: 1em 1em;
   margin: 1em 0px;
 
@@ -2783,8 +2783,8 @@ input[type=checkbox]:checked {
 }
 
 .todoist-success {
-  border: 1px solid $green !important;
-  background-color: rgba($green, 0.05);
+  border: 1px solid #c3e88d !important;
+  background-color: rgba(#c3e88d, 0.05);
 
   padding: 1em 1em !important;
   margin: 1em 0px;
@@ -2797,19 +2797,19 @@ input[type=checkbox]:checked {
 
 .priority-container {
   .priority-1 {
-    color: $light-red;
+    color: #ff98a4;
   }
 
   .priority-2 {
-    color: $yellow;
+    color: #ffc777;
   }
 
   .priority-3 {
-    color: $sky-blue;
+    color: #65bcff;
   }
 
   .priority-4 {
-    color: $gray-9;
+    color: #b4c2f0;
   }
 }
 
