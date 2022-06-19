@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Personal Planner.md",
+                "file": "001_Notes/001a_Templates/Weekly Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Personal Planner.md",
+                "file": "001_Notes/001a_Templates/Weekly Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,11 +195,11 @@
     "direction": "horizontal",
     "width": 185.1683349609375
   },
-  "active": "7689c20e022fe9bd",
+  "active": "4e6a32b3e1e4459a",
   "lastOpenFiles": [
+    "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/Personal Planner.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "001_Notes/Periodic Tasks.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
