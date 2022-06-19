@@ -27,21 +27,21 @@ ___
 {
 "name": "Inbox",
 "filter": "##Inbox & !search: assessment | today",
-"sorting": ["dateDescending"]
+"sorting": ["date"]
 }
 ```
 ```todoist
 {
 "name": "Assessments",
 "filter": "/Assessments",
-"sorting": ["dateDescending"]
+"sorting": ["date"]
 }
 ```
 ```todoist
 {
 "name": "Periodic Tasks",
 "filter": "##Periodic Tasks",
-"sorting": ["dateDescending"]
+"sorting": ["date"]
 }
 ```
 
@@ -50,7 +50,7 @@ ___
 {
 "name": "Chem",
 "filter": "#School & /Chem",
-"sorting": ["dateDescending"]
+"sorting": ["date"]
 }
 ```
 ##### Language-Specific:
@@ -58,7 +58,7 @@ ___
 {
 "name": "Chinese",
 "filter": "#School & /Chinese",
-"sorting": ["dateDescending"]
+"sorting": ["date"]
 }
 ```
 ## Daily Notes
