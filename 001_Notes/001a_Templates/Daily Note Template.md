@@ -2,7 +2,6 @@
 banner: "![[dailynotesbanner.png]]"
 banner_y: 0
 ---
-
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
 
 [[<% tp.date.yesterday("YYYY-MM-DD") %>|↶ Previous Day]] | [[<% tp.date.tomorrow("YYYY-MM-DD") %>|Following Day ↷]]
