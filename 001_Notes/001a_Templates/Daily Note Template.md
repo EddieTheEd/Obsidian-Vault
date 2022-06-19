@@ -21,34 +21,29 @@ style: number
 
 ___
 ### Tasks
-**General Assignments/Tasks**
-```tasks
-not done
-hide backlink
-path includes 002_PersonalNotes/002a_DailyNotes
-
-heading does not include Day Planner
-heading does not include Before Heading Out…
-description does not include Chem
-description does not include CWP
+##### General Assignments/Tasks
+```todoist
+{
+"name": "Inbox",
+"filter": "##Inbox | !search: assessment | !/Chem | !#Periodic Tasks"
+}
 ```
 
 ```todoist
 {
 "name": "Periodic Tasks",
 "filter": "##Periodic Tasks"
-"autorefresh": 3
 }
 ```
 
-**Topic-Specific Tasks:**
+##### Topic-Specific Tasks:
 ```todoist
 {
 "name": "Chem",
 "filter": "#School & /Chem"
 }
 ```
-**Language-Specific:**
+##### Language-Specific:
 ```todoist
 {
 "name": "Chinese",
