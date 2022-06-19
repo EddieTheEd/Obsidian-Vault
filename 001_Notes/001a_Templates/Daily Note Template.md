@@ -37,6 +37,7 @@ description does not include CWP
 {
 "name": "Periodic Tasks",
 "filter": "##Periodic Tasks"
+"autorefresh": 3
 }
 ```
 
@@ -44,22 +45,15 @@ description does not include CWP
 ```todoist
 {
 "name": "Chem",
-"filter": "/Chem"
+"filter": "#School & /Chem"
 }
 ```
-*Chemistry*
-```tasks
-not done
-hide backlink
-description includes Chem
-description does not include Chem homework
-```
-
 **Language-Specific:**
-```tasks
-not done
-hide backlink
-description includes CWP
+```todoist
+{
+"name": "Chinese",
+"filter": "#School & /Chinese"
+}
 ```
 ## Daily Notes
 - 
