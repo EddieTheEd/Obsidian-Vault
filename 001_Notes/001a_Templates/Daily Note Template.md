@@ -17,7 +17,7 @@ hey maybe write something down in the [[Personal Planner]] hm?
 
 **Table of Contents:**
 ```toc
-style: number
+style: bullet
 ```
 
 ___
