@@ -118,8 +118,8 @@ ul.todoist-task-list {
   }
 
   .todoist-p4 > input[type="checkbox"] {
-    border: 3px solid #b4c2f0 !important;
-    background-color: rgba(#b4c2f0, 0.25) !important;
+    border: 3px solid rgb(233, 199, 172) !important;
+    background-color: rgb(23, 20, 16) !important;
 
     &:hover {
       background-color: rgba(#b4c2f0, 0.5) !important;
