@@ -41,6 +41,12 @@ description does not include CWP
 ```
 
 **Topic-Specific Tasks:**
+```todoist
+{
+"name": "Chem",
+"filter": "/Chem"
+}
+```
 *Chemistry*
 ```tasks
 not done
