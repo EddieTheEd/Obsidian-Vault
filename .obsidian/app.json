@@ -55,5 +55,5 @@
   "communityPluginSortOrder": "download",
   "autoPairMarkdown": true,
   "readableLineLength": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": true
 }
