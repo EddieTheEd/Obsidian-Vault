@@ -35,8 +35,8 @@ description does not include CWP
 
 ```todoist
 {
-"name": "My Tasks",
-"filter": "Periodic"
+"name": "Periodic Tasks",
+"filter": "##Periodic Tasks"
 }
 ```
 
