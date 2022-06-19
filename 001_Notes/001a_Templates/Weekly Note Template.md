@@ -27,9 +27,9 @@ ___
 ```
 ---
 ## Memos
-- **[[<% tp.date.weekday("YYYY-MM-DD", 1) %>|Monday]]**
-	![[<% tp.date.weekday("YYYY-MM-DD", 1) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 2) %>|Tuesday]]**
+- **[[<% tp.date.weekday("YYYY-MM-DD", 0) %>|Monday]]**
+	![[<% tp.date.weekday("YYYY-MM-DD", 0) %>#^memo-link]]
+- **[[<% tp.date.weekday("YYYY-MM-DD", 1) %>|Tuesday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 2) %>#^memo-link]]
 - **[[<% tp.date.weekday("YYYY-MM-DD", 3) %>|Wednesday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 3) %>#^memo-link]]
