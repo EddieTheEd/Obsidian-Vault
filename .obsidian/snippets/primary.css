@@ -2656,7 +2656,7 @@ input[type=checkbox]:checked {
   margin-left: 0;
 }
 
-@import "../../colors.scss";
+/* I'm gonna do a little amount of trolling, i just want good looking todoist things */
 
 .todoist-query-title {
   display: inline !important;
@@ -2667,10 +2667,10 @@ input[type=checkbox]:checked {
   float: right;
   margin-left: 8px;
   padding: 3px 10px;
-  background-color: $gray-5;
+  background-color: #2f334d;
 
   &:hover {
-    background-color: $gray-6;
+    background-color: #444a73;
   }
 }
 
@@ -2686,7 +2686,7 @@ input[type=checkbox]:checked {
 
 .markdown-preview-view ul > li.task-list-item {
   .todoist-p1 > input[type="checkbox"] {
-    border: 1px solid $red !important;
+    border: 1px solid #ff757f !important;
     background-color: rgba($red, 0.25) !important;
 
     &:hover {
@@ -2812,6 +2812,7 @@ input[type=checkbox]:checked {
     color: $gray-9;
   }
 }
+
 
 /*────────────────────────────────────
         Inline Code/Codeblocks
