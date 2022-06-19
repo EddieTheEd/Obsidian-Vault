@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
+                "file": "001_Notes/001a_Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
+                "file": "001_Notes/001a_Templates/Daily Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,10 +165,10 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "3f5f2f5e0ad7573b",
+  "active": "7dc52137c4885ddc",
   "lastOpenFiles": [
-    "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "002_PersonalNotes/002a_DailyNotes/2022-05-31.md",
