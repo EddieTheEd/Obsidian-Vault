@@ -2668,39 +2668,24 @@ input[type=checkbox]:checked {
   margin-left: 8px;
   padding: 3px 10px;
   background-color: #2f334d;
-
-  &:hover {
-    background-color: #444a73;
-  }
 }
 
 .todoist-refresh-spin {
   animation: spin 1s linear infinite;
 }
 
-@-webkit-keyframes spin {
-  100% {
-    -webkit-transform: rotate(360deg);
-  }
-}
 
 .markdown-preview-view ul > li.task-list-item {
   .todoist-p1 > input[type="checkbox"] {
     border: 1px solid #ff757f !important;
     background-color: rgba(#ff757f, 0.25) !important;
 
-    &:hover {
-      background-color: rgba(#ff757f, 0.5) !important;
-    }
   }
 
   .todoist-p2 > input[type="checkbox"] {
     border: 1px solid #ffc777 !important;
-    background-color: rgba(#ffc777, 0.25) !important;
+    background-color: rgba(#ffc777, 0.25) !important
 
-    &:hover {
-      background-color: rgba(#ffc777, 0.5) !important;
-    }
   }
 
   .todoist-p3 > input[type="checkbox"] {
