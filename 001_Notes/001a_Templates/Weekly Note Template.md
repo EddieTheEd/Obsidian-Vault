@@ -27,20 +27,20 @@ ___
 ```
 ---
 ## Memos
-- **[[<% tp.date.weekday("YYYY-MM-DD", 0) %>|Monday]]**
-	![[<% tp.date.weekday("YYYY-MM-DD", 0) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 1) %>|Tuesday]]**
+- **[[<% tp.date.weekday("YYYY-MM-DD", 1) %>|Monday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 1) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 2) %>|Wednesday]]**
+- **[[<% tp.date.weekday("YYYY-MM-DD", 2) %>|Tuesday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 2) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 3) %>|Thursday]]**
+- **[[<% tp.date.weekday("YYYY-MM-DD", 3) %>|Wednesday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 3) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 4) %>|Friday]]**
+- **[[<% tp.date.weekday("YYYY-MM-DD", 4) %>|Thursday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 4) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 5) %>|Saturday]]**
+- **[[<% tp.date.weekday("YYYY-MM-DD", 5) %>|Friday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 5) %>#^memo-link]]
-- **[[<% tp.date.weekday("YYYY-MM-DD", 6) %>|Sunday]]**
+- **[[<% tp.date.weekday("YYYY-MM-DD", 6) %>|Saturday]]**
 	![[<% tp.date.weekday("YYYY-MM-DD", 6) %>#^memo-link]]
+- **[[<% tp.date.weekday("YYYY-MM-DD", 7) %>|Sunday]]**
+	![[<% tp.date.weekday("YYYY-MM-DD", 7) %>#^memo-link]]
 ---
 ## Overview
 ### Week Statistics
