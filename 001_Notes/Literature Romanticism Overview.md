@@ -6,20 +6,20 @@ Tags:
 
 # Literature Romanticism Overview
 
+#### Origins
+
+Romanticism is a movement within both art and literature throughout the 18th to 19th century. It came about as a form of revolution against the previous Neoclassical movement prevalent in Europe within the 17th to 18th centuries, which promoted a return to classical Greek and Roman artistic elements.
+
 ```ad-quote
 **"literature depicting emotional matter in an imaginative form"**
 - *Friedrich Schlegel* in regards to romantic literature (from *Athenäeum-Fragment*, 1798)
 ```
 
-#### Origins
-
-Romanticism is a movement within both art and literature throughout the 18th to 19th century. It came about as a form of revolution against the previous Neoclassical movement prevalent in Europe within the 17th to 18th centuries, which promoted a return to classical Greek and Roman artistic elements.
-
 #### Prevailing principles
 
 Primarily, romantic writers focused on the exploration of individuality, spirituality, nature, and sometimes an appreciation of isolationism as core tenants of their literature. 
 
-In terms of literary devices, personification and pathetic fallacy were heavily utilised as a byproduct of Romanticism's greater focus on nature. Karl von Martius, an early Romantic author used such techniques in his volume report *Flora Brasiliensis*:
+In terms of literary devices, personification and pathetic fallacy were heavily utilised as a byproduct of Romanticism's greater focus on nature. Karl von Martius, an early Romantic author, used such techniques in his volume report *Flora Brasiliensis*:
 
 ```ad-quote
 **"Even today those trees speak to me and fill my spirit with a certain pious fear,"**
@@ -27,29 +27,16 @@ In terms of literary devices, personification and pathetic fallacy were heavily 
 
 ```
 
-
 #### Figures of importance
-- William Wordsworth
-- Samuel Taylor Coleridge
-- Percy Bysshe Shelley
-- William Blake
-- John Keats
-- Mary Shelly
 
-| Author                  | Famous Work |
-| ----------------------- | ----------- |
-| William Wordsworth      |             |
-| Samuel Taylor Coleridge |             |
-| Percy Bysshe Shelley    |             |
-| William Blake           |             |
-| John Keats              |             |
-| Mary Shelly             |             |
-
-
-#### What to read first
-
-#### Fun Facts about Romanticism
-
+| Author                  | Famous Work                            |
+| ----------------------- | -------------------------------------- |
+| William Wordsworth      | "I Wandered Lonely as a Cloud"         |
+| Samuel Taylor Coleridge | "The Rime of the Ancient Mariner"      |
+| Percy Bysshe Shelley    | "To a Skylark"                         |
+| William Blake           | "Songs of Innocence and of Experience" |
+| John Keats              | "Ode to a Nightingale"                         |
+| Mary Shelly             | "Frankenstein"                                        |
 
 ## References:
 - https://www.thoughtco.com/romanticism-definition-4777449#:~:text=Characteristics%20of%20Romanticism,and%20personification%20and%20pathetic%20fallacy.

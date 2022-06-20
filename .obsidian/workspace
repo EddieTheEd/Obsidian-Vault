@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
+                "file": "001_Notes/Literature Romanticism Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
+                "file": "001_Notes/Literature Romanticism Overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,15 +186,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156
+    "width": 260.1683654785156,
+    "collapsed": true
   },
-  "active": "3bc5c5cb11d91909",
+  "active": "791c148f33ae44c1",
   "lastOpenFiles": [
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
-    "001_Notes/2022-W26.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
     "001_Notes/Literature Romanticism Overview.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
+    "001_Notes/2022-W26.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
