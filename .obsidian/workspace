@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
+                "file": "001_Notes/AECHE Class 36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
+                "file": "001_Notes/AECHE Class 36.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,10 +201,10 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "d69141ee69d056ca",
+  "active": "7158d570e28d0052",
   "lastOpenFiles": [
-    "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
     "001_Notes/AECHE Class 36.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
     "001_Notes/Literature Romanticism Overview.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
