@@ -17,6 +17,12 @@ Tags: [[Acids + Bases]]
 - Acid + metal hydroxide -> salt + water
 - Acid + metal carbonate -> salt + $CO_{2(g)}$ + water
 
+Explanation:
+- Hcl is strong acid, thus will dissociate fully
+- CH3COOH is a weak acid, and will dissociate partially.
+- Thus, HCl will have a stronger concentration of charged particles in comparison to CH3COOH.
+- Thus, as strength in conductivity increases with concentration of charged particles in solution, HCl will be a stronger electrical conductor.
+
 ---
 # Recall
 
