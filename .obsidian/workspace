@@ -45,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
+            "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312
+    "width": 199.50173950195312,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Romanticism Overview.md",
+                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Romanticism Overview.md",
+                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,20 +186,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156,
-    "collapsed": true
+    "width": 260.1683654785156
   },
-  "active": "791c148f33ae44c1",
+  "active": "3bc5c5cb11d91909",
   "lastOpenFiles": [
-    "001_Notes/Literature Romanticism Overview.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
+    "001_Notes/2022-W26.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
+    "001_Notes/Literature Romanticism Overview.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
     "004_ContributedNotes/004a_Ariz's Comp. Sci notes/Draw.io Diagrams/Transaction-context-diagram.drawio",
-    "002_PersonalNotes/002a_DailyNotes/2022-05-31.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W23.md"
+    "002_PersonalNotes/002a_DailyNotes/2022-05-31.md"
   ]
 }

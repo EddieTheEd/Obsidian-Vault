@@ -19,9 +19,32 @@ Romanticism is a movement within both art and literature throughout the 18th to 
 
 Primarily, romantic writers focused on the exploration of individuality, spirituality, nature, and sometimes an appreciation of isolationism as core tenants of their literature. 
 
-In terms of literary devices, personification and pathetic fallacy were heavily utilised as a byproduct of Romanticism's greater focus on nature. Karl von Martius, an earl
+In terms of literary devices, personification and pathetic fallacy were heavily utilised as a byproduct of Romanticism's greater focus on nature. Karl von Martius, an early Romantic author used such techniques in his volume report *Flora Brasiliensis*:
+
+```ad-quote
+**"Even today those trees speak to me and fill my spirit with a certain pious fear,"**
+- Karl von Martius, *Flora Brasiliensis* (1840)
+
+```
+
 
 #### Figures of importance
+- William Wordsworth
+- Samuel Taylor Coleridge
+- Percy Bysshe Shelley
+- William Blake
+- John Keats
+- Mary Shelly
+
+| Author                  | Famous Work |
+| ----------------------- | ----------- |
+| William Wordsworth      |             |
+| Samuel Taylor Coleridge |             |
+| Percy Bysshe Shelley    |             |
+| William Blake           |             |
+| John Keats              |             |
+| Mary Shelly             |             |
+
 
 #### What to read first
 
@@ -37,3 +60,4 @@ In terms of literary devices, personification and pathetic fallacy were heavily 
 - https://archive.org/details/athenaeum06unkngoog/page/n13/mode/2up
 - https://www.metmuseum.org/toah/hd/roma/hd_roma.htm#:~:text=Romanticism%2C%20first%20defined%20as%20an,and%20flourished%20until%20mid%2Dcentury.
 - https://blog.artsper.com/en/a-closer-look/an-introduction-to-romanticism/#:~:text=Romanticism%20started%20in%20Western%20Europe,the%20promotion%20of%20ideal%20values.
+- https://www.shmoop.com/study-guides/literary-movements/british-romanticism/authors
