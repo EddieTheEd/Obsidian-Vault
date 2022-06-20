@@ -52,11 +52,15 @@
         }
       },
       {
-        "id": "13616b0281646905",
+        "id": "791c148f33ae44c1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Literature Romanticism Overview.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -140,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/001a_Templates/Weekly Note Template.md",
+                "file": "001_Notes/Literature Romanticism Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/001a_Templates/Weekly Note Template.md",
+                "file": "001_Notes/Literature Romanticism Overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,17 +188,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "4e6a32b3e1e4459a",
+  "active": "791c148f33ae44c1",
   "lastOpenFiles": [
+    "001_Notes/Literature Romanticism Overview.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W24.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-19.md",
     "004_ContributedNotes/004a_Ariz's Comp. Sci notes/Draw.io Diagrams/Transaction-context-diagram.drawio",
     "002_PersonalNotes/002a_DailyNotes/2022-05-31.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W23.md",
-    "001_Notes/Periodic Tasks.md"
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W23.md"
   ]
 }
