@@ -14,6 +14,16 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "1d1f96ee3c2a8b12",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "000_Files/2022-CHE-Data-Book.pdf"
+          }
+        }
       }
     ],
     "direction": "vertical"

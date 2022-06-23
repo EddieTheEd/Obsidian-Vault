@@ -13,7 +13,14 @@ Definition of pH: $-log[H^+]$
 
 Therefore, $[H^{+}]=10^{-pH}$
 
- 
+**DONT USE pOH MS PILLING DOES NOT LIKE pOH
+**
+
+$K_w$: ionic product of water at 25$\degree$c. ($1 \times 10^{-14}$)
+
+IF THEY DON'T GIVE YOU TEMPERATURE ALWAYS ASSUME ITS 25
+
+Use $[H^{+}] = \frac{K_w}{[OH^-]}$
 
 
 ---
