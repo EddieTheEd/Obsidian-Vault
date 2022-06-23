@@ -9,4 +9,7 @@ Squinting through the moisture in her eyes, Columbia was greeted by the bright, 
 
 Without hesitation, a wave of discomfort engulfed her body, with every organ of her being shrieking in unknown agony. Before she could react, a visceral stab of agony blinded her. A raw layer of maroon exuded into her vision, as her other sensations dimmed. Columbia fell to the floor, an unknown force compressing her breath ==deep down== her throat. The sharp pain forced her eyes closed, her mind scattered amongst the blotches of agony that erupted through her body. 
 
-Within a small period of time, all of her being wailed in torment, with Columbia's mind almost unconscious. However, as quickly as the pain shot throughout her body, it disappeared. Columbia opened her eyes, making out her surroundings through her 
+Within a small period of time, all of her being wailed in torment, with Columbia's mind almost unconscious. However, as quickly as the pain shot throughout her body, it disappeared. Columbia opened her eyes, making out her surroundings through her lightly garnet, obscured vision.
+
+
+==look into making the ring have garnet==
