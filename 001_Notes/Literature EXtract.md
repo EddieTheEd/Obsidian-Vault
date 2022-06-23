@@ -7,4 +7,6 @@ At last, Columbia had reached the riparian of the lake. She could feel the calm,
 
 Squinting through the moisture in her eyes, Columbia was greeted by the bright, elegant dances of a golden ring's shine, almost entirely submerged in the miry sludge of the lake-shore. With precision, she cautiously grabbed the ring, placing it in the palm of her hand. It had an ethereal quality, yet felt mundane in Columbia's mind. Out of curiosity, she quaintly placed the ring on her scrawny fingers. 
 
-Without hesitation, a wave of discomfort engulfed her body, with every organ of her being shrieking in unknown agony. Before she could react, a visceral stab of agony blinded her. A raw layer of maroon exuded into her vision, as her other sensations dimmed. Columbia fell to the floor, an unknown force compressing her breath ==deep down== her throat. 
+Without hesitation, a wave of discomfort engulfed her body, with every organ of her being shrieking in unknown agony. Before she could react, a visceral stab of agony blinded her. A raw layer of maroon exuded into her vision, as her other sensations dimmed. Columbia fell to the floor, an unknown force compressing her breath ==deep down== her throat. The sharp pain forced her eyes closed, her mind scattered amongst the blotches of agony that erupted through her body. 
+
+Within a small period of time, all of her being wailed in torment, with Columbia's mind almost unconscious. However, as quickly as the pain shot throughout her body, it disappeared. Columbia opened her eyes, making out her surroundings through her 
