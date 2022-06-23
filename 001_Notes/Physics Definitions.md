@@ -31,3 +31,6 @@ Tags:
 | Velocity     | Speed    |
 | Acceleration | Time     |
 | Force             |          |
+
+**Newton's Laws:**
+- 1st Law (of inertia): In general, objects continue to keep on doing what they are already doing.
