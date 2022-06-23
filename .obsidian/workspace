@@ -70,6 +70,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "c0c53e13cb7ca7d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/English Creative Practice.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Physics Definitions.md",
+                "file": "001_Notes/English Creative Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Physics Definitions.md",
+                "file": "001_Notes/English Creative Practice.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,10 +206,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156
+    "width": 260.1683654785156,
+    "collapsed": true
   },
-  "active": "64dd153e8d790353",
+  "active": "c0c53e13cb7ca7d4",
   "lastOpenFiles": [
+    "001_Notes/English Creative Practice.md",
     "001_Notes/Physics Definitions.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-23.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-22.md",
@@ -206,7 +220,6 @@
     "002_PersonalNotes/002a_DailyNotes/2022-06-21.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-20.md",
     "001_Notes/Literature Romanticism Overview.md",
-    "001_Notes/amongus images.md",
-    "001_Notes/AECHE Class 36.md"
+    "001_Notes/amongus images.md"
   ]
 }
