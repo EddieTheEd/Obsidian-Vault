@@ -11,6 +11,8 @@ Without hesitation, a wave of discomfort engulfed her body, with every organ of 
 
 Within a small period of time, all of her being wailed in torment, with Columbia's mind almost unconscious. However, as quickly as the pain shot throughout her body, it disappeared. Columbia opened her eyes, making out her surroundings through her lightly blood-red, obscured vision. A dissonant ringing pierced her eardrums, only to be soothed by a voice she hadn't heard in years.
 
+Columbia turned around ecstatically to see her father. His voice, while distinctly respectable, was distorted beyond her understanding. She saw him ==grasp his rifle tightly==, but when their eyes met, a bolt of sadness struck her heart. There was no soul, or compassion in her father's eyes. It was not unlike cloudy, glass spheres in place of his eyes. She noticed his pale skin, the sweaty flakish hair
+
 
 
 ==look into making the ring have garnet==
