@@ -44,7 +44,7 @@
               "leaf": "a2e6444802466adf",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-24.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":41.8840828975412}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -62,7 +62,14 @@
         },
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "ebfb173a8b93f7be",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":60.39986944321516}"
+            }
+          ]
         }
       },
       {
@@ -74,7 +81,14 @@
         },
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "e82d5baf31f5e6de",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
         }
       }
     ],
@@ -178,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,11 +248,11 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "e40482f560b79a99",
+  "active": "a2e6444802466adf",
   "lastOpenFiles": [
-    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
     "README.md",
+    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-26.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
