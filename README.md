@@ -6,6 +6,15 @@ I will be reformatting the obsidian vault for a ~~week or two~~ **multiple weeks
 
 Thanks, Ed
 
+## UPDATE! (25/06/2022)
+
+yep im still working on it
+
+I'm trying to optimise the vault for my own personal use and productivity. Don't read my stuff.
+
+In other words, since the filing system is essentially intact, anyone who wants to contribute notes can place their files in the 
+"004_ContributedNotes" section.
+
 ---
 # Overview
 This is where I store my Year 10 notes, and a bunch of other random stuff. See below to understand how to open the vault properly, and how to format your pull requests.

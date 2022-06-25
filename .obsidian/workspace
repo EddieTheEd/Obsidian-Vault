@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312,
-    "collapsed": true
+    "width": 199.50173950195312
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +154,7 @@
   },
   "active": "c04f26e12167a31c",
   "lastOpenFiles": [
+    "README.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
     "001_Notes/Literature Extract.md",
     "001_Notes/001a_Templates/Lit Format.md",
@@ -163,7 +163,6 @@
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/English Creative Practice.md",
     "001_Notes/Physics Definitions.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-23.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-22.md"
+    "002_PersonalNotes/002a_DailyNotes/2022-06-23.md"
   ]
 }
