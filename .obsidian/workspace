@@ -38,6 +38,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "e82d5baf31f5e6de",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -161,15 +169,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156
+    "width": 260.1683654785156,
+    "collapsed": true
   },
   "active": "a2e6444802466adf",
   "lastOpenFiles": [
     "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
+    "README.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-26.md",
-    "README.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
     "001_Notes/001a_Templates/Lit Format.md",
     "000_Files/2022-CHE-Data-Book.pdf",
