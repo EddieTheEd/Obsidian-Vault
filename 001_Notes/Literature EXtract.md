@@ -14,8 +14,3 @@ Columbia turned around ecstatically to see her father. His voice, while distinct
 In the distance, the gentle birdsong of the forest was interrupted by a staggering, dissonant shriek. Columbia hurriedly turned to see herself on the bank of the lake in the embrace of her mother, surrounded by a group of British soldiers. Her face had crumpled up in despair, as her mother pointed to a small wooden boat, that she would often play with under the supervision of her parents. Columbia tearfully watched herself climb into the boat, as her mother stood strong and fought off the soldiers until they drew their swords and slashed at her chest, and like her husband, she collapsed and laid in a pool of the same colourless fluid. Peering over the heads of the soldiers, Columbia saw herself frantically setting sail her fragile boat, and drift into the distance. 
 
 She took off the ring, and a shade of light crimson lifted from her eyes. She approached the lake, throwing it into the deep end of the water, and watched as it elegantly sank beyond her vision. She dived into the lake, and with fluid style floated gently at the surface.
-
-
-
-==look into making the ring have garnet==
-- garnet - symbolic of devotion - towards family?
