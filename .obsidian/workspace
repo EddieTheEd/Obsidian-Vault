@@ -13,6 +13,17 @@
             "mode": "source",
             "source": false
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e40482f560b79a99",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
         }
       },
       {
@@ -25,6 +36,17 @@
             "mode": "source",
             "source": false
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a2e6444802466adf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-24.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":41.8840828975412}"
+            }
+          ]
         }
       },
       {
@@ -37,6 +59,10 @@
             "mode": "source",
             "source": false
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": []
         }
       },
       {
@@ -45,6 +71,10 @@
         "state": {
           "type": "graph",
           "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": []
         }
       }
     ],
@@ -64,6 +94,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -79,6 +113,10 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -87,6 +125,10 @@
             "state": {
               "type": "starred",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -112,6 +154,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -120,6 +166,10 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -128,10 +178,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
+                "file": "001_Notes/Literature Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -140,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
+                "file": "001_Notes/Literature Extract.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +203,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -163,6 +221,10 @@
             "state": {
               "type": "calendar",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -172,12 +234,12 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "a2e6444802466adf",
+  "active": "e40482f560b79a99",
   "lastOpenFiles": [
+    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
     "README.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
-    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-26.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
     "001_Notes/001a_Templates/Lit Format.md",
