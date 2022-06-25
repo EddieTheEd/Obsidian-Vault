@@ -53,7 +53,7 @@ If you have any notes related to these subjects, and you are willing to share it
 ![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/2nd.png?raw=true)
 ![](https://github.com/EddieTheEd/Obsidian-Vault/blob/main/README_Files/1st.png?raw=true)
 
-7. You will probably get some error message regarding GitHub. That is the plugin that I've installed, you can either ignore it or uninstall it from the community plugins tab (Ctrl + <, Community Plugins)
+7. You will probably get some error messages regarding GitHub or discord. Those are for the plugins I've installed, you can either ignore them or uninstall the plugins from the community plugins tab (Ctrl + <, Community Plugins)
 
 ### **Congratulations, you now see almost exactly what I see! You have access to the Graph view (Ctrl + G), and can see all the links between the notes in the vault. You also have a downloaded copy of the markdown files. Use them however you see fit.**
 
