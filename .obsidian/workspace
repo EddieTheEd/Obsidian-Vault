@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e40482f560b79a99",
+        "id": "c2435325521027c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,16 +18,28 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "e40482f560b79a99",
+              "leaf": "c2435325521027c8",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
+            },
+            {
+              "leaf": "c2435325521027c8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "c2435325521027c8",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             }
           ]
         }
       },
       {
-        "id": "c2435325521027c8",
+        "id": "084f8262a981b793",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,16 +53,10 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "c2435325521027c8",
+              "leaf": "084f8262a981b793",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":17.449124527625322}"
-            },
-            {
-              "leaf": "c2435325521027c8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -213,7 +219,7 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "e40482f560b79a99",
+  "active": "c2435325521027c8",
   "lastOpenFiles": [
     "001_Notes/Literature Extract.md",
     "001_Notes/Literature Romanticism Overview.md",
