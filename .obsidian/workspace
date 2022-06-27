@@ -21,18 +21,18 @@
               "leaf": "e40482f560b79a99",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":223},\"to\":{\"line\":2,\"ch\":223}},\"scroll\":0}"
             }
           ]
         }
       },
       {
-        "id": "a2e6444802466adf",
+        "id": "c2435325521027c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
+            "file": "001_Notes/Literature Romanticism Overview.md",
             "mode": "source",
             "source": false
           }
@@ -41,51 +41,15 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "a2e6444802466adf",
+              "leaf": "c2435325521027c8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-24.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "ebfb173a8b93f7be",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":17.449124527625322}"
+            },
             {
-              "leaf": "ebfb173a8b93f7be",
+              "leaf": "c2435325521027c8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0.16023055142820689}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "e82d5baf31f5e6de",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "e82d5baf31f5e6de",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -149,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312
+    "width": 199.50173950195312,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -192,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
+                "file": "001_Notes/Literature Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
+                "file": "001_Notes/Literature Extract.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,17 +213,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "a2e6444802466adf",
+  "active": "e40482f560b79a99",
   "lastOpenFiles": [
+    "001_Notes/Literature Extract.md",
+    "001_Notes/Literature Romanticism Overview.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-26.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-27.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
     "README.md",
-    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-26.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
-    "001_Notes/001a_Templates/Lit Format.md",
-    "000_Files/2022-CHE-Data-Book.pdf",
-    "001_Notes/AECHE Class 37.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md"
+    "001_Notes/001a_Templates/Lit Format.md"
   ]
 }
