@@ -4,47 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c2435325521027c8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/Literature Extract.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "c2435325521027c8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":1},\"to\":{\"line\":0,\"ch\":1}}}"
-            },
-            {
-              "leaf": "c2435325521027c8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "c2435325521027c8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
         "id": "084f8262a981b793",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_Notes/Literature Romanticism Overview.md",
+            "file": "001_Notes/001a_Templates/Daily Note Template.md",
             "mode": "source",
             "source": false
           }
@@ -55,8 +20,102 @@
             {
               "leaf": "084f8262a981b793",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "084f8262a981b793",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "084f8262a981b793",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/weeklynotesbanner.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "084f8262a981b793",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.0019615054089721063}"
+            },
+            {
+              "leaf": "084f8262a981b793",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}},\"scroll\":1.8388608328009932}"
+            },
+            {
+              "leaf": "084f8262a981b793",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "6785e427c10bd85b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/001a_Templates/Weekly Note Template.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "6785e427c10bd85b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "593045f6fcff5398",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "593045f6fcff5398",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.334220847615793}"
+            },
+            {
+              "leaf": "593045f6fcff5398",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W25.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.8807159212628408}"
+            },
+            {
+              "leaf": "593045f6fcff5398",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":2.3402978640672405}"
+            },
+            {
+              "leaf": "593045f6fcff5398",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
             }
           ]
         }
@@ -163,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/001a_Templates/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/001a_Templates/Daily Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,17 +278,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "c2435325521027c8",
+  "active": "084f8262a981b793",
   "lastOpenFiles": [
-    "001_Notes/Literature Extract.md",
-    "001_Notes/Literature Romanticism Overview.md",
+    "001_Notes/001a_Templates/Daily Note Template.md",
+    "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-26.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-27.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-24.md",
-    "README.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-25.md",
-    "001_Notes/001a_Templates/Lit Format.md"
+    "000_Files/weeklynotesbanner.png",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
+    "001_Notes/Literature Romanticism Overview.md",
+    "001_Notes/Untitled.md",
+    "001_Notes/Literature Extract.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-26.md"
   ]
 }
