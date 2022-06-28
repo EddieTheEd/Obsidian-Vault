@@ -4,7 +4,7 @@
   "promptDelete": false,
   "fileSortOrder": "byModifiedTime",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "newFileLocation": "folder",
   "newFileFolderPath": "001_Notes",
   "attachmentFolderPath": "000_Files/000a_UnsortedFiles",

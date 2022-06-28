@@ -1,7 +1,7 @@
 {
   "fadeToggle": true,
   "autoRefreshToggle": true,
-  "autoRefreshInterval": 5,
+  "autoRefreshInterval": 1,
   "renderDate": true,
   "renderDateIcon": true,
   "renderProject": false,
