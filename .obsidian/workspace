@@ -4,65 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "084f8262a981b793",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/001a_Templates/Daily Note Template.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "084f8262a981b793",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0.8130988915120462}"
-            },
-            {
-              "leaf": "084f8262a981b793",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "084f8262a981b793",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/weeklynotesbanner.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "084f8262a981b793",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0.0019615054089721063}"
-            },
-            {
-              "leaf": "084f8262a981b793",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}},\"scroll\":1.8388608328009932}"
-            },
-            {
-              "leaf": "084f8262a981b793",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
         "id": "6785e427c10bd85b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_Notes/001a_Templates/Weekly Note Template.md",
+            "file": "001_Notes/Literature Extract.md",
             "mode": "source",
             "source": false
           }
@@ -73,8 +20,14 @@
             {
               "leaf": "6785e427c10bd85b",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":590},\"to\":{\"line\":2,\"ch\":590}}}"
+            },
+            {
+              "leaf": "6785e427c10bd85b",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":118.40314833263706}"
+              "eState": "{}"
             }
           ]
         }
@@ -97,7 +50,19 @@
               "leaf": "6146acb5f7047dc3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":4.948348577293442}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "6146acb5f7047dc3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":2,\"ch\":5}}}"
+            },
+            {
+              "leaf": "6146acb5f7047dc3",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":11},\"to\":{\"line\":2,\"ch\":11}}}"
             },
             {
               "leaf": "6146acb5f7047dc3",
@@ -126,7 +91,7 @@
               "leaf": "3dadeb1008312fcd",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":10},\"to\":{\"line\":113,\"ch\":10}},\"scroll\":108.006537408668}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}},\"scroll\":17.271376073526163}"
             },
             {
               "leaf": "3dadeb1008312fcd",
@@ -239,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
+                "file": "001_Notes/Literature Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
+                "file": "001_Notes/Literature Extract.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,17 +260,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "6146acb5f7047dc3",
+  "active": "6785e427c10bd85b",
   "lastOpenFiles": [
+    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
-    "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+    "001_Notes/001a_Templates/Daily Note Template.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "000_Files/weeklynotesbanner.png",
     "001_Notes/Literature Romanticism Overview.md",
     "001_Notes/Untitled.md",
-    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-26.md"
   ]
 }
