@@ -21,12 +21,41 @@
               "leaf": "6785e427c10bd85b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":590},\"to\":{\"line\":2,\"ch\":590}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":691},\"to\":{\"line\":12,\"ch\":691}},\"scroll\":11.593761909647686}"
             },
             {
               "leaf": "6785e427c10bd85b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "00e5882d5b7bafe2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Literature Rationale.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "00e5882d5b7bafe2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Rationale.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "00e5882d5b7bafe2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -204,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/Literature Rationale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/Literature Rationale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,8 +289,9 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "6785e427c10bd85b",
+  "active": "00e5882d5b7bafe2",
   "lastOpenFiles": [
+    "001_Notes/Literature Rationale.md",
     "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
@@ -270,7 +300,6 @@
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "000_Files/weeklynotesbanner.png",
     "001_Notes/Literature Romanticism Overview.md",
-    "001_Notes/Untitled.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-26.md"
+    "001_Notes/Untitled.md"
   ]
 }
