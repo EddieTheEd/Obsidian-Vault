@@ -72,11 +72,13 @@ ___
 ```
 ## Daily Notes
 - 
-
 ^memo-link
 
 ## Trackers
 ### Statistics
+```
+- Learnt Words:: "word one", "meaning", "word two", "meaning"
+```
 - Feeling:: 
 - Learnt Word:: 
 - Money Spent:: 

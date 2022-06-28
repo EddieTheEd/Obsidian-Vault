@@ -21,7 +21,7 @@
               "leaf": "084f8262a981b793",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":115},\"to\":{\"line\":6,\"ch\":115}},\"scroll\":2.1126529401581675}"
             },
             {
               "leaf": "084f8262a981b793",
@@ -80,7 +80,7 @@
         }
       },
       {
-        "id": "593045f6fcff5398",
+        "id": "6146acb5f7047dc3",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -94,46 +94,28 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "593045f6fcff5398",
+              "leaf": "6146acb5f7047dc3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":88.0420110698548}"
+              "eState": "{\"scroll\":90.04177691240145}"
             },
             {
-              "leaf": "593045f6fcff5398",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":53.30723469436749}"
-            },
-            {
-              "leaf": "593045f6fcff5398",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W25.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0.8807159212628408}"
-            },
-            {
-              "leaf": "593045f6fcff5398",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":2.3402978640672405}"
-            },
-            {
-              "leaf": "593045f6fcff5398",
+              "leaf": "6146acb5f7047dc3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
       },
       {
-        "id": "978905f80751647a",
+        "id": "3dadeb1008312fcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         },
@@ -141,16 +123,16 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "978905f80751647a",
+              "leaf": "3dadeb1008312fcd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":110.82690184320037}"
             },
             {
-              "leaf": "978905f80751647a",
+              "leaf": "3dadeb1008312fcd",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -257,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,10 +295,10 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "978905f80751647a",
+  "active": "6146acb5f7047dc3",
   "lastOpenFiles": [
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
