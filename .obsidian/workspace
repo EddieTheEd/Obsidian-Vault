@@ -21,7 +21,7 @@
               "leaf": "084f8262a981b793",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":115},\"to\":{\"line\":6,\"ch\":115}},\"scroll\":2.1126529401581675}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0.8130988915120462}"
             },
             {
               "leaf": "084f8262a981b793",
@@ -97,7 +97,7 @@
               "leaf": "6146acb5f7047dc3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":90.04177691240145}"
+              "eState": "{\"scroll\":4.948348577293442}"
             },
             {
               "leaf": "6146acb5f7047dc3",
@@ -115,7 +115,7 @@
           "type": "markdown",
           "state": {
             "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         },
@@ -125,8 +125,8 @@
             {
               "leaf": "3dadeb1008312fcd",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":110.82690184320037}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":10},\"to\":{\"line\":113,\"ch\":10}},\"scroll\":108.006537408668}"
             },
             {
               "leaf": "3dadeb1008312fcd",
@@ -298,9 +298,9 @@
   "active": "6146acb5f7047dc3",
   "lastOpenFiles": [
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
+    "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
-    "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "000_Files/weeklynotesbanner.png",
     "001_Notes/Literature Romanticism Overview.md",
