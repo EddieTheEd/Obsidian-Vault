@@ -34,6 +34,8 @@ _insert schedule_
 			- i dunno, just get good
 	- Oboe
 		- vibrato pls :)
+
+	- https://www.youtube.com/watch?v=NmeogiNhdHI -> must use for composition
 - Chemistry ⚗️
 - Physics ⚛️
 - - Sport *☆*: .｡. o(≧▽≦)o .｡.:*☆
