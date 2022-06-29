@@ -21,7 +21,7 @@
               "leaf": "6785e427c10bd85b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":89}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":354},\"to\":{\"line\":10,\"ch\":354}},\"scroll\":0}"
             },
             {
               "leaf": "6785e427c10bd85b",
@@ -50,7 +50,7 @@
               "leaf": "00e5882d5b7bafe2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Rationale.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":4.271615486105439}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "00e5882d5b7bafe2",
@@ -67,7 +67,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
+            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
             "mode": "source",
             "source": false
           }
@@ -78,8 +78,14 @@
             {
               "leaf": "6146acb5f7047dc3",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-29.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.505000065917974}"
+            },
+            {
+              "leaf": "6146acb5f7047dc3",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":29},\"to\":{\"line\":34,\"ch\":29}},\"scroll\":29.95970243613724}"
             },
             {
               "leaf": "6146acb5f7047dc3",
@@ -120,7 +126,7 @@
               "leaf": "3dadeb1008312fcd",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}},\"scroll\":17.271376073526163}"
+              "eState": "{\"scroll\":16.479807326778083}"
             },
             {
               "leaf": "3dadeb1008312fcd",
@@ -233,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Rationale.md",
+                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Rationale.md",
+                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,17 +295,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "00e5882d5b7bafe2",
+  "active": "6146acb5f7047dc3",
   "lastOpenFiles": [
-    "001_Notes/Literature Rationale.md",
-    "001_Notes/Literature Extract.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+    "001_Notes/Literature Extract.md",
+    "001_Notes/Literature Rationale.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md",
     "000_Files/weeklynotesbanner.png",
-    "001_Notes/Literature Romanticism Overview.md",
-    "001_Notes/Untitled.md"
+    "001_Notes/Literature Romanticism Overview.md"
   ]
 }
