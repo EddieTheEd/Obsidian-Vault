@@ -21,7 +21,7 @@
               "leaf": "6785e427c10bd85b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":354},\"to\":{\"line\":10,\"ch\":354}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":200},\"to\":{\"line\":12,\"ch\":200}},\"scroll\":10.578420799762021}"
             },
             {
               "leaf": "6785e427c10bd85b",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
+                "file": "001_Notes/Literature Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
+                "file": "001_Notes/Literature Extract.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,12 +295,12 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "6146acb5f7047dc3",
+  "active": "6785e427c10bd85b",
   "lastOpenFiles": [
+    "001_Notes/Literature Extract.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-    "001_Notes/Literature Extract.md",
     "001_Notes/Literature Rationale.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
