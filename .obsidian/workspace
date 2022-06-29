@@ -21,7 +21,7 @@
               "leaf": "6785e427c10bd85b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":1067},\"to\":{\"line\":10,\"ch\":1067}},\"scroll\":10.093517025658404}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}},\"scroll\":0}"
             },
             {
               "leaf": "6785e427c10bd85b",
@@ -50,7 +50,7 @@
               "leaf": "00e5882d5b7bafe2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Rationale.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":410},\"to\":{\"line\":4,\"ch\":410}},\"scroll\":4.205457650356919}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":1326},\"to\":{\"line\":4,\"ch\":1326}},\"scroll\":4.469152346756492}"
             },
             {
               "leaf": "00e5882d5b7bafe2",
@@ -79,7 +79,7 @@
               "leaf": "05d86714c424de97",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":39},\"to\":{\"line\":10,\"ch\":39}},\"scroll\":34.315978997879576}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":34.315978997879576}"
             },
             {
               "leaf": "05d86714c424de97",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/Literature Romanticism Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/Literature Romanticism Overview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,11 +353,11 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "6785e427c10bd85b",
+  "active": "05d86714c424de97",
   "lastOpenFiles": [
-    "001_Notes/Literature Extract.md",
-    "001_Notes/Literature Rationale.md",
     "001_Notes/Literature Romanticism Overview.md",
+    "001_Notes/Literature Rationale.md",
+    "001_Notes/Literature Extract.md",
     "001_Notes/Personal Planner.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
