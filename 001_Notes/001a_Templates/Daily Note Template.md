@@ -1,6 +1,8 @@
 ---
 banner: "![[dailynotesbanner.png]]"
 banner_y: 0
+tags:
+  - personalnotes
 ---
 # <% tp.date.now("YYYY-MM-DD") %>’s Note
 
@@ -85,5 +87,3 @@ style: bullet
 - Reading:: 
 - Revision:: 
 - Homework:: 
-
-Tags: #personalnotes 
