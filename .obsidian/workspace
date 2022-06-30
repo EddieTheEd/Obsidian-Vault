@@ -21,7 +21,7 @@
               "leaf": "6785e427c10bd85b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":6.663035019455253}"
             },
             {
               "leaf": "6785e427c10bd85b",
@@ -50,7 +50,7 @@
               "leaf": "00e5882d5b7bafe2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Rationale.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":376},\"to\":{\"line\":4,\"ch\":376}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":459},\"to\":{\"line\":4,\"ch\":459}}}"
             },
             {
               "leaf": "00e5882d5b7bafe2",
