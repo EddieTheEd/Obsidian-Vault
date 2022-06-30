@@ -18,18 +18,11 @@ hey maybe write something down in the [[Personal Planner]] hm?
 ```toc
 style: bullet
 ```
-### Emotional Support Ethanol
 
-```tikz
-\usepackage{chemfig}
-\begin{document}
+## Daily Notes
+- 
+^memo-link
 
-	\chemfig{H-C(-[2]H)(-[6]H)-C(-[7]O-H)(=[1]O)}
-	
-
-\end{document}
-```
-___
 ### Tasks
 ##### General Assignments/Tasks
 ```todoist
@@ -70,9 +63,6 @@ ___
 "sorting": ["date"]
 }
 ```
-## Daily Notes
-- 
-^memo-link
 
 ## Trackers
 ### Statistics
