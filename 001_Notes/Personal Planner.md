@@ -6,6 +6,8 @@ Status: #idea
 
 dont ask how this works, i dont know as well
 
+this is a certified brainstorming moment
+
 **Current Schedule:**
 _insert schedule_
 
