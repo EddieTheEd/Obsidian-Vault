@@ -1,0 +1,396 @@
+{
+  "main": {
+    "id": "3cd08a5f892d6503",
+    "type": "split",
+    "children": [
+      {
+        "id": "74a19996c1155eb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "74a19996c1155eb2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":55.16813629470326}"
+            },
+            {
+              "leaf": "74a19996c1155eb2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":14},\"to\":{\"line\":21,\"ch\":14}},\"scroll\":17.11919572012765}"
+            },
+            {
+              "leaf": "74a19996c1155eb2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9078b169e8213f46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9078b169e8213f46",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":18.906533614102823}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5058fcc3902a6775",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/001a_Templates/Weekly Note Template.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5058fcc3902a6775",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.6429187379499763}"
+            },
+            {
+              "leaf": "5058fcc3902a6775",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "5058fcc3902a6775",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":11},\"to\":{\"line\":2,\"ch\":11}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "65e36ba86c111d94",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Personal Planner.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "65e36ba86c111d94",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":12},\"to\":{\"line\":14,\"ch\":12}},\"scroll\":4.988780546416061}"
+            },
+            {
+              "leaf": "65e36ba86c111d94",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "9e9430afd120640e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Literature Poetry Creative Practice.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9e9430afd120640e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.5265248307232726}"
+            },
+            {
+              "leaf": "9e9430afd120640e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "9e9430afd120640e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-29.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":80.06105965577596}"
+            },
+            {
+              "leaf": "9e9430afd120640e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "15a7553de452ab69",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "15a7553de452ab69",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "15a7553de452ab69",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "15a7553de452ab69",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "7e9775fcb6e23d53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/'study notes'.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7e9775fcb6e23d53",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/'study notes'.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48d87fe75f740cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d48b995aa0c4bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09c0abe4395a1a33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c582dbd0b4d8c457",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0b7da6206a99b99e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 199.50173950195312,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ea8decc1ffb8d3db",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cac248ef4d63719",
+        "type": "tabs",
+        "dimension": 66.88741721854305,
+        "children": [
+          {
+            "id": "5a2b0028fd9f5f1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "d62635df9f73500e",
+        "type": "tabs",
+        "dimension": 33.11258278145696,
+        "children": [
+          {
+            "id": "f88f9f753a5de229",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5f183adc773d58aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001_Notes/Literature Poetry Creative Practice.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "314d062e002ab917",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001_Notes/Literature Poetry Creative Practice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5a8953d819704e8f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.1683654785156,
+    "collapsed": true
+  },
+  "active": "9e9430afd120640e",
+  "lastOpenFiles": [
+    "001_Notes/Literature Poetry Creative Practice.md",
+    "001_Notes/Personal Planner.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+    "001_Notes/'study notes'.md",
+    "001_Notes/001a_Templates/Weekly Note Template.md",
+    "001_Notes/001a_Templates/Daily Note Template.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-01.md",
+    "001_Notes/Literature Extract.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-29.md"
+  ]
+}
