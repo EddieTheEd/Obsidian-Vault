@@ -97,51 +97,6 @@
         }
       },
       {
-        "id": "65e36ba86c111d94",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2022-CHE-Data-Book.pdf\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/meth.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-            },
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
         "id": "9e9430afd120640e",
         "type": "leaf",
         "state": {
@@ -231,7 +186,7 @@
               "leaf": "7e9775fcb6e23d53",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}},\"scroll\":0}"
             },
             {
               "leaf": "7e9775fcb6e23d53",
@@ -295,6 +250,109 @@
             }
           ]
         }
+      },
+      {
+        "id": "65e36ba86c111d94",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "65e36ba86c111d94",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "65e36ba86c111d94",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2022-CHE-Data-Book.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "65e36ba86c111d94",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/meth.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "65e36ba86c111d94",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "65e36ba86c111d94",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "168221a0a38e4a41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Organic Chem Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "168221a0a38e4a41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":7.048222116273352}"
+            },
+            {
+              "leaf": "168221a0a38e4a41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "118dd03e95e5c16d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/11AECHE Class 4.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "118dd03e95e5c16d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 4.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":703},\"to\":{\"line\":56,\"ch\":4}},\"scroll\":53.421277517090985}"
+            },
+            {
+              "leaf": "118dd03e95e5c16d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -325,7 +383,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fractional dist",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -350,7 +408,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -405,7 +464,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md",
+                "file": "001_Notes/Organic Chem Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -426,7 +485,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md",
+                "file": "001_Notes/Organic Chem Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -455,17 +514,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "7e9775fcb6e23d53",
+  "active": "168221a0a38e4a41",
   "lastOpenFiles": [
+    "001_Notes/Organic Chem Notes.md",
+    "001_Notes/11AECHE Class 4.md",
+    "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/001a_Templates/Lit Format.md",
     "001_Notes/Personal Planner.md",
     "001_Notes/'study notes'.md",
-    "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
-    "000_Files/2022-CHE-Data-Book.pdf",
-    "000_Files/meth.png",
-    "001_Notes/Literature Poetry Creative Practice.md"
+    "000_Files/2022-CHE-Data-Book.pdf"
   ]
 }
