@@ -21,7 +21,7 @@
               "leaf": "74a19996c1155eb2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":41.41345563708337}"
             },
             {
               "leaf": "74a19996c1155eb2",
@@ -205,6 +205,26 @@
       {
         "id": "7cac248ef4d63719",
         "type": "tabs",
+        "dimension": 66.88741721854305,
+        "children": [
+          {
+            "id": "5a2b0028fd9f5f1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "d62635df9f73500e",
+        "type": "tabs",
+        "dimension": 33.11258278145696,
         "children": [
           {
             "id": "f88f9f753a5de229",
@@ -214,34 +234,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "5a8953d819704e8f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "314d062e002ab917",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
               }
             },
             "pane-relief:history-v1": {
@@ -269,18 +261,28 @@
               "pos": 0,
               "stack": []
             }
-          }
-        ]
-      },
-      {
-        "id": "d62635df9f73500e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5a2b0028fd9f5f1e",
+            "id": "314d062e002ab917",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outgoing-link",
+              "state": {
+                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "5a8953d819704e8f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             },
             "pane-relief:history-v1": {
@@ -292,7 +294,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156
+    "width": 260.1683654785156,
+    "collapsed": true
   },
   "active": "74a19996c1155eb2",
   "lastOpenFiles": [
