@@ -21,7 +21,7 @@
               "leaf": "0c29ae964b9c06da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":21},\"to\":{\"line\":89,\"ch\":21}},\"scroll\":80.23531395857643}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":2},\"to\":{\"line\":73,\"ch\":2}},\"scroll\":72.87924426709823}"
             },
             {
               "leaf": "0c29ae964b9c06da",
@@ -56,7 +56,7 @@
               "leaf": "6f2d3c27c9af0617",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":77.18530878909799}"
+              "eState": "{\"scroll\":113.06315106447502}"
             },
             {
               "leaf": "6f2d3c27c9af0617",
@@ -85,7 +85,25 @@
               "leaf": "9e9430afd120640e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.28368375860574}"
+            },
+            {
+              "leaf": "9e9430afd120640e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "9e9430afd120640e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-29.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":80.06105965577596}"
+            },
+            {
+              "leaf": "9e9430afd120640e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -245,17 +263,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156,
-    "collapsed": true
+    "width": 260.1683654785156
   },
   "active": "0c29ae964b9c06da",
   "lastOpenFiles": [
     "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/Literature Poetry Creative Practice.md",
-    "001_Notes/Literature Romanticism Overview.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
     "001_Notes/Literature Extract.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+    "001_Notes/Literature Romanticism Overview.md",
     "001_Notes/Literature Rationale.md",
     "001_Notes/Personal Planner.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",

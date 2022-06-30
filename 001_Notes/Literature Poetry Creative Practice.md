@@ -19,8 +19,3 @@ Pens poured valleys of Prussian blue, words came to life
 but the children pressed on, and continued to work
 to work
 to work.
-
-
-
-
-
