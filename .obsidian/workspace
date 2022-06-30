@@ -143,7 +143,7 @@
               "leaf": "9e9430afd120640e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0.5265248307232726}"
+              "eState": "{}"
             },
             {
               "leaf": "9e9430afd120640e",
@@ -278,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312,
-    "collapsed": true
+    "width": 199.50173950195312
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
