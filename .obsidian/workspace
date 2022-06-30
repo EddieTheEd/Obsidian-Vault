@@ -21,7 +21,7 @@
               "leaf": "74a19996c1155eb2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":41.41345563708337}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":126,\"ch\":16},\"to\":{\"line\":126,\"ch\":16}},\"scroll\":49.378711240263556}"
             },
             {
               "leaf": "74a19996c1155eb2",
@@ -79,7 +79,7 @@
               "leaf": "5058fcc3902a6775",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":59},\"to\":{\"line\":63,\"ch\":59}},\"scroll\":57.42708188837225}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "5058fcc3902a6775",
@@ -114,7 +114,7 @@
               "leaf": "9e9430afd120640e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0.610146387117754}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "9e9430afd120640e",
@@ -133,6 +133,37 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"scroll\":0}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "15a7553de452ab69",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "15a7553de452ab69",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "15a7553de452ab69",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "15a7553de452ab69",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -247,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+                "file": "001_Notes/001a_Templates/Weekly Note Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
+                "file": "001_Notes/001a_Templates/Weekly Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,12 +328,12 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "74a19996c1155eb2",
+  "active": "5058fcc3902a6775",
   "lastOpenFiles": [
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-    "001_Notes/Literature Poetry Creative Practice.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
+    "001_Notes/Literature Poetry Creative Practice.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-01.md",
     "001_Notes/Literature Extract.md",
