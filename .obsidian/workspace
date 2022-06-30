@@ -21,7 +21,7 @@
               "leaf": "74a19996c1155eb2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":147,\"ch\":3},\"to\":{\"line\":147,\"ch\":3}},\"scroll\":125.09741027570078}"
+              "eState": "{}"
             },
             {
               "leaf": "74a19996c1155eb2",
@@ -114,7 +114,7 @@
               "leaf": "9e9430afd120640e",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":0.610146387117754}"
             },
             {
               "leaf": "9e9430afd120640e",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Poetry Creative Practice.md",
+                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Poetry Creative Practice.md",
+                "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,11 +294,11 @@
     "direction": "horizontal",
     "width": 260.1683654785156
   },
-  "active": "9e9430afd120640e",
+  "active": "74a19996c1155eb2",
   "lastOpenFiles": [
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/Literature Poetry Creative Practice.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-01.md",
