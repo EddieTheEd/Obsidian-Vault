@@ -21,7 +21,7 @@
               "leaf": "6785e427c10bd85b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":6.663035019455253}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
             },
             {
               "leaf": "6785e427c10bd85b",
@@ -79,7 +79,7 @@
               "leaf": "05d86714c424de97",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":14},\"to\":{\"line\":10,\"ch\":14}},\"scroll\":7.048637657313959}"
             },
             {
               "leaf": "05d86714c424de97",
@@ -91,12 +91,41 @@
         }
       },
       {
+        "id": "0c29ae964b9c06da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Literature Poetry Creative Practice.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0c29ae964b9c06da",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "0c29ae964b9c06da",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
         "id": "6146acb5f7047dc3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
+            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
             "mode": "source",
             "source": false
           }
@@ -107,8 +136,14 @@
             {
               "leaf": "6146acb5f7047dc3",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":63.92649865825914}"
+            },
+            {
+              "leaf": "6146acb5f7047dc3",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-29.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":22.960001831054687}"
             },
             {
               "leaf": "6146acb5f7047dc3",
@@ -297,7 +332,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/Literature Poetry Creative Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Extract.md",
+                "file": "001_Notes/Literature Poetry Creative Practice.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,17 +388,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "6785e427c10bd85b",
+  "active": "0c29ae964b9c06da",
   "lastOpenFiles": [
+    "001_Notes/Literature Poetry Creative Practice.md",
+    "001_Notes/Literature Romanticism Overview.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
     "001_Notes/Literature Extract.md",
     "001_Notes/Literature Rationale.md",
-    "001_Notes/Literature Romanticism Overview.md",
     "001_Notes/Personal Planner.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-29.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-28.md",
-    "001_Notes/001a_Templates/Daily Note Template.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W25.md"
+    "001_Notes/001a_Templates/Daily Note Template.md"
   ]
 }
