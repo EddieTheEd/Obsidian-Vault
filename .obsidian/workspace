@@ -21,7 +21,7 @@
               "leaf": "74a19996c1155eb2",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":29.20431748019795}"
+              "eState": "{\"scroll\":11.957447471635948}"
             },
             {
               "leaf": "74a19996c1155eb2",
@@ -378,12 +378,47 @@
               "leaf": "118dd03e95e5c16d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":703},\"to\":{\"line\":56,\"ch\":4}},\"scroll\":53.421277517090985}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":1.1507936205182756}"
             },
             {
               "leaf": "118dd03e95e5c16d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "c4a7697889c650fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Math Working Out.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "c4a7697889c650fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Math Working Out.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c4a7697889c650fe",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c4a7697889c650fe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 4.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -499,7 +534,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Romanticism Overview.md",
+                "file": "001_Notes/Math Working Out.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -520,7 +555,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Romanticism Overview.md",
+                "file": "001_Notes/Math Working Out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -549,17 +584,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "74a19996c1155eb2",
+  "active": "c4a7697889c650fe",
   "lastOpenFiles": [
+    "001_Notes/Math Working Out.md",
+    "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
+    "001_Notes/11AECHE Class 4.md",
     "001_Notes/Literature Romanticism Overview.md",
     "001_Notes/Literature Rationale.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/Organic Chem Notes.md",
     "001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md",
-    "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
-    "001_Notes/11AECHE Class 4.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md",
-    "001_Notes/001a_Templates/Lit Format.md"
+    "001_Notes/001a_Templates/Weekly Note Template.md"
   ]
 }
