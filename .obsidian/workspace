@@ -7,12 +7,22 @@
         "id": "39c4a39b20a24841",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Personal Planner.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "39c4a39b20a24841",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":19.45782935893422}"
+            },
             {
               "leaf": "39c4a39b20a24841",
               "group": null,
@@ -86,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312
+    "width": 199.50173950195312,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -137,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001_Notes/Personal Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001_Notes/Personal Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
