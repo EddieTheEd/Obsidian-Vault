@@ -4,36 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "39c4a39b20a24841",
+        "id": "3d0ce5344ed25e7d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/Personal_Planner.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "39c4a39b20a24841",
+              "leaf": "3d0ce5344ed25e7d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "39c4a39b20a24841",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "39c4a39b20a24841",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -148,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Personal_Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Personal_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +180,7 @@
     "direction": "horizontal",
     "width": 260.1683654785156
   },
-  "active": "39c4a39b20a24841",
+  "active": "3d0ce5344ed25e7d",
   "lastOpenFiles": [
     "001_Notes/Personal_Planner.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-03.md",
