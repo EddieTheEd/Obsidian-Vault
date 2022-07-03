@@ -14,7 +14,7 @@ tags:
 > - ID:: <% tp.date.now('YYYYMMDDHHmm') %>
 > - Week:: [[<% tp.date.now("YYYY [Week] WW") %>]]
 
-hey maybe write something down in the [[Personal Planner]] hm?
+hey maybe write something down in the [[Personal_Planner]] hm?
 
 **Table of Contents:**
 ```toc
