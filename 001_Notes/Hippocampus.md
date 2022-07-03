@@ -51,5 +51,5 @@ That's essentially it! If you want to see these tags, download obsidian and open
 
 **Personal Stuff**
 - (no touchy)
-- [[日常生活]]
+- [[Hippocampus]]
 - [['study notes']]

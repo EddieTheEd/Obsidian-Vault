@@ -21,7 +21,7 @@
               "leaf": "3d0ce5344ed25e7d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":12},\"to\":{\"line\":13,\"ch\":12}},\"scroll\":6.608888549804687}"
+              "eState": "{\"scroll\":26.701240519639942}"
             },
             {
               "leaf": "3d0ce5344ed25e7d",
@@ -190,19 +190,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156
+    "width": 260.1683654785156,
+    "collapsed": true
   },
   "active": "3d0ce5344ed25e7d",
   "lastOpenFiles": [
     "001_Notes/Personal_Planner.md",
+    "001_Notes/Hippocampus.md",
+    "001_Notes/'study notes'.md",
+    "001_Notes/日常生活.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-03.md",
     "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-    "001_Notes/Math Working Out.md",
-    "001_Notes/Literature Rationale.md",
-    "001_Notes/Literature Poetry Creative Practice.md",
-    "001_Notes/Literature Romanticism Overview.md"
+    "001_Notes/Math Working Out.md"
   ]
 }
