@@ -21,7 +21,7 @@
               "leaf": "3d0ce5344ed25e7d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":26.701240519639942}"
+              "eState": "{\"scroll\":7.140753880328603}"
             },
             {
               "leaf": "3d0ce5344ed25e7d",
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156,
-    "collapsed": true
+    "width": 260.1683654785156
   },
   "active": "3d0ce5344ed25e7d",
   "lastOpenFiles": [
