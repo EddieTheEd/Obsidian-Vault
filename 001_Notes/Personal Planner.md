@@ -9,7 +9,17 @@ dont ask how this works, i dont know as well
 this is a certified brainstorming moment
 
 - **Current Schedule:**
-	- _insert schedule_
+| Time  | Monday | Tueday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ----- | ------ | ------ | --------- | -------- | ------ | -------- | ------ |
+| 06:00 |        |        |           |          |        |          |        |
+| 06:15 |        |        |           |          |        |          |        |
+| 06:30 |        |        |           |          |        |          |        |
+| 06:45 |        |        |           |          |        |          |        |
+| 07:00 |        |        |           |          |        |          |        |
+| 07:15 |        |        |           |          |        |          |        |
+| 07:30 |        |        |           |          |        |          |        |
+| 07:45 |        |        |           |          |        |          |        |
+| 08:      |        |        |           |          |        |          |        |
 
 - **Segments:**
 	- Methods 🧮
