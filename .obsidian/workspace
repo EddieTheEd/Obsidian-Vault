@@ -7,8 +7,12 @@
         "id": "39c4a39b20a24841",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Personal_Planner.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -17,7 +21,7 @@
               "leaf": "39c4a39b20a24841",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":72},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":12.030242125632862}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "39c4a39b20a24841",
@@ -144,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001_Notes/Personal_Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001_Notes/Personal_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
