@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "74a19996c1155eb2",
+        "id": "fdfd7cad62721c35",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_Notes/Literature Romanticism Overview.md",
+            "file": "001_Notes/Personal Planner.md",
             "mode": "source",
             "source": false
           }
@@ -18,343 +18,15 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "74a19996c1155eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Romanticism Overview.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":11.957447471635948}"
-            },
-            {
-              "leaf": "74a19996c1155eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Rationale.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":4.785313721518384}"
-            },
-            {
-              "leaf": "74a19996c1155eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "74a19996c1155eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":14},\"to\":{\"line\":21,\"ch\":14}},\"scroll\":17.11919572012765}"
-            },
-            {
-              "leaf": "74a19996c1155eb2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "34c79cb41cda6f39",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/Literature Rationale.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "34c79cb41cda6f39",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Rationale.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "34c79cb41cda6f39",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "e84639e3fade29ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "e84639e3fade29ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "9078b169e8213f46",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "9078b169e8213f46",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":18.906533614102823}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "5058fcc3902a6775",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/001a_Templates/Weekly Note Template.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "5058fcc3902a6775",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5058fcc3902a6775",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W26.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "5058fcc3902a6775",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":11},\"to\":{\"line\":2,\"ch\":11}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "9e9430afd120640e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/Literature Poetry Creative Practice.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "9e9430afd120640e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":8}}}"
-            },
-            {
-              "leaf": "9e9430afd120640e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Extract.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "9e9430afd120640e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-29.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":80.06105965577596}"
-            },
-            {
-              "leaf": "9e9430afd120640e",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "15a7553de452ab69",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "15a7553de452ab69",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "15a7553de452ab69",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-06-30.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "15a7553de452ab69",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Literature Poetry Creative Practice.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "7e9775fcb6e23d53",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":0},\"to\":{\"line\":89,\"ch\":0}},\"scroll\":82.07517721805091}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":17},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0.47331442126682316}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":79.75921445984223}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Lit Format.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":0}}}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
+              "leaf": "fdfd7cad62721c35",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":32},\"to\":{\"line\":46,\"ch\":32}},\"scroll\":6.843971569313978}"
-            },
-            {
-              "leaf": "7e9775fcb6e23d53",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/'study notes'.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "65e36ba86c111d94",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "65e36ba86c111d94",
+              "leaf": "fdfd7cad62721c35",
               "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2022-CHE-Data-Book.pdf\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/meth.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-            },
-            {
-              "leaf": "65e36ba86c111d94",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Weekly Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -436,7 +108,7 @@
               "leaf": "c4a7697889c650fe",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Math Working Out.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":28},\"to\":{\"line\":10,\"ch\":28}}}"
+              "eState": "{\"scroll\":1.3888887677873885}"
             },
             {
               "leaf": "c4a7697889c650fe",
@@ -563,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Literature Rationale.md",
+                "file": "001_Notes/Personal Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -584,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Literature Rationale.md",
+                "file": "001_Notes/Personal Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -613,17 +285,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "34c79cb41cda6f39",
+  "active": "fdfd7cad62721c35",
   "lastOpenFiles": [
-    "001_Notes/Literature Rationale.md",
+    "001_Notes/Personal Planner.md",
+    "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
+    "001_Notes/001a_Templates/Weekly Note Template.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W26.md",
     "001_Notes/Math Working Out.md",
-    "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
-    "001_Notes/11AECHE Class 4.md",
+    "001_Notes/Literature Rationale.md",
+    "001_Notes/Literature Poetry Creative Practice.md",
     "001_Notes/Literature Romanticism Overview.md",
-    "001_Notes/Organic Chem Notes.md",
-    "001_Notes/001a_Templates/Chem Notes Planner (Rough Template).md",
-    "001_Notes/001a_Templates/Daily Note Template.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md"
+    "001_Notes/11AECHE Class 4.md"
   ]
 }

@@ -4,7 +4,7 @@
   "promptDelete": false,
   "fileSortOrder": "byModifiedTime",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "newFileLocation": "folder",
   "newFileFolderPath": "001_Notes",
   "attachmentFolderPath": "000_Files/000a_UnsortedFiles",
@@ -57,6 +57,9 @@
   "tabSize": 3,
   "communityPluginSortOrder": "download",
   "autoPairMarkdown": true,
-  "readableLineLength": false,
-  "autoPairBrackets": true
+  "readableLineLength": true,
+  "autoPairBrackets": true,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "rightToLeft": false
 }
