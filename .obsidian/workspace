@@ -21,7 +21,19 @@
               "leaf": "fdfd7cad62721c35",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":2.414751762581107}"
+              "eState": "{\"scroll\":6.843971569313978}"
+            },
+            {
+              "leaf": "fdfd7cad62721c35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-07-03.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":22.256453260324687}"
+            },
+            {
+              "leaf": "fdfd7cad62721c35",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal Planner.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":156},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":4.551707291610507}"
             },
             {
               "leaf": "fdfd7cad62721c35",
@@ -185,16 +197,17 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 260.1683654785156,
-    "collapsed": true
+    "width": 260.1683654785156
   },
   "active": "fdfd7cad62721c35",
   "lastOpenFiles": [
     "001_Notes/Personal Planner.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-07-03.md",
     "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/001a_Templates/Weekly Note Template.md",
     "002_PersonalNotes/002a_DailyNotes/2022-06-30.md",
@@ -202,7 +215,6 @@
     "001_Notes/Math Working Out.md",
     "001_Notes/Literature Rationale.md",
     "001_Notes/Literature Poetry Creative Practice.md",
-    "001_Notes/Literature Romanticism Overview.md",
-    "001_Notes/11AECHE Class 4.md"
+    "001_Notes/Literature Romanticism Overview.md"
   ]
 }

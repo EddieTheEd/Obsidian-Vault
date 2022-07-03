@@ -9,7 +9,7 @@
   "newFileFolderPath": "001_Notes",
   "attachmentFolderPath": "000_Files/000a_UnsortedFiles",
   "communityThemeSortOrder": "download",
-  "spellcheck": false,
+  "spellcheck": true,
   "spellcheckDictionary": [
     "Latzio",
     "Latzio",
