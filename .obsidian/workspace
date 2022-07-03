@@ -7,12 +7,22 @@
         "id": "3d0ce5344ed25e7d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Personal_Planner.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "3d0ce5344ed25e7d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
             {
               "leaf": "3d0ce5344ed25e7d",
               "group": null,
@@ -132,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001_Notes/Personal_Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001_Notes/Personal_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
