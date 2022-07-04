@@ -115,7 +115,7 @@ Tags: [[Atomic Structure - Development of the Atomic Model]]
     
     He also hypothesised that a photon would be emitted from an excited electron, which was an electron not at its ground state, which is the lowest possible **electron quantum level** (energy states), as it fell to a lower energy orbit. **NOTE: The energy of the photon is equal to the difference in energy between the 2 orbits.** The frequency of the photon could be determined using the formula $E_{photon} = hf$, where $h$ = $6.626\times10^{-34}$ and $f$ = frequency. However, Bohr went against classical physics by proposing that electrons would orbit a nucleus without losing energy.
     
-    Thus, Bohr determined the energy associated with each of the electron energy states of the hydrogen atom. Using this, Bohr could calculate the wavelengths of light that corresponded to the emissions spectra of hydrogen. He was pretty correct. Good job.
+    Thus, Bohr determined the energy associated with each of the electron energy states of the hydrogen atom. Using this, Bohr could calculate the wavelengths of light that corresponded to the emissions spectra of hydrogen. He was pretty correct.
     
     Bohr’s model accurately described emissions spectra. Similarly, it explained the formation of absorption spectra, as electrons would only allow photons of a specific energy that corresponded to the difference between the energy state it would move to and its current one to excite them. The electrons would absorb the photons, but not the ones that weren’t the right energy. This created the absorption spectra, which outlined the wavelengths of visible light that were absorbed.
     

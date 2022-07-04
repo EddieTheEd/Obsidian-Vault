@@ -112,12 +112,41 @@
               "leaf": "cbc24fa4e50df0b5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Hippocampus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":18},\"to\":{\"line\":51,\"ch\":18}},\"scroll\":41.26135242495645}"
             },
             {
               "leaf": "cbc24fa4e50df0b5",
               "group": null,
               "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "d23d12df06ee294a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/History of the Atomic Model.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d23d12df06ee294a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/History of the Atomic Model.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.9331354074651403}"
+            },
+            {
+              "leaf": "d23d12df06ee294a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Hippocampus.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -232,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Hippocampus.md",
+                "file": "001_Notes/History of the Atomic Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Hippocampus.md",
+                "file": "001_Notes/History of the Atomic Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,8 +311,9 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "cbc24fa4e50df0b5",
+  "active": "d23d12df06ee294a",
   "lastOpenFiles": [
+    "001_Notes/History of the Atomic Model.md",
     "001_Notes/Hippocampus.md",
     "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/Hydrocarbons.md",
@@ -292,7 +322,6 @@
     "001_Notes/'study notes'.md",
     "001_Notes/日常生活.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-03.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-30.md"
+    "001_Notes/001a_Templates/Weekly Note Template.md"
   ]
 }
