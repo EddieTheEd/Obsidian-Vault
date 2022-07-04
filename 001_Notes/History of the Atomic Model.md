@@ -1,4 +1,4 @@
-*Date: 20220312 Time: 1947*
+	*Date: 20220312 Time: 1947*
 
 
 Status: #10SCI_ChemNotes #11AECHE_PermanentNotes 
