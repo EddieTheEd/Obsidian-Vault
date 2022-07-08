@@ -73,7 +73,7 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf"
+            "file": "000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf"
           }
         },
         "pane-relief:history-v1": {
@@ -82,7 +82,7 @@
             {
               "leaf": "fe5838e7f32d6f46",
               "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
               "eState": "{}"
             },
             {
@@ -117,7 +117,7 @@
             {
               "leaf": "cbc24fa4e50df0b5",
               "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
               "eState": "{}"
             }
           ]
@@ -127,11 +127,9 @@
         "id": "d23d12df06ee294a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "001_Notes/History of the Atomic Model.md",
-            "mode": "source",
-            "source": false
+            "file": "000_Files/dailynotesbanner.png"
           }
         },
         "pane-relief:history-v1": {
@@ -140,8 +138,20 @@
             {
               "leaf": "d23d12df06ee294a",
               "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/dailynotesbanner.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d23d12df06ee294a",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "d23d12df06ee294a",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/History of the Atomic Model.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.29830508874346934}"
+              "eState": "{\"scroll\":65.46027519875412}"
             },
             {
               "leaf": "d23d12df06ee294a",
@@ -261,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/History of the Atomic Model.md",
+                "file": "000_Files/dailynotesbanner.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/History of the Atomic Model.md",
+                "file": "000_Files/dailynotesbanner.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,15 +323,15 @@
   },
   "active": "d23d12df06ee294a",
   "lastOpenFiles": [
+    "000_Files/dailynotesbanner.png",
+    "000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/History of the Atomic Model.md",
     "001_Notes/Hippocampus.md",
-    "000_Files/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/Hydrocarbons.md",
     "001_Notes/Organic Chem Notes.md",
     "001_Notes/Personal_Planner.md",
     "001_Notes/'study notes'.md",
     "001_Notes/日常生活.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-07-03.md",
-    "001_Notes/001a_Templates/Weekly Note Template.md"
+    "002_PersonalNotes/002a_DailyNotes/2022-07-03.md"
   ]
 }
