@@ -21,7 +21,7 @@
               "leaf": "3d0ce5344ed25e7d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}},\"scroll\":0.49701314927054124}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "3d0ce5344ed25e7d",
@@ -112,51 +112,12 @@
               "leaf": "cbc24fa4e50df0b5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Hippocampus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":18},\"to\":{\"line\":51,\"ch\":18}},\"scroll\":41.26135242495645}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":23},\"to\":{\"line\":9,\"ch\":23}}}"
             },
             {
               "leaf": "cbc24fa4e50df0b5",
               "group": null,
               "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "d23d12df06ee294a",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "000_Files/dailynotesbanner.png"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "d23d12df06ee294a",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/dailynotesbanner.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d23d12df06ee294a",
-              "group": null,
-              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "d23d12df06ee294a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/History of the Atomic Model.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":65.46027519875412}"
-            },
-            {
-              "leaf": "d23d12df06ee294a",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Hippocampus.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -271,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Files/dailynotesbanner.png",
+                "file": "001_Notes/Hippocampus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Files/dailynotesbanner.png",
+                "file": "001_Notes/Hippocampus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,17 +282,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "d23d12df06ee294a",
+  "active": "cbc24fa4e50df0b5",
   "lastOpenFiles": [
+    "001_Notes/Hippocampus.md",
+    "001_Notes/Personal_Planner.md",
+    "000_Files/000c_courseoutlines/10SCI Physics Course Outline 2022.pdf",
+    "000_Files/000c_courseoutlines/11SCI Physics Course Outline 2022.pdf",
     "000_Files/dailynotesbanner.png",
     "000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/History of the Atomic Model.md",
-    "001_Notes/Hippocampus.md",
     "001_Notes/Hydrocarbons.md",
     "001_Notes/Organic Chem Notes.md",
-    "001_Notes/Personal_Planner.md",
-    "001_Notes/'study notes'.md",
-    "001_Notes/日常生活.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-07-03.md"
+    "001_Notes/'study notes'.md"
   ]
 }
