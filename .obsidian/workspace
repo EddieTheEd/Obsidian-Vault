@@ -129,12 +129,24 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "000_Files/000c_courseoutlines/10SCI Sustainability Course Outline 2022.pdf"
+            "file": "000_Files/000c_courseoutlines/11MAT Year 11 Maths Specialist Course Outline 2022.pdf"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "50e6d338924e4976",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000c_courseoutlines/11MAT Year 11 Maths Specialist Course Outline 2022.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "50e6d338924e4976",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000c_courseoutlines/12MAT Year 12 Maths Specialist Course Outline 2022.pdf\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "50e6d338924e4976",
               "group": null,
@@ -259,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Files/000c_courseoutlines/10SCI Sustainability Course Outline 2022.pdf",
+                "file": "000_Files/000c_courseoutlines/11MAT Year 11 Maths Specialist Course Outline 2022.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Files/000c_courseoutlines/10SCI Sustainability Course Outline 2022.pdf",
+                "file": "000_Files/000c_courseoutlines/11MAT Year 11 Maths Specialist Course Outline 2022.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -311,6 +323,8 @@
   },
   "active": "50e6d338924e4976",
   "lastOpenFiles": [
+    "000_Files/000c_courseoutlines/11MAT Year 11 Maths Specialist Course Outline 2022.pdf",
+    "000_Files/000c_courseoutlines/12MAT Year 12 Maths Specialist Course Outline 2022.pdf",
     "000_Files/000c_courseoutlines/10SCI Sustainability Course Outline 2022.pdf",
     "001_Notes/Hippocampus.md",
     "001_Notes/Personal_Planner.md",
@@ -318,8 +332,6 @@
     "000_Files/000c_courseoutlines/11SCI Physics Course Outline 2022.pdf",
     "000_Files/dailynotesbanner.png",
     "000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
-    "001_Notes/History of the Atomic Model.md",
-    "001_Notes/Hydrocarbons.md",
-    "001_Notes/Organic Chem Notes.md"
+    "001_Notes/History of the Atomic Model.md"
   ]
 }
