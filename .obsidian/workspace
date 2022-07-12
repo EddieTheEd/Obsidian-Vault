@@ -38,7 +38,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_Notes/Hydrocarbons.md",
+            "file": "001_Notes/11AECHE Class 35.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,50 @@
             {
               "leaf": "f2328322f68b03c9",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 35.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f2328322f68b03c9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 34.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.353047318197095}"
+            },
+            {
+              "leaf": "f2328322f68b03c9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 32.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.270621401666894}"
+            },
+            {
+              "leaf": "f2328322f68b03c9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 30.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":50.127240195472645}"
+            },
+            {
+              "leaf": "f2328322f68b03c9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 6.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":37.76983191132148}"
+            },
+            {
+              "leaf": "f2328322f68b03c9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 5.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":54.4125856165807}"
+            },
+            {
+              "leaf": "f2328322f68b03c9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Acids + Bases.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f2328322f68b03c9",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Hydrocarbons.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "f2328322f68b03c9",
@@ -256,7 +298,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "base",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -281,7 +323,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -336,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Hydrocarbons.md",
+                "file": "001_Notes/11AECHE Class 35.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Hydrocarbons.md",
+                "file": "001_Notes/11AECHE Class 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,15 +431,15 @@
   },
   "active": "f2328322f68b03c9",
   "lastOpenFiles": [
+    "001_Notes/11AECHE Class 35.md",
+    "001_Notes/11AECHE Class 34.md",
+    "001_Notes/11AECHE Class 32.md",
+    "001_Notes/11AECHE Class 30.md",
+    "001_Notes/11AECHE Class 6.md",
+    "001_Notes/11AECHE Class 5.md",
+    "001_Notes/Acids + Bases.md",
     "001_Notes/Hydrocarbons.md",
     "001_Notes/AECHE Class 36.md",
-    "001_Notes/AECHE Class 37.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-06-18.md",
-    "000_Files/000c_courseoutlines/SCI Year 10 Course Outline Semester 2 2021.pdf",
-    "001_Notes/Hippocampus.md",
-    "000_Files/000c_courseoutlines/11SCI Physics Course Outline 2022.pdf",
-    "000_Files/000c_courseoutlines/11SCI Chemistry Course Outline 2022.pdf",
-    "000_Files/000c_courseoutlines/11MAT Year 11 Maths Specialist Course Outline 2022.pdf",
-    "000_Files/000c_courseoutlines/12MAT Year 12 Maths Specialist Course Outline 2022.pdf"
+    "001_Notes/AECHE Class 37.md"
   ]
 }
