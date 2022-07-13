@@ -79,7 +79,19 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":16.39524757907935}"
+              "eState": "{\"scroll\":38.691418503451914}"
+            },
+            {
+              "leaf": "2dc214695bdcf292",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/methane.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "2dc214695bdcf292",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":18},\"to\":{\"line\":43,\"ch\":4}},\"scroll\":38.50132594338221}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -209,8 +221,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -400,15 +411,15 @@
   },
   "active": "2dc214695bdcf292",
   "lastOpenFiles": [
-    "000_Files/000c_courseoutlines/YR 10 Science Sem 2. Energy and Sustainability SOLO Objectives 2022.pdf",
+    "000_Files/000a_UnsortedFiles/methane.png",
     "001_Notes/Organic Chem Notes.md",
+    "000_Files/000c_courseoutlines/YR 10 Science Sem 2. Energy and Sustainability SOLO Objectives 2022.pdf",
     "001_Notes/11AECHE Class 4.md",
     "001_Notes/11AECHE Class 35.md",
     "001_Notes/Personal_Planner.md",
     "001_Notes/Hippocampus.md",
     "000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf",
     "001_Notes/Hydrocarbons.md",
-    "001_Notes/AECHE Class 36.md",
-    "000_Files/000c_courseoutlines/SCI Year 10 Course Outline Semester 2 2021.pdf"
+    "001_Notes/AECHE Class 36.md"
   ]
 }

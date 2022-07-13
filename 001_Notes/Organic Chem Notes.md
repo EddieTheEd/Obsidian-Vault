@@ -18,9 +18,14 @@ tags:
 	- It also defines the structure of families of compounds
 - *Homologous series*: A group of compounds with a common functional group, branched or unbranched.
 	- They may also differ by a molecular formula of $CH_2$ (e.g. $CH_4$ and $C_2H_6$ differ by $CH_2$, thus they are of the same **homologous series**)
+	- *Structural formula*: a formula that displays the arrangement of atoms in a compound.
 
 ### Key Ideas
-- *Background Information*: Covalent bonding is the electrostatic force of attraction between a shared pair of electrons (known as a bonding pair) and the nuclei.  Atoms can share multipe
+- *Background Information*: Covalent bonding is the electrostatic force of attraction between a shared pair of electrons *(known as a bonding pair) and the nuclei.  Atoms can share multiple pairs of electrons, up to 3 (4 does not apply, and is generally energetically unfavourable)*.
+	- When carbon bonds with another atom, the bond is either a:
+		- **Single bond**: One shared pair (indicated by a single line)
+		- **Double bond**: Two shared pairs (indicated by a double line)
+		- **Triple bond**: Three shared pairs (indicated by a triple line)
 - **Fractional Distillation**:
 	- Uses marginal differences in boiling points between 2 or more miscible liquids
 	- Uses:
@@ -34,8 +39,9 @@ tags:
 - Organic chemistry heavily relies on the **IUPAC naming system**. The IUPAC naming system aims to give us crucial information on the structure and properties of an organic compound.
 	- For example, **methane**:
 		- **meth**: indicates that the **main chain** of carbons only contains 1 carbon atom.
-		- **ane**: indicates
-		- 
+		- **ane**: indicates that the **largest bond** within the compound is a single bond.
+		- For reference, this is the **structural formula** for methane
+		- ![[methane.png]]
 - 
 
 ## Questions
