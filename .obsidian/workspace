@@ -79,7 +79,7 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":38.691418503451914}"
+              "eState": "{\"scroll\":41.60533681621771}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -320,7 +320,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -409,7 +410,7 @@
       }
     ]
   },
-  "active": "2dc214695bdcf292",
+  "active": "5a8953d819704e8f",
   "lastOpenFiles": [
     "000_Files/000a_UnsortedFiles/methane.png",
     "001_Notes/Organic Chem Notes.md",

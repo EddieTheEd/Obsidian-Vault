@@ -2,7 +2,7 @@
   "serverUrl": "https://api.languagetool.org",
   "urlMode": "standard",
   "glassBg": false,
-  "shouldAutoCheck": true,
+  "shouldAutoCheck": false,
   "pickyMode": false,
   "staticLanguage": "en-AU"
 }

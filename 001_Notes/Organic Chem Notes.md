@@ -32,17 +32,33 @@ tags:
 		- Purification of water
 		- Separation of water from ethanol
 		- Crude oil refining
+
 - Hydrocarbons refer to organic compounds that contain both carbon and hydrogen atoms.
 - Carbon atoms have a **valency of +4 (and -4)**. To obtain a stable electron configuration, carbon tends to bond covalently, and does not form ionic compounds as a result of its valency of +4. 
 	- Carbon atoms covalently bond in the following ways:
 		- Forming 4 single bonds
 - Organic chemistry heavily relies on the **IUPAC naming system**. The IUPAC naming system aims to give us crucial information on the structure and properties of an organic compound.
 	- For example, **methane**:
-		- **meth**: indicates that the **main chain** of carbons only contains 1 carbon atom.
+		- **meth**: indicates that the **largest chain** (this is important later on) of carbons only contains 1 carbon atom.
 		- **ane**: indicates that the **largest bond** within the compound is a single bond.
-		- For reference, this is the **structural formula** for methane
+		- For reference, this is the **structural formula** for methane:
 		- ![[methane.png]]
-- 
+		- Notice that there is 1 carbon in the "largest chain", as indicated by "**meth**", and that there are only single bonds, indicated by **ane**.
+	- For reference, here are the prefixes that indicate the number of carbons in the **largest chain**:
+| Number of carbons | Prefix |
+| ----------------- | ------ |
+| 1                 | meth   |
+| 2                 | eth    |
+| 3                 | prop   |
+| 4                 | but    |
+| 5                 | pent   |
+| 6                 | hex    |
+| 7                 | hept   |
+| 8                 | oct    |
+| 9                 | non    |
+| 10                | dec       |
+- Here's another example, **ethane**:
+	- 
 
 ## Questions
 
