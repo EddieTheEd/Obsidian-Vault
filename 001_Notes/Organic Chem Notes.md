@@ -44,7 +44,7 @@ tags:
 		- For reference, this is the **structural formula** for methane:
 		- ![[methane.png]]
 		- Notice that there is 1 carbon in the "largest chain", as indicated by "**meth**", and that there are only single bonds, indicated by **ane**.
-	- For reference, here are the prefixes that indicate the number of carbons in the **largest chain**:
+	- For reference, here are the **prefixes** that indicate the number of carbons in the **largest chain** of an organic compound:
 | Number of carbons | Prefix |
 | ----------------- | ------ |
 | 1                 | meth   |
@@ -58,7 +58,24 @@ tags:
 | 9                 | non    |
 | 10                | dec       |
 - Here's another example, **ethane**:
-	- 
+	- **eth**: indicates that the **largest chain** contains **2** carbons
+	- **ane**: indicates that the largest bond within the compound is a single bond
+	- At this point, based on the structural formula for methane, try sketching the diagram for ethane.
+	- Did you get this?
+	- ![[index 1.png]]
+```ad-question
+Try drawing the rest of these hydrocarbons (e.g. propane, butane, etc.)
+```
+- Here are the **suffixes** for the largest bond in an organic compound:
+| Type of bond | Suffix |
+| ------------ | ------ |
+| Single bond  | ane    |
+| Double bond  | ene    |
+| Triple bond  | yne    |
+Doub
+
+
+
 
 ## Questions
 

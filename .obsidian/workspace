@@ -79,7 +79,7 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":41.60533681621771}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":19},\"to\":{\"line\":64,\"ch\":19}},\"scroll\":60.4336999307862}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -156,7 +156,7 @@
               "leaf": "656b16464c1995eb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":38.97645780064777}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":86},\"to\":{\"line\":60,\"ch\":86}},\"scroll\":36.977062755465056}"
             },
             {
               "leaf": "656b16464c1995eb",
@@ -225,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312,
-    "collapsed": true
+    "width": 199.50173950195312
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -410,12 +409,12 @@
       }
     ]
   },
-  "active": "5a8953d819704e8f",
+  "active": "2dc214695bdcf292",
   "lastOpenFiles": [
-    "000_Files/000a_UnsortedFiles/methane.png",
-    "001_Notes/Organic Chem Notes.md",
-    "000_Files/000c_courseoutlines/YR 10 Science Sem 2. Energy and Sustainability SOLO Objectives 2022.pdf",
     "001_Notes/11AECHE Class 4.md",
+    "001_Notes/Organic Chem Notes.md",
+    "000_Files/000a_UnsortedFiles/methane.png",
+    "000_Files/000c_courseoutlines/YR 10 Science Sem 2. Energy and Sustainability SOLO Objectives 2022.pdf",
     "001_Notes/11AECHE Class 35.md",
     "001_Notes/Personal_Planner.md",
     "001_Notes/Hippocampus.md",
