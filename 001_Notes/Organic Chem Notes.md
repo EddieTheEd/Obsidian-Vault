@@ -66,13 +66,15 @@ tags:
 ```ad-question
 Try drawing the rest of these hydrocarbons (e.g. propane, butane, etc.)
 ```
-- Here are the **suffixes** for the largest bond in an organic compound:
-| Type of bond | Suffix |
-| ------------ | ------ |
-| Single bond  | ane    |
-| Double bond  | ene    |
-| Triple bond  | yne    |
-Doub
+- Here are the **suffixes** and **homologous series** name for the largest bond in an organic compound:
+| Type of bond | Suffix | Homologous series |
+| ------------ | ------ | ---------------- |
+| Single bond  | ane    | Alkanes          |
+| Double bond  | ene    | Alkenes          |
+| Triple bond  | yne    | Alkynes          | 
+- Double and triple bonds are special due to the presence of **isomers**, which will be covered later.
+- Structural formula rules (for **alkenes** (**do NOT** use this guideline for **alkenes/alkynes**)) are as follows:
+	- Draw the **longest chain**
 
 
 
