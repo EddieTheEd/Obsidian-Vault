@@ -20,14 +20,17 @@ tags:
 	- They may also differ by a molecular formula of $CH_2$ (e.g. $CH_4$ and $C_2H_6$ differ by $CH_2$, thus they are of the same **homologous series**)
 
 ### Key Ideas
-- Fractional Distillation:
+- *Background Information*: Covalent bonding is the electrostatic force of attraction between a shared pair of electrons (known as a bonding pair) and the nuclei.  Atoms can share multipe
+- **Fractional Distillation**:
 	- Uses marginal differences in boiling points between 2 or more miscible liquids
 	- Uses:
 		- Purification of water
 		- Separation of water from ethanol
 		- Crude oil refining
 - Hydrocarbons refer to organic compounds that contain both carbon and hydrogen atoms.
-- Carbon atoms have a valency of 
+- Carbon atoms have a **valency of +4 (and -4)**. To obtain a stable electron configuration, carbon tends to bond covalently, and does not form ionic compounds as a result of its valency of +4. 
+	- Carbon atoms covalently bond in the following ways:
+		- Forming 4 single bonds
 - Organic chemistry heavily relies on the **IUPAC naming system**. The IUPAC naming system aims to give us crucial information on the structure and properties of an organic compound.
 	- For example, **methane**:
 		- **meth**: indicates that the **main chain** of carbons only contains 1 carbon atom.
