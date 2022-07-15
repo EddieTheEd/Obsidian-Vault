@@ -46,8 +46,15 @@ style: bullet
 ```todoist
 {
 "name": "Periodic Tasks",
-"filter": "##Periodic Tasks",
+"filter": "##Periodic Tasks & !/Justin ",
 "sorting": ["date"]
+}
+```
+```todoist
+{
+"name": "Justin Chem Homework Tasks",
+"filter": "/Justin Chem HW",
+"sorting": ["priority", "date"]
 }
 ```
 
