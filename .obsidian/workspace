@@ -79,7 +79,7 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":20},\"to\":{\"line\":44,\"ch\":20}},\"scroll\":39.82878925498395}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -312,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Organic Chem Notes.md",
+                "file": "001_Notes/Personal_Planner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Organic Chem Notes.md",
+                "file": "001_Notes/Personal_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,15 +362,15 @@
     "direction": "horizontal",
     "width": 260.1683654785156
   },
-  "active": "2dc214695bdcf292",
+  "active": "3d0ce5344ed25e7d",
   "lastOpenFiles": [
+    "001_Notes/Organic Chem Notes.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-15.md",
     "002_PersonalNotes/002b_WeeklyNotes/2022-W28.md",
     "001_Notes/001a_Templates/Daily Note Template.md",
     "001_Notes/Personal_Planner.md",
     "001_Notes/11AECHE Class 4.md",
     "001_Notes/001a_Templates/Weekly Note Template.md",
-    "001_Notes/Organic Chem Notes.md",
     "000_Files/000a_UnsortedFiles/methane.png",
     "000_Files/000c_courseoutlines/YR 10 Science Sem 2. Energy and Sustainability SOLO Objectives 2022.pdf",
     "001_Notes/11AECHE Class 35.md"
