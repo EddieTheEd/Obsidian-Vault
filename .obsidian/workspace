@@ -21,7 +21,7 @@
               "leaf": "3d0ce5344ed25e7d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Personal_Planner.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "3d0ce5344ed25e7d",
@@ -156,39 +156,10 @@
               "leaf": "039c6e8f33edbb4c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/001a_Templates/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":16},\"to\":{\"line\":60,\"ch\":16}},\"scroll\":51.291722901859956}"
+              "eState": "{\"scroll\":34.5046386282693}"
             },
             {
               "leaf": "039c6e8f33edbb4c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "656b16464c1995eb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/11AECHE Class 4.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "656b16464c1995eb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 4.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":86},\"to\":{\"line\":60,\"ch\":86}},\"scroll\":36.977062755465056}"
-            },
-            {
-              "leaf": "656b16464c1995eb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
@@ -358,14 +329,14 @@
   },
   "active": "039c6e8f33edbb4c",
   "lastOpenFiles": [
-    "001_Notes/001a_Templates/Weekly Note Template.md",
-    "001_Notes/001a_Templates/Daily Note Template.md",
-    "001_Notes/Organic Chem Notes.md",
+    "001_Notes/Personal_Planner.md",
     "001_Notes/11AECHE Class 4.md",
+    "001_Notes/001a_Templates/Daily Note Template.md",
+    "001_Notes/001a_Templates/Weekly Note Template.md",
+    "001_Notes/Organic Chem Notes.md",
     "000_Files/000a_UnsortedFiles/methane.png",
     "000_Files/000c_courseoutlines/YR 10 Science Sem 2. Energy and Sustainability SOLO Objectives 2022.pdf",
     "001_Notes/11AECHE Class 35.md",
-    "001_Notes/Personal_Planner.md",
     "001_Notes/Hippocampus.md",
     "000_Files/000a_UnsortedFiles/2._Energy_and_Sustainability_SOLO_Objectives_2021_3.pdf"
   ]
