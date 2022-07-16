@@ -19,7 +19,7 @@ sadly this exists
 	- pathogens
 	- organic contaminants (e.g. pesticides)
 - result in low water quality in Australia
-- **Pollutants** result from agriculture, industry and urban areas (wide range of souces)
+- **Pollutants** result from agriculture, industry and urban areas (wide range of souces) (most prevalently ag + urb, due to **catchment land use**)
 - Sediment layers at the bottom of waterways are a major sink for nutrients and contaminants, which can be released into waters and become toxic under certain conditions.
 - New contaminants, for example pharmaceuticals, are continually emerging and much monitoring and research is focused on detecting their presence and toxicity in aquatic environments.
 
@@ -51,14 +51,31 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 - Also result from man-made constituents that do not naturally occur in water 
 	- e.g. pharmaceutical products leak into river
 
-**Steps to manage pollution**:
+**Steps to manage pollution in river basin/groundwater system:
 - Define use/value of water + risk to said use/value due to pollution
 - Sources of pollution should be identified (+pathways in which the pollution may reach the water)
 	- For large water supply catchments, there may be multiple sources, and pollutants (chem/bio only) can transform as they are transported
 		- e.g. herbicides can degrade to be harmless, thus they only act as pollutants close to the water source
 - Targets for water quality are set, and actions to achieve them
 - Water quality should be monitored so pollution risks can be identified, and to evaluate effectiveness of present pollution management strategies.
-- Water from point source pollution
+- Water from **point source pollution** (when pollutants are discharged e.g. pipe, factory) has improved recently due to better regulations. 
+	- This is an example of effective pollution management strategies.
+
+**Examples of point source pollution**
+- Industrial plants
+- Hospitals
+- Sewage treatment plants
+- Mine sites
+
+- Widespread pollution of water from usage of land where water is collected (**catchment land use**) is hard to combat 
+	- This is currently the biggest water pollution problem today
+- **Examples of catchment land use** are for agricultural and urban land use.
+
+**Examples of pollution from catchment land use**
+- Salt 
+- Nitrogen
+- Phosphorus
+- Suspended sediment (?)
 
 
 
