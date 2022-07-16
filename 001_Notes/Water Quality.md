@@ -45,8 +45,20 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 	- **Changes in water quality** can greatly affect survivability/life
 
 **Pollution:**
-- Can result from changes in the naturally occuring concentration of some components in water
-	- e.g. nutrient levels too high, algae grows toxical
+- Can result from changes in the naturally occurring concentration of some components in water
+	- e.g. nutrient levels too high, algae grows toxically
+	- Most commonly, oxygen levels go too low
+- Also result from man-made constituents that do not naturally occur in water 
+	- e.g. pharmaceutical products leak into river
+
+**Steps to manage pollution**:
+- Define use/value of water + risk to said use/value due to pollution
+- Sources of pollution should be identified (+pathways in which the pollution may reach the water)
+	- For large water supply catchments, there may be multiple sources, and pollutants (chem/bio only) can transform as they are transported
+		- e.g. herbicides can degrade to be harmless, thus they only act as pollutants close to the water source
+- Targets for water quality are set, and actions to achieve them
+- Water quality should be monitored so pollution risks can be identified, and to evaluate effectiveness of present pollution management strategies.
+- Water from point source pollution
 
 
 
