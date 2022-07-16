@@ -76,6 +76,42 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 - Nitrogen
 - Phosphorus
 - Suspended sediment (?)
+- Note that some are **natural constituents** of water, therefore the concentration required to prevent ecological damage are variable (+ hard to determine)
+
+### Salinity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Acid sulfate soils explained
+
+![](https://www.qld.gov.au/__data/assets/image/0011/64010/pyrite.jpg)
+
+Microscopic image of pyrite in soil
+
+Southern Cross University
+
+Common in many parts of the world, acid sulfate soils are saturated with water, almost oxygen-free and contain microscopic crystals of iron sulfide minerals (commonly [pyrite](https://www.qld.gov.au/environment/land/management/soil/soil-testing/soil-terms)).
+
+Acid sulfate soils are safe and harmless when not disturbed. If acid sulfate soils are dug up or drained they come into contact with oxygen. The pyrite in the soil reacts with the oxygen and oxidises.
+
+This process turns pyrite into sulfuric acid, which can cause damage to the environment and to buildings, roads and other structures.
+
+The acid also attacks soil minerals, releasing metals like aluminium and iron. Rainfall can then wash the acid and metals from the disturbed soil into the surrounding environment.
 
 
 
