@@ -136,7 +136,23 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 	- Organic pollutants
 
 - Heavy metal contamination
-	- 
+	- The main heavy metals are mercury and lead
+	- Other heavy metals:
+		- Copper
+		- Lead
+		- Cadmium
+		- Nickel
+		- Zinc
+		- Arsenic
+		- Mercury
+		- Common effects: Cancer, organ/nervous system damage, death
+	- Mining is a main example of heavy metal contamination
+	- Another one is water pipes
+	- **How to remove:** precipitation reactor
+		- Heavy metal is identified
+		- A soluble compound containing an insoluble compound with the cation of the heavy metal is selected
+		- A solution of the compound is added to the water
+		- 
 
 
 ---
