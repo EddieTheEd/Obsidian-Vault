@@ -160,8 +160,13 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 		- The container should be cleaned before taking another sample
 		- The water used for cleaning the container can be tested to ensure there is no contamination between samples.
 	- Note that if pathogens are being tested for, the container should be sterile
-	- 
-
+| Condition                                        | Sampling method                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| sample taken from a well-mixed body of water     | sampling near the surface is sufficient to obtain a representative sample. A sample should be taken about 10cm below the surface and away from the water's edge. |
+| sample taken from water contaminated by sediment | a sample should be drawn into the sample container by suction to avoid including the sediment                                                                    |
+| sample taken from a river                        | a sample should be taken upstream from where the person taking the samples stands                                                                                                                                                         |
+- **How to determine depth for sampling:**
+	- Measure temperature at every **metre**.
 
 ---
 ## References
