@@ -148,11 +148,19 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 		- Common effects: Cancer, organ/nervous system damage, death
 	- Mining is a main example of heavy metal contamination
 	- Another one is water pipes
-	- **How to remove:** precipitation reactor
-		- Heavy metal is identified
+	- **How to remove:** precipitation reaction
+		- Heavy metal cation  is identified
 		- A soluble compound containing an insoluble compound with the cation of the heavy metal is selected
 		- A solution of the compound is added to the water
-		- 
+		- A precipitation with the heavy metal is produced
+		- Precipitate is filtered off
+- Water monitoring:
+	- Protocols for water sampling:
+		- The container can be rinsed with the sample before the final sample is taken
+		- The container should be cleaned before taking another sample
+		- The water used for cleaning the container can be tested to ensure there is no contamination between samples.
+	- Note that if pathogens are being tested for, the container should be sterile
+	- 
 
 
 ---
