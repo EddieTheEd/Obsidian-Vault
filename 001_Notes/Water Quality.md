@@ -87,6 +87,9 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 **How to reduce**
 - Revegetation of water catchments
 - Using pastures (grazing land for animals) 
+	- both need large areas
+- **Salt interception schemes** pump salt to be evaporated/stored
+- Qu
 
 
 
