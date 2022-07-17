@@ -125,6 +125,19 @@ This process turns pyrite into sulfuric acid, which can cause damage to the envi
 The acid also attacks soil minerals, releasing metals like aluminium and iron. Rainfall can then wash the acid and metals from the disturbed soil into the surrounding environment.
 
 
+## Pearson Notes
+- Sources of chemical contamination:
+	- Run-off from farms and cities
+	- Run-off from industrial and mining wastes
+	- Lead used in solder in copper water pipes
+- Types of chemical contaminants:
+	- Heavy metals
+	- Pollutants from fertilisers
+	- Organic pollutants
+
+- Heavy metal contamination
+	- 
+
 
 ---
 ## References
