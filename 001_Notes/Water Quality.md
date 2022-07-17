@@ -80,7 +80,13 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 
 ### Salinity
 
+- Affects a lot of agriculture.
+- Salinity is ultimately caused from rainfall (ocean spray in rainfall)
+	- Salt accumulates in soil
 
+**How to reduce**
+- Revegetation of water catchments
+- Using pastures (grazing land for animals) 
 
 
 
