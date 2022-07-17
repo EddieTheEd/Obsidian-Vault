@@ -166,7 +166,20 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 | sample taken from water contaminated by sediment | a sample should be drawn into the sample container by suction to avoid including the sediment                                                                    |
 | sample taken from a river                        | a sample should be taken upstream from where the person taking the samples stands                                                                                                                                                         |
 - **How to determine depth for sampling:**
-	- Measure temperature at every **metre**.
+	- Measure temperature at every **metre**. 
+		- If temperature is consistent, assume water is mixed, thus take sample halfway down.
+		- If there is temp variation, take sample in middle of each temperature region.
+	- If deeper than **2m**, use **Van Dorn sampler**.
+		- Useful for distinct layers
+	- Use many locations
+- **Treatment of drinking water**
+	- **Steps for purification**:
+		- Flocculation
+		- Settling of the floc
+		- Filtration
+		- Chlorination
+		- Fluoridation (sometimes)
+	- **Flocculation:** process where small suspended particles in the water are made to join together to form 
 
 ---
 ## References
