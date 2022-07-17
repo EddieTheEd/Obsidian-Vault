@@ -179,7 +179,9 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 		- Filtration
 		- Chlorination
 		- Fluoridation (sometimes)
-	- **Flocculation:** process where small suspended particles in the water are made to join together to form 
+	- **Flocculation:** process where small suspended particles in the water are made to join together to form larger, heavier particles. 
+		- Heavy particles sink
+		- 
 
 ---
 ## References
