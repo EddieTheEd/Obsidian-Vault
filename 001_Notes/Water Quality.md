@@ -149,7 +149,7 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 
 
 ## Pearson Notes
-### 15.1
+### 15.1 Essential water
 - Sources of chemical contamination:
 	- Run-off from farms and cities
 	- Run-off from industrial and mining wastes
@@ -222,7 +222,14 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 			- They break down into Fluoride ions in water.
 		- Fluoride reacts with tooth enamel to produce fluorapatite, a stronger more resistant compound. In doing so, tooth decay is reduced.
 
-
+### Properties of water
+- hydrogen bondssssss ::::::::::::::::::::::::))))))))))))))))))))))))))))))))))))))))
+- **Density in the liquid and solid states**:
+	- Water **expands** as it freezes.
+	- Water has a **lower** density as a solid than as a liquid.
+	- In the liquid state, water molecules move randomly and freely.
+	- In the solid state, water forms hexagonal shaped lattices, which take up more space. Thus water expands, and has a lower density as it freezes.
+- **High surface tension of water777777777777777777777777777777777777777777777777777**
 ---
 ## References
 - Chapter 5 “Water Quality” from Water: Science and Solutions for Australia Prosser, I. (2017). Water (pp. 76 - 89). Collingwood, Vic.: CSIRO Publishing.
