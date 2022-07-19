@@ -92,8 +92,11 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 - Quality irrigation practices
 - The effect of salinity is more pronounced during wet years.
 
-#### Insert Pearson here: Obtaining drinking water from seawater                                                                                                                                                         ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````                                                                                                         
-
+#### Insert Pearson here: Obtaining drinking water from seawater                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+- Use distillation or reverse osmosis
+- hey christian instead of reading this in github why dont you get a zip file and download it so you can properly search for distillation notes because im not gonna write them here for you
+-                                                                                        
+- 
 
 ### Algal Blooms
 - Algae provide food for aquatic wildlife

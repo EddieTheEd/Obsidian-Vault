@@ -220,41 +220,12 @@
               "leaf": "718ce153f82d9a00",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":13.857218556032613}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":2},\"to\":{\"line\":99,\"ch\":10}},\"scroll\":94.07619594865491}"
             },
             {
               "leaf": "718ce153f82d9a00",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "4e7e7bb1156827e8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/11AECHE Class 35.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "4e7e7bb1156827e8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 35.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "4e7e7bb1156827e8",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -424,8 +395,8 @@
   "active": "718ce153f82d9a00",
   "lastOpenFiles": [
     "001_Notes/11AECHE Class 35.md",
-    "001_Notes/The most important symbol in the universe.md",
     "001_Notes/Water Quality.md",
+    "001_Notes/The most important symbol in the universe.md",
     "001_Notes/Organic Chem Notes.md",
     "001_Notes/Hippocampus.md",
     "001_Notes/Personal_Planner.md",
