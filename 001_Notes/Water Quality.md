@@ -92,6 +92,9 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 - Quality irrigation practices
 - The effect of salinity is more pronounced during wet years.
 
+#### Insert Pearson here: Obtaining drinking water from seawater                                                                                                                                                         ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````                                                                                                         
+
+
 ### Algal Blooms
 - Algae provide food for aquatic wildlife
 - Examples include phytoplankton, cyanobacteria, diatoms and seaweed.
@@ -209,7 +212,8 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 				- Sodium hexafluorosilicate ($Na_2SiF_6$)
 				- Fluosilicic acid ($H_2SiF_6$)
 				- Sodium fluoride ($NaF$)
-		- This reacts with tooth enamel to produce fluorapatite, a stronger more resistant compound.
+			- They break down into Fluoride ions in water.
+		- Fluoride reacts with tooth enamel to produce fluorapatite, a stronger more resistant compound. In doing so, tooth decay is reduced.
 
 ---
 ## References
