@@ -200,9 +200,11 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 			- **$Al(OH)_3$ is a gelatinous precipitate** and is known as floc.
 			- This floc traps finer particles, and can remove colour/microorganisms from water, as they are absorbed by $Al(OH)_3$.
 			- Floc particles coagulate to create heavier particles.
-		- **Sedimentation:** 
-		- The floc produced is left to settle, and then is filtered out
+		- **Sedimentation:** Using gravity, floc settles into a sludge that accumulates at the bottom of the container (**settling tank**) and is then removed, while the water proceeds to filtration.
+		- **Filtration:** The water is passed through a layer of sand **on top of** a layer of gravel. This **removes any remaining suspended matter**
+		- **Chlorination:** Gaseous
 
 ---
 ## References
 - Chapter 5 “Water Quality” from Water: Science and Solutions for Australia Prosser, I. (2017). Water (pp. 76 - 89). Collingwood, Vic.: CSIRO Publishing.
+- Pearson Chapter 15
