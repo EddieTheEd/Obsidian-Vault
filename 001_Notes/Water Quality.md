@@ -195,7 +195,13 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 		- Fluoridation (sometimes)
 	- **Flocculation:** process where small suspended particles in the water are made to join together to form larger, heavier particles. 
 		- Heavy particles sink
-		- 
+		- $Ca(OH)_{2}$ and $Al_2(SO_4)_3$ (Alum) id added to water. 
+		- The dissociation of these two substances produces Aluminium hydroxide ($Al(OH)_3$). 
+			- **$Al(OH)_3$ is a gelatinous precipitate** and is known as floc.
+			- This floc traps finer particles, and can remove colour/microorganisms from water, as they are absorbed by $Al(OH)_3$.
+			- Floc particles coagulate to create heavier particles.
+		- **Sedimentation:** 
+		- The floc produced is left to settle, and then is filtered out
 
 ---
 ## References
