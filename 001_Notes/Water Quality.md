@@ -99,7 +99,11 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 	- This leads to algae overgrowth(**known as algal blooms**), and the production of **blue-green algae**, which is toxic to animals and people that come in contact.
 	- When **algal blooms** decompose, dissolved oxygen in water is consumed, resulting in the death of fish.
 - **Importantly, light, turbidity(clearness of water) and water stratification (when water separates into distinct levels) are the most important triggers for algal blooms. **
-- In Australia, water stratification occurs readily.
+- In Australia, water stratification occurs readily. This allows for more algal blooms.
+- Turbidity benefits toxic algal blooms, as they float up and out-compete other algae struggling for light.
+- **Managing local conditions provides short-term help**, rather than reducing the run-off of sediment, nitrogen and phosphorus (i.e. reducing eutrophication)
+- **Ways to combat algal blooms**:
+	- Water can be mechanically stirred, this increases oxygen and reduces stratification
 
 	
 
