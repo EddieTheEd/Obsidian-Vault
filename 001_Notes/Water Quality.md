@@ -239,7 +239,8 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 - **Heat capacity**:
 	- **Heat capacity - a measure of a substance's capacity of absorb and store heat energy.**
 	- When heated with a specific amount of energy, water tends to change temperature slower than other substances, such as ethanediol
-	- **Latent heat is the **
+	- When you heat a substance to change its state of matter, temperature would increase at it approaches the melting point, then it remains constant as the solid melts, then temperature increases as it reaches the boiling point, and once again remains constant as                                                                                                                                                                                                                                                                                                            
+	- **Latent heat is the energy required to change a fixed amount of substance, from a solid to liquid or liquid to gas. During this period, temperature does not change**
 ---
 ## References
 - Chapter 5 “Water Quality” from Water: Science and Solutions for Australia Prosser, I. (2017). Water (pp. 76 - 89). Collingwood, Vic.: CSIRO Publishing.
