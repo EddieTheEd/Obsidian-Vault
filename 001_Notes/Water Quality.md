@@ -222,7 +222,7 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 			- They break down into Fluoride ions in water.
 		- Fluoride reacts with tooth enamel to produce fluorapatite, a stronger more resistant compound. In doing so, tooth decay is reduced.
 
-### Properties of water
+### 15.2 Properties of water
 - hydrogen bondssssss ::::::::::::::::::::::::))))))))))))))))))))))))))))))))))))))))
 - **Density in the liquid and solid states**:
 	- Water **expands** as it freezes.
@@ -239,8 +239,11 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 - **Heat capacity**:
 	- **Heat capacity - a measure of a substance's capacity of absorb and store heat energy.**
 	- When heated with a specific amount of energy, water tends to change temperature slower than other substances, such as ethanediol
-	- When you heat a substance to change its state of matter, temperature would increase at it approaches the melting point, then it remains constant as the solid melts, then temperature increases as it reaches the boiling point, and once again remains constant as                                                                                                                                                                                                                                                                                                            
+	- When you heat a substance to change its state of matter, temperature would increase at it approaches the melting point, then it remains constant as the solid melts, then temperature increases as it reaches the boiling point, and once again remains constant as the liquid evaporates.
+	- ![[Pasted image 20220719195552.png]] 
 	- **Latent heat is the energy required to change a fixed amount of substance, from a solid to liquid or liquid to gas. During this period, temperature does not change**
+### 15.3 Water as a solvent
+- The more polar a compound is, the more likely the compound is to dissolve in water.                                                                               
 ---
 ## References
 - Chapter 5 “Water Quality” from Water: Science and Solutions for Australia Prosser, I. (2017). Water (pp. 76 - 89). Collingwood, Vic.: CSIRO Publishing.
