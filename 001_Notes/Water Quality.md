@@ -95,7 +95,7 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 #### Insert Pearson here: Obtaining drinking water from seawater                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 - Use distillation or reverse osmosis
 - hey christian instead of reading this in github why dont you get a zip file and download it so you can properly search for distillation notes because im not gonna write them here for you
--                                                                                        
+- Osmosis occurs when water moves from a region of **low** salt concentration to **high** salt concen                                                                            
 - 
 
 ### Algal Blooms
