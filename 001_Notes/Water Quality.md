@@ -238,7 +238,8 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 	- Thus, water has a high surface tension.
 - **Heat capacity**:
 	- **Heat capacity - a measure of a substance's capacity of absorb and store heat energy.**
-	- When heated with a specific am
+	- When heated with a specific amount of energy, water tends to change temperature slower than other substances, such as ethanediol
+	- **Latent heat is the **
 ---
 ## References
 - Chapter 5 “Water Quality” from Water: Science and Solutions for Australia Prosser, I. (2017). Water (pp. 76 - 89). Collingwood, Vic.: CSIRO Publishing.
