@@ -58,7 +58,7 @@
   ],
   "tabSize": 3,
   "communityPluginSortOrder": "download",
-  "autoPairMarkdown": true,
+  "autoPairMarkdown": false,
   "readableLineLength": true,
   "autoPairBrackets": true,
   "strictLineBreaks": true,

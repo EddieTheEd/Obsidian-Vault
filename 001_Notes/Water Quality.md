@@ -202,7 +202,14 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 			- Floc particles coagulate to create heavier particles.
 		- **Sedimentation:** Using gravity, floc settles into a sludge that accumulates at the bottom of the container (**settling tank**) and is then removed, while the water proceeds to filtration.
 		- **Filtration:** The water is passed through a layer of sand **on top of** a layer of gravel. This **removes any remaining suspended matter**
-		- **Chlorination:** Gaseous
+		- **Chlorination:** Gaseous chlorine is added to kill any **biological contaminants**. 
+		- After this process, water is now **fit for human consumption**. However, water may also undergo **fluoridation**.
+		- **Fluoridation:** Fluoride ($F^{-}$) is added to **drinking** water before it is released from storage.
+			- This is done by adding compounds such as:
+				- Sodium hexafluorosilicate ($Na_2SiF_6$)
+				- Fluosilicic acid ($H_2SiF_6$)
+				- Sodium fluoride ($NaF$)
+		- This reacts with tooth enamel to produce fluorapatite, a stronger more resistant compound.
 
 ---
 ## References
