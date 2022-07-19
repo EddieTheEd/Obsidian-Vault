@@ -90,6 +90,16 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 	- both need large areas
 - **Salt interception schemes** pump salt to be evaporated/stored
 - Quality irrigation practices
+- The effect of salinity is more pronounced during wet years.
+
+### Algal Blooms
+- Algae provide food for aquatic wildlife
+- Examples include phytoplankton, cyanobacteria, diatoms and seaweed.
+- **Eutrophication**: Water sources become enriched in nutrients such as nitrogen and phosphorus
+	- This leads to algae overgrowth(**known as algal blooms**), and the production of **blue-green algae**, which is toxic to animals and people that come in contact.
+	- When **algal blooms** decompose, dissolved oxygen in water is consumed, resulting in the death of fish.
+- **Importantly, light, turbidity(clearness of water) and water stratification (when water separates into distinct levels) are the most important triggers for algal blooms. **
+- In Australia, water stratification occurs readily.
 
 	
 
