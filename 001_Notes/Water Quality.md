@@ -234,7 +234,11 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 	- The sideways forces result in a balance, however due to there being hydrogen bonds below the molecule and not the top, there is an imbalance and molecules at the surface are pulled downwards towards the bulk of the water molecules.
 	- This downwards force is very fast, and molecules at the surface only spend $1 \times 10^{-9}$ seconds or 1 nanosecond before being pulled into the bulk of the liquid.
 	- **Surface tension is a measure of the resistance of a liquid to increase its surface area**. 
-	- As a result of water particles at the surface being pulled towards the bulk of the liquid, water tends not to increase surface area as that would lead to more molecules being 
+	- As a result of water particles at the surface being pulled towards the bulk of the liquid, water tends not to increase surface area as that would lead to more molecules being pulled towards the bulk, which is energetically unfavourable.
+	- Thus, water has a high surface tension.
+- **Heat capacity**:
+	- **Heat capacity - a measure of a substance's capacity of absorb and store heat energy.**
+	- When heated with a specific am
 ---
 ## References
 - Chapter 5 “Water Quality” from Water: Science and Solutions for Australia Prosser, I. (2017). Water (pp. 76 - 89). Collingwood, Vic.: CSIRO Publishing.
