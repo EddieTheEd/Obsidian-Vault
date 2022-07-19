@@ -95,8 +95,11 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 #### Insert Pearson here: Obtaining drinking water from seawater                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 - Use distillation or reverse osmosis
 - hey christian instead of reading this in github why dont you get a zip file and download it so you can properly search for distillation notes because im not gonna write them here for you
-- Osmosis occurs when water moves from a region of **low** salt concentration to **high** salt concen                                                                            
-- 
+- Osmosis occurs when water moves from a region of **low** salt concentration to **high** salt concentration.
+- If there exists a semipermeable membrane that allows water but not the salt ions, then water will leave from the fresh water to salt water.
+- However when pressure is applied to the salt water, water is pushed through the membrane, leaving just the salt water.
+- ![[Pasted image 20220719191707.png]]
+- The problem with reverse osmosis is finding membranes that are durable and do not break under the high amounts of pressure.
 
 ### Algal Blooms
 - Algae provide food for aquatic wildlife
@@ -146,6 +149,7 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 
 
 ## Pearson Notes
+### 15.1
 - Sources of chemical contamination:
 	- Run-off from farms and cities
 	- Run-off from industrial and mining wastes
@@ -217,6 +221,7 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 				- Sodium fluoride ($NaF$)
 			- They break down into Fluoride ions in water.
 		- Fluoride reacts with tooth enamel to produce fluorapatite, a stronger more resistant compound. In doing so, tooth decay is reduced.
+
 
 ---
 ## References
