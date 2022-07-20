@@ -118,13 +118,23 @@ When moving resources around, efficiency may be affected, and **the output may b
 **What is the different between a product market and a factor market?**
 **A: Sells consumable products e.g. foods, Sells resources, e.g. labour**
 ```
-**Production Possibility Frontier:**
+**Production Possibility Curve/Frontier:**
 - The economy can only produce two goods or services
-- The state of technology is constantfixed
+- The state of technology is constant/fixed
 - The quantity of resources available remains unchanged
-- All resources are **fully employed** - no unemployment, every machine is being used, all resources are being utilize
+- On the curve, all resources are **fully employed** - no unemployment, every machine is being used, all resources are being utilize
 
-Exam Q: "to illustrate the possilibty of opportunity cost, use model.""
+Exam Q: "to illustrate the possibility of opportunity cost, use model.""
 **PPF is the model you should use**
+NOTE: If you are on **any point** on the PPF, then you have utilized all your resources to produce that combination of goods. Thus, any point on a PPF is the most efficient point.
+
+Points **inside the curve** represent inefficiencies. Here, we i
+
+```ad-question
+title: Research
+**Law of diminishing returns**
+```
+
+
 
 
