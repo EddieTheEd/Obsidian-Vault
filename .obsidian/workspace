@@ -21,7 +21,7 @@
               "leaf": "cbc24fa4e50df0b5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Hippocampus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":14},\"to\":{\"line\":7,\"ch\":14}}}"
             },
             {
               "leaf": "cbc24fa4e50df0b5",
@@ -220,48 +220,7 @@
               "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "79ab0ce9acf232cc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001_Notes/Econ Class 1.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "79ab0ce9acf232cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Econ Class 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "79ab0ce9acf232cc",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "79ab0ce9acf232cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Econ Class 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":128,\"ch\":158},\"to\":{\"line\":128,\"ch\":158}},\"scroll\":117.80591431041056}"
-            },
-            {
-              "leaf": "79ab0ce9acf232cc",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":17},\"to\":{\"line\":9,\"ch\":17}}}"
             }
           ]
         }
@@ -375,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Econ Class 1.md",
+                "file": "001_Notes/Water Quality.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -396,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Econ Class 1.md",
+                "file": "001_Notes/Water Quality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,8 +385,9 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "79ab0ce9acf232cc",
+  "active": "23286db1d7f049da",
   "lastOpenFiles": [
+    "001_Notes/Hippocampus.md",
     "001_Notes/Econ Class 1.md",
     "001_Notes/Water Quality.md",
     "001_Notes/Lit Language Features Glossary.md",
@@ -436,7 +396,6 @@
     "001_Notes/Organic Chem Notes.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
     "001_Notes/water quality but better.md",
-    "001_Notes/Lit chrit.md",
-    "001_Notes/Literature Romanticism Overview.md"
+    "001_Notes/Lit chrit.md"
   ]
 }
