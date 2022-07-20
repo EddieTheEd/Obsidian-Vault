@@ -49,7 +49,16 @@ The **Basic Economic Problem** (BEP)
 
 **Resources are scarce relative to the demand for goods and services**
 ```
-
+- Relative scarcity means that we do not have enough resources to satisfy all our wants and needs.
+- Are there goods that have no cost?
+- What are examples of free goods?
+- No and no.
+- Free goods are goods which have no **price**, no **property price**, and require no **factors of production for enjoyment**.
+- NO goods are free (except things like air/sunshine)
+- All goods have an **economic** cost.
+- Due to scarcity, people are forced **to make choices**.
+	- Wood is scarce. Can be used for furniture items, p
+	- Time is scarce. It can be used for any welfare enhancing activity - study, work etc.
 
 
 
