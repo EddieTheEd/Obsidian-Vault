@@ -33,8 +33,19 @@ Economics is the:
 - **Relative** scarcity in particular
 - Things are scarce but only relative to what we want to use them for
 - "The study of how men allocate their scarce resources to provide for their wants." (J Harvey)
+*Scarcity: Insufficient resources available (limited resources) to produce all that people desire (unlimited wants)*
 
+**Two main branches of economics:**
+- **Microeconomics**
+- **Macroeconomics (what we do now**
 
+The **Basic Economic Problem** (BEP) 
+- Insufficient resources available (limited resources) to produce all that people desire (unlimited wants)
+- Additionally, resources have alternative uses
+
+**Relative scarcity: based on relationship between wants and resources**
+
+This will be in exam: **Resources are scarce relative to the demand for goods and services**
 
 
 
