@@ -33,6 +33,35 @@
         }
       },
       {
+        "id": "5cab986c750a9164",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Lit Language Features Glossary.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5cab986c750a9164",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Lit Language Features Glossary.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":121},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4.827168330763656}"
+            },
+            {
+              "leaf": "5cab986c750a9164",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
         "id": "2dc214695bdcf292",
         "type": "leaf",
         "state": {
@@ -191,18 +220,18 @@
               "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":6},\"to\":{\"line\":7,\"ch\":6}},\"scroll\":100.9236655292123}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
       },
       {
-        "id": "5cab986c750a9164",
+        "id": "79ab0ce9acf232cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_Notes/Lit Language Features Glossary.md",
+            "file": "001_Notes/Econ Class 1.md",
             "mode": "source",
             "source": false
           }
@@ -211,16 +240,16 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "5cab986c750a9164",
+              "leaf": "79ab0ce9acf232cc",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Lit Language Features Glossary.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":37},\"to\":{\"line\":15,\"ch\":37}},\"scroll\":8.005683560278381}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Econ Class 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "5cab986c750a9164",
+              "leaf": "79ab0ce9acf232cc",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -254,7 +283,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fractional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -334,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Organic Chem Notes.md",
+                "file": "001_Notes/Econ Class 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +384,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Organic Chem Notes.md",
+                "file": "001_Notes/Econ Class 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,17 +414,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "2dc214695bdcf292",
+  "active": "79ab0ce9acf232cc",
   "lastOpenFiles": [
-    "001_Notes/Lit Language Features Glossary.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
     "001_Notes/Water Quality.md",
+    "001_Notes/Lit Language Features Glossary.md",
+    "001_Notes/001a_Templates/Econ Template.md",
+    "001_Notes/001a_Templates/Lit Format.md",
+    "001_Notes/Organic Chem Notes.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
     "001_Notes/water quality but better.md",
     "001_Notes/Lit chrit.md",
-    "001_Notes/Organic Chem Notes.md",
     "001_Notes/Literature Romanticism Overview.md",
-    "001_Notes/Literature Rationale.md",
-    "001_Notes/Hippocampus.md",
-    "001_Notes/Acids + Bases.md"
+    "001_Notes/Literature Rationale.md"
   ]
 }
