@@ -174,7 +174,7 @@
         }
       },
       {
-        "id": "718ce153f82d9a00",
+        "id": "23286db1d7f049da",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -188,15 +188,9 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "718ce153f82d9a00",
+              "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":61},\"to\":{\"line\":58,\"ch\":61}},\"scroll\":69.06404945262527}"
-            },
-            {
-              "leaf": "718ce153f82d9a00",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W28.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -362,17 +356,17 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "718ce153f82d9a00",
+  "active": "23286db1d7f049da",
   "lastOpenFiles": [
+    "001_Notes/Literature Romanticism Overview.md",
+    "001_Notes/Literature Rationale.md",
+    "001_Notes/Water Quality.md",
     "001_Notes/Hippocampus.md",
     "001_Notes/Acids + Bases.md",
     "001_Notes/Spec Notes.md",
     "001_Notes/Brilliant Course Complex Numbers.md",
     "001_Notes/Number Sets Notes.md",
-    "001_Notes/Water Quality.md",
     "001_Notes/Personal_Planner.md",
-    "001_Notes/11AECHE Class 35.md",
-    "001_Notes/The most important symbol in the universe.md",
-    "001_Notes/Organic Chem Notes.md"
+    "001_Notes/11AECHE Class 35.md"
   ]
 }
