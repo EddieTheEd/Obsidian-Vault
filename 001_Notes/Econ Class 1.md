@@ -18,7 +18,23 @@ Trade is how we achieve economic growth
 - side-effect: also comes with standard of living
 - free markets
 
-In economics sho
+In economics you should:
+- adopt different perspectives when analysing situations
+- evaluate the benefits and costs of individual and social choices
+- examine and understand how certain events and issues are related
+
+Economics is the:
+- "Science of wealth"
+- "Study of mankind in the ordinary business of life"
+- "...examines the part of the individual and social action which is most closely connected with the attainment and with the use of material requisites of well-being"
+- "A study of human behaviour as a relationship between ends (which we want) and scarce means which have alternative uses."
+
+**Scarcity is important**
+- **Relative** scarcity in particular
+- Things are scarce but only relative to what we want to use them for
+- "The study of how men allocate their scarce resources to provide for their wants." (J Harvey)
+
+
 
 
 
