@@ -45,7 +45,10 @@ The **Basic Economic Problem** (BEP)
 
 **Relative scarcity: based on relationship between wants and resources**
 
-This will be in exam: **Resources are scarce relative to the demand for goods and services**
+```ad-important
+
+**Resources are scarce relative to the demand for goods and services**
+```
 
 
 
