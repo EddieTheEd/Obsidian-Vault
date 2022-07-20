@@ -50,7 +50,7 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":33},\"to\":{\"line\":8,\"ch\":33}},\"scroll\":10.53527811553426}"
+              "eState": "{\"scroll\":10.53527811553426}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -214,7 +214,7 @@
               "leaf": "5cab986c750a9164",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Lit Language Features Glossary.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":5.150863283240633}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":37},\"to\":{\"line\":15,\"ch\":37}},\"scroll\":8.005683560278381}"
             },
             {
               "leaf": "5cab986c750a9164",
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Lit Language Features Glossary.md",
+                "file": "001_Notes/Organic Chem Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Lit Language Features Glossary.md",
+                "file": "001_Notes/Organic Chem Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,10 +385,10 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "5cab986c750a9164",
+  "active": "2dc214695bdcf292",
   "lastOpenFiles": [
-    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
     "001_Notes/Lit Language Features Glossary.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
     "001_Notes/Water Quality.md",
     "001_Notes/water quality but better.md",
     "001_Notes/Lit chrit.md",
