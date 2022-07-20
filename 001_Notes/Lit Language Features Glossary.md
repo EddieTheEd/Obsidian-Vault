@@ -11,8 +11,8 @@ Tags:
 | metaphor            | when a word or phrase is applied to an object or action to which it is not literally applicable |
 | simile              | comparing two things of different kinds, makes descriptions more vivid                          |
 | personification     | attributing personal nature to something non-human                                              |
-| imagery             |                                                                                                 |
-| sound               |                                                                                                 |
+| imagery             | visually descriptive language                                                                   |
+| sound               | imagery that appeals to the sense of hearing                                                    |
 | visual              |                                                                                                 |
 | tactile             |                                                                                                 |
 | symbolism           |                                                                                                 |
