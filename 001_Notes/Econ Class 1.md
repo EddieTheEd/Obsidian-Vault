@@ -128,7 +128,11 @@ Exam Q: "to illustrate the possibility of opportunity cost, use model.""
 **PPF is the model you should use**
 NOTE: If you are on **any point** on the PPF, then you have utilized all your resources to produce that combination of goods. Thus, any point on a PPF is the most efficient point.
 
-Points **inside the curve** represent inefficiencies. Here, we i
+Points **inside the curve** represent inefficiencies. Here, not all resources are being utilized.
+
+Points **outside the curve** are **impossible.**
+
+Trade is important, because other countries can be more efficient at producing something than you.
 
 ```ad-question
 title: Research
