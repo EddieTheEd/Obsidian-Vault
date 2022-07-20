@@ -214,7 +214,7 @@
               "leaf": "5cab986c750a9164",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Lit Language Features Glossary.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":5.150863283240633}"
             },
             {
               "leaf": "5cab986c750a9164",
@@ -387,15 +387,15 @@
   },
   "active": "5cab986c750a9164",
   "lastOpenFiles": [
+    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
+    "001_Notes/Lit Language Features Glossary.md",
     "001_Notes/Water Quality.md",
     "001_Notes/water quality but better.md",
     "001_Notes/Lit chrit.md",
-    "001_Notes/Lit Language Features Glossary.md",
     "001_Notes/Organic Chem Notes.md",
     "001_Notes/Literature Romanticism Overview.md",
     "001_Notes/Literature Rationale.md",
     "001_Notes/Hippocampus.md",
-    "001_Notes/Acids + Bases.md",
-    "001_Notes/Spec Notes.md"
+    "001_Notes/Acids + Bases.md"
   ]
 }

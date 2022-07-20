@@ -1,4 +1,3 @@
-*Date: 2022 07 20 Time: 09:32*
 
 Status: #10LIT
 
@@ -6,24 +5,18 @@ Tags:
 
 # Lit Language Features Glossary
 
-| Language feature    | Description |
-| ------------------- | ----------- |
-| figurative language | words or phrases that are meaningful             |
-| metaphor            |             |
-| simile              |             |
-| personification     |             |
-| imagery             |             |
-| sound               |             |
-| visual              |             |
-| tactile             |             |
-| symbolism           |             |
-| speaker/persona     |             |
-| form                |             |
-| rhythm/meter        |             |
+| Language feature    | Description                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------------- |
+| figurative language | words or phrases that are meaningful, but not literally true                                    |
+| metaphor            | when a word or phrase is applied to an object or action to which it is not literally applicable |
+| simile              | comparing two things of different kinds, makes descriptions more vivid                          |
+| personification     |                                                                                                 |
+| imagery             |                                                                                                 |
+| sound               |                                                                                                 |
+| visual              |                                                                                                 |
+| tactile             |                                                                                                 |
+| symbolism           |                                                                                                 |
+| speaker/persona     |                                                                                                 |
+| form                |                                                                                                 |
+| rhythm/meter        |                                                                                                 |
 
-
-
-
-| amongus | gkgk | igkg |
-| ------- | ---- | ---- |
-|         |      |      |
