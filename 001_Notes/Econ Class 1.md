@@ -90,10 +90,15 @@ When moving resources around, efficiency may be affected, and **the output may b
 - Mining
 - Retail industry
 - Fast food industry
+- Airlines
+- Groceries
 - Stock market? (specific goods related)
 
 •How is this manifesting in society?
 - Builders have gone bankrupt because high labour costs, cost of materials, transport costs
+- There's less patrons in the airports, bags are being lost
+	- Cancelled flights, prices are increasing
+- 
 
 •Why did the supply chains function so well pre covid and what is the problem during Covid?
 - Production efficiency, as it was running smoothly before the pandemic
@@ -104,5 +109,7 @@ When moving resources around, efficiency may be affected, and **the output may b
 - Lack of resources
 - Effects of quarantine laws
 •How does this relate to the basic economic problem?
+- The weakened supply chain reduces the supply for specific resources throughout global populations, increasing demand and cost
+- People will make choices to protect their survival (generally), and less important goods/services such as entertainment services (Netflix) will lose the most business.
 
 
