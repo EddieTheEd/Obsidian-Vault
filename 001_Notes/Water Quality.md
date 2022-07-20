@@ -67,9 +67,13 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 - Sewage treatment plants
 - Mine sites
 
-- Widespread pollution of water from usage of land where water is collected (**catchment land use**) is hard to combat 
+- Widespread pollution of water (**diffuse pollution**) from usage of land where water is collected (**catchment land use**) is hard to combat 
 	- This is currently the biggest water pollution problem today
 - **Examples of catchment land use** are for agricultural and urban land use.
+
+## Point Source Vs Diffuse Pollution:
+Point source: Pollution that is discharged from a single source (e.g. a discharge pipe). 
+Diffuse: The release of pollution from multiple sources that individually may not affect water quality.
 
 **Examples of pollution from catchment land use**
 - Salt 
