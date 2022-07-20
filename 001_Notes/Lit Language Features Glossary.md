@@ -10,7 +10,7 @@ Tags:
 | figurative language | words or phrases that are meaningful, but not literally true                                    |
 | metaphor            | when a word or phrase is applied to an object or action to which it is not literally applicable |
 | simile              | comparing two things of different kinds, makes descriptions more vivid                          |
-| personification     |                                                                                                 |
+| personification     | attributing personal nature to something non-human                                              |
 | imagery             |                                                                                                 |
 | sound               |                                                                                                 |
 | visual              |                                                                                                 |
