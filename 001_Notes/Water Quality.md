@@ -243,10 +243,18 @@ The acid also attacks soil minerals, releasing metals like aluminium and iron. R
 **Specific heat capacity:** the amount of energy (in joules) needed to increase the temperature of a certain amount (usually 1 gram) of a substance by 1 $\degree C$
 ```
 - Units for specific heat capacity: $J \ g^{-1} \ \degree C^{-1}$
-- **Specific heat capacity** reflects the type of bonding
+- **Specific heat capacity** reflects the **type of bonding**. For covalent substances, it reflects the **strength of intermolecular forces between molecules.**
+- **Equation for calculating specific heat capacity:** $q = C \times m \times \Delta T$
+	- q = amount of heat energy
+	- C = specific heat capacity (of the substance)
+	- m = mass
+	- $\Delta T$ = temperature change
 - When you heat a substance to change its state of matter, temperature would increase at it approaches the melting point, then it remains constant as the solid melts, then temperature increases as it reaches the boiling point, and once again remains constant as the liquid evaporates.
 	- ![[Pasted image 20220719195552.png]] 
 	- **Latent heat is the energy required to change a fixed amount of substance, from a solid to liquid or liquid to gas. During this period, temperature does not change**
+	- **Latent heat of...**
+		- **Fusion:** heat needed to change **1 mol** of substance from solid to liquid at melting point
+		- **Vaporisation**
 ### 15.3 Water as a solvent
 - The more polar a compound is, the more likely the compound is to dissolve in water.                                                                               
 ---
