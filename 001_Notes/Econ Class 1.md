@@ -76,8 +76,33 @@ When moving resources around, efficiency may be affected, and **the output may b
 ```
 ![[Pasted image 20220720121332.png]]
 
+**Coronavirus:**
+•The world today is suffering from shortages across multiple sectors.
 
+•What is being affected?
+- Travel
+- Maritime trade
+- Building
+- Labor markets
+- Agriculture/Horticulture
+- Medicine/Hospitality
+- Transport
+- Mining
+- Retail industry
+- Fast food industry
+- Stock market? (specific goods related)
 
+•How is this manifesting in society?
+- Builders have gone bankrupt because high labour costs, cost of materials, transport costs
 
+•Why did the supply chains function so well pre covid and what is the problem during Covid?
+- Production efficiency, as it was running smoothly before the pandemic
+- Lack of resources slow it down
+
+•What is the cause of the supply shortages?
+- Lack of willing employees for the supply chain industry
+- Lack of resources
+- Effects of quarantine laws
+•How does this relate to the basic economic problem?
 
 
