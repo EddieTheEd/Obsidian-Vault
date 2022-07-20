@@ -112,4 +112,19 @@ When moving resources around, efficiency may be affected, and **the output may b
 - The weakened supply chain reduces the supply for specific resources throughout global populations, increasing demand and cost
 - People will make choices to protect their survival (generally), and less important goods/services such as entertainment services (Netflix) will lose the most business.
 
+### Economic Systems
+```ad-important
+
+**What is the different between a product market and a factor market?**
+**A: Sells consumable products e.g. foods, Sells resources, e.g. labour**
+```
+**Production Possibility Frontier:**
+- The economy can only produce two goods or services
+- The state of technology is constantfixed
+- The quantity of resources available remains unchanged
+- All resources are **fully employed** - no unemployment, every machine is being used, all resources are being utilize
+
+Exam Q: "to illustrate the possilibty of opportunity cost, use model.""
+**PPF is the model you should use**
+
 
