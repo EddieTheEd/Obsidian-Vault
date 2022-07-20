@@ -73,7 +73,9 @@ e.g. Dams release water into rivers **from the top**, as the lower-most water is
 
 ## Point Source Vs Diffuse Pollution:
 Point source: Pollution that is discharged from a single source (e.g. a discharge pipe). 
-Diffuse: The release of pollution from multiple sources that individually may not affect water quality.
+Diffuse: The release of pollution from multiple sources that individually may not affect water quality
+
+## Important!! /\
 
 **Examples of pollution from catchment land use**
 - Salt 
