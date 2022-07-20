@@ -57,8 +57,25 @@ The **Basic Economic Problem** (BEP)
 - NO goods are free (except things like air/sunshine)
 - All goods have an **economic** cost.
 - Due to scarcity, people are forced **to make choices**.
-	- Wood is scarce. Can be used for furniture items, p
+	- Wood is scarce. Can be used for furniture items, pencils, etc.
 	- Time is scarce. It can be used for any welfare enhancing activity - study, work etc.
+	- Resources cannot be used for **all wants** **at the same time**.
+	- We need to **CHOOSE**.
+- *Scarcity* -> *Choice* -> *Consequences*
+												-> *Opportunity cost*
+- When a choice is made, it involves a sacrifice known as an **opportunity cost.**
+```ad-important
+**Opportunity cost is the real cost of the next best alternative (in the scale of preference) that is forgone in order to obtain more of something else.**
+
+```
+
+Resources have **alternative uses**, but,
+```ad-important
+These alternative uses have **varying degrees of efficiency**.
+When moving resources around, efficiency may be affected, and **the output may be affected**.
+```
+![[Pasted image 20220720121332.png]]
+
 
 
 
