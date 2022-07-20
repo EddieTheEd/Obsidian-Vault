@@ -50,7 +50,7 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":33},\"to\":{\"line\":8,\"ch\":33}},\"scroll\":5.662303012459662}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -191,7 +191,7 @@
               "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -305,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Water Quality.md",
+                "file": "001_Notes/Organic Chem Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Water Quality.md",
+                "file": "001_Notes/Organic Chem Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,11 +356,11 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "23286db1d7f049da",
+  "active": "2dc214695bdcf292",
   "lastOpenFiles": [
+    "001_Notes/Water Quality.md",
     "001_Notes/Literature Romanticism Overview.md",
     "001_Notes/Literature Rationale.md",
-    "001_Notes/Water Quality.md",
     "001_Notes/Hippocampus.md",
     "001_Notes/Acids + Bases.md",
     "001_Notes/Spec Notes.md",
