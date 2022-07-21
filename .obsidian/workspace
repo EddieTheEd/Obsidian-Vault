@@ -231,12 +231,18 @@
         "state": {
           "type": "pdf",
           "state": {
-            "file": "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf"
+            "file": "000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "654e9446f3c0aa10",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "654e9446f3c0aa10",
               "group": null,
@@ -248,6 +254,33 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":4},\"to\":{\"line\":7,\"ch\":4}}}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "afe2433b0af0c787",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "afe2433b0af0c787",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "afe2433b0af0c787",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf\"}}",
+              "eState": "{}"
             }
           ]
         }
@@ -412,8 +445,10 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "654e9446f3c0aa10",
+  "active": "afe2433b0af0c787",
   "lastOpenFiles": [
+    "000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf",
+    "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
     "001_Notes/Water Quality.md",
     "001_Notes/Econ Class 1.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-15.md",
@@ -421,8 +456,6 @@
     "001_Notes/Hippocampus.md",
     "001_Notes/Organic Chem Notes.md",
     "001_Notes/Lit Language Features Glossary.md",
-    "001_Notes/001a_Templates/Econ Template.md",
-    "001_Notes/001a_Templates/Lit Format.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md"
+    "001_Notes/001a_Templates/Econ Template.md"
   ]
 }
