@@ -176,4 +176,5 @@ d. I don't care about them.
 13. The government may use their budget to purchase from specific industries, increasing the demand and value of said industries. For example, if the government were to invest in more mining sites, this would increase the amount of capital in the mining economy, allowing the potential for greater demand.
 14. The financial cost of a desalination plant would be the actual capital cost to build and maintain a desalination plant. However, the opportunity cost is the financial cost to the government for not investing the financial cost elsewhere, in industries such as healthcare.
 15. a. Computer. Computer's may be advertise on large billboards, or though online ads.
-		  b. 
+		  b. ![[Pasted image 20220721113242.png]]
+		  c. Consumers influence demand, while producers influence supply. Both in conjunction to influence cost, which in turn influences the quantity in which certain products are produced.
