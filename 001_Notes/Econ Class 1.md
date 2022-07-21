@@ -140,5 +140,9 @@ title: Research
 ```
 
 
-
+1. There are unlimited wants, but limited resources. Furthermore, resources have alternative uses which have vary levels of efficiency.
+2. Limited resources and high demand.
+3. What to produce, how to produce, who to produce for.
+4. 
+a. Depending on what is popular at 
 
