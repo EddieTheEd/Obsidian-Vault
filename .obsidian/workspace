@@ -50,7 +50,7 @@
               "leaf": "5cab986c750a9164",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Lit Language Features Glossary.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":121},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4.827168330763656}"
+              "eState": "{}"
             },
             {
               "leaf": "5cab986c750a9164",
@@ -79,7 +79,7 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":46},\"to\":{\"line\":16,\"ch\":194}},\"scroll\":5.020775383425771}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -220,7 +220,7 @@
               "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":213,\"ch\":44},\"to\":{\"line\":213,\"ch\":44}},\"scroll\":210.14317525130332}"
             }
           ]
         }
@@ -387,13 +387,13 @@
   },
   "active": "23286db1d7f049da",
   "lastOpenFiles": [
+    "001_Notes/Organic Chem Notes.md",
+    "001_Notes/Lit Language Features Glossary.md",
+    "001_Notes/Water Quality.md",
     "001_Notes/Hippocampus.md",
     "001_Notes/Econ Class 1.md",
-    "001_Notes/Water Quality.md",
-    "001_Notes/Lit Language Features Glossary.md",
     "001_Notes/001a_Templates/Econ Template.md",
     "001_Notes/001a_Templates/Lit Format.md",
-    "001_Notes/Organic Chem Notes.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
     "001_Notes/water quality but better.md",
     "001_Notes/Lit chrit.md"
