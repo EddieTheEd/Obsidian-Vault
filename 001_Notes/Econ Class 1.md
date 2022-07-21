@@ -152,4 +152,20 @@ c. in a weak local economy, consumers may produce cheaper products in greater qu
 7. China has an abundance of cheap labour and natural resources. This allows manufacturing costs to be cheap, as its abundance in labour and natural resources decreases the overall costs for production. This allows the products to be exported at a profit, which is why it is seen ass world producer
 8. 
 a. 
-
+1. New shoes
+2. Notebook
+3. Chemistry coursebooks (5)
+4. Lava lamp
+5. Grand piano
+6. Fedora
+b. 
+1. Because my shoes are old
+2. Because widjaja has it and its cool
+3. Because chemistry is fun (not)
+4. It looks cool
+5. Because my piano sucks and im doing grade 7 piano and i need one
+6. It looks cool
+c. I would not get a fedora :(
+d. I don't care about them.
+9. a. You lose 100 tonnes of wool.
+		b. You don't produce 300
