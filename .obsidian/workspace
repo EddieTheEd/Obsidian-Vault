@@ -156,7 +156,7 @@
               "leaf": "039c6e8f33edbb4c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-07-15.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":23.278151478216003}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":8},\"to\":{\"line\":4,\"ch\":8}}}"
             },
             {
               "leaf": "039c6e8f33edbb4c",
@@ -220,7 +220,7 @@
               "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":210.85904893299076}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":17},\"to\":{\"line\":9,\"ch\":17}},\"scroll\":0}"
             }
           ]
         }
@@ -387,15 +387,15 @@
   },
   "active": "23286db1d7f049da",
   "lastOpenFiles": [
-    "001_Notes/Hippocampus.md",
+    "002_PersonalNotes/002a_DailyNotes/2022-07-15.md",
     "001_Notes/Water Quality.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W28.md",
+    "001_Notes/Hippocampus.md",
     "001_Notes/Organic Chem Notes.md",
     "001_Notes/Lit Language Features Glossary.md",
     "001_Notes/Econ Class 1.md",
     "001_Notes/001a_Templates/Econ Template.md",
     "001_Notes/001a_Templates/Lit Format.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md",
-    "001_Notes/water quality but better.md",
-    "001_Notes/Lit chrit.md"
+    "002_PersonalNotes/002a_DailyNotes/2022-07-20.md"
   ]
 }
