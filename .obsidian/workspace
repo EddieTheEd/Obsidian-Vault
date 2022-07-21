@@ -220,7 +220,7 @@
               "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":213,\"ch\":44},\"to\":{\"line\":213,\"ch\":44}},\"scroll\":210.14317525130332}"
+              "eState": "{\"scroll\":210.85904893299076}"
             }
           ]
         }
@@ -387,10 +387,10 @@
   },
   "active": "23286db1d7f049da",
   "lastOpenFiles": [
+    "001_Notes/Hippocampus.md",
+    "001_Notes/Water Quality.md",
     "001_Notes/Organic Chem Notes.md",
     "001_Notes/Lit Language Features Glossary.md",
-    "001_Notes/Water Quality.md",
-    "001_Notes/Hippocampus.md",
     "001_Notes/Econ Class 1.md",
     "001_Notes/001a_Templates/Econ Template.md",
     "001_Notes/001a_Templates/Lit Format.md",
