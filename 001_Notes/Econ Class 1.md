@@ -168,4 +168,8 @@ b.
 c. I would not get a fedora :(
 d. I don't care about them.
 9. a. You lose 100 tonnes of wool.
-		b. You don't produce 300
+		b. You don't produce 300 tonnes of wheat.
+		c. It depends on the market price of wheat and wool at the time. For both options, if the farmer wishes to maximise his profit, he should choose the level of production that maximises profit, given the current market price for wheat and wool.
+10. In order to increase funding for the war in Iraq, and to cut taxes for the rich, Bush would have to take money from the U.S. budget. This means that other sectors of the budget would not get money, such as infrastructure, education and healthcare.
+11. Labour-intensive refers to industries that rely on labour to produce goods. Capital-intensive refers to industries that rely on heavy machinery or capital investments to produce goods. Examples of labour-intensive industries include clothing, and accounting. Examples of capital-intensive industries include microchips and car manufacturing.
+12. A consumer's demand for a
