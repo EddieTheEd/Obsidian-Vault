@@ -144,5 +144,12 @@ title: Research
 2. Limited resources and high demand.
 3. What to produce, how to produce, who to produce for.
 4. 
-a. Depending on what is popular at 
+a. Depending on what is popular at the time, specific trends in fashion may be prioritized for production. E.g. if dresses are popular now, then producers may focus their resources on producing dresses.
+b. When available resources are scarce, producers may prioritize products that can be most efficiently made with their limited resources.
+c. in a weak local economy, consumers may produce cheaper products in greater qualities, so that their products become more affordable.
+5. Products that require intense labour tend to incur greater labour costs, so producers may opt to produce products that involve less labour.
+6. The Japanese economy is more service-centred, and also focuses on industries that do not require common natural resources, or wholly depend on imports (such as technology).
+7. China has an abundance of cheap labour and natural resources. This allows manufacturing costs to be cheap, as its abundance in labour and natural resources decreases the overall costs for production. This allows the products to be exported at a profit, which is why it is seen ass world producer
+8. 
+a. 
 
