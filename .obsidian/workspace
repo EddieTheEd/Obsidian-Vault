@@ -284,6 +284,35 @@
             }
           ]
         }
+      },
+      {
+        "id": "36450b0759c107b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Comp Sci 1.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "36450b0759c107b1",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Comp Sci 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "36450b0759c107b1",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -394,7 +423,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
+                "file": "001_Notes/Comp Sci 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
+                "file": "001_Notes/Comp Sci 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -445,10 +474,10 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "afe2433b0af0c787",
+  "active": "36450b0759c107b1",
   "lastOpenFiles": [
-    "000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf",
     "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
+    "000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf",
     "001_Notes/Water Quality.md",
     "001_Notes/Econ Class 1.md",
     "002_PersonalNotes/002a_DailyNotes/2022-07-15.md",
