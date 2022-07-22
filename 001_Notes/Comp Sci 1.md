@@ -27,4 +27,5 @@ How to write control structure:
 		- Kite - condition, if etc.
 		- Line - link between these different options
 		- **DONT USE X, Y and Z AS VARIABLES**
+		- Constant does not change in the code.
 - Pseudocode
