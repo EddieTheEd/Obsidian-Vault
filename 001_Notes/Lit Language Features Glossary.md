@@ -13,8 +13,8 @@ Tags:
 | personification     | attributing personal nature to something non-human                                              |
 | imagery             | visually descriptive language                                                                   |
 | sound               | imagery that appeals to the sense of hearing                                                    |
-| visual              |                                                                                                 |
-| tactile             |                                                                                                 |
+| visual              | using visual qualities to create an image                                                                                                |
+| tactile             | imagery describing how things feel to the touch                                                                                                |
 | symbolism           |                                                                                                 |
 | speaker/persona     |                                                                                                 |
 | form                |                                                                                                 |
