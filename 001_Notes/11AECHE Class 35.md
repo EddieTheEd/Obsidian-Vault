@@ -45,9 +45,8 @@ Def answer for Brønsted–Lowry strong acid
 - $Ca(OH)_{2(aq)}\rightarrow Ca^{2+}_{(aq)}+2OH^{-}_{(aq)}$ - note this also goes in stages like polyprotic acids
 
 - **Weak base:** ionise partially.
-	- $NH_4OH_{(aq)}⇌NH_4^{+}+OH^-_{(aq)}}}$
+	- $NH_4OH_{(aq)}⇌NH_4^{+}+OH^-_{(aq)}$
 	- $NH_{3}+ H_{2}O⇌NH_4^{+}+OH^-$ - extension 
-$$
 ---
 # Recall
 

@@ -3,13 +3,13 @@
 
 Status: #11AECHE_ClassNotes 
 
-Tags: 
+Tags: [[Acids + Bases]]
 
 
 # AECHE Class 37
 
 Definition of pH: $-log[H^+]$
-- [   ] concentration in mol L$^{-1}$
+- $[H^+]$ concentration in mol L$^{-1}$
 
 Therefore, $[H^{+}]=10^{-pH}$
 

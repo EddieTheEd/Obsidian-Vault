@@ -355,7 +355,7 @@
               "leaf": "5a7e7c20f589effe",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 35.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":28},\"to\":{\"line\":19,\"ch\":28}},\"scroll\":10.57783960255629}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":34},\"to\":{\"line\":46,\"ch\":34}},\"scroll\":48.7172348607175}"
             }
           ]
         }
@@ -376,6 +376,35 @@
           "stack": [
             {
               "leaf": "0557b73fd6958675",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/AECHE Class 36.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":93},\"to\":{\"line\":30,\"ch\":93}},\"scroll\":18.139390314835712}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "a4bf730610c18814",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/AECHE Class 37.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "a4bf730610c18814",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/AECHE Class 37.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a4bf730610c18814",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/AECHE Class 36.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
@@ -493,7 +522,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/11AECHE Class 35.md",
+                "file": "001_Notes/AECHE Class 37.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -514,7 +543,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/11AECHE Class 35.md",
+                "file": "001_Notes/AECHE Class 37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -544,12 +573,12 @@
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "5a7e7c20f589effe",
+  "active": "a4bf730610c18814",
   "lastOpenFiles": [
-    "001_Notes/11AECHE Class 34.md",
-    "001_Notes/11AECHE Class 35.md",
-    "001_Notes/Acids + Bases.md",
     "001_Notes/AECHE Class 36.md",
+    "001_Notes/11AECHE Class 35.md",
+    "001_Notes/11AECHE Class 34.md",
+    "001_Notes/Acids + Bases.md",
     "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
     "001_Notes/Lit Language Features Glossary.md",
     "001_Notes/Hippocampus.md",
