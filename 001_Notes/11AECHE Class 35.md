@@ -15,7 +15,7 @@ Tags: [[Acids + Bases]]
 	- $HCl_{(aq)} \rightarrow H^{+}_{(aq)}+Cl^-_{(aq)}$
 	- Better equation: $HCl_{(aq)} + H_{2}O_{(l)} \rightarrow H_3O^{+}_{(aq)}+Cl^-_{(aq)}$
 - Monoprotic acids: Acids that produce one proton for every 1 molecule of acid that ionises.
-- Sulfuric acid: $H_{2}SO_{4} \rightarrow H^{+}+HSO_4^-$
+- Sulfuric acid is an example of diprotic acids: $H_{2}SO_{4} \rightarrow H^{+}+HSO_4^-$
 	- $HSO_{4}^{-}\rightarrow H^{+} + SO_4^{-2}$
 - Nitric acid: $HNO_{3(aq)}$
 
@@ -45,9 +45,9 @@ Def answer for Brønsted–Lowry strong acid
 - $Ca(OH)_{2(aq)}\rightarrow Ca^{2+}_{(aq)}+2OH^{-}_{(aq)}$ - note this also goes in stages like polyprotic acids
 
 - **Weak base:** ionise partially.
-	- $NH_4OH_{(aq)}⇌NH_4^{+}+OH^-_{(aq)}$
+	- $NH_4OH_{(aq)}⇌NH_4^{+}+OH^-_{(aq)}}}$
 	- $NH_{3}+ H_{2}O⇌NH_4^{+}+OH^-$ - extension 
-
+$$
 ---
 # Recall
 

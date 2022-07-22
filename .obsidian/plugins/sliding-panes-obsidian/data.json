@@ -2,7 +2,7 @@
   "headerWidth": 35,
   "leafDesktopWidth": 800,
   "leafMobileWidth": null,
-  "leafAutoWidth": false,
+  "leafAutoWidth": true,
   "disabled": false,
   "rotateHeaders": true,
   "headerAlt": false,

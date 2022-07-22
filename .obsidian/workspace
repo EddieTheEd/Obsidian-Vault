@@ -50,7 +50,7 @@
               "leaf": "5cab986c750a9164",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Lit Language Features Glossary.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":121},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":12.622214636907765}"
+              "eState": "{\"scroll\":5.840535533407641}"
             },
             {
               "leaf": "5cab986c750a9164",
@@ -284,6 +284,104 @@
             }
           ]
         }
+      },
+      {
+        "id": "44e865964ccb28eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/Acids + Bases.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "44e865964ccb28eb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Acids + Bases.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":9.666666893352485}"
+            },
+            {
+              "leaf": "44e865964ccb28eb",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "0a189a29ef45e1cc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/11AECHE Class 34.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0a189a29ef45e1cc",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 34.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":12},\"to\":{\"line\":14,\"ch\":12}},\"scroll\":19.818631624666317}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5a7e7c20f589effe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/11AECHE Class 35.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "5a7e7c20f589effe",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/11AECHE Class 35.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":28},\"to\":{\"line\":19,\"ch\":28}},\"scroll\":10.57783960255629}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "0557b73fd6958675",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_Notes/AECHE Class 36.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0557b73fd6958675",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/AECHE Class 36.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -343,7 +441,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312
+    "width": 199.50173950195312,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -394,7 +493,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_Notes/Lit Language Features Glossary.md",
+                "file": "001_Notes/11AECHE Class 35.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +514,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001_Notes/Lit Language Features Glossary.md",
+                "file": "001_Notes/11AECHE Class 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -438,24 +537,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 260.1683654785156,
     "collapsed": true
   },
-  "active": "5cab986c750a9164",
+  "active": "5a7e7c20f589effe",
   "lastOpenFiles": [
+    "001_Notes/11AECHE Class 34.md",
+    "001_Notes/11AECHE Class 35.md",
+    "001_Notes/Acids + Bases.md",
+    "001_Notes/AECHE Class 36.md",
+    "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
+    "001_Notes/Lit Language Features Glossary.md",
     "001_Notes/Hippocampus.md",
     "004_ContributedNotes/004a_Ariz's Comp. Sci notes/Draw.io Diagrams/Transaction-context-diagram.drawio",
     "001_Notes/Comp Sci 1.md",
-    "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
-    "000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf",
-    "001_Notes/Water Quality.md",
-    "001_Notes/Econ Class 1.md",
-    "002_PersonalNotes/002a_DailyNotes/2022-07-15.md",
-    "002_PersonalNotes/002b_WeeklyNotes/2022-W28.md",
-    "001_Notes/Organic Chem Notes.md"
+    "000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf"
   ]
 }

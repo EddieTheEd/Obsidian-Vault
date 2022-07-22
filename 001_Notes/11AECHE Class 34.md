@@ -11,7 +11,7 @@ Tags: [[Acids + Bases]]
 Acids:
 - pH < 7
 	- $[H^{+}]> [OH^{-}]$
-- Turn universal indicators (UI(Ethan Widjaja made it up)) red.
+- Turn universal indicators (UI(Ethan Widjaja made it up)(Ms Pilling did as well)) red.
 - Tastes sour
 - 
 
