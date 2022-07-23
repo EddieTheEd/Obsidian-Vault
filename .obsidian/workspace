@@ -21,7 +21,7 @@
               "leaf": "cbc24fa4e50df0b5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Hippocampus.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.4041924163336962}"
+              "eState": "{}"
             },
             {
               "leaf": "cbc24fa4e50df0b5",
@@ -50,7 +50,7 @@
               "leaf": "5cab986c750a9164",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Lit Language Features Glossary.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":5.840535533407641}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "5cab986c750a9164",
@@ -79,7 +79,7 @@
               "leaf": "2dc214695bdcf292",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Organic Chem Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":46},\"to\":{\"line\":16,\"ch\":194}},\"scroll\":5.020775383425771}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":8.518680162784847}"
             },
             {
               "leaf": "2dc214695bdcf292",
@@ -156,7 +156,7 @@
               "leaf": "039c6e8f33edbb4c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002a_DailyNotes/2022-07-15.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":8},\"to\":{\"line\":4,\"ch\":8}}}"
+              "eState": "{}"
             },
             {
               "leaf": "039c6e8f33edbb4c",
@@ -191,7 +191,7 @@
               "leaf": "65a9b63f70490c3a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002_PersonalNotes/002b_WeeklyNotes/2022-W28.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":80.43391421205537}"
             },
             {
               "leaf": "65a9b63f70490c3a",
@@ -220,7 +220,7 @@
               "leaf": "23286db1d7f049da",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Water Quality.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":159,\"ch\":0},\"to\":{\"line\":159,\"ch\":32}},\"scroll\":192.21712654515318}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
             }
           ]
         }
@@ -303,7 +303,7 @@
               "leaf": "44e865964ccb28eb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/Acids + Bases.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":9.666666893352485}"
+              "eState": "{\"scroll\":1.9892625428652657}"
             },
             {
               "leaf": "44e865964ccb28eb",
@@ -401,7 +401,7 @@
               "leaf": "a4bf730610c18814",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001_Notes/AECHE Class 37.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "a4bf730610c18814",
@@ -471,7 +471,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199.50173950195312
+    "width": 199.50173950195312,
+    "collapsed": true
   },
   "right": {
     "id": "ea8decc1ffb8d3db",
@@ -575,15 +576,15 @@
   },
   "active": "a4bf730610c18814",
   "lastOpenFiles": [
-    "001_Notes/AECHE Class 36.md",
-    "001_Notes/11AECHE Class 35.md",
-    "001_Notes/11AECHE Class 34.md",
-    "001_Notes/AECHE Class 37.md",
+    "001_Notes/Organic Chem Notes.md",
     "000_Files/000a_UnsortedFiles/2022-CHE-Data-Book.pdf",
     "001_Notes/Acids + Bases.md",
-    "001_Notes/Lit Language Features Glossary.md",
+    "002_PersonalNotes/002b_WeeklyNotes/2022-W28.md",
+    "001_Notes/Water Quality.md",
     "001_Notes/Hippocampus.md",
-    "004_ContributedNotes/004a_Ariz's Comp. Sci notes/Draw.io Diagrams/Transaction-context-diagram.drawio",
-    "001_Notes/Comp Sci 1.md"
+    "001_Notes/AECHE Class 37.md",
+    "001_Notes/11AECHE Class 34.md",
+    "000_Files/000c_courseoutlines/10MAT Year 10 Maths Sem 2 Course Outline 2022.pdf",
+    "002_PersonalNotes/002a_DailyNotes/2022-07-15.md"
   ]
 }

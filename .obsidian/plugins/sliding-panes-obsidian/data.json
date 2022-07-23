@@ -1,6 +1,6 @@
 {
   "headerWidth": 35,
-  "leafDesktopWidth": null,
+  "leafDesktopWidth": 700,
   "leafMobileWidth": null,
   "leafAutoWidth": true,
   "disabled": false,
